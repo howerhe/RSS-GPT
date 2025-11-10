@@ -21,3 +21,18 @@ Append: [Mastodon 4.5 释出](https://www.solidot.org/story?sid=82744)
 append_entries: 16
 Finish: 2025-11-10 06:32:45.924586
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-10 15:12:00.319266
+Existing_entries: 16
+Fetching from https://www.solidot.org/index.rss
+Append: [美国就业状况发生改变](https://www.solidot.org/story?sid=82768)
+Append: [AI 不是裁员的原因，巨额 AI 支出才是](https://www.solidot.org/story?sid=82767)
+Append: [Python 基金会在放弃美政府的 150 万美元拨款后收到了大量捐款](https://www.solidot.org/story?sid=82766)
+Append: [服用褪黑素可能有风险](https://www.solidot.org/story?sid=82765)
+Append: [KeePassXC 不会加入 AI 功能](https://www.solidot.org/story?sid=82764)
+Append: [伊朗遭遇空前的旱情](https://www.solidot.org/story?sid=82763)
+Append: [律师用 AI 生成虚假案例屡禁不止](https://www.solidot.org/story?sid=82762)
+Append: [苹果下架 Blued 和翻咔](https://www.solidot.org/story?sid=82761)
+append_entries: 8
+Finish: 2025-11-10 15:12:01.756051
+Wrote digest feed: docs/solidot-digest.xml
