@@ -42470,3 +42470,10 @@ Append: [I Bought the Tomb Raider Pen](https://rknight.me/blog/i-bought-the-tomb
 append_entries: 41
 Finish: 2025-11-10 05:15:16.190844
 Wrote digest feed: docs/robb-knight-digest.xml
+------------------------------------------------------
+Started: 2025-11-10 06:12:58.591154
+Existing_entries: 474
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2025-11-10 06:12:59.663580
+Wrote digest feed: docs/robb-knight-digest.xml

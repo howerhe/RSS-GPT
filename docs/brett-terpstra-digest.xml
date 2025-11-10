@@ -9,8 +9,7 @@
 <link>docs/brett-terpstra-digest.xml#digest-20251110051507</link>
 <guid>docs/brett-terpstra-digest.xml#digest-20251110051507</guid>
 <content:encoded><![CDATA[
-
-<h3><a href="https://brett.trpstra.net/link/535/17204541/web-excursions-for-november-6th-2025">Web Excursions for November 6th, 2025</a></h3>
+<div> <h3><a href="https://brett.trpstra.net/link/535/17204541/web-excursions-for-november-6th-2025">Web Excursions for November 6th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with <a href="https://www.mindmeister.com/?r=116987">MindMeister</a>, the best collaborative mind mapping software out there.</p>
@@ -45,7 +44,7 @@
         like to help out.</a></p>
 <p>Find Brett on <a href="https://hachyderm.io/@ttscoff" rel="me">Mastodon</a>, <a href="https://bsky.app/profile/ttscoff.bsky.social">Bluesky</a>, <a href="https://github.com/ttscoff">GitHub</a>, and <a href="https://brettterpstra.com/elsewhere">everywhere
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17204541.gif" width="1" /></div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17200656/announcing-bear-and-glass">Announcing Bear & Glass, Apple workflow consulting</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/bearandglass-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 
@@ -72,7 +71,7 @@ automation, but we also do Unix automations and server-side operations.</p>
         like to help out.</a></p>
 <p>Find Brett on <a href="https://hachyderm.io/@ttscoff" rel="me">Mastodon</a>, <a href="https://bsky.app/profile/ttscoff.bsky.social">Bluesky</a>, <a href="https://github.com/ttscoff">GitHub</a>, and <a href="https://brettterpstra.com/elsewhere">everywhere
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17200656.gif" width="1" /></div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17199025/one-more-na-update">One more na update</a></h3>
 <div><p>This week I pushed a set of focused improvements to <a href="https://brettterpstra.com/projects/na">NA</a> that make interactive workflows a lot smoother and the codebase a little more robust — including first‑class time tracking.</p>
 
@@ -83,7 +82,7 @@ automation, but we also do Unix automations and server-side operations.</p>
 <ul>
   <li><code class="language-plaintext highlighter-rouge">na update</code> (no args) now launches an interactive, consistent selection flow for files and actions.</li>
   <li>The update submenu supports multi-select, edit, move, and direct action ...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17194222/reiki-refactored">Reiki refactored</a></h3>
 <div><p>I&rsquo;ve been putting in some time on side projects every morning while building up the motivation to work on more overwhelming things. Recently the focus was on <a href="https://brettterpstra.com/projects/reiki">Reiki</a>, my tool for running Rake tasks with fuzzy matching and humane argument parsing.</p>
 
@@ -97,21 +96,21 @@ automation, but we also do Unix automations and server-side operations.</p>
       <div class="paywall-actions">
         <a class="paywall-subscribe-btn" href="https://brettterpstra.com//support/">Subscribe Now</a>
         <button class="paywall-login-btn">I'm a Sub...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17192014/optimizing-na-and-doing">Optimizing na and doing</a></h3>
 <div><p>I&rsquo;ve been using my <a href="https://brettterpstra.com/projects/na/">na</a> and <a href="https://brettterpstra.com/projects/doing/">doing</a> command-line tools daily for years, but lately they&rsquo;d started feeling sluggish. When <code class="language-plaintext highlighter-rouge">na next</code> was taking over a second to show me my next actions from a tiny 5KB file, I knew it was time to dig in and fix things.</p>
 
 <p>In case you&rsquo;re unfamiliar, <code class="language-plaintext highlighter-rouge">na</code> is a command line tool for adding and listing per-project todos, and <code class="language-plaintext highlighter-rouge">doing</code> is a CLI for tracking what you were doing, with export features, time tracking, tagging, and other usefuly features.</p>
 
 <ul>
-  <li><a hre...</div>
-<hr/>
+  <li><a></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17188824/youtube-to-markdown-embed">YouTube to Markdown embed</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/youtube-markdown-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>This is just a little 30-minute project I made for my own use, but figured I&rsquo;d share. It simply takes a YouTube URL and converts it to GitHub-friendly Markdown for use in READMEs, wikis, and PR comments.</p>
 
 <p>GitHub doesn&rsquo;t allow for <code class="language-plaintext highlighter-rouge">&lt;iframe&gt;</code>s, so you can&rsquo;t actually embed a YouTube video in a README. You can, however, easily embed a thumbnail and link it to the video. This little API does just that. Sure, it&rsquo;s built with GitHub in mind, but it&rsquo;s useful in any situation where you can&rsquo;t use an actual embed but...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17186345/ruby-progress-indicators-for-modern-cli-tools">Ruby Progress Indicators for Modern CLI Tools</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/ruby-progress-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve been playing around with progress bars in the terminal, and I think I&rsquo;ve
@@ -124,7 +123,7 @@ to use when scripting in <em>any</em> language &mdash; not just Ruby, with a few
 options I didn&rsquo;t see elsewhere.</p>
 
 <p>The result is <code class="language-plaintext highlighter-rouge">ruby-progress</code>, a gem that provides four different animated...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17183158/iterm-jekyll-plugin-run-commands-from-your-blog">iTerm Jekyll plugin — Run commands from your blog</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/iterm-pugin-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve published a tiny Jekyll plugin that makes terminal commands in posts runnable with a click (in iTerm, at least).</p>
@@ -132,13 +131,13 @@ options I didn&rsquo;t see elsewhere.</p>
 <p>The <a href="https://github.com/ttscoff/JekyllPlugins/tree/master/iTerm">iTerm tag plugin</a> renders a fenced code block showing a command, and a &ldquo;Run in iTerm&rdquo; link that uses iTerm 2&rsquo;s new(ish) command url scheme (<code class="language-plaintext highlighter-rouge">iterm2:/command?c=COMMAND</code>) to open the command in a confirmation box in iTerm, ready for immediate execution.</p>
 
 <p>The plugin outputs fenced code blocks with language definitions, so whatever sy...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17181488/spend-some-get-some">Spend some, get some</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/membership-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve built a paywall system for this blog. It was quite an endeavor to make a home-grown solution that works with my static Jekyll site, but I think I got it.</p>
 
 <p>From now on, I&rsquo;ll be adding bonus content to posts that will only available to subscribers. You can subscribe at any level &mdash; the benefits are the same whether you pay $3, $6, or $12 per month. You can subscribe using PayPal, with or without a PayPal account. I&rsquo;m going to be phasing out Memberful as I&rsquo;m able to switch over the subscribers there. So <a href="https://brettterpstra.com//support/">become a subscriber today</a> and do...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17179855/web-excursions-for-october-6th-2025">Web Excursions for October 6th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -149,7 +148,7 @@ options I didn&rsquo;t see elsewhere.</p>
   <dd>Sleeve is my current top choice for displaying &ldquo;now playing&rdquo; information on my desktop, with a very customizable display, theme sharing, and last.fm scrobbling.</dd>
   <dd>
     <p>Side note: I found <a href="https://apps.apple.com/us/app/quietscrob-last-fm-scrobbler/id741599377">QuietScrob</a> to be pretty good for scrobbling Apple Music plays on the iPhone. I recently cancelled Spotify and am trying to make my wa...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17178732/markdown-lipsum-api-v4-and-the-random-words-gem">Markdown Lipsum API v4 and the random-words gem</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/md-lipsum-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve released v4 of <a href="https://brettterpstra.com/md-lipsum">md-lipsum</a>, my API for generating Markdown Lorem Ipsum. This update introduces expanded source options, new query parameters for enhanced functionality, and is powered by the new &lsquo;random-words&rsquo; Ruby gem.</p>
@@ -159,14 +158,14 @@ options I didn&rsquo;t see elsewhere.</p>
 <h3 id="share-your-shortcuts">Share Your Shortcuts!</h3>
 
 <p>If you use the API to create any Apple Shortcuts, System Services, command line scripts, or other automations, please share in the comments/forum! I&rsquo;d love ...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17166861/free-ranked-choice-polls">RNKD --- free ranked-choice polls</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/09/rnkd-header-rb.7501.png" style="margin: 0 auto; clear: both;" width="800" /></p>
 
 <p>A few times over the last couple of years I&rsquo;ve wanted to do an open poll to get a feel for how users felt about things, particularly icons during the design process. I found there aren&rsquo;t a lot of affordable ways to do this.</p>
 
 <p>What I wanted was a way to upload multiple images and get <a href="https://en.wikipedia.org/wiki/Ranked_voting">ranked-choice voting</a> on them. If you&rsquo;re not familiar, ranked voting is a system where voters rank their choices in order of preference, and then an algorithm is used to determine the winner. So your second choice vote doesn&rsquo;t get lost if your first choice...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17137711/a-quick-look-at-marked-3">A quick look at Marked 3</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/09/m3preview-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>Since leaving Oracle I&rsquo;ve been hard at work on Marked 3, and holy cow it&rsquo;s a <em>huge</em> update.</p>
@@ -177,7 +176,7 @@ options I didn&rsquo;t see elsewhere.</p>
 <p>There&rsquo;s a new website up at <a href="https://markedapp.com">markedapp.com</a>, though none of download links will work. Soon, though.</p>
 
 <p>I decided to go with subscription pricing bec...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17121526/web-excursions-for-august-18th-2025">Web Excursions for August 18th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -192,14 +191,16 @@ options I didn&rsquo;t see elsewhere.</p>
   </dd>
   <dd>
     <p>I switched to Mise (en place) a while ago and have loved it as a replacement for asdf. But I haven&rsquo;t made good use of its task runners and other features, so this blog post was a good reminder of some of its advanced capabilities...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17120739/lsgrep-rapid-recursive-file-search">lsgrep - rapid recursive file search</a></h3>
 <div><p><code class="language-plaintext highlighter-rouge">lsgrep</code> is just a simple tool I use to quickly find files matching a search pattern in the current directory. I just figured I&rsquo;d share it because I end up using it a lot.</p>
 
 <p>My primary shell is Fish, so I&rsquo;ll share that one first. This version uses silver searcher (ag) to search for matches. The search uses wildcards (<code class="language-plaintext highlighter-rouge">*</code> for multiple characters and <code class="language-plaintext highlighter-rouge">?</code> for a single character). Spaces get turned into <code class="language-plaintext highlighter-rouge">.*?</code> and extensions (e.g. <code class="language-plaintext highlighter-rouge">.sh</code>) get escaped so the period matches.</p>
 
-<pre><code class="lang...</div>
-<hr/>
+<pre><code class="lang...&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href="></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17106404/web-excursions-for-july-30th-2025">Web Excursions for July 30th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -214,7 +215,7 @@ options I didn&rsquo;t see elsewhere.</p>
   </dd>
   <dt><a href="https://findableapp.com/">Findable</a></dt>
   <dd>An auditor to help you rank higher in AI searches. I don&rsquo;t love that this is a market...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17103180/web-excursions-for-july-24th-2025">Web Excursions for July 24th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -223,15 +224,17 @@ options I didn&rsquo;t see elsewhere.</p>
 <dl>
   <dt><a href="https://www.podfeet.com/blog/2023/12/be-my-ai-alt-text/">Be My AI for Creating Photo Captions and Alt Text</a></dt>
   <dd>Allison Sheridan shares an awesome tool that, among it&rsquo;s amazing capabilities, can create perfect ALT text for images you share on social media. It&rsquo;s surprisingly accurate when describing images, and that kind of description is very important for disabled users. You should check it out.</dd>
-  <dt><a href="https://luccogzest.substack.com/p/appl...</div>
-<hr/>
+  <dt><a href="https://luccogzest.substack.com/p/appl...&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href="></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17102343/47-years-in-this-scarred-skin">47 years in this (scarred) skin</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/07/rocket-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>My 47th birthday was a few days ago. 11 years ago, I wrote a post <a href="https://brettterpstra.com/2014/07/19/36-years-in-this-skin/">on my birthday</a>, detailing my addiction and recovery, and while I won&rsquo;t go into the same points again, I thought I&rsquo;d write something in the same vein.</p>
 
 <p><img src="https://cdn3.brettterpstra.com/uploads/2025/07/arm-400.jpg" /></p>
 <p>Shortly after my last (third) stint in rehab in my early 20s, I had moved back in with my parents while I found my footing. In the depths of bipolar depression (undiagnosed at the time), I went into the basement, coiled a coat hanger into a sp...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17066112/ripple-an-indeterminate-progress-indicator">Ripple: an indeterminate progress indicator</a></h3>
 <div><p>I made a thing I think is pretty cool. It&rsquo;s an indeterminate progress indicator for use in your scripts, inspired by the way Cursor indicates it&rsquo;s working.</p>
 
@@ -242,15 +245,15 @@ options I didn&rsquo;t see elsewhere.</p>
 <figure class="animated_vid_frame" style="padding-bottom: 45.51%;" tabindex="0" title="">
               <video class="lazy" loop="" poster="https://cdn3.brettterpstra.com/uploads/2025/06/ripple.jpg">
                 <source src="https://cdn3.brettterpstra.com/uploads/2025/06/ripple.webm" type="video/webm" />
-                <source src="https://cdn3.brettterpstra.com/uploads/2025/06/ripple.mp4"...</div>
-<hr/>
+                <source src="https://cdn3.brettterpstra.com/uploads/2025/06/ripple.mp4" /></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17059677/the-mac-userss-guide-to-saner-email-in-2025-sponsor">The Mac Users's Guide to Saner Email in 2025 [Sponsor]</a></h3>
 <div><p>Thanks to SaneBox for sponsoring BrettTerpstra.com this week! Rather than the typical sponsored post, I&rsquo;ve opened up the blog to a guest post from SaneBox&rsquo;s Thomas Yuan. Not a typical thing for me, but I&rsquo;m a huge fan of SaneBox and Thomas&rsquo; tools are a perfect fit for my readers (and my own preferences). Please enjoy!</p>
 
 <p><a href="https://try.sanebox.com/be2h3q" rel="nofollow"><p><img src="https://cdn3.brettterpstra.com/uploads/2025/06/sanebox-tools-rb.jpg" /></p></a></p>
 
 <p>Picture this: There&rsquo;s a constant stream of messages filling your inbox, from notifications to urgent memos to mailing lists you joined 10 years ago. But instead of getting distracted, feeling overwhelmed, or spending hours sifting through them, every email is filed right where you n...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17051046/web-excursions-for-june-13rd-2025">Web Excursions for June 13th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -261,8 +264,10 @@ options I didn&rsquo;t see elsewhere.</p>
 <dl>
   <dt><a href="https://forms.thecma.xyz/">CMA Forms - Privacy-First Form Builder</a></dt>
   <dd>Build stylish, multi-step forms with exportable responses and no tracking. 100% free.</dd>
-  <dt><a href="https://github.com/steipete/macos-auto...</div>
-<hr/>
+  <dt><a href="https://github.com/steipete/macos-auto...&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href="></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17045679/web-excursions-for-june-5th-2025">Web Excursions for June 5th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -271,8 +276,10 @@ options I didn&rsquo;t see elsewhere.</p>
 <dl>
   <dt><a href="https://tailscale.com/mullvad">Surf the Web Privately with Mullvad&rsquo;s Global Network + Tailscale</a></dt>
   <dd>PSA: I mentioned the Mullvad VPN in a recent Web Excursions post, and said that I&rsquo;d discovered the hard way that it didn&rsquo;t work with Tailscale. I heard from a <em>ton</em> of people that there was actually an official integration for that. For $5/mo you can add Mullvad as an exit point to Tailscale and use both at the same time.</dd>
-  <dt><a href="...</div>
-<hr/>
+  <dt><a href="...&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href="></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17022994/web-excursions-for-may-6th-2025">Web Excursions for May 6th, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -290,8 +297,8 @@ options I didn&rsquo;t see elsewhere.</p>
       <p>BashBuddy is an AI-powered terminal assistant that helps you write commands with natural language.</p>
     </blockquote>
   </dd>
-  <dt><a...</div>
-<hr/>
+  <dt></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17020713/mac-file-finding-gems">Mac File-Finding Gems</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/searching-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 
@@ -300,8 +307,10 @@ options I didn&rsquo;t see elsewhere.</p>
 <p>I&rsquo;ve tried all of these, and I like them all for different reasons. I&rsquo;m generally happy with HoudahSpot when Spotlight fails me, but I wanted to point these out because they fit specific use-cases &mdash; maybe ones you run into often enough to try them out.</p>
 
 <blockquote class="tip">
-  <p>This article refers multiple times to the Hyper key. If you haven&rsquo;t followed me over the years, the Hyper key is a combination of <span class="keycombo separ...</div>
-<hr/>
+  <p>This article refers multiple times to the Hyper key. If you haven&rsquo;t followed me over the years, the Hyper key is a combination of <span class="keycombo separ...&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href="></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17020153/web-excursions-for-may-1st-2025">Web Excursions for May 1st, 2025</a></h3>
 <div><p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
@@ -315,7 +324,7 @@ options I didn&rsquo;t see elsewhere.</p>
   <dd>
     <blockquote>
       <p>Did you spot a fish? Press the Fish Doorbell! Th...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17019964/celebrate-your-mac-with-the-eternal-storms-software-bundle">Celebrate your Mac with the Eternal Storms software bundle</a></h3>
 <div><p>Thanks to Eternal Storms for sponsoring BrettTerpstra.com this week! I&rsquo;ve long been a fan of Yoink and ScreenFloat, so I highly recommend taking advantage of this offer!</p>
 
@@ -328,13 +337,13 @@ options I didn&rsquo;t see elsewhere.</p>
 <ul>
   <li>
     <p>Yoink: A &ldquo;file shelf&rdquo; that makes drag-and-drop a whole lot easier: just drag a file or app-content like images from a website to the edge of your screen, and Yoink gives you a temporary shelf to place them in, so...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17019130/leader-key-and-bunch">Leader Key and Bunch</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/leader-bunch-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve been playing around with a free app called <a href="https://github.com/mikker/LeaderKey.app">Leader Key</a> from <a href="https://mastodon.social/@mikker">@mikker</a>, and realized it could be used very effectively with <a href="https://bunchapp.co">Bunch</a>. It takes a little manual setup, but it&rsquo;s not hard.</p>
 
 <p>Leader Key is an interesting launcher app that lets you assign single letter keystrokes to launch apps, urls, run commands, or open folders. Yes, all of this can be done fairly easily with Alfred or LaunchBar, but I really like the single-key approach. Once you develop muscle memory for an...</div>
-<hr/>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17016531/brett-terpstra-is-open-to-work">Brett Terpstra is open to work</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/job-hunting-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>After 4 years with Oracle, I find myself free for new work.
@@ -349,14 +358,15 @@ but optimistic for the long term.</p>
 <ul>
   <li>Direct support, either <a href="https://brettterpstra.com/support">monthly</a>, or a <a href="https://brettterpstra.com/donate">one-time donation</a></li>
   <li><a href="https://brettterpstra.com/">Blog Sponsorship/Advertising</a></li>
-  <li>Let me know if you have any job leads (<a hr...</div>
-<hr/>
+  <li>Let me know if you have any job leads (<a></div>
+<hr />
 <h3><a href="https://brett.trpstra.net/link/535/17012572/supercharged-bookmarking-hookmark-plus-linkding-integration">Supercharged Bookmarking: Hookmark + Linkding Integration</a></h3>
 <div><p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/hookmark-linkding-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>Hookmark just added Linkding integration, and I&rsquo;m really excited about it. It&rsquo;s a perfect complement to the local bookmarking that Hookmark makes possible.</p>
 
 <p>I love <a href="https://hookproductivity.com/">Hookmark</a>, and it&rsquo;s getting easier to explain as it develops. With Hookmark, you can connect any objects on your Mac to each other, from todo items to documents to notes to web pages. One of the cool features it&rsquo;s had for a while is sync with <a href="https://pinboard.in">Pinboard</a>, where any time you create or copy a link, it generates a Pinboard bookmark automatically. Very ha...</div>
-<hr/>
+<hr /> <div>
+
 ]]></content:encoded>
 
 

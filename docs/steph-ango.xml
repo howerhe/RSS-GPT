@@ -4,6 +4,7 @@
 <title>Steph Ango</title>
 <link>https://stephango.com/</link>
 
+
 <item>
 <title>Use the saw, fear the saw</title>
 <link>https://stephango.com/saw</link>
@@ -28,7 +29,6 @@
 
 <p>I use the saw, I fear the saw. I have handmade furniture, and I have all my limbs.</p>
 ]]></content:encoded>
-
 <pubDate>2025-10-20T00:00:00+00:00</pubDate>
 </item>
 <item>
@@ -83,7 +83,6 @@
 
 <p>About once a year, we do a week-long in-person meetup. Ramblings have been one successful way we keep the human connection going throughout the rest of the year.</p>
 ]]></content:encoded>
-
 <pubDate>2025-07-31T00:00:00+00:00</pubDate>
 </item>
 <item>
@@ -91,7 +90,6 @@
 <link>https://stephango.com/vault</link>
 <guid>https://stephango.com/vault</guid>
 <content:encoded><![CDATA[
-
 <p>I use <a class="internal-link" href="/obsidian">Obsidian</a> to think, take notes, write essays, and publish this site. This is my bottom-up approach to note-taking and organizing things I am interested in. It embraces chaos and laziness to create emergent structure.</p>
 
 <p>In Obsidian, a “vault” is simply a folder of files. This is important because it adheres to my <a class="internal-link" href="/file-over-app">file over app</a> philosophy. If you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian gives you that freedom.</p>
@@ -250,10 +248,8 @@
   <li><a class="internal-link" href="/todos">How I do my to-dos</a></li>
 </ul>
 ]]></content:encoded>
-
 <pubDate>2023-09-16T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Self-guaranteeing promises</title>
 <link>https://stephango.com/self-guarantee</link>

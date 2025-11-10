@@ -57580,3 +57580,12 @@ Append: [《文字游戏》：于冒险中领略汉字的独特魅力；今年�
 append_entries: 70
 Finish: 2025-11-10 05:15:12.974804
 Wrote digest feed: docs/appinn-digest.xml
+------------------------------------------------------
+Started: 2025-11-10 06:12:53.528207
+Existing_entries: 864
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-11-10 06:12:56.518983
+Wrote digest feed: docs/appinn-digest.xml

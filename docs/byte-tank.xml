@@ -4,6 +4,7 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>https://lopespm.com/</link>
 
+
 <item>
 <title>Why is my kitchen so clean?</title>
 <link>https://lopespm.com/notes/2025/09/16/why_is_my_kitchen_so_clean.html</link>
@@ -140,7 +141,6 @@
   <li>Apart from my weekly buckwheat bread, <strong>I only cook at weekends</strong>, since I am fortunate enough to often cook for pleasure, rather than necessity. The rest of the week I either get to have my meals at the office, or through <a href="https://planty.uk/">Planty</a>, a plant based clean food subscription.</li>
 </ol>
 ]]></content:encoded>
-
 <pubDate>2025-09-16T00:00:00+00:00</pubDate>
 </item>
 <item>
@@ -261,7 +261,6 @@
   </ol>
 </div>
 ]]></content:encoded>
-
 <pubDate>2025-07-27T00:00:00+00:00</pubDate>
 </item>
 <item>
@@ -269,7 +268,6 @@
 <link>https://lopespm.com/notes/2025/07/20/napoleon-biography.html</link>
 <guid>https://lopespm.com/notes/2025/07/20/napoleon-biography.html</guid>
 <content:encoded><![CDATA[
-
 <p>I’ve recently finished reading <a href="https://www.amazon.co.uk/Story-Human-Body-Evolution-Disease/dp/030774180X">Napoleon: A Life</a>, a well researched book by Andrew Roberts about the full and well travelled life of Napoleon Bonaparte, his rises and falls, and glimpses of what made the famous soldier-statesman tick. These are my main takeaways:</p>
 
 <!--more-->
@@ -583,7 +581,6 @@
   </li>
 </ul>
 ]]></content:encoded>
-
 <pubDate>2025-07-20T00:00:00+00:00</pubDate>
 </item>
 <item>
@@ -591,7 +588,6 @@
 <link>https://lopespm.com/hardware/2025/07/15/arduino.html</link>
 <guid>https://lopespm.com/hardware/2025/07/15/arduino.html</guid>
 <content:encoded><![CDATA[
-
 <p>Earlier this year I saw a <a href="https://www.youtube.com/watch?v=IrocytwdeEY">Tech Ingredients episode</a> where a laser gimbal automatically tracks drones and shoots them down. I was fascinated by their motion control mechanism, specially the usage of a PI Controller, a high-frequency clock <a href="https://www.pjrc.com/store/teensy40.html">Teensy microcontroller</a>, and their integration with custom hardware and a machine vision powered tracker.</p>
 
 <p>Soon after I was researching the underlying electronics and how to experiment upon their concepts. The most obvious microcontroller to drive these would be an Arduino, but several recommendations pointed towards acquiring a kit rather than a single microcontroller, and the <a href="https://www.amazon.co.uk/ELEGOO-Complete-Ultimate-controller-Compatible/dp/B01IUY62RM">Elegoo Arduino Uno R3 Starter Kit</a> seemed the best.</p>
@@ -1201,10 +1197,8 @@
  </div>
 </center>
 ]]></content:encoded>
-
 <pubDate>2025-07-15T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Bluetooth Headphones Safety</title>
 <link>https://lopespm.com/notes/2025/02/22/wireless-headphones.html</link>

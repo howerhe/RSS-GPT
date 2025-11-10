@@ -12203,3 +12203,10 @@ Append: [Alice](https://manuelmoreale.com/interview/alice)
 append_entries: 10
 Finish: 2025-11-10 05:15:51.134628
 Wrote digest feed: docs/manuel-moreale-digest.xml
+------------------------------------------------------
+Started: 2025-11-10 06:13:33.578364
+Existing_entries: 644
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-11-10 06:13:34.379078
+Wrote digest feed: docs/manuel-moreale-digest.xml

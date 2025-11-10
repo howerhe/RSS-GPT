@@ -9,8 +9,7 @@
 <link>docs/steph-ango-digest.xml#digest-20251110051516</link>
 <guid>docs/steph-ango-digest.xml#digest-20251110051516</guid>
 <content:encoded><![CDATA[
-
-<h3><a href="https://stephango.com/saw">Use the saw, fear the saw</a></h3>
+<div> <h3><a href="https://stephango.com/saw">Use the saw, fear the saw</a></h3>
 <div><p>When I learned to use a table saw, my teacher impressed upon me that the machine wants to cut fingers. Fear the saw!</p>
 
 <p>Powerful tools can do powerful things. If you want to make handmade wooden furniture you must cut wood. Your desire to have limbs and your desire to have furniture are not at odds if you learn to use tools safely.</p>
@@ -20,7 +19,7 @@
 <p>We should not stop making powerful tools because they are dangerous. Rather, we should empower people to use powerful tools safely.</p>
 
 <p>I use the saw, I fear the saw. I have handmade furniture, and I have all my limbs.</p></div>
-<hr/>
+<hr />
 <h3><a href="https://stephango.com/ramblings">If you're remote, ramble</a></h3>
 <div><p>A tip for remote teams of 2-10 people. Create a personal “ramblings” channel for each teammate in your team’s chat app of choice.</p>
 
@@ -45,7 +44,7 @@
 <p>Because they are so free and loose, some of our best ideas emerge from ramblings. They’re often the source of feature ideas, small prototypes, and creative solutions to long-standing problems.</p>
 
 <p>About once a year, we do a week-long in-person meetup. Ramblings have been one successful way we keep the human connection going throughout the rest of the year.</p></div>
-<hr/>
+<hr />
 <h3><a href="https://stephango.com/vault">How I use Obsidian</a></h3>
 <div><p>I use <a class="internal-link" href="/obsidian">Obsidian</a> to think, take notes, write essays, and publish this site. This is my bottom-up approach to note-taking and organizing things I am interested in. It embraces chaos and laziness to create emergent structure.</p>
 
@@ -56,8 +55,9 @@
 <h2 id="vault-template">Vault template</h2>
 
 <ol>
-  <li><a hr...</div>
-<hr/>
+  <li><a></div>
+<hr /> <div>
+
 ]]></content:encoded>
 
 

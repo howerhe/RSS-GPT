@@ -42194,3 +42194,10 @@ Append: [How I use Obsidian](https://stephango.com/vault)
 append_entries: 3
 Finish: 2025-11-10 05:15:16.836733
 Wrote digest feed: docs/steph-ango-digest.xml
+------------------------------------------------------
+Started: 2025-11-10 06:12:59.818636
+Existing_entries: 80
+Fetching from https://stephanango.com/feed.xml
+append_entries: 0
+Finish: 2025-11-10 06:13:00.137592
+Wrote digest feed: docs/steph-ango-digest.xml

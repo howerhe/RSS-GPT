@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Web Excursions for November 6th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17204541/web-excursions-for-november-6th-2025</link>
@@ -79,7 +80,6 @@
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17204541.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-11-06T11:41:00-06:00</pubDate>
-<pubDate>2025-11-06T11:41:00-06:00</pubDate>
 </item>
 <item>
 <title>Announcing Bear &amp; Glass, Apple workflow consulting</title>
@@ -138,14 +138,12 @@ automation, but we also do Unix automations and server-side operations.</p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17200656.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-31T10:00:00-05:00</pubDate>
-<pubDate>2025-10-31T10:00:00-05:00</pubDate>
 </item>
 <item>
 <title>One more na update</title>
 <link>https://brett.trpstra.net/link/535/17199025/one-more-na-update</link>
 <guid>https://brett.trpstra.net/link/535/17199025/one-more-na-update</guid>
 <content:encoded><![CDATA[
-
 <p>This week I pushed a set of focused improvements to <a href="https://brettterpstra.com/projects/na">NA</a> that make interactive workflows a lot smoother and the codebase a little more robust — including first‑class time tracking.</p>
 
 <p>If you run <code class="language-plaintext highlighter-rouge">na update</code> without arguments you&rsquo;ll now get an interactive menu that helps you pick the file(s) and actions to operate on, and I&rsquo;ve added a flexible plugin architecture and time tracking features.</p>
@@ -391,14 +389,12 @@ na update</code></pre></div></div>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17199025.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-29T08:00:00-05:00</pubDate>
-<pubDate>2025-10-29T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Reiki refactored</title>
 <link>https://brett.trpstra.net/link/535/17194222/reiki-refactored</link>
 <guid>https://brett.trpstra.net/link/535/17194222/reiki-refactored</guid>
 <content:encoded><![CDATA[
-
 <p>I&rsquo;ve been putting in some time on side projects every morning while building up the motivation to work on more overwhelming things. Recently the focus was on <a href="https://brettterpstra.com/projects/reiki">Reiki</a>, my tool for running Rake tasks with fuzzy matching and humane argument parsing.</p>
 
 <div class="paywall-container" id="paywall_027d003df76885ac">
@@ -433,14 +429,12 @@ na update</code></pre></div></div>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17194222.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-27T08:00:00-05:00</pubDate>
-<pubDate>2025-10-27T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Optimizing na and doing</title>
 <link>https://brett.trpstra.net/link/535/17192014/optimizing-na-and-doing</link>
 <guid>https://brett.trpstra.net/link/535/17192014/optimizing-na-and-doing</guid>
 <content:encoded><![CDATA[
-
 <p>I&rsquo;ve been using my <a href="https://brettterpstra.com/projects/na/">na</a> and <a href="https://brettterpstra.com/projects/doing/">doing</a> command-line tools daily for years, but lately they&rsquo;d started feeling sluggish. When <code class="language-plaintext highlighter-rouge">na next</code> was taking over a second to show me my next actions from a tiny 5KB file, I knew it was time to dig in and fix things.</p>
 
 <p>In case you&rsquo;re unfamiliar, <code class="language-plaintext highlighter-rouge">na</code> is a command line tool for adding and listing per-project todos, and <code class="language-plaintext highlighter-rouge">doing</code> is a CLI for tracking what you were doing, with export features, time tracking, tagging, and other usefuly features.</p>
@@ -518,14 +512,12 @@ na update</code></pre></div></div>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17192014.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-23T08:47:00-05:00</pubDate>
-<pubDate>2025-10-23T08:47:00-05:00</pubDate>
 </item>
 <item>
 <title>YouTube to Markdown embed</title>
 <link>https://brett.trpstra.net/link/535/17188824/youtube-to-markdown-embed</link>
 <guid>https://brett.trpstra.net/link/535/17188824/youtube-to-markdown-embed</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/youtube-markdown-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>This is just a little 30-minute project I made for my own use, but figured I&rsquo;d share. It simply takes a YouTube URL and converts it to GitHub-friendly Markdown for use in READMEs, wikis, and PR comments.</p>
 
@@ -598,14 +590,12 @@ na update</code></pre></div></div>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17188824.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-18T11:37:00-05:00</pubDate>
-<pubDate>2025-10-18T11:37:00-05:00</pubDate>
 </item>
 <item>
 <title>Ruby Progress Indicators for Modern CLI Tools</title>
 <link>https://brett.trpstra.net/link/535/17186345/ruby-progress-indicators-for-modern-cli-tools</link>
 <guid>https://brett.trpstra.net/link/535/17186345/ruby-progress-indicators-for-modern-cli-tools</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/ruby-progress-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve been playing around with progress bars in the terminal, and I think I&rsquo;ve
 created something genuinely useful.</p>
@@ -809,14 +799,12 @@ commands.</p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17186345.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-15T11:00:00-05:00</pubDate>
-<pubDate>2025-10-15T11:00:00-05:00</pubDate>
 </item>
 <item>
 <title>iTerm Jekyll plugin — Run commands from your blog</title>
 <link>https://brett.trpstra.net/link/535/17183158/iterm-jekyll-plugin-run-commands-from-your-blog</link>
 <guid>https://brett.trpstra.net/link/535/17183158/iterm-jekyll-plugin-run-commands-from-your-blog</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/iterm-pugin-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve published a tiny Jekyll plugin that makes terminal commands in posts runnable with a click (in iTerm, at least).</p>
 
@@ -879,14 +867,12 @@ the command in a confirmation dialog.</p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17183158.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-10T12:02:00-05:00</pubDate>
-<pubDate>2025-10-10T12:02:00-05:00</pubDate>
 </item>
 <item>
 <title>Spend some, get some</title>
 <link>https://brett.trpstra.net/link/535/17181488/spend-some-get-some</link>
 <guid>https://brett.trpstra.net/link/535/17181488/spend-some-get-some</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/10/membership-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve built a paywall system for this blog. It was quite an endeavor to make a home-grown solution that works with my static Jekyll site, but I think I got it.</p>
 
@@ -933,14 +919,12 @@ the command in a confirmation dialog.</p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17181488.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-08T09:10:00-05:00</pubDate>
-<pubDate>2025-10-08T09:10:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for October 6th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17179855/web-excursions-for-october-6th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17179855/web-excursions-for-october-6th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with <a href="https://fabric.so/?via=brett">Fabric</a>, the best way to organize your notes, tasks, and projects in one place.</p>
@@ -980,14 +964,12 @@ the command in a confirmation dialog.</p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17179855.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-06T08:00:00-05:00</pubDate>
-<pubDate>2025-10-06T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Markdown Lipsum API v4 and the random-words gem</title>
 <link>https://brett.trpstra.net/link/535/17178732/markdown-lipsum-api-v4-and-the-random-words-gem</link>
 <guid>https://brett.trpstra.net/link/535/17178732/markdown-lipsum-api-v4-and-the-random-words-gem</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/md-lipsum-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve released v4 of <a href="https://brettterpstra.com/md-lipsum">md-lipsum</a>, my API for generating Markdown Lorem Ipsum. This update introduces expanded source options, new query parameters for enhanced functionality, and is powered by the new &lsquo;random-words&rsquo; Ruby gem.</p>
 
@@ -1334,14 +1316,12 @@ Illa brevis muros potior arcesso, apud multae octo centum nonaginta octo nodum!
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17178732.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-10-04T06:29:00-05:00</pubDate>
-<pubDate>2025-10-04T06:29:00-05:00</pubDate>
 </item>
 <item>
 <title>RNKD --- free ranked-choice polls</title>
 <link>https://brett.trpstra.net/link/535/17166861/free-ranked-choice-polls</link>
 <guid>https://brett.trpstra.net/link/535/17166861/free-ranked-choice-polls</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/09/rnkd-header-rb.7501.png" style="margin: 0 auto; clear: both;" width="800" /></p>
 
 <p>A few times over the last couple of years I&rsquo;ve wanted to do an open poll to get a feel for how users felt about things, particularly icons during the design process. I found there aren&rsquo;t a lot of affordable ways to do this.</p>
@@ -1378,14 +1358,12 @@ Illa brevis muros potior arcesso, apud multae octo centum nonaginta octo nodum!
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17166861.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-09-19T17:09:00-05:00</pubDate>
-<pubDate>2025-09-19T17:09:00-05:00</pubDate>
 </item>
 <item>
 <title>A quick look at Marked 3</title>
 <link>https://brett.trpstra.net/link/535/17137711/a-quick-look-at-marked-3</link>
 <guid>https://brett.trpstra.net/link/535/17137711/a-quick-look-at-marked-3</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/09/m3preview-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>Since leaving Oracle I&rsquo;ve been hard at work on Marked 3, and holy cow it&rsquo;s a <em>huge</em> update.</p>
 
@@ -1563,14 +1541,12 @@ Illa brevis muros potior arcesso, apud multae octo centum nonaginta octo nodum!
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17137711.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-09-06T11:30:00-05:00</pubDate>
-<pubDate>2025-09-06T11:30:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for August 18th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17121526/web-excursions-for-august-18th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17121526/web-excursions-for-august-18th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with Setapp. <a href="https://go.setapp.com/stp44">Get access to hundreds of Mac and iOS apps for one low monthly subscription fee.</a></p>
@@ -1619,14 +1595,12 @@ Illa brevis muros potior arcesso, apud multae octo centum nonaginta octo nodum!
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17121526.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-08-18T08:00:00-05:00</pubDate>
-<pubDate>2025-08-18T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>lsgrep - rapid recursive file search</title>
 <link>https://brett.trpstra.net/link/535/17120739/lsgrep-rapid-recursive-file-search</link>
 <guid>https://brett.trpstra.net/link/535/17120739/lsgrep-rapid-recursive-file-search</guid>
 <content:encoded><![CDATA[
-
 <p><code class="language-plaintext highlighter-rouge">lsgrep</code> is just a simple tool I use to quickly find files matching a search pattern in the current directory. I just figured I&rsquo;d share it because I end up using it a lot.</p>
 
 <p>My primary shell is Fish, so I&rsquo;ll share that one first. This version uses silver searcher (ag) to search for matches. The search uses wildcards (<code class="language-plaintext highlighter-rouge">*</code> for multiple characters and <code class="language-plaintext highlighter-rouge">?</code> for a single character). Spaces get turned into <code class="language-plaintext highlighter-rouge">.*?</code> and extensions (e.g. <code class="language-plaintext highlighter-rouge">.sh</code>) get escaped so the period matches.</p>
@@ -1668,14 +1642,12 @@ find <span class="nt">-E</span> <span class="nb">.</span> <span class="nt">-maxd
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17120739.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-08-16T09:38:00-05:00</pubDate>
-<pubDate>2025-08-16T09:38:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for July 30th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17106404/web-excursions-for-july-30th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17106404/web-excursions-for-july-30th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Whether you&rsquo;re a new user or a seasoned pro, ScreenCastsONLINE offers in-depth screencasts on a wide range of topics, from tutorials to app discovery. <a href="https://screencastsonline.com/members/aff/go/bterpstra">Check it out.</a></p>
@@ -1713,14 +1685,12 @@ find <span class="nt">-E</span> <span class="nb">.</span> <span class="nt">-maxd
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17106404.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-07-30T08:47:00-05:00</pubDate>
-<pubDate>2025-07-30T08:47:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for July 24th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17103180/web-excursions-for-july-24th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17103180/web-excursions-for-july-24th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with CleanShot X, the absolute, hands-down best app for Mac screenshots. <a href="https://cleanshot.sjv.io/DKRzyd">Get one of my all-time favorite apps here.</a></p>
@@ -1747,14 +1717,12 @@ find <span class="nt">-E</span> <span class="nb">.</span> <span class="nt">-maxd
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17103180.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-07-24T12:00:00-05:00</pubDate>
-<pubDate>2025-07-24T12:00:00-05:00</pubDate>
 </item>
 <item>
 <title>47 years in this (scarred) skin</title>
 <link>https://brett.trpstra.net/link/535/17102343/47-years-in-this-scarred-skin</link>
 <guid>https://brett.trpstra.net/link/535/17102343/47-years-in-this-scarred-skin</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/07/rocket-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>My 47th birthday was a few days ago. 11 years ago, I wrote a post <a href="https://brettterpstra.com/2014/07/19/36-years-in-this-skin/">on my birthday</a>, detailing my addiction and recovery, and while I won&rsquo;t go into the same points again, I thought I&rsquo;d write something in the same vein.</p>
 
@@ -1788,14 +1756,12 @@ find <span class="nt">-E</span> <span class="nb">.</span> <span class="nt">-maxd
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17102343.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-07-23T07:21:00-05:00</pubDate>
-<pubDate>2025-07-23T07:21:00-05:00</pubDate>
 </item>
 <item>
 <title>Ripple: an indeterminate progress indicator</title>
 <link>https://brett.trpstra.net/link/535/17066112/ripple-an-indeterminate-progress-indicator</link>
 <guid>https://brett.trpstra.net/link/535/17066112/ripple-an-indeterminate-progress-indicator</guid>
 <content:encoded><![CDATA[
-
 <p>I made a thing I think is pretty cool. It&rsquo;s an indeterminate progress indicator for use in your scripts, inspired by the way Cursor indicates it&rsquo;s working.</p>
 
 <p>In Cursor, when it&rsquo;s generating or thinking, it shows some text that looks like a spotlight is panning across it. I figured it would be easy enough to replicate, so I did.</p>
@@ -1854,14 +1820,12 @@ again.</a></p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17066112.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-06-30T05:24:00-05:00</pubDate>
-<pubDate>2025-06-30T05:24:00-05:00</pubDate>
 </item>
 <item>
 <title>The Mac Users's Guide to Saner Email in 2025 [Sponsor]</title>
 <link>https://brett.trpstra.net/link/535/17059677/the-mac-userss-guide-to-saner-email-in-2025-sponsor</link>
 <guid>https://brett.trpstra.net/link/535/17059677/the-mac-userss-guide-to-saner-email-in-2025-sponsor</guid>
 <content:encoded><![CDATA[
-
 <p>Thanks to SaneBox for sponsoring BrettTerpstra.com this week! Rather than the typical sponsored post, I&rsquo;ve opened up the blog to a guest post from SaneBox&rsquo;s Thomas Yuan. Not a typical thing for me, but I&rsquo;m a huge fan of SaneBox and Thomas&rsquo; tools are a perfect fit for my readers (and my own preferences). Please enjoy!</p>
 
 <p><a href="https://try.sanebox.com/be2h3q" rel="nofollow"><p><img src="https://cdn3.brettterpstra.com/uploads/2025/06/sanebox-tools-rb.jpg" /></p></a></p>
@@ -1947,14 +1911,12 @@ again.</a></p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17059677.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-06-19T08:00:00-05:00</pubDate>
-<pubDate>2025-06-19T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for June 13th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17051046/web-excursions-for-june-13rd-2025</link>
 <guid>https://brett.trpstra.net/link/535/17051046/web-excursions-for-june-13rd-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Whether you&rsquo;re a new user or a seasoned pro, ScreenCastsONLINE offers in-depth screencasts on a wide range of topics, from tutorials to app discovery. <a href="https://screencastsonline.com/members/aff/go/bterpstra">Check it out.</a></p>
@@ -1990,14 +1952,12 @@ again.</a></p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17051046.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-06-13T06:32:00-05:00</pubDate>
-<pubDate>2025-06-13T06:32:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for June 5th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17045679/web-excursions-for-june-5th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17045679/web-excursions-for-june-5th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with CleanShot X, the absolute, hands-down best app for Mac screenshots. <a href="https://cleanshot.sjv.io/DKRzyd">Get one of my all-time favorite apps here.</a></p>
@@ -2031,14 +1991,12 @@ again.</a></p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17045679.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-06-05T12:25:00-05:00</pubDate>
-<pubDate>2025-06-05T12:25:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for May 6th, 2025</title>
 <link>https://brett.trpstra.net/link/535/17022994/web-excursions-for-may-6th-2025</link>
 <guid>https://brett.trpstra.net/link/535/17022994/web-excursions-for-may-6th-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with <a href="https://www.git-tower.com/?via=brett">Tower</a>, the absolute best Git GUI for macOS.</p>
@@ -2079,14 +2037,12 @@ again.</a></p>
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17022994.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-05-06T08:00:00-05:00</pubDate>
-<pubDate>2025-05-06T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Mac File-Finding Gems</title>
 <link>https://brett.trpstra.net/link/535/17020713/mac-file-finding-gems</link>
 <guid>https://brett.trpstra.net/link/535/17020713/mac-file-finding-gems</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/searching-header-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 
 <p>You&rsquo;re probably familiar with Spotlight, but there are other ways to find files on your Mac. And some of them don&rsquo;t get enough love.</p>
@@ -2228,14 +2184,12 @@ These are my favorite search apps. I always want my files to be easy to find and
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17020713.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-05-02T08:00:00-05:00</pubDate>
-<pubDate>2025-05-02T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for May 1st, 2025</title>
 <link>https://brett.trpstra.net/link/535/17020153/web-excursions-for-may-1st-2025</link>
 <guid>https://brett.trpstra.net/link/535/17020153/web-excursions-for-may-1st-2025</guid>
 <content:encoded><![CDATA[
-
 <p><img src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" /></p>
 
 <p>Web excursions brought to you in partnership with Backblaze. <a href="https://secure.backblaze.com/r/00dszk">Back up everything.</a></p>
@@ -2279,14 +2233,12 @@ These are my favorite search apps. I always want my files to be easy to find and
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17020153.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-05-01T13:11:00-05:00</pubDate>
-<pubDate>2025-05-01T13:11:00-05:00</pubDate>
 </item>
 <item>
 <title>Celebrate your Mac with the Eternal Storms software bundle</title>
 <link>https://brett.trpstra.net/link/535/17019964/celebrate-your-mac-with-the-eternal-storms-software-bundle</link>
 <guid>https://brett.trpstra.net/link/535/17019964/celebrate-your-mac-with-the-eternal-storms-software-bundle</guid>
 <content:encoded><![CDATA[
-
 <p>Thanks to Eternal Storms for sponsoring BrettTerpstra.com this week! I&rsquo;ve long been a fan of Yoink and ScreenFloat, so I highly recommend taking advantage of this offer!</p>
 
 <p><a href="https://eternalstorms.at/bundle" rel="nofollow"><p><img src="https://cdn3.brettterpstra.com/uploads/2025/04/BundleBanner.jpg" /></p></a></p>
@@ -2323,14 +2275,12 @@ These are my favorite search apps. I always want my files to be easy to find and
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17019964.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-05-01T08:00:00-05:00</pubDate>
-<pubDate>2025-05-01T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Leader Key and Bunch</title>
 <link>https://brett.trpstra.net/link/535/17019130/leader-key-and-bunch</link>
 <guid>https://brett.trpstra.net/link/535/17019130/leader-key-and-bunch</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/leader-bunch-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>I&rsquo;ve been playing around with a free app called <a href="https://github.com/mikker/LeaderKey.app">Leader Key</a> from <a href="https://mastodon.social/@mikker">@mikker</a>, and realized it could be used very effectively with <a href="https://bunchapp.co">Bunch</a>. It takes a little manual setup, but it&rsquo;s not hard.</p>
 
@@ -2383,14 +2333,12 @@ can also use <code class="language-plaintext highlighter-rouge">/toggle</code> o
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17019130.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-04-30T08:00:00-05:00</pubDate>
-<pubDate>2025-04-30T08:00:00-05:00</pubDate>
 </item>
 <item>
 <title>Brett Terpstra is open to work</title>
 <link>https://brett.trpstra.net/link/535/17016531/brett-terpstra-is-open-to-work</link>
 <guid>https://brett.trpstra.net/link/535/17016531/brett-terpstra-is-open-to-work</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/job-hunting-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>After 4 years with Oracle, I find myself free for new work.
 I met a lot of good people there, but am excited about the
@@ -2514,14 +2462,12 @@ continue to afford to run it), email me at <a href="https://brettterpstra.commai
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17016531.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-04-26T14:22:00-05:00</pubDate>
-<pubDate>2025-04-26T14:22:00-05:00</pubDate>
 </item>
 <item>
 <title>Supercharged Bookmarking: Hookmark + Linkding Integration</title>
 <link>https://brett.trpstra.net/link/535/17012572/supercharged-bookmarking-hookmark-plus-linkding-integration</link>
 <guid>https://brett.trpstra.net/link/535/17012572/supercharged-bookmarking-hookmark-plus-linkding-integration</guid>
 <content:encoded><![CDATA[
-
 <p><img class="header" height="226" src="https://cdn3.brettterpstra.com/uploads/2025/04/hookmark-linkding-rb.7501.jpg" style="margin: 0 auto; clear: both;" width="800" /></p>
 <p>Hookmark just added Linkding integration, and I&rsquo;m really excited about it. It&rsquo;s a perfect complement to the local bookmarking that Hookmark makes possible.</p>
 
@@ -2614,9 +2560,7 @@ continue to afford to run it), email me at <a href="https://brettterpstra.commai
         else</a>.</p><img height="1" src="https://brett.trpstra.net/link/535/17012572.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2025-04-22T15:38:00-05:00</pubDate>
-<pubDate>2025-04-22T15:38:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Markdown Lipsum API v3</title>
 <link>https://brett.trpstra.net/link/535/16999720/markdown-lipsum-api-v3</link>
