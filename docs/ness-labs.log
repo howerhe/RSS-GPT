@@ -28356,3 +28356,20 @@ Existing_entries: 72
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-04-15 12:06:58.713271
+------------------------------------------------------
+Started: 2025-11-10 05:15:48.241394
+Existing_entries: 72
+Fetching from https://nesslabs.com/feed
+Append: [What if it Works Out? The Science of Strategic Success](https://nesslabs.com/strategic-success?utm_source=rss&utm_medium=rss&utm_campaign=strategic-success)
+Append: [Building a studio for your mind: an interview with the founders of Capacities](https://nesslabs.com/capacities-featured-tool-update?utm_source=rss&utm_medium=rss&utm_campaign=capacities-featured-tool-update)
+Append: [Cognitive Multiculturalism: Training Your Brain to Switch Between Worlds](https://nesslabs.com/cognitive-multiculturalism?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-multiculturalism)
+Append: [Breaking Free from Conditional Self-Worth](https://nesslabs.com/conditional-self-worth?utm_source=rss&utm_medium=rss&utm_campaign=conditional-self-worth)
+Append: [Selective Admiration: Why You Don’t Need Perfect Heroes](https://nesslabs.com/selective-admiration?utm_source=rss&utm_medium=rss&utm_campaign=selective-admiration)
+Append: [The Trap of the Deadline High](https://nesslabs.com/deadline-high?utm_source=rss&utm_medium=rss&utm_campaign=deadline-high)
+Append: [Interview: The Future of Information with Arun Bahl, cofounder of Aloe](https://nesslabs.com/aloe-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=aloe-featured-tool)
+Append: [Self-Authorship: The Art of Trusting Your Own Authority](https://nesslabs.com/self-authorship?utm_source=rss&utm_medium=rss&utm_campaign=self-authorship)
+Append: [The Audience Effect: Why We Change When Others Are Watching](https://nesslabs.com/audience-effect?utm_source=rss&utm_medium=rss&utm_campaign=audience-effect)
+Append: [Intellectual Self-Doubt: The Psychology Behind Questioning Your Competence](https://nesslabs.com/intellectual-self-doubt?utm_source=rss&utm_medium=rss&utm_campaign=intellectual-self-doubt)
+append_entries: 10
+Finish: 2025-11-10 05:15:48.612160
+Wrote digest feed: docs/ness-labs-digest.xml

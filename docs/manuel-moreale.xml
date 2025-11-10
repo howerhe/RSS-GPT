@@ -1,9 +1,432 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Manuel Moreale</title>
+<title>Manuel Moreale — Everything Feed</title>
 <link>https://manuelmoreale.com</link>
 
+<item>
+<title>Robb Knight</title>
+<link>https://manuelmoreale.com/interview/robb-knight</link>
+<guid>https://manuelmoreale.com/interview/robb-knight</guid>
+<content:encoded><![CDATA[
+<div> <p>This week on the People and Blogs series we have an interview with Robb Knight, whose blog can be found at <a href="https://rknight.me/">rknight.me</a>.</p>
+        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/robb-knight">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
+        <p>The People and Blogs series is supported by <a href="https://chronosaur.us">Karen</a> and the other 124 members of my <em>"One a Month"</em> club.</p>
+        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
+        <hr />
+        <h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I'm a developer and dad to two girls living in Portsmouth on the south coast of the UK. By day I work for a SaaS company and in my own time I work on my <a href="https://rknight.me/projects">many side projects</a>. In a previous life I worked at a certain clown's restaurant which is where I met my wife some 15 years ago. </p>
+<p>Although developer is what I get paid to do I'm trying to move towards more <em>making</em>; websites, <a href="https://rknight.me/blog/stickers-maths-and-postage/">stickers</a>, shirts, art, whatever. I have no idea what that looks like yet or how it's going to pay my bills. I have a whole host of <a href="https://rknight.me/projects">side projects</a> I've worked on over the years; they're not all winners but they all serve, or served, a purpose. If I get lucky, they resonate with other people which is always nice.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I've had a lot of blogs over the years, most of which would get a handful of posts before being abandoned. There was a version that ran on Tumblr which I did do for at least a year or two — any interesting posts from that have been saved. The current iteration is by far the longest serving and will be the final version. There's no chance of me wiping it all and starting again.</p>
+<p>This current version is part of my main website which is where I put <em>everything</em>. My toots on Mastodon start life as a <a href="https://rknight.me/notes">note post</a>, I post <a href="https://rknight.me/links/">interesting links I find</a>, and I log all the media I watch/play/whatever (I don't want to say consume, that's gross) in <a href="https://rknight.me/almanac/">Almanac</a>, which itself is on the third or fourth iteration.</p>
+<p>As I said above, I had done a few posts on the Tumblr-powered blog but if I look at my stats for posts, it was around 2022 when Twitter started to fall apart that I started to blog more. I was moving away from posting things directly onto social media sites and getting it onto my own site. </p>
+<p>I started writing more posts that just had a short idea or helpful tip because I realised not every post has to be some incredible think piece. My analytics show that these posts also tend to be the most popular which probably says more about the state of large, ad-riddled websites than it does about my writing. For example <a href="https://rknight.me/blog/convert-spotify-facebook-to-email-login/">this post about disconnecting Facebook from Spotify</a> is consistently in the top five posts on my site but you're never going to read that post unless you specifically need it. It's not a "good" post, it just exists.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>To call what I have a process would be a very liberal use of the word "process". If I have nothing to write about I just won't write anything, I have no desire to keep to a schedule and write just for the sake of it. Usually, I'll get prompted by something someone asks like "How did you do X on your website?" or I feel like I have something to say that would be interesting other people.</p>
+<p>I write my posts in Obsidian, then when they're ready to go I'll add them to my site. If I'm on my <del>proper computer</del> laptop I use <a href="https://rknight.me/blog/my-blogging-workflow/">my CLI tool</a> to add a new post. If I'm on mobile, I use the very <a href="https://github.com/rknightuk/knightcms">haphazard CMS</a> I built. </p>
+<p>I'll proof read most things myself before posting and I rarely ask for anyone else's input but if I do want a second opinion it's going to be previous <a href="https://manuelmoreale.com/interview/keenan">P&amp;B interviewee</a>, <a href="https://gkeenan.co">Keenan</a>. Usually I'm able to get out what I want to say fairly succinctly without too much editing.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>A proper keyboard and ideally a desk to sit at is what I prefer when I'm writing (or coding) but I can live with just the keyboard. My desk setup makes some people's skin crawl because there's so much going on but I like having all the trinkets and knick knacks around me.</p>
+<figure class="media-container"><div class="media-content"><img alt="A desk surrounded by bookshelves and pegboard with various items hanging from them" class="media-img" src="https://manuelmoreale.com/media/pages/interview/robb-knight/f915d1a554-1761381396/desk-2025.jpg" /></div></figure>
+<p>I deeply dislike using my phone for most things outside of scrolling lists, like social media so I rarely write long posts on it. The small form factor just doesn't work for me at all but I also kind of need it to exist in the world.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>All my domains are registered with <a href="https://porkbun.com">Porkbun</a> and I manage the DNS with <a href="https://dnscontrol.org/">DNSControl</a> - my main domain, rknight.me, has nearly 50 records for subdomains so managing those without DNSControl would not be a fun activity. Speaking of DNS I use <a href="https://bunny.net">Bunny</a> for my DNS management and also use their CDN for images and other files I need to host.</p>
+<p>The website itself is, as are many of my side projects, built with <a href="https://www.11ty.dev">Eleventy</a>. Eleventy gives me the flexibility to do some interesting things with the posts and other content on my site which would be much harder with some other systems.</p>
+<p>The site gets built on <a href="https://forge.laravel.com/">Forge</a> to a <a href="https://www.hetzner.com/">Hetzner</a> server whenever I push an update to GitHub either via command line, or through the aforementioned CMS, and is also triggered at various points in the day to pull in my Mastodon posts.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>Assuming I actually had to the time to do it, I think I would start with the CMS first, before building anything of the actual site. It is a pain to update things when I'm not at my laptop but jamming features into my CMS is equally frustrating. </p>
+<p>If I wanted something off the shelf and easier to maintain I suspect I would choose <a href="https://ghost.org/">Ghost</a> or <a href="https://pika.page/">Pika</a>.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>Many of these costs are part of my freelancing so are bundled with other sites I run and somewhat hidden but I'll do my best to outline what I do use.</p>
+<p>I have a single server on Hetzner that serves my main site as well as another 30 or so side projects so the cost is negligible per-site but it costs about $5 a month. Forge costs $12 a month to deploy my site along with other sites. The domain is $20 a year I think but that's it.</p>
+<p>I have a <a href="https://oneamonth.club/">One a Month Club</a> <a href="https://buymeacoffee.com/rknightuk/membership">here</a> and I have a handful of people supporting that way. I also use affiliate links for services I use and like which occasionally pays me a little bit.</p>
+<p>I think monetising blogs is fine, if it's done in a tasteful way. Dumping Google ads all over your site is terrible for everyone but hand-picked sponsors or referrals is a good way to find new services. Just keep it classy.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I want to read sites that are about the person writing them. Photos of things people have done, blog posts about notebooks, wallpaper, food, everything. Things people enjoy.</p>
+<p>This is the second time I'm going to mention <a href="https://gkeenan.co/avgb/">Keenan</a> here because they write so wonderfully. They also have a podcast with <a href="https://cygnoir.net/about">Halsted</a> called <a href="https://friendship-material.simplecast.com">Friendship Material</a> which is all kinds of lovely and joyful and everyone should listen.</p>
+<p><a href="https://alexwlchan.net">Alex</a> writes some really interesting computing-related posts, like this one about using <a href="https://alexwlchan.net/2024/static-websites/">static websites as tiny archives</a>.</p>
+<p><a href="https://anniemueller.com">Annie</a> is so smart and honest in her writing it brings me joy every time I see a new post from her. <a href="https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner">This post is a masterpiece</a>.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I'd be a terrible business boy if I didn't at least mention <a href="https://echofeed.app">EchoFeed</a>, an RSS cross posting service I run. </p>
+<p>I also <a href="https://ruminatepodcast.com">have a podcast</a> that used to be about tech but is now about snacks.</p>        <hr />
+        <h3>Keep exploring</h3>
+        <p>Now that you're done reading the interview, <a href="https://rknight.me/">go check the blog</a> and <a href="https://rknight.me/subscribe/posts/rss.xml">subscribe to the RSS feed</a>.</p>
+        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com" target="_blank">114 interviews</a>.</p>
+        <p>Make sure to also say thank you to <a href="https://numericcitizen.me">Numeric Citizen</a> and the other 124 supporters for making this series possible.</p> <div>
+<p>This week on the People and Blogs series we have an interview with Robb Knight, whose blog can be found at <a href="https://rknight.me/">rknight.me</a>.</p>
+        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/robb-knight">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
+        <p>The People and Blogs series is supported by <a href="https://chronosaur.us">Karen</a> and the other 124 members of my <em>"One a Month"</em> club.</p>
+        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
+        <hr />
+        <h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I'm a developer and dad to two girls living in Portsmouth on the south coast of the UK. By day I work for a SaaS company and in my own time I work on my <a href="https://rknight.me/projects">many side projects</a>. In a previous life I worked at a certain clown's restaurant which is where I met my wife some 15 years ago. </p>
+<p>Although developer is what I get paid to do I'm trying to move towards more <em>making</em>; websites, <a href="https://rknight.me/blog/stickers-maths-and-postage/">stickers</a>, shirts, art, whatever. I have no idea what that looks like yet or how it's going to pay my bills. I have a whole host of <a href="https://rknight.me/projects">side projects</a> I've worked on over the years; they're not all winners but they all serve, or served, a purpose. If I get lucky, they resonate with other people which is always nice.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I've had a lot of blogs over the years, most of which would get a handful of posts before being abandoned. There was a version that ran on Tumblr which I did do for at least a year or two — any interesting posts from that have been saved. The current iteration is by far the longest serving and will be the final version. There's no chance of me wiping it all and starting again.</p>
+<p>This current version is part of my main website which is where I put <em>everything</em>. My toots on Mastodon start life as a <a href="https://rknight.me/notes">note post</a>, I post <a href="https://rknight.me/links/">interesting links I find</a>, and I log all the media I watch/play/whatever (I don't want to say consume, that's gross) in <a href="https://rknight.me/almanac/">Almanac</a>, which itself is on the third or fourth iteration.</p>
+<p>As I said above, I had done a few posts on the Tumblr-powered blog but if I look at my stats for posts, it was around 2022 when Twitter started to fall apart that I started to blog more. I was moving away from posting things directly onto social media sites and getting it onto my own site. </p>
+<p>I started writing more posts that just had a short idea or helpful tip because I realised not every post has to be some incredible think piece. My analytics show that these posts also tend to be the most popular which probably says more about the state of large, ad-riddled websites than it does about my writing. For example <a href="https://rknight.me/blog/convert-spotify-facebook-to-email-login/">this post about disconnecting Facebook from Spotify</a> is consistently in the top five posts on my site but you're never going to read that post unless you specifically need it. It's not a "good" post, it just exists.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>To call what I have a process would be a very liberal use of the word "process". If I have nothing to write about I just won't write anything, I have no desire to keep to a schedule and write just for the sake of it. Usually, I'll get prompted by something someone asks like "How did you do X on your website?" or I feel like I have something to say that would be interesting other people.</p>
+<p>I write my posts in Obsidian, then when they're ready to go I'll add them to my site. If I'm on my <del>proper computer</del> laptop I use <a href="https://rknight.me/blog/my-blogging-workflow/">my CLI tool</a> to add a new post. If I'm on mobile, I use the very <a href="https://github.com/rknightuk/knightcms">haphazard CMS</a> I built. </p>
+<p>I'll proof read most things myself before posting and I rarely ask for anyone else's input but if I do want a second opinion it's going to be previous <a href="https://manuelmoreale.com/interview/keenan">P&amp;B interviewee</a>, <a href="https://gkeenan.co">Keenan</a>. Usually I'm able to get out what I want to say fairly succinctly without too much editing.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>A proper keyboard and ideally a desk to sit at is what I prefer when I'm writing (or coding) but I can live with just the keyboard. My desk setup makes some people's skin crawl because there's so much going on but I like having all the trinkets and knick knacks around me.</p>
+<figure class="media-container"><div class="media-content"><img alt="A desk surrounded by bookshelves and pegboard with various items hanging from them" class="media-img" src="https://manuelmoreale.com/media/pages/interview/robb-knight/f915d1a554-1761381396/desk-2025.jpg" /></div></figure>
+<p>I deeply dislike using my phone for most things outside of scrolling lists, like social media so I rarely write long posts on it. The small form factor just doesn't work for me at all but I also kind of need it to exist in the world.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>All my domains are registered with <a href="https://porkbun.com">Porkbun</a> and I manage the DNS with <a href="https://dnscontrol.org/">DNSControl</a> - my main domain, rknight.me, has nearly 50 records for subdomains so managing those without DNSControl would not be a fun activity. Speaking of DNS I use <a href="https://bunny.net">Bunny</a> for my DNS management and also use their CDN for images and other files I need to host.</p>
+<p>The website itself is, as are many of my side projects, built with <a href="https://www.11ty.dev">Eleventy</a>. Eleventy gives me the flexibility to do some interesting things with the posts and other content on my site which would be much harder with some other systems.</p>
+<p>The site gets built on <a href="https://forge.laravel.com/">Forge</a> to a <a href="https://www.hetzner.com/">Hetzner</a> server whenever I push an update to GitHub either via command line, or through the aforementioned CMS, and is also triggered at various points in the day to pull in my Mastodon posts.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>Assuming I actually had to the time to do it, I think I would start with the CMS first, before building anything of the actual site. It is a pain to update things when I'm not at my laptop but jamming features into my CMS is equally frustrating. </p>
+<p>If I wanted something off the shelf and easier to maintain I suspect I would choose <a href="https://ghost.org/">Ghost</a> or <a href="https://pika.page/">Pika</a>.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>Many of these costs are part of my freelancing so are bundled with other sites I run and somewhat hidden but I'll do my best to outline what I do use.</p>
+<p>I have a single server on Hetzner that serves my main site as well as another 30 or so side projects so the cost is negligible per-site but it costs about $5 a month. Forge costs $12 a month to deploy my site along with other sites. The domain is $20 a year I think but that's it.</p>
+<p>I have a <a href="https://oneamonth.club/">One a Month Club</a> <a href="https://buymeacoffee.com/rknightuk/membership">here</a> and I have a handful of people supporting that way. I also use affiliate links for services I use and like which occasionally pays me a little bit.</p>
+<p>I think monetising blogs is fine, if it's done in a tasteful way. Dumping Google ads all over your site is terrible for everyone but hand-picked sponsors or referrals is a good way to find new services. Just keep it classy.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I want to read sites that are about the person writing them. Photos of things people have done, blog posts about notebooks, wallpaper, food, everything. Things people enjoy.</p>
+<p>This is the second time I'm going to mention <a href="https://gkeenan.co/avgb/">Keenan</a> here because they write so wonderfully. They also have a podcast with <a href="https://cygnoir.net/about">Halsted</a> called <a href="https://friendship-material.simplecast.com">Friendship Material</a> which is all kinds of lovely and joyful and everyone should listen.</p>
+<p><a href="https://alexwlchan.net">Alex</a> writes some really interesting computing-related posts, like this one about using <a href="https://alexwlchan.net/2024/static-websites/">static websites as tiny archives</a>.</p>
+<p><a href="https://anniemueller.com">Annie</a> is so smart and honest in her writing it brings me joy every time I see a new post from her. <a href="https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner">This post is a masterpiece</a>.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I'd be a terrible business boy if I didn't at least mention <a href="https://echofeed.app">EchoFeed</a>, an RSS cross posting service I run. </p>
+<p>I also <a href="https://ruminatepodcast.com">have a podcast</a> that used to be about tech but is now about snacks.</p>        <hr />
+        <h3>Keep exploring</h3>
+        <p>Now that you're done reading the interview, <a href="https://rknight.me/">go check the blog</a> and <a href="https://rknight.me/subscribe/posts/rss.xml">subscribe to the RSS feed</a>.</p>
+        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com" target="_blank">114 interviews</a>.</p>
+        <p>Make sure to also say thank you to <a href="https://numericcitizen.me">Numeric Citizen</a> and the other 124 supporters for making this series possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 07 Nov 2025 13:00:00 +0100</pubDate>
+<pubDate>Fri, 07 Nov 2025 13:00:00 +0100</pubDate>
+</item>
+<item>
+<title>A moment with a decidedly less gloomy church</title>
+<link>https://manuelmoreale.com/thoughts/a-moment-with-a-decidedly-less-gloomy-church</link>
+<guid>https://manuelmoreale.com/thoughts/a-moment-with-a-decidedly-less-gloomy-church</guid>
+<content:encoded><![CDATA[
+
+<p>If you’re subscribed to my <a href="https://buttondown.com/fromthesummit">From the Summit newsletter</a>, you might recognise this church. It’s the same one I wrote about in the most recent <a href="https://buttondown.com/fromthesummit/archive/from-the-summit-002-461007188-135545292/">missive</a>, only this time there was a lovely sunny day and the whole place was not engulfed in the fog.</p>
+<figure class="media-container"><div class="media-content"><img class="media-img" src="https://manuelmoreale.com/media/pages/thoughts/a-moment-with-a-decidedly-less-gloomy-church/f418001e94-1762272256/church.jpg" /></div></figure>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Tue, 04 Nov 2025 17:05:00 +0100</pubDate>
+<pubDate>Tue, 04 Nov 2025 17:05:00 +0100</pubDate>
+</item>
+<item>
+<title>Frank Chimero</title>
+<link>https://manuelmoreale.com/interview/frank-chimero</link>
+<guid>https://manuelmoreale.com/interview/frank-chimero</guid>
+<content:encoded><![CDATA[
+
+<p>This week on the People and Blogs series we have an interview with Frank Chimero, whose blog can be found at <a href="https://frankchimero.com">frankchimero.com</a>.</p>
+        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/frank-chimero">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
+        <p>The People and Blogs series is supported by <a href="https://www.morelightmorelight.com/">Matt Katz</a> and the other 124 members of my <em>"One a Month"</em> club.</p>
+        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
+        <hr />
+        <h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I’m Frank Chimero, I design and write from my little apartment in New York City. I’ve been doing this for a long time, mostly for technology and media companies. Other than work, I’m interested in the same things many other people are: my partner, my dog, visiting museums, movies, paintings, reading, cooking, stimulating conversation, and long walks. A lot of those have a tendency to go together, especially here in New York, which is nice.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I started teaching design shortly after finishing undergrad and had a great time with it. My students and I had so many stimulating conversations in the classroom, and their questions really forced me to think about my presumptions and beliefs about design in a way I wouldn't have without the prompting. So, after class, I'd type them up and was eager to share, and thus my blog was born.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>Writing is generally a way to scratch an itch in my brain. Sometimes it is an annoyance or disagreement with something else I read, or responding to an idea I came across in my reading that captivated me in some way, and trying to figure out why it grabbed me. Most first drafts are brain dumps in front of the keyboard or going for a walk and using speech to text on my phone. These things are incredibly rough, and take a bit of polishing until they end up on the site, but I enjoy that process too. It’s nice to nudge, tweak, and expand on parts and feel things get stronger or more clear. I try to have some interesting reference or idea at the heart of each post I make, because it’s what I want to read. The web I am interested in is the insights and ideas of individuals.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>Some people will think I’m a barbarian, but I don’t think tools matter that much. I write in TextEdit. If it’s by hand, it is typically on loose copier paper and a pen I stole from a hotel. I’m sensitive to spaces and love a beautiful room and good lighting, but I think it is more worthwhile to learn how to write well in spite of the environment rather than because of it. At least, that’s what I tell myself. The trick, for me, is to seek out those beautiful places and experiences and try to hold on to the internal environment they create in me, then find ways to get it down onto the page later. Sometimes that works, sometimes it doesn’t.</p>
+<p>A few years ago I wrote a book called <a href="https://shapeofdesignbook.com">The Shape of Design</a>. I’d book trains from New York City up to Albany to enjoy the views of the Hudson Valley from the train window. The trip was about 8 hours there and back home. I got so many words down, something about the momentum of the view creating a velocity in the writing. But you know what? Once I stacked that writing up next to all the other writing I did in libraries, at the kitchen table, or coffee shops, I never could pinpoint where what was written.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>This is going to be underwhelming. I have an off-the-rack Macbook Pro M4. There is pretty much nothing installed on it except Figma, my fonts, and just enough of a local dev environment to make my rickety Jekyll deployments. If you were to close your eyes and imagine the first five sites you’d need for work, I have those, too. I have last year’s iPhone with YouTube and NTS Radio on it. I’ve stripped most everything out. It makes no difference. I just type and typeset.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I’m not certain. I have no clue how one would grow an audience in 2025 without betraying some of my values about respecting people’s attention. My current mindset is to enjoy my audience, respect them, and make no presumptions about it growing.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>The site either costs $60 or $0, depending on how you look at it. It’s served via Github Pages, which requires a subscription, but it also pays for other things like private repos, etc. I’ve never tried to make money with the writing on my site. Even the book I wrote is available in full online for free. This isn’t necessarily a moral stance, it is simply that the economics of it wouldn’t pay enough to justify the headspace it’d occupy. If others want to do something different, I say go for it.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I focus most of my reading time on books, and most of my digital reading is happening through newsletters these days. On the blog side of things, I mostly check up on friends’ writing by manually going to their site. “I wonder what Naz is up to?” and that kind of thing. I know there is RSS, but seeing the site is half the point. You’ve already interviewed a lot of them, but I think you would get a kick going through <a href="https://robweychert.com">Rob Weychert</a>’s obsessively maximalist life-documentation-as-blog. It is exactly the opposite of my own tendencies (“anything you don’t remember must not be that important”), and I have a lot of admiration, confusion, and respect for what he’s done.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I want to take a moment to give a shout out to libraries. Librarians are god’s people. I think there is a strong ideological kinship between digital personal publishing (blogs) and libraries (self-expression, availability of information, capitalistic counterpoint, community and connection, and the overall “this is for everyone” vibe the web was born from). So, go check out your local library. Get a card, check out a book, enjoy the space, and maybe ask about what other services they have to offer besides media. Good communities come from good people and good spaces. Supporting your local library may be a way to nudge the world toward your vision of how it should be. Or it could just be a nice way to spend an afternoon.</p>        <hr />
+        <h3>Keep exploring</h3>
+        <p>Now that you're done reading the interview, <a href="https://frankchimero.com">go check the blog</a> and <a href="https://frankchimero.com/feed.xml">subscribe to the RSS feed</a>.</p>
+        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com" target="_blank">114 interviews</a>.</p>
+        <p>Make sure to also say thank you to Eleonora and the other 124 supporters for making this series possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 31 Oct 2025 12:05:00 +0100</pubDate>
+<pubDate>Fri, 31 Oct 2025 12:05:00 +0100</pubDate>
+</item>
+<item>
+<title>IndieWeb Carnival: On Ego</title>
+<link>https://manuelmoreale.com/thoughts/indieweb-carnival-on-ego</link>
+<guid>https://manuelmoreale.com/thoughts/indieweb-carnival-on-ego</guid>
+<content:encoded><![CDATA[
+
+<p>Ego is one of those words that’s difficult to parse. I find language to be an imperfect tool in the quest to describe the inner workings of the mind, because in there, things tend to be fuzzy, while words are often sharp, pointing to distinct concepts that are seldom found in someone’s brain.</p>
+<p><em>«I don’t have an ego»</em>, some claim. How that is even possible remains a mystery. I suspect it all comes down to how one defines the word ego, and what concepts are associated to it. Personally, I find the whole concept of trying to “give up” one’s ego to be quite futile. Take this definition as a starting point:</p>
+<blockquote>
+<p>In philosophy, the self, or the ego, is an individual's own being, knowledge, and values, and the relationship between these attributes.</p>
+</blockquote>
+<p>If we use this definition of ego, I don’t see how you can ever get to giving it up. Unless by giving it up one means killing themselves, which personally I don’t find to be a compelling answer to this question. Because to give up something, someone has to be there to be the subject of the giving up. But if nobody’s there anymore, nothing is given up, because there’s nothing that can be given up. Do I make any sense?</p>
+<hr />
+<p>Ego gives us many other words: from egoism, to egotism, to egocentrism. Those are all words that carry a bad reputation; nobody likes to be called an egoist. As social creatures, as part of the larger group of billions of human beings currently living on this earth, we find these constant inward-looking traits to be undesirable.</p>
+<p>That said, though, I find the idea of always living experiences in the service of others, in an attempt to suppress one’s ego, to be an unhealthy way to go about spending the time we have available on this planet. Attempting to completely annihilate the things that make you you, in order to better fit with the rest of society, is not worth it.</p>
+<p>It’s not healthy to spend time on this planet thinking you’re the absolute best at everything and nobody can teach you anything ever. That’s obvious. But the opposite is also not healthy: living your life thinking you’re worth nothing, that you know nothing, that everyone knows more and is worth than you and that they should be the ones to talk, to teach, to do, to  earn.</p>
+<p>If there’s one lesson I try to carry with me, it's that extremes are bad. And the goal should be to keep the pendulum swings to a minimum, and spend as much time as possible at the centre, where things are balanced. And you might think I’m saying this to you, but I’m actually talking to myself. Because the ego is still there, the inner dialogue continues, and the personal struggles will persist.</p>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Sun, 26 Oct 2025 18:00:00 +0100</pubDate>
+<pubDate>Sun, 26 Oct 2025 18:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Romina Malta</title>
+<link>https://manuelmoreale.com/interview/romina-malta</link>
+<guid>https://manuelmoreale.com/interview/romina-malta</guid>
+<content:encoded><![CDATA[
+
+<p>This week on the People and Blogs series we have an interview with Romina Malta, whose blog can be found at <a href="https://romi.link">romi.link</a>.</p>
+        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/romina-malta">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
+        <p>The People and Blogs series is supported by <a href="https://bjhess.com/">Barry Hess</a> and the other 124 members of my <em>"One a Month"</em> club.</p>
+        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
+        <hr />
+        <h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I’m Romina Malta, a graphic artist and designer from Buenos Aires. Design found me out of necessity:  I started with small commissions and learned everything by doing. What began as a practical skill became a way of thinking and a way to connect the things I enjoy: image, sound, and structure.</p>
+<p>Over time, I developed a practice with a very specific and recognizable imprint, working across music, art, and technology. I take on creative direction and design projects for artists, record labels, and cultural spaces, often focusing on visual identity, books, and printed matter.</p>
+<p>I also run <em>door.link</em>, a personal platform where I publish mixtapes. It grew naturally from my habit of spending time digging for music… searching, buying, and finding sounds that stay with me. The site became a way to archive that process and to share what I discover.</p>
+<p>Outside of my profession, I like traveling, writing, and spending long stretches of time alone at home. That’s usually when I can think clearly and start new ideas.</p>
+<h2>What's the story behind your blog?</h2>
+<p>The <em>journal</em> began as a way to write freely, to give shape to thoughts that didn’t belong to my design work or to social media. I wanted a slower space where things could stay in progress, where I could think through writing.</p>
+<p>I learned to read and write unusually early, with a strange speed, in a family that was almost illiterate, which still makes it more striking to me. I didn’t like going to school, but I loved going to the library. I used to borrow poetry books, the Bible, short novels, anything I could find. Every reading was a reason to write, because reading meant getting to know the world through words. That was me then, always somewhere between reading and writing.</p>
+<p>Over the years that habit never left. A long time ago I wrote on Blogger, then on Tumblr, and later through my previous websites. Each version reflected a different moment in my life, different interests, tones, and ways of sharing. The format kept changing, but the reason stayed the same: I’ve always needed to write things down, to keep a trace of what’s happening inside and around me.</p>
+<p>For me, every design process involves a writing process. Designing leads me to write, and writing often leads me back to design. The <em>journal</em> became the space where those two practices overlap, where I can translate visual ideas into words and words into form.</p>
+<p>Sometimes the texts carry emotion; other times they lean toward a kind of necessary dramatism. I like words, alone, together, read backwards. I like letters too; I think of them as visual units. The world inside my mind is a constant conversation, and the <em>journal</em> is where a part of that dialogue finds form.</p>
+<p>There’s no plan behind it. It grows slowly, almost unnoticed, changing with whatever I’m living or thinking about. Some months I write often, other times I don’t open it for weeks. But it’s always there, a reminder that part of my work happens quietly, and that sometimes the most meaningful things appear when nothing seems to be happening.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>Writing usually begins with something small, a sentence I hear, a word that stays, or an image I can’t stop thinking about. I write when something insists on being written. There is no plan or schedule; it happens when I have enough silence to listen.</p>
+<p>I don’t do research, but I read constantly. Reading moves the language inside me. It changes how I think, how I describe, how I look at things. Sometimes reading becomes a direct path to writing, as if one text opened the door to another.</p>
+<p>I love writing on the computer. The rhythm of typing helps me find the right tempo for my thoughts. I like watching the words appear on the screen, one after another, almost mechanically. It makes me feel that something is taking shape outside of me.</p>
+<p>When I travel, I often write at night in hotels. The neutral space, the different air, the sound of another city outside the window, all create a certain kind of attention that I can’t find at home. The distance, in some way, sharpens how I think. </p>
+<p>Sometimes I stop in the middle of a sentence and return to it days later. Other times I finish in one sitting and never touch it again. It depends on how it feels. Writing is less about the result and more about the moment when the thought becomes clear.</p>
+<p>You know, writing and design are part of the same process. Both are ways of organizing what’s invisible, of trying to give form to something I can barely define. Designing teaches me how to see, and writing teaches me how to listen.</p>
+<h2>Do you have an ideal creative environment? Also do you believe physical space influences your creativity?</h2>
+<p>Yes, space definitely influences how I work. I notice it every time I travel. Writing in hotels, for example, changes how I think. There’s something about being in a neutral room, surrounded by objects that aren’t mine, that makes me more observant. I pay attention differently.</p>
+<p>At home I’m more methodical. I like having a desk, a comfortable chair, and a bit of quiet. I usually work at night or very early in the morning, when everything feels suspended. I don’t need much: my laptop, a notebook, paper, pencils around. Light is important to me. I prefer dim light, sometimes just a lamp, enough to see but not enough to distract. Music helps too, especially repetitive sounds that make time stretch.</p>
+<p>I think physical space shapes how attention flows. Sometimes I need stillness, sometimes I need movement. A familiar room can hold me steady, while an unfamiliar one can open something unexpected. Both are necessary.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>The site is built on Cargo, which I’ve been using for a few years. I like how direct it feels…  It allows me to design by instinct, adjusting elements visually instead of through code. For the first time, I’m writing directly on a page, one text over another, almost like layering words in a notebook. It’s a quiet process. </p>
+<p>Eventually I might return to using a service that helps readers follow and archive new posts more easily, but for now I enjoy this way.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I don’t think I would change much. The formats have changed, the platforms too, but the impulse behind it is the same. Writing online has always been a way to think in public.</p>
+<p>Maybe I’d make it even simpler. I like when a website feels close to a personal notebook…  imperfect, direct, and a bit confusing at times. The older I get, the more I value that kind of simplicity.</p>
+<p>If anything, I’d try to document more consistently. Over the years I’ve lost entire archives of texts and images because of platform changes or broken links. Now I pay more attention to preserving what I make, both online and offline.</p>
+<p>Other than that, I’d still keep it small and independent.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>It costs very little. Just the domain, hosting, and the time it takes to keep it alive. I don’t see it as a cost but as part of the work, like having a studio, or paper, or ink. It’s where things begin before they become something else.</p>
+<p>I’ve never tried to monetise the blog. It doesn’t feel like the right space for that. <em>romi.link/journal</em> exists outside of that logic; it’s not meant to sell or promote anything. It’s more like an open notebook, a record of thought.</p>
+<p>That said, I understand why people monetise their blogs. Writing takes time and energy, and it’s fair to want to sustain it. I’ve supported other writers through subscriptions or by buying their publications, and I think that’s the best way to do it, directly, without the noise of algorithms or ads.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I’ve been reading <em><a href="https://faircompanies.com/">Fair Companies</a></em> for a while now. Not necessarily because I agree with everything, of course, but because it’s refreshing to find other points of view. I like when a site feels personal, when you can sense that someone is genuinely curious.</p>
+<p>Probably <a href="https://faircompanies.com/category/articles/">Nicolas Boullosa </a></p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Hm… No mucho. Lately I’ve been thinking about how fragile the internet feels. Everything moves too quickly, and yet most of what we publish disappears almost instantly. Keeping a personal site today feels like keeping a diary in public:  it’s small, quiet, and mostly unseen, but it resists the speed of everything else. I find comfort in that slowness.</p>        <hr />
+        <h3>Keep exploring</h3>
+        <p>Now that you're done reading the interview, <a href="https://romi.link">go check the blog</a>.</p>
+        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com" target="_blank">114 interviews</a>.</p>
+        <p>Make sure to also say thank you to <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> and the other 124 supporters for making this series possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 24 Oct 2025 13:00:00 +0200</pubDate>
+<pubDate>Fri, 24 Oct 2025 13:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Look, another AI browser</title>
+<link>https://manuelmoreale.com/thoughts/look-another-ai-browser</link>
+<guid>https://manuelmoreale.com/thoughts/look-another-ai-browser</guid>
+<content:encoded><![CDATA[
+
+<p>Yesterday, OpenAI announced Atlas, its AI browser. To the surprise of literally nobody, it’s Chromium with AI slapped on top. Perplexity also has a browser: it’s called Comet, and it also is Chromium with AI slapped on top. Then we have DIA, which is, you guessed it, Chromium with AI slapped on top. I think Opera also has one of those Chromium browsers with AI slapped on top.</p>
+<p>I code sites for a living (allegedly), and I honestly cannot overstate how uninterested I am in all these new browsers. Because these are not new browsers: these are Chromium frames with AI slapped on top.</p>
+<p>The thing I found more interesting about the whole OpenAI announcement was Sam Altman tweeting: <em>«10 am livestream today to launch a new product I'm quite excited about!»</em>. This is coming from someone who’s allegedly running a company that’s building a tool that should usher in a new era where computers will replace most of human work, where we’ll all have a super intelligence always available in our pockets, ready to dispense infinite wisdom.</p>
+<p>And yet he’s quite excited about a fucking Chromium installation with AI slapped on top of it. I guess building an actual browser, from scratch, is still a task so monumentally difficult that even a company that is aiming for super-intelligence can’t tackle it.</p>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Wed, 22 Oct 2025 09:05:00 +0200</pubDate>
+<pubDate>Wed, 22 Oct 2025 09:05:00 +0200</pubDate>
+</item>
+<item>
+<title>10 pointless facts about me</title>
+<link>https://manuelmoreale.com/thoughts/10-pointless-facts-about-me</link>
+<guid>https://manuelmoreale.com/thoughts/10-pointless-facts-about-me</guid>
+<content:encoded><![CDATA[
+
+<p>Found on <a href="https://kevquirk.com/blog/ten-pointless-facts-about-me/">Kev’s blog</a> and originally started by <a href="https://forkingmad.blog/ten-pointless-facts-about-me/">Dave</a>, here are my answers to this fun blog challenge:</p>
+<h2>Do you floss your teeth?</h2>
+<p>Sometimes. I’d say maybe a few times a week? I’m terrible at being consistent, and that includes flossing regularly. </p>
+<h2>Tea, coffee, or water?</h2>
+<p>Coffee in the morning, tea (sometimes) later in the day, not enough water the rest of the time. Did I mention I’m terrible at being consistent? That includes drinking enough water.</p>
+<h2>Footwear preference?</h2>
+<p>Right now, I’d say flip flops, even though they are a terrible choice when you have to walk around the woods. </p>
+<h2>Favourite dessert?</h2>
+<p>Probably <a href="https://en.wikipedia.org/wiki/Crema_catalana">Crema catalana</a>. It’s the one dessert I’m resisting the temptation to buy what’s needed to make it myself at home because I know I’d end up eating it every day, three times a day.</p>
+<h2>The first thing you do when you wake up?</h2>
+<p>I say hi to the dog that’s for sure sleeping somewhere near.</p>
+<h2>Age you’d like to stick at?</h2>
+<p>From a purely physical perspective, I’d say 22. If I have to consider all factors, I’d say 36. And I’m 36. </p>
+<h2>How many hats do you own?</h2>
+<p>Do beanies and toques count as hats? Because if they do, then I own 7 hats. If they don’t, then I’m down to 3.</p>
+<h2>Describe the last photo you took?</h2>
+<p>It’s from a walk with the dog the other day: clear sky and some tree branches and leaves illuminated by a lovely light. Most of my gallery looks like that.</p>
+<h2>Worst TV show?</h2>
+<p>I don’t watch TV, and the last time I watched a TV series, I think it was in the dark days of the COVID shutdown, which happened what, 32 years ago? I don’t even know what’s on TV these days.</p>
+<h2>As a child, what was your aspiration for adulthood?</h2>
+<p>The oldest memory I have of a job I wanted to do was car designer. I remember loving seeing yellow <a href="https://en.wikipedia.org/wiki/Fiat_Coupé">FIAT Coupé</a> around. Funny because now I couldn’t care less about cars.</p>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Tue, 21 Oct 2025 13:40:00 +0200</pubDate>
+<pubDate>Tue, 21 Oct 2025 13:40:00 +0200</pubDate>
+</item>
+<item>
+<title>A newsletter-related PSA</title>
+<link>https://manuelmoreale.com/thoughts/a-newsletter-related-psa</link>
+<guid>https://manuelmoreale.com/thoughts/a-newsletter-related-psa</guid>
+<content:encoded><![CDATA[
+
+<p>Quick PSA for those of you out there who are interested in subscribing to either my <a href="http://buttondown.com/fromthesummit/">From the Summit 2.0</a>, <a href="https://peopleandblogs.com">the newsletter version of People and Blogs</a>, or simply prefer to <a href="https://buttondown.com/manuelmoreale">get these blog posts delivered via email</a>: all those newsletters require double opt-in.</p>
+<p>What that means is that once you have signed up, you <em>should</em> get a second email asking you to click a link to confirm your email address. Sometimes those emails land in the spam folder for reasons unknown to me. Maybe I don’t pray the SMTP gods with enough conviction, who knows.</p>
+<p>What I do know is that I see a lot of people signing up and then not confirming their addresses. So, if you did sign up but did not receive the confirmation email, ping me either via email or Apple Messages, using hello@manuelmoreale.com, and I’ll look into that.</p>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Mon, 20 Oct 2025 09:20:00 +0200</pubDate>
+<pubDate>Mon, 20 Oct 2025 09:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Five least favourite tech topics</title>
+<link>https://manuelmoreale.com/thoughts/five-least-favourite-tech-topics</link>
+<guid>https://manuelmoreale.com/thoughts/five-least-favourite-tech-topics</guid>
+<content:encoded><![CDATA[
+
+<p>The other day <a href="https://cliophate.wtf">Kevin</a> sent me a preview link of an upcoming post for his <a href="https://overkill.wtf">Overkill</a> site, and I jokingly replied to him that <em>«Home servers are probably the second least appealing tech topic for me»</em>.</p>
+<p>I then started thinking about what my least favourite tech topics are, and I thought it would make for a fun blog post, and so here we are, my five least favourite tech topics.</p>
+<h2>5: In-car technology</h2>
+<p>From infotainment screens to car OS, I’m bored to death by everything that has to do with screens in a car. Some car-related tech is cool, don’t get me wrong, but it usually has nothing to do with screens. </p>
+<h2>4: Everything audiophiles find interesting</h2>
+<p>Headphones, earbuds, hi-fi systems, you name it. The only thing I find amusing about that entire world is how bizarre some of the products are. I dive into this topic maybe once every 5 years when I have to change headphones, and that’s about it. </p>
+<h2>3: Wearables</h2>
+<p>I own a watch that’s just barely smart enough to be considered a smartwatch. I use it to track my hikes and to have offline maps. That’s the extent to which I’m interested in the world of wearables. Everything else I find boring as hell. Don’t care about smart glasses, don’t care about AI pins, don’t care about smart rings, don’t care about internet-connected intelligent butt-plugs. I already have a hard time dealing with a smartphone; that’s more than enough.</p>
+<h2>2: Home servers</h2>
+<p>I not only have very little interest in home servers, but I also don’t have a use for them, which is probably why I find the whole topic so unappealing. Every time I read something about this topic, my only thought is that it seems like a lot of work and a lot of unnecessary headaches. And it also seems to become a second job, which is definitely something I don’t need in my life.</p>
+<h2>1: Smart homes and home automation</h2>
+<p>The reason this is at the top of the list is because not only do I find smart appliances to be terribly boring, but also because it’s probably the only tech “innovation” I’m actively fighting against. I want my home dumb. I don’t want to charge my doorbell, I don’t want to flash a firmware on my lightbulbs, I don’t want to set up a home server to deploy some open source software to make sure my new light switch shows up on my phone. That sounds like a nightmare to me.</p>
+<hr />
+<p>There you have it, my least favourite tech topics. Wait, no AI? Yes, no AI. AI tech is kinda cool, it’s the whole circus around it that I find insufferable. How about you, though? Do you have a least favourite tech topic?</p>        <hr />
+        <p>Thank you for keeping RSS alive. You're awesome.</p>
+        <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+        <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+        <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+        <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+        <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+]]></content:encoded>
+<pubDate>Sat, 18 Oct 2025 21:20:00 +0200</pubDate>
+<pubDate>Sat, 18 Oct 2025 21:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Alice</title>
+<link>https://manuelmoreale.com/interview/alice</link>
+<guid>https://manuelmoreale.com/interview/alice</guid>
+<content:encoded><![CDATA[
+
+<p>This week on the People and Blogs series we have an interview with Alice, whose blog can be found at <a href="https://thewallflowerdigest.co.uk">thewallflowerdigest.co.uk</a>.</p>
+        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/alice">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
+        <p>The People and Blogs series is supported by <a href="https://www.feadin.eu">Paolo Ruggeri</a> and the other 124 members of my <em>"One a Month"</em> club.</p>
+        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
+        <hr />
+        <h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I'm Alice, I'm currently 37, I'm from the East Midlands in the UK, and have lived in the region all my life. I live with my husband (whom I married in June) and our two cats. They are the best cats.</p>
+<p>At university, I studied English Literature because I never had any idea what I wanted to do for a career! I really enjoyed my time at university. Looking back, it was such a luxury to have all the time dedicated to reading books and thinking deeply about them (even if I was always too shy to contribute much in seminars!). I can't say an English Lit. degree has ever been beneficial in a practical sense, but I'm happy that I've started to dust off some of the cobwebs on it with my book blog!</p>
+<p>My work and my blog are separate, but I think the fact that it exists at all is a result of the way my career went, or rather didn't go! I got a Master's degree in Information and Library Management, but failed to ever get a proper professional job.</p>
+<p>Plan A was University Librarian, but I didn't get the graduate trainee placement I needed, and, with that, I was forever locked out of university libraries. I never saw a job posting that didn't require "at least 5 years of experience in an equivalent role", and social anxiety hampered the development of networking skills. I was a library assistant at a university for a while, where a good portion of my colleagues were in the same boat as me!</p>
+<p>Plan B was a School Librarian, purely because it was the only job I got offered. I was ill-suited to it, never really enjoyed and the school I was in had little interest in supporting the Library or developing a reading culture. I did that for about 4 years, the whole time trying to come up with an alternative plan.</p>
+<p>Eventually, Plan C presented itself, and I ended up in a little niche of library management systems, where I worked on data migrations for special libraries, and eventually moved into archives and museums. This is a job that really suits me. It turns out my true love all along was actually databases, information retrieval and the challenge of solving all the puzzles that involved!</p>
+<p>If I could go back in time to 18-21 years old, knowing myself as I do now, I would make different decisions! But, for now, I am happy where I ended up, and I'm still making a little contribution to the cultural sector!</p>
+<h2>What's the story behind your blog?</h2>
+<p>The Wallflower Digest was born in 2022 because my previous job had stopped offering me stimulating challenges, and I was feeling overlooked, bored and trapped by a lack of opportunities! My self-esteem was taking a real hit, and I just needed something to give me a goal and focus.</p>
+<p>I have had blogs in the past when bored at work! My library assistant job in my twenties was in a tiny, quiet campus library that involved some lone working evening shifts where there would be nothing to do but sit on the enquiries desk for hours! That was how my first blog started; it was mostly a TV blog called Between Screens. That was hosted by WordPress.com (I did have custom domains, though!) and is now long deleted. I used to write recaps and reviews of my favourite TV shows, movies and video games. This was mostly <em>Made in Chelsea, Game of Thrones, Veronica Mars</em> and <em>Mass Effect</em>! I also played around briefly with a fiction blog and a sewing blog, but those were short-lived.</p>
+<p>This time around, I wanted my blog to be somewhere to exercise my writing skills and have a chance to play around with CSS and maybe other website bits if I wanted. </p>
+<p>When I picked the name, I wasn't sure what the blog was going to be, but I think I managed to nail it. I wanted something that felt like me. I've always been very shy, but I was painfully so as a child, and someone (probably a teacher) referred to me as a 'wallflower', and that term got stuck in my young brain. </p>
+<p>I don't know if the meaning will translate for those who aren't native English speakers, so as a definition, a "wallflower" can mean someone with an introverted personality type (or social anxiety) who will usually distance themselves from the crowd and actively avoid being in the limelight. </p>
+<p>Plus, I like flowers! I recently planted some wallflowers (Erysimum) in my garden!</p>
+<p>And then a ‘digest’ is a compilation or summary of information, and my blog is a mess of different topics. I share as I digest the things I read, learn and experience in my life. </p>
+<p>When I got started, I spun my wheels for a bit in the mud of terrible advice for new bloggers. You know, this strange idea that a blog has to make money, and therefore has to solve problems for an audience! This is why some of my oldest posts have a recognisable Content formatting of SEO friendly headings and keywords! But I eventually realised the fun and mental stimulation I needed came from just doing whatever I wanted, and that an Audience wasn't important to me (actually, I fear that!)! And, more importantly, the blogs I was finding that I enjoyed the most were messy little personal blogs where people shared snippets of their lives. </p>
+<p>These days, I remind myself that I can do what I want. I see it now as a loosely defined project to help me distil the things that resonate, and help me to understand myself a little better. I share whatever I want to, which currently is book reviews, updates on my life, occasionally progress with my garden (though I've been too busy this year!), and my embroidery or other craft projects.</p>
+<p>Lately - trying to be less of a wallflower -  I've been taking part in more blogging community linkups and tag memes, which have been a lot of fun to answer prompts, but also for "blog hopping" and seeing who else is out there! I'm hoping to branch out from the book-based ones to other topics and blog hop beyond the borders of the book community, or the more tech-focused folks I found on Mastodon. I am toying with the idea of creating my own if I can't find an existing one that feels right!</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>Life has been very busy recently, so the blog has really been ticking over on book reviews and joining in with the book blogger community's Top Ten Tuesday weekly link-up (currently hosted by <a href="https://www.thatartsyreadergirl.com/top-ten-tuesday/">ArtsyReaderGirl</a>). It's hard to find the time for more "creative" posts at the moment, but I do try to put really effort into my TTT and try to find something to say about the books I choose to list.</p>
+<p>Sometimes I get struck by inspiration - usually a topic that keeps recurring in my life somehow - and I'll start a draft, or just jot some thoughts into a note and eventually find the time to work it into something that makes sense! That is the biggest challenge when I work 40 hours a week and have to do all the other responsibilities of life, relationships and health things that come with being an adult.</p>
+<p>I mean, I've been trying to find the time and mental bandwidth to write a full review with my analysis of the book Rouge by Mona Awad since January (I loved it, and I'm still thinking about it)! But it's still in drafts, and I think I need to read it a third time now. It's like a running joke that I'll forever talk about it and never get it posted! </p>
+<p>I also post life updates semi-regularly. Those posts are just a catch-up on whatever is going on - how my walking/move more challenges are going, TV or movies, anything else I feel like! I love to read that kind of 'slice of life' content from other people.</p>
+<p>Now and again, I'll share something about my social anxiety struggles. I'm always battling this, and I find writing out my experiences and feelings helps to work it out of my system.</p>
+<p>As for the process, my drafts usually get entered straight into the Jetpack app on my phone. I used Obsidian as my digital notes app for general thoughts and inspiration, and all my book reviews and ebook highlights get synced into there, too. What I've got going on with Obsidian is its own little project (essentially as my own personal database!). Most of the time, I post whenever I've finished writing because time is too short to proofread, and that's why my blog is full of typos and errors! I do re-read things later on and correct mistakes I spot, but that's as far as it goes!</p>
+<p>I also love to use Canva to create graphics. Every book review gets a little graphic with a summary; those originated in my short-lived attempt to get involved with Bookstagram, and I enjoyed making them so much that I've kept them for the blog. I am also a visual person, so it is important to me that I like the look of my website!</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I think my creativity relies more on my mental state than my physical space! Definitely, my menstrual cycle comes with days where I'm buzzing with ideas and writing is easier, and I wake up with ideas first thing in the morning before the responsibilities of the day have taken over. </p>
+<p>I do need quite though. I can't think with background chatter, I have no idea how people manage to work in noisy cafes! They make me instantly tired, and my brain shuts down.</p>
+<p>Writing is easiest when I am on my PC with a full keyboard and dual monitors, but because I work from home full-time at the same desk, I don't like to be pinned in the same spot in my evenings, shut away from my husband, so PC time only really happens on the weekend. More often, I write on my phone; I also have an iPad, but if I'm typing on mobile, I'm faster on my phone. </p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I am hosted by Hostingr, which has been fine and easy to use for a non-techie like me. My CMS is WordPress, it came installed and I find it familiar and easy to use with a big community. I find there is usually a plugin to solve most problems!</p>
+<p>I have no problem with the block editor, and I love that I can hook my blog up to the wider WordPress.com world to more easily connect with other bloggers.  I use the Jetpack app for quick editing and posting, as well as my RSS feed, and to explore and discover new blogs through tags. I honestly think Jetpack gets underrated as a discovery tool!</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I don't think I would change anything about my blog. With hindsight, I do wish I'd wasted less time down the SEO rabbit hole and removed the pre-installed AISEO plugin earlier! I could also have figured out how I connect my blog to WordPress/Jetpack sooner to find other bloggers.</p>
+<p>I would not have made my thoughts on Atomic Habits so SEO friendly... it got caught in Google's net and now I regret how well it does search results. There is a crowd of James Clear fans who get upset when you don't praise it as the life-changing work of a genius they hold it up to be. Every few months, I get something that makes me consider turning off the comments.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>I got a New Year deal with Hostingr for 4 years of hosting at a ridiculous discount, so I paid that all upfront, and I think it worked out about £3 a month. I'm going to have to work out what to do when that's up for renewal! I think my domain is £8.99 a year. </p>
+<p>That is all the cost; I don't make any money from my blog, nor do I plan to. This is just a hobby, and hobbies (just like my embroidery and gardening) often cost money! Monetising would immediately make it stressful for me and take the fun out of it.</p>
+<p>I don't mind if other people want to monestise as long as it's not obnoxious. I don't like newsletters where they put some things behind a paywall but not everything, or they put half of it behind the paywall. Those are annoying when they come through my RSS feed, and usually I end up unsubscribing. </p>
+<p>I've occasionally done a "buy me a coffee" kind of one-off donation to bloggers, or the pay-what-you-like subscription model, where I can just do a couple of quid a month to show support. Or if they're an artist and they have a shop, I buy something small if the postage to the UK is reasonable.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>My favourite blogs are the ones where I can feel the person writing it, and their personality and passions come through. I want to read human thoughts, not Content! I like details about people's lives with the things they love (books, TV shows, comics, flowers, whatever!), or might share that they're having a hard time with something and how they're coping.</p>
+<p><a href="https://mycomicrelief.wordpress.com/">Michael at My Comic Relief</a> writes wonderful, passionate and compassionate posts about his favourite TV shows, movies and comic books. When Doctor Who and The Acolyte were on, I was watching my RSS feed for these thoughts every week! I always find his perspective interesting and his enthusiasm infectious. </p>
+<p><a href="https://dragonrambles.com/">Dragon Rambles</a> is a mix of personal posts and book reviews written by Nic in New Zealand. I think she's been blogging for many years. I really love it when she shares new books she finds for her collection of retro science fiction and fantasy! I have no interest in ever reading any of them myself, but I love to read about them and her collection!</p>
+<p>I also enjoy reading <a href="https://elizabethtai.com/start-here/">Elizabeth Tai</a>. She is based in Malaysia and was one of the first bloggers I found on Mastodon in my super early days, and it was through her that I learned popular Indie Web concepts like digital gardens and POSSE. I enjoy the fact that she writes about all kinds of things! I am actually surprised she's not been featured yet!</p>
+<p>I think Michael, Nic or Liz would be great to interview. Michael and Nic, I found in the land of WordPress, and may not even be aware of this project!</p>
+<p>My other 3 favourites you've already featured, but I'll mention them because I think they're great!</p>
+<p><a href="https://veronique.ink/">Veronique</a> has been a favourite for a long time! Her writing always feels intimate, and I love the little snippet she shares from her life, her artwork and her passion for zines. She also mentioned my blog in her interview, and I can't tell you how thrilled I was! I had to try to explain the whole thing to my husband, who does not read blogs!</p>
+<p><a href="https://winnielim.org/">Winnie Lim</a> is another long-time favourite of mine. Her blog is also very intimate and thoughtful, and I am always eager to read about her life and little adventures. </p>
+<p>And also Tracy <a href="https://tracydurnell.com/">Durnell's Mind Garden</a> is like what I think I'd like my blog to be, if I had the time and inclination to properly organise myself! I know she's also had a P&amp;B feature because that's how I found her. I love her weekly notes. I don't know why I enjoy reading what music she listened to and what meals she had that week, but I do!</p>
+<p>This one is a silly one, and maybe a bit of a blast from the past because I used to follow <a href="https://www.cakewrecks.com">Cake Wrecks</a> way back in the day (like 15 years ago!), and when I was collecting RSS feeds of blogs again a couple of years ago, I was so happy it was still around! Unlike Regresty, RIP (and RIP to what Esty used to be!). Anyway, there is something about badly decorated cakes that I find deeply hilarious (and bad art in general), and these collections of wonky cakes made by so-called professional bakers are a regular source of joy.</p>
+<h2>Final question: Is there anything you want to share with us?</h2>
+<p>I don't have anything in particular to share. I am just so excited to have been asked to take part!</p>
+<p>I hope everyone keeps on doing what they love and blogging about it in the way that they want! I am thankful to have found that the 'blogosphere' is still alive and well, and for me, it's such a peaceful refuge away from the overwhelming noise of social media.</p>
+<p>I am also hugely appreciative of projects like this that make it easier for bloggers to find each other, so thank you, Manu!</p>        <hr />
+        <h3>Keep exploring</h3>
+        <p>Now that you're done reading the interview, <a href="https://thewallflowerdigest.co.uk">go check the blog</a> and <a href="https://thewallflowerdigest.co.uk/feed/">subscribe to the RSS feed</a>.</p>
+        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com" target="_blank">114 interviews</a>.</p>
+        <p>Make sure to also say thank you to <a href="https://www.lkhrs.com/">Luke Harris</a> and the other 124 supporters for making this series possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Oct 2025 13:00:00 +0200</pubDate>
+<pubDate>Fri, 17 Oct 2025 13:00:00 +0200</pubDate>
+</item>
 
 <item>
 <title>When a side project finds you</title>

@@ -12186,3 +12186,20 @@ Existing_entries: 634
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-15 12:07:01.205197
+------------------------------------------------------
+Started: 2025-11-10 05:15:50.141573
+Existing_entries: 634
+Fetching from https://manuelmoreale.com/feed/rss
+Append: [Robb Knight](https://manuelmoreale.com/interview/robb-knight)
+Append: [A moment with a decidedly less gloomy church](https://manuelmoreale.com/thoughts/a-moment-with-a-decidedly-less-gloomy-church)
+Append: [Frank Chimero](https://manuelmoreale.com/interview/frank-chimero)
+Append: [IndieWeb Carnival: On Ego](https://manuelmoreale.com/thoughts/indieweb-carnival-on-ego)
+Append: [Romina Malta](https://manuelmoreale.com/interview/romina-malta)
+Append: [Look, another AI browser](https://manuelmoreale.com/thoughts/look-another-ai-browser)
+Append: [10 pointless facts about me](https://manuelmoreale.com/thoughts/10-pointless-facts-about-me)
+Append: [A newsletter-related PSA](https://manuelmoreale.com/thoughts/a-newsletter-related-psa)
+Append: [Five least favourite tech topics](https://manuelmoreale.com/thoughts/five-least-favourite-tech-topics)
+Append: [Alice](https://manuelmoreale.com/interview/alice)
+append_entries: 10
+Finish: 2025-11-10 05:15:51.134628
+Wrote digest feed: docs/manuel-moreale-digest.xml

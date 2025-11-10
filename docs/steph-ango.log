@@ -42184,3 +42184,13 @@ Existing_entries: 77
 Fetching from https://stephanango.com/feed.xml
 append_entries: 0
 Finish: 2025-04-15 12:06:27.130233
+------------------------------------------------------
+Started: 2025-11-10 05:15:16.293594
+Existing_entries: 77
+Fetching from https://stephanango.com/feed.xml
+Append: [Use the saw, fear the saw](https://stephango.com/saw)
+Append: [If you're remote, ramble](https://stephango.com/ramblings)
+Append: [How I use Obsidian](https://stephango.com/vault)
+append_entries: 3
+Finish: 2025-11-10 05:15:16.836733
+Wrote digest feed: docs/steph-ango-digest.xml
