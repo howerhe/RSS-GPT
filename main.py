@@ -9,6 +9,7 @@ import re
 import datetime
 import requests
 from fake_useragent import UserAgent
+from types import SimpleNamespace
 #from dateutil.parser import parse
 
 def get_cfg(sec, name, default=None):
@@ -133,16 +134,18 @@ def filter_entry(entry, filter_apply, filter_type, filter_rule):
     else:
         raise Exception('filter_type not supported')
 
-def read_entry_from_file(sec):
+def read_entry_from_file(sec, suffix=''):
     """
-    This function is used to read the RSS feed entries from the feed.xml file.
+    This function is used to read the RSS feed entries from the saved feed file.
 
     Args:
         sec: section name in config.ini
+        suffix: pass '-digest' to read the digest file, '' (default) to read visited file.
     """
     out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
+    filename = out_dir + f'{suffix}.xml'
     try:
-        with open(out_dir + '.xml', 'r') as f:
+        with open(filename, 'r') as f:
             rss = f.read()
         feed = feedparser.parse(rss)
         return feed.entries
@@ -334,6 +337,47 @@ def output(sec, language):
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
+
+    # --- Build and write public digest feed (separate file) ---
+    digest_file = out_dir + '-digest.xml'
+    try:
+        # build one digest item combining all new append_entries (if any)
+        digest_entry = None
+        if append_entries:
+            parts = []
+            for it in append_entries:
+                text = getattr(it, 'summary', None) or (getattr(it, 'article', '')[:800] + '...')
+                parts.append(f'<h3><a href="{it.link}">{it.title}</a></h3>\n<div>{text}</div>\n<hr/>')
+            digest_html = '\n'.join(parts)
+            digest_entry = SimpleNamespace()
+            digest_entry.title = f"Digest - {get_cfg(sec, 'name')} - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+            digest_entry.link = digest_file + '#digest-' + datetime.datetime.now().strftime('%Y%m%d%H%M%S')
+            digest_entry.article = digest_html
+            digest_entry.summary = None
+
+        # read previous digest entries (history) and prepend new digest entry
+        prev_digest = read_entry_from_file(sec, suffix='-digest')
+        new_digest_entries = []
+        if digest_entry:
+            new_digest_entries.append(digest_entry)
+        new_digest_entries.extend(prev_digest)
+        new_digest_entries = truncate_entries(new_digest_entries, max_entries=max_entries)
+
+        # render digest template (reuse template.xml for digest)
+        try:
+            template = Template(open('template.xml').read())
+            # feed the digest items as append_entries; no existing_entries
+            rss_d = template.render(feed=feed, append_entries=new_digest_entries, existing_entries=[])
+            with open(digest_file, 'w') as f:
+                f.write(rss_d)
+            with open(log_file, 'a') as f:
+                f.write(f'Wrote digest feed: {digest_file}\n')
+        except Exception as e:
+            with open(log_file, 'a') as f:
+                f.write(f"error when rendering digest xml ({digest_file}): {e}\n")
+    except Exception as e:
+        with open(log_file, 'a') as f:
+            f.write(f"error building digest: {e}\n")
 
 try:
     os.mkdir(BASE)
