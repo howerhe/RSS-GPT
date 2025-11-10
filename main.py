@@ -346,11 +346,11 @@ def output(sec, language):
         if append_entries:
             parts = []
             for it in append_entries:
-                text = getattr(it, 'summary', None) or (getattr(it, 'article', '')[:800] + '...')
-                parts.append(f'<h3><a href="{it.link}">{it.title}</a></h3>\n<div>{text}</div>\n<hr/>')
-            digest_html = '\n'.join(parts)
+                text = getattr(it, 'summary', None) or getattr(it, 'article', '')
+                parts.append(f'<h3><a href="{it.link}">{it.title}</a></h3><div>{text}</div>')
+            digest_html = ''.join(parts)
             digest_entry = SimpleNamespace()
-            digest_entry.title = f"Digest - {get_cfg(sec, 'name')} - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+            digest_entry.title = f"{feed.feed.title.replace('&', '&amp;')} - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
             digest_entry.link = digest_file + '#digest-' + datetime.datetime.now().strftime('%Y%m%d%H%M%S')
             digest_entry.article = digest_html
             digest_entry.summary = None
