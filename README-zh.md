@@ -52,12 +52,4 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://brett.trpstra.net/brettterpstra -> https://howerhe.github.io/RSS-GPT/brett-terpstra.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://howerhe.github.io/RSS-GPT/appinn.xml
-- https://rknight.me/feed.xml -> https://howerhe.github.io/RSS-GPT/robb-knight.xml
-- https://stephanango.com/feed.xml -> https://howerhe.github.io/RSS-GPT/steph-ango.xml
-- https://lopespm.com/atom.xml -> https://howerhe.github.io/RSS-GPT/byte-tank.xml
-- https://rsshub.app/paulgraham/articles -> https://howerhe.github.io/RSS-GPT/paul-graham.xml
-- https://nesslabs.com/feed -> https://howerhe.github.io/RSS-GPT/ness-labs.xml
-- https://manuelmoreale.com/feed/rss -> https://howerhe.github.io/RSS-GPT/manuel-moreale.xml
 - https://www.solidot.org/index.rss -> https://howerhe.github.io/RSS-GPT/solidot.xml
