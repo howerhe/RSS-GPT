@@ -36,3 +36,18 @@ Append: [苹果下架 Blued 和翻咔](https://www.solidot.org/story?sid=82761)
 append_entries: 8
 Finish: 2025-11-10 15:12:01.756051
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-11 15:11:01.735386
+Existing_entries: 24
+Fetching from https://www.solidot.org/index.rss
+Append: [美国政府考虑禁售普联路由器](https://www.solidot.org/story?sid=82776)
+Append: [中国 CO2 排放量连续 18 个月持平或下降](https://www.solidot.org/story?sid=82775)
+Append: [加拿大麻疹疫情持续了一年](https://www.solidot.org/story?sid=82774)
+Append: [Apple TV 不会推出基于广告的订阅服务，不会收购华纳](https://www.solidot.org/story?sid=82773)
+Append: [被 HR 支配的世界](https://www.solidot.org/story?sid=82772)
+Append: [商业间谍软件利用三星手机漏洞攻击中东用户](https://www.solidot.org/story?sid=82771)
+Append: [丹麦达成协议禁止 15 岁以下儿童使用社交媒体](https://www.solidot.org/story?sid=82770)
+Append: [Linux 内核项目讨论使用生成式 AI 的政策](https://www.solidot.org/story?sid=82769)
+append_entries: 8
+Finish: 2025-11-11 15:11:03.581625
+Wrote digest feed: docs/solidot-digest.xml
