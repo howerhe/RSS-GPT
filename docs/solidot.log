@@ -51,3 +51,19 @@ Append: [Linux 内核项目讨论使用生成式 AI 的政策](https://www.solid
 append_entries: 8
 Finish: 2025-11-11 15:11:03.581625
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-12 15:11:12.630603
+Existing_entries: 32
+Fetching from https://www.solidot.org/index.rss
+Append: [鲁大师软件被发现会绕过北京地区投放推广](https://www.solidot.org/story?sid=82785)
+Append: [坦桑尼亚粮仓区为何儿童发育迟缓？](https://www.solidot.org/story?sid=82784)
+Append: [太阳释放出多个 X 级耀斑，产生 G4 级地磁风暴](https://www.solidot.org/story?sid=82783)
+Append: [英国造船业为何衰落](https://www.solidot.org/story?sid=82782)
+Append: [AI 数据中心到 2030 年将让美国的能源和水资源承压](https://www.solidot.org/story?sid=82781)
+Append: [新项目致力于改进 Linux 运行经典 Windows 游戏的兼容性](https://www.solidot.org/story?sid=82780)
+Append: [Jabber Zeus 首脑在狱中接受采访](https://www.solidot.org/story?sid=82779)
+Append: [杀虫剂可能损伤睾丸](https://www.solidot.org/story?sid=82778)
+Append: [Rocket Lab 的 Neutron 火箭推迟到明年初发射](https://www.solidot.org/story?sid=82777)
+append_entries: 9
+Finish: 2025-11-12 15:11:14.171700
+Wrote digest feed: docs/solidot-digest.xml

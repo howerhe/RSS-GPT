@@ -5,15 +5,122 @@
 <link>https://www.solidot.org</link>
 
 <item>
+<title>鲁大师软件被发现会绕过北京地区投放推广</title>
+<link>https://www.solidot.org/story?sid=82785</link>
+<guid>https://www.solidot.org/story?sid=82785</guid>
+<content:encoded><![CDATA[
+
+安全公司火绒报告，曾经的装机软件鲁大师被发现会绕过北京地区投放推广。安全研究人员发现，包含成都奇鲁科技有限公司、天津杏仁桉科技有限公司在内的多家软件厂商，正通过云控配置方式构建大规模推广产业链，远程开启推广模块以实现流量变现。这些厂商通过云端下达配置指令，动态控制软件的推广行为，不同公司及其产品的推广方式各有差异。以成都奇鲁科技旗下的鲁大师为例，其推广行为涵盖但不限于：利用浏览器弹窗推广"传奇"类页游、在未获用户明确许可的情况下弹窗安装第三方软件、篡改京东网页链接并插入京粉推广参数以获取佣金、弹出带有渠道标识的百度搜索框、植入具有推广性质且伪装为正常应用的浏览器扩展程序等。以鲁大师为例，软件会根据用户所在地区针对性的投放推广云控配置，对北京地区的用户会减少或不下发推广相关的云控配置，它还会通过遍历检测当前系统信息的方式判断是否为技术人员、是否在虚拟机中、是否为业务会员等相关数据，从而针对性调整云控配置。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 12 Nov 2025 14:10:14 +0800</pubDate>
+<pubDate>Wed, 12 Nov 2025 14:10:14 +0800</pubDate>
+</item>
+<item>
+<title>坦桑尼亚粮仓区为何儿童发育迟缓？</title>
+<link>https://www.solidot.org/story?sid=82784</link>
+<guid>https://www.solidot.org/story?sid=82784</guid>
+<content:encoded><![CDATA[
+
+坦桑尼亚的“粮仓地区（BBRs）”是国家粮食供应的核心，贡献了全国超 38% 的玉米产量。然而 2018 年全国营养调查显示了一个矛盾现象：该国儿童发育迟缓和严重营养不良率最高的五个地区，全部位于这些农业高产区域。这一“粮仓悖论”引发关注：为何粮食主产区的儿童反而比非主产区更容易出现生长问题？中国农业大学和坦桑尼亚的研究人员发现背后的原因是饮食单一。研究发现，在非粮仓地区，粮食产量增加确实带来了更丰富的家庭饮食，这与营养改善直接相关；但在粮仓地区，尽管产量更高，家庭饮食多样性却没有显著提升。这可能与粮仓地区农业商业化程度高有关——农户更倾向于种植单一经济作物并出售，而非为自家消费种植多样化食物，导致“高产却饮食单一”的现象。研究指出，单纯提高粮食产量不足以解决儿童营养不良的问题，尤其是在农业商业化程度高的地区。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 12 Nov 2025 13:49:40 +0800</pubDate>
+<pubDate>Wed, 12 Nov 2025 13:49:40 +0800</pubDate>
+</item>
+<item>
+<title>太阳释放出多个 X 级耀斑，产生 G4 级地磁风暴</title>
+<link>https://www.solidot.org/story?sid=82783</link>
+<guid>https://www.solidot.org/story?sid=82783</guid>
+<content:encoded><![CDATA[
+
+太阳黑子区域 AR4274 连续三天释放出 X 级耀斑（X 级是最高强度的耀斑），包括一个 X1.7 级、一个 X1.2 级和一个 X5.1 级耀斑，后者是 25 太阳周期至今释放的第六强耀斑和今年释放的最强耀斑。X5.1 级耀斑释放的日冕物质抛射将于 11 月 13 日抵达地球，而之前耀斑释放的日冕物质抛射已经抵达地球，产生了 G4 级地磁风暴，世界多地都观察到了红色的极光。红色是太阳高能粒子撞击大气层氧原子产生的。太阳向地球喷射出的部分粒子能量极强，甚至穿透大气层直达地面。世界各地的中子监测器都探测到了这次名为 Ground Level Event(GLE)的事件，如此强度的 GLE 极为罕见，每个太阳周期只会发生一到两次。上一次类似强度的 GLE 事件发生在 2006 年 12 月 13 日。这意味着该事件是二十年一遇。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 12 Nov 2025 13:37:24 +0800</pubDate>
+<pubDate>Wed, 12 Nov 2025 13:37:24 +0800</pubDate>
+</item>
+<item>
+<title>英国造船业为何衰落</title>
+<link>https://www.solidot.org/story?sid=82782</link>
+<guid>https://www.solidot.org/story?sid=82782</guid>
+<content:encoded><![CDATA[
+
+从美国内战结束到 1950 年代末，英国一直是世界最大的造船国之一。英国造船厂的产量在 1890 年代占全球船舶吨位的 80%，到第一次世界大战前夕，英国市场份额降至了 60%，但接下来的几十年里它仍然是世界最大的造船国之一。二战结束后，英国造船业前景看起来一片光明，因为大多数国家的造船业都受到了战争的重创，因此战后最初几年，英国造船吨位超过了世界其他国家的总和。但这种成功只是昙花一现。英国造船吨位从 1947 年占世界总吨位的 57% 降至十年后的 17%。到 1970 年代其产量不足世界总产量的 5%，到 1990 年代跌破 1%。2023 年英国完全停止了商船建造。英国造船业的衰落是因为其传统模式无法适应现代造船业的转型。英国造船业的生产体系高度依赖受工会培训的熟练劳动力，最大限度减少对昂贵基础设施或设备的需求，将管理费用降至最低，从而有效降低成本，劳动力规模可根据需求灵活调整，工人可以根据工作需要在不同船厂之间流动。这种生产体系在几十年内运行良好，但到了二战后开始瓦解。英国船厂拒绝了转型，因为投资新造船基础设施的风险太高，加上其所在港口城市也无法允许他们扩大规模，它们只能固守原有的生产方式，被世界其它地区超越，一开始是瑞典，接着是日本、韩国和中国。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 12 Nov 2025 00:06:21 +0800</pubDate>
+<pubDate>Wed, 12 Nov 2025 00:06:21 +0800</pubDate>
+</item>
+<item>
+<title>AI 数据中心到 2030 年将让美国的能源和水资源承压</title>
+<link>https://www.solidot.org/story?sid=82781</link>
+<guid>https://www.solidot.org/story?sid=82781</guid>
+<content:encoded><![CDATA[
+
+康奈尔大学研究人员分析了 AI 数据中心对美国环境的影响。研究团队发现，按照目前的增长速度，到 2030 年 AI 数据中心每年将向大气中排放 2400-4400 万吨二氧化碳，相当于美国公路增加 500-1000 万辆汽车的排放量。AI 数据中心每年还将消耗 7.31-11.25 亿立方米的水，相当于 600-1000 万美国家庭的年用水量。这些累积效应将使 AI 行业实现净零排放的目标遥不可及。由于很多数据中心建在缺水地区，如果在水资源和能源丰富的地区建数据中心将有助于减轻对环境的影响。研究显示如果能利用智能选址、加快电网脱碳和提高运行效率，二氧化碳排放将减少约 73%，水资源消耗减少 86%。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 11 Nov 2025 23:06:03 +0800</pubDate>
+<pubDate>Tue, 11 Nov 2025 23:06:03 +0800</pubDate>
+</item>
+<item>
+<title>新项目致力于改进 Linux 运行经典 Windows 游戏的兼容性</title>
+<link>https://www.solidot.org/story?sid=82780</link>
+<guid>https://www.solidot.org/story?sid=82780</guid>
+<content:encoded><![CDATA[
+
+Valve 过去几年一直通过改进 Proton 兼容层改善 Windows 游戏运行在 Linux 操作系统上的兼容性。但 Proton 兼容层只向后支持到使用 Direct3D 8 开发的游戏，而 Direct3D 8 是微软在 2000 年 11 月发布的图形 API。现在名为 d7vk 的项目正致力于兼容为 Direct3D 7 开发的游戏。Direct3D 7 于 1999 年 9 月发布， PC Gaming Wiki 上列出了逾 400 款使用 D3D7 API 开发的游戏，其中包括《Escape from Monkey Island》、《Arx Fatalis》和《Hitman: Codename 47》等经典游戏。Wine 的 WineD3D 兼容层已经尝试以某种形式支持 D3D7 API，d7vk 不是基于 WineD3D，它声称很多游戏的性能比 WineD3D 表现更出色。d7vk 项目作者 WinterSnowfall 表示，由于 D3D7 API 互操作性过于糟糕完美兼容不太可能，该项目也不太可能兼容更古老的 Direct3D 版本。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 11 Nov 2025 22:00:35 +0800</pubDate>
+<pubDate>Tue, 11 Nov 2025 22:00:35 +0800</pubDate>
+</item>
+<item>
+<title>Jabber Zeus 首脑在狱中接受采访</title>
+<link>https://www.solidot.org/story?sid=82779</link>
+<guid>https://www.solidot.org/story?sid=82779</guid>
+<content:encoded><![CDATA[
+
+网络犯罪组织 Jabber Zeus 头目 Vyacheslav“Tank”Penchukov 于 2022 年前往瑞士会见妻子途中被捕，去年被美国法院判处 18 年监禁和超过 7300 万美元赔偿金。他在科罗拉多州的监狱里首次接受了记者的采访，谈论了他的网络犯罪生涯。他攀登到网络犯罪世界的顶峰不是因为技术精湛而是因为魅力，他笑说自己非常友善容易交朋友。他能长期逍遥法外据说就是依靠其人脉。他在两个不同时期分别领导了两个网络犯罪组织。他先是领导 Jabber Zeus 通过部署银行木马 Zeus 从受害者银行账户里窃取资金（Jabber 这一名字来自他们使用的消息应用），然后在 2018-2022 年之间进入勒索软件行业。Penchukov 说，2000 年代末期他们在乌克兰顿涅茨克市中心的一间办公室里工作，每天办公六七个小时，从海外受害者窃取金钱，他经常在一天结束时以 DJ Slava Rich 的艺名在城里表演。他当时只有 20 多岁，买车就像买衣服一样，他拥有 6 辆昂贵的德国汽车。警方通过监听 Jabber 以及他透露的女儿出生信息识别了其身份，FBI 领导的 Trident Breach 行动逮捕了多名 Jabber Zeus 成员，但 Penchukov 靠着有人通风报信和德国改装车奥迪 S8（装了兰博基尼引擎）逃脱了。他低调了一阵时间，然后做起了煤炭生意，但 FBI 并没有忘记他，他被列入了通缉名单。因为他的富有众所周知当地官员不时来敲诈。2014 年俄罗斯入侵克里米亚毁掉了他的煤炭生意，加上遭到当地官员的勒索，他开始重操旧业，做起了勒索软件生意，成为了 Maze、Egregor 和 Conti 等勒索软件组织的主要盟员。他领导了名为 IcedID 的勒索组织。他表示自己在网络犯罪时不会去考虑受害者，他唯一流露出悔意是在谈到一家残疾儿童慈善机构遭受勒索软件攻击时。他真正后悔的似乎是对同伙过于信任，这最终导致他落网。“在网络犯罪圈里，你交不到朋友，因为第二天你的朋友会被捕，然后变成告密者。”
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 11 Nov 2025 21:07:09 +0800</pubDate>
+<pubDate>Tue, 11 Nov 2025 21:07:09 +0800</pubDate>
+</item>
+<item>
+<title>杀虫剂可能损伤睾丸</title>
+<link>https://www.solidot.org/story?sid=82778</link>
+<guid>https://www.solidot.org/story?sid=82778</guid>
+<content:encoded><![CDATA[
+
+乔治梅森大学的研究人员回顾了 2005 年至 2025 年间进行的 21 项实验研究，发现有一致的证据表明，接触杀虫剂会对人类健康产生负面影响，特别是男性生殖健康。这项研究集中于新烟碱类杀虫剂，这是全球使用最广泛的一类杀虫剂。这种化学品通常用于农作物，它们会被土壤、水和植物组织吸收。因此残留物可能会留在人类食用的食物中。为了了解潜在的健康影响，研究团队回顾了动物研究中的数据，这些研究探讨了神经刺激如何影响雄性啮齿类动物的生殖健康。该研究进一步证明，现代农业化学品虽然对作物保护至关重要，但也可能带来看不见的风险，因而需要更密切的科学研究。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 11 Nov 2025 20:18:42 +0800</pubDate>
+<pubDate>Tue, 11 Nov 2025 20:18:42 +0800</pubDate>
+</item>
+<item>
+<title>Rocket Lab 的 Neutron 火箭推迟到明年初发射</title>
+<link>https://www.solidot.org/story?sid=82777</link>
+<guid>https://www.solidot.org/story?sid=82777</guid>
+<content:encoded><![CDATA[
+
+Rocket Lab CEO Pete Beck 在周一的财报电话会议上宣布该公司的中型火箭 Neutron 将推迟到明年初发射。Rocket Lab 是在 2021 年宣布了挑战 SpaceX Falcon 9 火箭的 Neutron 火箭，能将 8 吨重的负荷发射到低地球轨道，第一级是完全可重复使用的，能着陆在海上浮动平台，原计划 2024 年首飞，但之后推迟到 2025 年，现在进一步推迟到 2026 年。Beck 表示 Neutron 火箭将于明年第一季度运至弗吉尼亚州 Wallops Flight Facility 的 2 号发射台，之后择时发射。他表示不会被任意设定的期限所束缚，不会匆忙发射，想要确保首次试飞就成功入轨。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 11 Nov 2025 18:29:57 +0800</pubDate>
+<pubDate>Tue, 11 Nov 2025 18:29:57 +0800</pubDate>
+</item>
+
+<item>
 <title>美国政府考虑禁售普联路由器</title>
 <link>https://www.solidot.org/story?sid=82776</link>
 <guid>https://www.solidot.org/story?sid=82776</guid>
 <content:encoded><![CDATA[
-
 美国多个政府机构以国家安全风险提议禁售普联路由器（TP-Link）。总部位于美国加州的 TP-Link Systems 否认它对美国国家安全构成风险的指控，称它已经与总部位于中国的 TP-Link Technologies 完全切割，它在新加坡有分公司，在越南有生产基地，除芯片组外所有产品的研发、设计、生产和制造均自主完成。TP-Link Systems 发言人称，TP-Link 是一家美国公司，致力于为美国及其它市场提供高质量安全的产品。TP-Link 称它的竞争对手也从中国采购零部件，中国以及其它国家的 APT 组织也在利用思科和 Netgear 等竞争对手产品中的漏洞。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Nov 2025 18:04:19 +0800</pubDate>
 <pubDate>Tue, 11 Nov 2025 18:04:19 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +128,9 @@
 <link>https://www.solidot.org/story?sid=82775</link>
 <guid>https://www.solidot.org/story?sid=82775</guid>
 <content:encoded><![CDATA[
-
 分析显示中国 CO2 排放量连续 18 个月持平或下降。这可能意味着作为全球最大的排放国，中国提前实现了 CO2 排放量达到峰值的目标。今年第三季度太阳能和风能装机容量分别增长 46% 和 11%，意味着即使电力需求不断增长，中国能源行业的排放量也能保持平稳。今年前九个月，中国新增太阳能装机容量 240GW，新增风能装机容量 61GW，有望在 2025 年再次刷新可再生能源装机容量纪录。去年中国新增太阳能装机容量 333GW，超过世界其它地区总和。数据还显示，部分经济领域的排放量逆势增长：第三季度石油需求和交通运输行业排放量下降 5%，但塑料等化学品产量激增导致其它领域排放量增长 10%。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Nov 2025 15:51:15 +0800</pubDate>
 <pubDate>Tue, 11 Nov 2025 15:51:15 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +138,9 @@
 <link>https://www.solidot.org/story?sid=82774</link>
 <guid>https://www.solidot.org/story?sid=82774</guid>
 <content:encoded><![CDATA[
-
 疫苗接种帮助加拿大在 1998 年消灭了麻疹，然而由于针对麻疹、腮腺炎和风疹（MMR）疫苗的反疫苗运动导致接种率下降，北美洲地区再次爆发了麻疹疫情，当麻疹疫情在一个国家持续超过一年，它就失去了麻疹消除国的地位。本周一 泛美卫生组织(PAHO)宣布加拿大的麻疹疫情已经持续了一年，它不再是麻疹消除国。加拿大的麻疹大范围传播始于 2024 年 10 月。截至 2025 年 11 月 1 日，加拿大今年至今统计了 5162 例麻疹病例。加拿大并非唯一一个面临麻疹疫情的国家。美国和墨西哥正经历类似的疫情爆发。美国自年初以来报告了至少 1618 例麻疹病例，墨西哥至少有5185 例。泛美卫生组织报告称，截至 11 月 7 日共收集了 10 个国家的 12593 例确诊麻疹病例报告，其中 95% 发生在加拿大、墨西哥和美国。这一数字比 2024 年增加了 30 倍，已导致至少 28 人死亡：墨西哥 23 人，美国 3 人，加拿大 2 人。美国现任卫生部长就是一位反疫苗者。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Nov 2025 15:01:39 +0800</pubDate>
 <pubDate>Tue, 11 Nov 2025 15:01:39 +0800</pubDate>
 </item>
 <item>
@@ -45,11 +148,9 @@
 <link>https://www.solidot.org/story?sid=82773</link>
 <guid>https://www.solidot.org/story?sid=82773</guid>
 <content:encoded><![CDATA[
-
 负责 Apple TV 业务的 Apple Services 高级副总裁 Eddy Cue 在接受采访时表示苹果不会推出基于广告的订阅服务，至少目前没有计划，但“不会说永远不会”，如果能保持价格上相对于竞争对手服务的优势，对消费者而言避免广告更好。主要流媒体服务如 Netflix 的无广告版起步价为每月 18 美元，而迪士尼的 Disney+ 是 19 美元，Apple TV 只有 13 美元。Apple TV 目前并不盈利，Eddy Cue 没有披露订阅总数，只是称 Apple TV 增长更快，去年的观看时长比以往任何时候都高。增加订阅人数的一个简单方法是购买现有的流媒体服务和内容制作商，Warner Bros. Discovery 正在寻求出售，该公司旗下的一大订阅服务是 HBO Max。Eddy Cue 对此表示，苹果很少进行大规模收购，通常只进行小规模的收购，他不认为苹果会购买华纳公司或购买任何公司的内容授权。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Nov 2025 14:33:27 +0800</pubDate>
 <pubDate>Tue, 11 Nov 2025 14:33:27 +0800</pubDate>
 </item>
 <item>
@@ -57,11 +158,9 @@
 <link>https://www.solidot.org/story?sid=82772</link>
 <guid>https://www.solidot.org/story?sid=82772</guid>
 <content:encoded><![CDATA[
-
 经济学人报道，2024 年美国企业雇佣了 130 万 HR 员工，比十年前增长了64%。同期美国整体就业人数增长了14%。专业服务和科技公司自 2014 年以来雇佣的 HR 员工人数翻了一番。澳大利亚、英国和德国也有类似的趋势。首席人力资源官的薪酬也出现大幅增长。他们的总薪酬从占董事平均薪酬的 40% 增长至 2022 年的 70%。通用汽车首席执行官 Mary Barra 曾担任过公司的首席人力资源官。HR 员工大幅增长的趋势可能与工作环境的一系列变化相关，包括 Me Too 运动、疫情期间的远程办公，多元化倡议，企业面临更多与员工关系的监管，歧视或骚扰等职场投诉的大幅增长。歧视或骚扰指控的平均数量从 2021 年的每 1000 名员工 6 起上升到 2024 年的 15 起。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Nov 2025 13:48:45 +0800</pubDate>
 <pubDate>Tue, 11 Nov 2025 13:48:45 +0800</pubDate>
 </item>
 <item>
@@ -69,11 +168,9 @@
 <link>https://www.solidot.org/story?sid=82771</link>
 <guid>https://www.solidot.org/story?sid=82771</guid>
 <content:encoded><![CDATA[
-
 安全公司 Palo Alto Networks 披露了专门利用三星 Galaxy 手机 0day 的商业间谍软件 Landfall。Landfall 最早出现于 2024 年 7 月，所利用的漏洞编号为 CVE-2025-21042。三星于 2025 年 4 月发布了针对该漏洞的补丁，而攻击的细节直到现在才予以披露。这次攻击主要针对中东地区的特定人群，因此大部分 Galaxy 手机用户不太可能感染间谍软件。Landfall 利用的是一种零点击漏洞，入侵设备不需要用户操作。Landfall 的攻击方法是在修改过的 DNG 图像文件中嵌入恶意 ZIP 包。CVE-2025-21042 漏洞源于手机的图像处理库。
 <p></p>
 ]]></content:encoded>
-<pubDate>Mon, 10 Nov 2025 22:49:17 +0800</pubDate>
 <pubDate>Mon, 10 Nov 2025 22:49:17 +0800</pubDate>
 </item>
 <item>
@@ -81,12 +178,10 @@
 <link>https://www.solidot.org/story?sid=82770</link>
 <guid>https://www.solidot.org/story?sid=82770</guid>
 <content:encoded><![CDATA[
-
 丹麦政府上周五宣布达成协议禁止 15 岁以下儿童使用社交媒体。但禁令不会立即生效，立法程序可能还需要
 几个月时间。丹麦是继澳大利亚之后第二个限制儿童使用社交媒体的国家，澳大利亚的禁令是限制 16 岁以下儿童使用社媒，违反者将面临最高 5000 万澳元的罚款。丹麦官员并未说明如何执行禁令，可能是要求社媒使用其国家电子身份识别系统验证身份。丹麦数字事务部长 Caroline Stage 表示，丹麦 13 岁以下儿童中有 94% 在至少一个社媒平台拥有账号，10 岁以下儿童中这一比例超过半数。她表示社媒对儿童构成的风险过大。
 <p></p>
 ]]></content:encoded>
-<pubDate>Mon, 10 Nov 2025 22:31:40 +0800</pubDate>
 <pubDate>Mon, 10 Nov 2025 22:31:40 +0800</pubDate>
 </item>
 <item>
@@ -94,14 +189,11 @@
 <link>https://www.solidot.org/story?sid=82769</link>
 <guid>https://www.solidot.org/story?sid=82769</guid>
 <content:encoded><![CDATA[
-
 Linux 内核社区也无法避开生成式 AI 工具。内核开发者拟议了一份政策提议，讨论如何使用 AI 工具。提议的重点是披露 AI 工具的使用情况，提交者需要披露递交的补丁有哪些来自工具哪些来自人，因为审核者和维护者的资源是有限的，了解这些信息既有助于提高效率，又能维护提交者和审查者之间的信任，对内核的健康发展至关重要。拟议的政策不针对使用工具修正拼写和语法等简单任务，而是针对递交的补丁包含大量工具生成内容。
 <p></p>
 ]]></content:encoded>
 <pubDate>Mon, 10 Nov 2025 20:35:14 +0800</pubDate>
-<pubDate>Mon, 10 Nov 2025 20:35:14 +0800</pubDate>
 </item>
-
 <item>
 <title>美国就业状况发生改变</title>
 <link>https://www.solidot.org/story?sid=82768</link>
