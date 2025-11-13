@@ -67,3 +67,17 @@ Append: [Rocket Lab 的 Neutron 火箭推迟到明年初发射](https://www.soli
 append_entries: 9
 Finish: 2025-11-12 15:11:14.171700
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-13 15:12:18.140646
+Existing_entries: 41
+Fetching from https://www.solidot.org/index.rss
+Append: [Valve 宣布 Linux 游戏机 Steam Machine](https://www.solidot.org/story?sid=82792)
+Append: [钱志敏在英国被判 11 年 8 个月](https://www.solidot.org/story?sid=82791)
+Append: [掌握多种语言可能有助于减缓衰老](https://www.solidot.org/story?sid=82790)
+Append: [PS5 销量超过所有版本的 Xbox](https://www.solidot.org/story?sid=82789)
+Append: [Visual Studio 2026 释出](https://www.solidot.org/story?sid=82788)
+Append: [Firefox 145 释出](https://www.solidot.org/story?sid=82787)
+Append: [FFmpeg 项目告诉 Google 要么提供资助要么停止报告 Bug](https://www.solidot.org/story?sid=82786)
+append_entries: 7
+Finish: 2025-11-13 15:12:21.868500
+Wrote digest feed: docs/solidot-digest.xml
