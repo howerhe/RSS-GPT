@@ -81,3 +81,21 @@ Append: [FFmpeg 项目告诉 Google 要么提供资助要么停止报告 Bug](ht
 append_entries: 7
 Finish: 2025-11-13 15:12:21.868500
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-14 15:10:08.799817
+Existing_entries: 48
+Fetching from https://www.solidot.org/index.rss
+Append: [Blue Origin 完成首次 New Glenn 火箭回收](https://www.solidot.org/story?sid=82803)
+Append: [小鹏汇天开始量产“飞行汽车”](https://www.solidot.org/story?sid=82802)
+Append: [美国停止铸造一美分硬币](https://www.solidot.org/story?sid=82801)
+Append: [加州圣迭戈警告新生学术准备能力急剧下降](https://www.solidot.org/story?sid=82800)
+Append: [Google 表示将允许侧载 Android 应用](https://www.solidot.org/story?sid=82799)
+Append: [旅行者1号距离地球即将达到一光日](https://www.solidot.org/story?sid=82798)
+Append: [2024 年中国专利申请量继续遥遥领先](https://www.solidot.org/story?sid=82797)
+Append: [中国北方的沙尘主要源自蒙古](https://www.solidot.org/story?sid=82796)
+Append: [冰岛将大西洋洋流的潜在崩溃视为国家安全风险](https://www.solidot.org/story?sid=82795)
+Append: [Google 释出 Android 16 QPR1 源代码](https://www.solidot.org/story?sid=82794)
+Append: [Reddit Mod 因分享电影中的裸露镜头被判缓刑](https://www.solidot.org/story?sid=82793)
+append_entries: 11
+Finish: 2025-11-14 15:10:10.480631
+Wrote digest feed: docs/solidot-digest.xml
