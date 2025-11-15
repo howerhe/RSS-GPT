@@ -99,3 +99,18 @@ Append: [Reddit Mod 因分享电影中的裸露镜头被判缓刑](https://www.s
 append_entries: 11
 Finish: 2025-11-14 15:10:10.480631
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-15 15:08:54.104783
+Existing_entries: 59
+Fetching from https://www.solidot.org/index.rss
+Append: [亚马逊的卫星宽带项目从 Project Kuiper 改名为 Amazon Leo](https://www.solidot.org/story?sid=82811)
+Append: [订阅付费电视的美国家庭比例降至五成](https://www.solidot.org/story?sid=82810)
+Append: [Epstein-Barr 病毒可能是狼疮的病因](https://www.solidot.org/story?sid=82809)
+Append: [Mozilla 宣布 AI Window for Firefox](https://www.solidot.org/story?sid=82808)
+Append: [欧盟计划加速对小额包裹征税](https://www.solidot.org/story?sid=82807)
+Append: [狗相伴人类迁徙和交易逾万年](https://www.solidot.org/story?sid=82806)
+Append: [Android 采用 Rust 后大幅减少内存安全漏洞，加快代码审查](https://www.solidot.org/story?sid=82805)
+Append: [Thunderbird 145 释出](https://www.solidot.org/story?sid=82804)
+append_entries: 8
+Finish: 2025-11-15 15:08:56.406991
+Wrote digest feed: docs/solidot-digest.xml
