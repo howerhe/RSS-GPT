@@ -114,3 +114,15 @@ Append: [Thunderbird 145 释出](https://www.solidot.org/story?sid=82804)
 append_entries: 8
 Finish: 2025-11-15 15:08:56.406991
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-16 15:08:41.774765
+Existing_entries: 67
+Fetching from https://www.solidot.org/index.rss
+Append: [NASA 宇航员的离异妻子承认撒谎](https://www.solidot.org/story?sid=82816)
+Append: [本世纪末全球气温可能上升 2.6C](https://www.solidot.org/story?sid=82815)
+Append: [研究发现中国家庭肥胖谈话与青少年进食障碍症状存在关联](https://www.solidot.org/story?sid=82814)
+Append: [德国法院裁决 Google 需要向德国比价平台 Idealo 赔偿 4.65 亿欧元](https://www.solidot.org/story?sid=82813)
+Append: [英国脱欧的经济影响](https://www.solidot.org/story?sid=82812)
+append_entries: 5
+Finish: 2025-11-16 15:08:43.441559
+Wrote digest feed: docs/solidot-digest.xml
