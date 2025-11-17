@@ -154,3 +154,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-17 14:25:21.422369
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-17 16:33:27.679822
+Existing_entries: 72
+Fetching from https://www.solidot.org/index.rss
+Append: [AMD 占 x86 CPU 市场的份额突破四分之一](https://www.solidot.org/story?sid=82823)
+Append: [比特币币值一个月下跌逾 3 万美元](https://www.solidot.org/story?sid=82822)
+Append: [企业数据外泄的主要源头是拷贝黏贴](https://www.solidot.org/story?sid=82821)
+Append: [太阳能和风能能满足 2025 年新增能源需求](https://www.solidot.org/story?sid=82820)
+Append: [美国比特币矿场转向 AI 数据中心](https://www.solidot.org/story?sid=82819)
+Append: [中美 AI 冷战](https://www.solidot.org/story?sid=82818)
+Append: [神舟二十号宇航员搭乘神舟二十一号飞船返回地面](https://www.solidot.org/story?sid=82817)
+append_entries: 7
+Finish: 2025-11-17 16:33:33.146251
+Wrote digest feed: docs/solidot-digest.xml

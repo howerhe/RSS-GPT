@@ -4,6 +4,90 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>AMD 占 x86 CPU 市场的份额突破四分之一</title>
+<link>https://www.solidot.org/story?sid=82823</link>
+<guid>https://www.solidot.org/story?sid=82823</guid>
+<content:encoded><![CDATA[
+
+根据 Mercury Research 的数据， 2025 年第三季度 AMD 占 x86 CPU 市场的份额突破四分之一。x86 CPU 的三季度出货量与二季度持平，但主要是英特尔出货量疲软，AMD 占 x86 客户端和服务器 CPU 出货量突破 25% 达到 25.6%，比上一季度的 24.2% 增加了 1.4%，英特尔仍然占 74.4%，AMD 的桌面 x86 CPU 出货量占比超过 33%。如果加上嵌入式系统、物联网和游戏机 SoC，AMD 占到了 30.9%，而去年第三季度只有 25%。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 21:18:21 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 21:18:21 +0800</pubDate>
+</item>
+<item>
+<title>比特币币值一个月下跌逾 3 万美元</title>
+<link>https://www.solidot.org/story?sid=82822</link>
+<guid>https://www.solidot.org/story?sid=82822</guid>
+<content:encoded><![CDATA[
+
+比特币币值一个月内跌掉了一年内的所有涨幅。10 月 6 日比特币币值创下了 126,251 美元的历史记录，但四天后特朗普的关税言论引发了全球市场暴跌，上周日比特币币值跌至了 93,714 美元，跌破了去年年底的币值水平，抹掉了过去一年的所有涨幅，下跌逾 3.2 万美元。加密货币资产管理公司 Bitwise Asset Management 的首席投资官 Matthew Hougan 称，过去一个月大卖家悄悄撤离了，市场失去了推动价格上涨的资金流动支撑。此次抛售是长期持有者获利了结、机构资金外流、宏观经济不确定性，以及杠杆多头头寸被清零等多种因素共同作用的结果。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 18:06:35 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 18:06:35 +0800</pubDate>
+</item>
+<item>
+<title>企业数据外泄的主要源头是拷贝黏贴</title>
+<link>https://www.solidot.org/story?sid=82821</link>
+<guid>https://www.solidot.org/story?sid=82821</guid>
+<content:encoded><![CDATA[
+
+根据 LayerX 的报告《Browser Security Report 2025》，企业数据外泄更常见源头如今是拷贝黏贴，原因是生成式 AI（GenAI）的流行，77% 的员工会将数据粘贴到 AI 提示框中，32% 的企业账户到非企业账户拷贝粘贴操作发生在 GenAI 中。LayerX CEO Or Eshed 表示传统上防止企业数据外泄是针对电子邮件、文件共享和批准的 SaaS 服务而构建的，未预料到拷贝粘贴到浏览器提示框会成为主要泄露途径。数据显示，GenAI 占企业应用使用量的 11%，45% 的员工经常使用 AI 工具，67% 的 AI 工具是通过个人账户访问的，而 ChatGPT 的使用量占所有使用量的 92%。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 16:16:10 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 16:16:10 +0800</pubDate>
+</item>
+<item>
+<title>太阳能和风能能满足 2025 年新增能源需求</title>
+<link>https://www.solidot.org/story?sid=82820</link>
+<guid>https://www.solidot.org/story?sid=82820</guid>
+<content:encoded><![CDATA[
+
+能源智库 Ember 的数据显示，太阳能和风能的新增发电量足以满足今年前三季度新增电力需求。Ember 预测化石能源发电量全年将持平，这将是疫情爆发以来化石能源发电量首次零增长。太阳能发电量比去年同期增长 498 TWh(+31%)，超过 2024 年全年太阳能发电量；风能发电量增加 137TWh（+7.6%）。两者提供了 635 TWh 的新增电力，超过全球新增电力需求 603 TWh（+2.7%)。太阳能和风能今年前三个季度再全球电力供应中占到 17.6%，高于去年同期的 15.2%。可再生能源（包括太阳能、风能、水力、生物质能和地热能）在全球电力供应中的占比达到 43%。化石燃料的占比则从 58.7% 下滑至 57.1%。这一能源转变部分由中国和印度驱动，中国的化石燃料发电量下降 52 TWh（-1.1%)，印度化石燃料发电量下降 34TWh（-3.3%）。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 15:01:17 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 15:01:17 +0800</pubDate>
+</item>
+<item>
+<title>美国比特币矿场转向 AI 数据中心</title>
+<link>https://www.solidot.org/story?sid=82819</link>
+<guid>https://www.solidot.org/story?sid=82819</guid>
+<content:encoded><![CDATA[
+
+比特币矿场 Bitfarm 宣布计划在 2027 年前将其业务从加密货币挖矿转型为 AI 数据中心服务。Bitfarm 虽然不是美国最大的比特币矿场，但其运营规模仍然相当可观，拥有 12 个专门挖比特币的数据中心，拥有 341 MW 电力资源，足以部署数千英伟达 GB300 NVL72 服务器机架。Bitfarm CEO Ben Gagnon 认为 AI 数据中心能比挖比特币产生更高的营业收入。Bitfarm 在第三季度净亏损 4600 万美元，比去年同期增加近 91%。尽管比特币在 10 月初创下历史新高，但其波动性意味着该公司无法持续依赖比特币支付运营成本。这次转型被认为有巨大风险，因为 AI 行业被普遍认为存在泡沫。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 13:47:46 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 13:47:46 +0800</pubDate>
+</item>
+<item>
+<title>中美 AI 冷战</title>
+<link>https://www.solidot.org/story?sid=82818</link>
+<guid>https://www.solidot.org/story?sid=82818</guid>
+<content:encoded><![CDATA[
+
+WSJ 报道称，恐惧驱动了中美 AI 冷战。美国目前在 AI 领域拥有领先优势，拥有最先进最强大的 AI 模型，最先进的 AI 芯片，私人投资者仅仅今年上半年就向 AI 创业公司投资了 1040 亿美元。但中国拥有更多的 AI 工程师、更低的成本，更快的发展速度，以及更充足的能源，正利用国家主导优势在能源价格廉价的内蒙古等地加速建造计算集群，计划到 2028 年将数百个数据中心连接起来，建立一个称之为“国家云”的共享计算池。中国还向电网投入数千亿美元支持 AI 训练和普及。根据 Chatbot Arena 的数据，中国 AI 模型在从编码到视频生成的任务中都排名前列。前 OpenAI 董事 Helen Toner 指出，美国人并不知道通过更先进的芯片提升算力能持续产生更强大的 AI 模型。如果性能停滞不前，即便 OpenAI 等公司投入巨资，中国仍有机会与之竞争。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 13:25:22 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 13:25:22 +0800</pubDate>
+</item>
+<item>
+<title>神舟二十号宇航员搭乘神舟二十一号飞船返回地面</title>
+<link>https://www.solidot.org/story?sid=82817</link>
+<guid>https://www.solidot.org/story?sid=82817</guid>
+<content:encoded><![CDATA[
+
+中国载人航天工程办公室通报，由于神舟二十号返回舱舷窗疑因空间碎片撞击出现微小裂缝，神舟二十号乘组选择搭乘神舟二十一号返回舱返回地面，而神舟二十二号飞船将择机发射。神舟二十号乘组原计划 11 月 5 日返回，推迟了 9 天于 11 月 14 日返回地面，神舟二十号的返回舱被留在轨道上。三名航天员陈冬、陈中瑞、王杰在轨驻留 204 天，刷新了中国航天员单个乘组在轨驻留时间最长纪录，期间完成了 4 次出舱活动和多次货物进出舱任务。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 11:44:59 +0800</pubDate>
+<pubDate>Mon, 17 Nov 2025 11:44:59 +0800</pubDate>
+</item>
 
 <item>
 <title>NASA 宇航员的离异妻子承认撒谎</title>
