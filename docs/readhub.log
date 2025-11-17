@@ -136,3 +136,14 @@ Append: [美国财政部拍卖三个月期国债](https://readhub.cn/topic/8oMnA
 append_entries: 7
 Finish: 2025-11-17 18:34:46.445473
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-17 20:27:55.369518
+Existing_entries: 96
+Fetching from https://readhub.cn/rss
+Append: [报道：瑞银总部考虑迁往美国，以抗议瑞士监管机构 260 亿美元的「极端」资本要求](https://readhub.cn/topic/8oMUbpdTDuN)
+Append: [英媒：英国财政大臣考虑提高银行利润税税率](https://readhub.cn/topic/8oN1U1wpZrd)
+Append: [美股三大指数均跌超 1%](https://readhub.cn/topic/8oMYr3BQUzZ)
+Append: [乌克兰两座核电站因变电站受损连续十日降负荷运行](https://readhub.cn/topic/8oMwRbTN5yS)
+append_entries: 4
+Finish: 2025-11-17 20:27:56.887338
+Wrote digest feed: docs/readhub-digest.xml
