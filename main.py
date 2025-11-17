@@ -188,8 +188,56 @@ def gpt_summary(query,model,language):
     )
     return completion.choices[0].message.content
 
+def should_generate_digest(sec):
+    """
+    Check if digest should be generated for this section at the current time.
+    
+    Args:
+        sec: section name in config.ini
+    
+    Returns:
+        bool: True if digest should be generated, False otherwise
+    
+    Configuration examples:
+        digest_time = 15:00          # Generate at 15:00 UTC
+        digest_time = 03:00,15:00    # Generate at both 03:00 and 15:00 UTC
+        digest_time = always         # Generate on every run
+    """
+    digest_time = get_cfg(sec, 'digest_time')
+    
+    # If digest_time is not set, do not generate digest (default: no digest)
+    if not digest_time:
+        return False
+    
+    # If digest_time is 'always', always generate digest
+    if digest_time.lower() == 'always':
+        return True
+    
+    # If digest_time is 'never', never generate digest
+    if digest_time.lower() == 'never':
+        return False
+    
+    # Parse digest_time as comma-separated list of HH:MM times (e.g., "03:00,15:00")
+    try:
+        current_time = datetime.datetime.now(datetime.timezone.utc)
+        times = digest_time.split(',')
+        
+        for time_str in times:
+            time_str = time_str.strip()
+            digest_hour, _ = map(int, time_str.split(':'))
+            
+            # Check if current hour matches the digest time (with 1-hour tolerance)
+            # This allows the digest to be generated within the hour window
+            if current_time.hour == digest_hour:
+                return True
+    except (ValueError, AttributeError, IndexError):
+        # If parsing fails, do not generate digest
+        pass
+    
+    return False
+
 def output(sec, language):
-    """ output
+    """
     This function is used to output the summary of the RSS feed.
 
     Args:
@@ -200,6 +248,7 @@ def output(sec, language):
     """
     log_file = os.path.join(BASE, get_cfg(sec, 'name') + '.log')
     out_dir = os.path.join(BASE, get_cfg(sec, 'name'))
+    generate_digest = should_generate_digest(sec)
     # read rss_url as a list separated by comma
     rss_urls = get_cfg(sec, 'url')
     rss_urls = rss_urls.split(',')
@@ -343,7 +392,7 @@ def output(sec, language):
     try:
         # build one digest item combining all new append_entries (if any)
         digest_entry = None
-        if append_entries:
+        if append_entries and generate_digest:
             parts = []
             for it in append_entries:
                 text = getattr(it, 'summary', None) or getattr(it, 'article', '')
@@ -360,8 +409,12 @@ def output(sec, language):
         new_digest_entries = []
         if digest_entry:
             new_digest_entries.append(digest_entry)
-        new_digest_entries.extend(prev_digest)
-        new_digest_entries = truncate_entries(new_digest_entries, max_entries=max_entries)
+            # Only add historical entries if we just added a new digest
+            new_digest_entries.extend(prev_digest)
+            new_digest_entries = truncate_entries(new_digest_entries, max_entries=max_entries)
+        else:
+            # If no new digest entry, just keep the existing ones (don't refresh)
+            new_digest_entries = prev_digest
 
         # render digest template (reuse template.xml for digest)
         try:
