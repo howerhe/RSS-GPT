@@ -56,3 +56,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://www.solidot.org/index.rss -> https://howerhe.github.io/RSS-GPT/solidot.xml
+- https://readhub.cn/rss -> https://howerhe.github.io/RSS-GPT/readhub.xml

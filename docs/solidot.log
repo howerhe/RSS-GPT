@@ -126,3 +126,10 @@ Append: [英国脱欧的经济影响](https://www.solidot.org/story?sid=82812)
 append_entries: 5
 Finish: 2025-11-16 15:08:43.441559
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-17 08:34:52.276417
+Existing_entries: 72
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-17 08:34:53.902760
+Wrote digest feed: docs/solidot-digest.xml
