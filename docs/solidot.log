@@ -168,3 +168,10 @@ Append: [神舟二十号宇航员搭乘神舟二十一号飞船返回地面](htt
 append_entries: 7
 Finish: 2025-11-17 16:33:33.146251
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-17 18:34:43.182919
+Existing_entries: 79
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-17 18:34:45.005713
+Wrote digest feed: docs/solidot-digest.xml
