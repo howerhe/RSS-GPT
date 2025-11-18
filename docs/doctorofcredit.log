@@ -136,3 +136,10 @@ Append: [T-Life (T-Mobile Tuesday): Popeyes, Yankee Candle & More](https://www.d
 append_entries: 1
 Finish: 2025-11-18 16:16:03.447863
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 17:12:25.818197
+Existing_entries: 16
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-18 17:12:26.207606
+Wrote digest feed: docs/doctorofcredit-digest.xml
