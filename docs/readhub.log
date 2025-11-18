@@ -463,3 +463,10 @@ Append: [Waymo 宣布 2026 年将在得克萨斯州和佛罗里达州更多城�
 append_entries: 4
 Finish: 2025-11-18 20:14:29.839388
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 22:11:46.130533
+Existing_entries: 297
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-18 22:11:47.268289
+Wrote digest feed: docs/readhub-digest.xml

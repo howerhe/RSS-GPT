@@ -188,3 +188,19 @@ Append: [My Approval on Chase Sapphire Reserve for Business Card](https://www.do
 append_entries: 4
 Finish: 2025-11-18 20:15:01.563840
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 22:11:47.622206
+Existing_entries: 24
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 499
+Summarized using glm-4.5-air
+Append: [Chase Offers: Save 15% On Verizon Business](https://www.doctorofcredit.com/chase-offers-save-15-on-verizon-business/)
+Token length: 276
+Summarized using glm-4.5-air
+Append: [[YMMV] Amazon: Fire TV Stick 4K Select For $9.99 With Promo Code SELECT4K](https://www.doctorofcredit.com/ymmv-amazon-fire-tv-stick-4k-select-for-9-99-with-promo-code-select4k/)
+Token length: 766
+Summarized using glm-4.5-air
+Append: [Mastercard: Transit Benefit, $2.50 Off $10+ In Select Cities Each Month](https://www.doctorofcredit.com/mastercard-transit-beneift-2-50-off-10-in-select-cities-each-month/)
+append_entries: 3
+Finish: 2025-11-18 22:12:07.784943
+Wrote digest feed: docs/doctorofcredit-digest.xml
