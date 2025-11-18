@@ -4,7 +4,7 @@ name: cron_job
 on:
   schedule:
     # Run every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 * * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -37,9 +37,10 @@ jobs:
           python main.py
           ls -al docs/
         env:
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          BIGMODEL_URL: ${{ secrets.BIGMODEL_URL }}
+          BIGMODEL_PROXY: ${{ secrets.BIGMODEL_PROXY }}
+          BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
           CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           U_NAME: ${{ secrets.U_NAME }}
              
       - name: PUSH

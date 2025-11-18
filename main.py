@@ -1,8 +1,7 @@
 import feedparser
 import configparser
 import os
-import httpx
-from openai import OpenAI
+
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
@@ -23,16 +22,21 @@ secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+BIGMODEL_API_KEY = os.environ.get('BIGMODEL_API_KEY')
 U_NAME = os.environ.get('U_NAME')
-OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1')
+BIGMODEL_URL = os.environ.get('BIGMODEL_URL', 'https://open.bigmodel.cn/api/paas/v4/chat/completions')
+BIGMODEL_PROXY = os.environ.get('BIGMODEL_PROXY')
 custom_model = os.environ.get('CUSTOM_MODEL')
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
-keyword_length = int(get_cfg('cfg', 'keyword_length'))
 summary_length = int(get_cfg('cfg', 'summary_length'))
 language = get_cfg('cfg', 'language')
+# configurable maximum tokens for model completions (reduce default to a safer value)
+_cfg_max_tokens = get_cfg('cfg', 'max_tokens')
+try:
+    model_max_tokens = int(_cfg_max_tokens) if _cfg_max_tokens else 65536
+except Exception:
+    model_max_tokens = 65536
 
 def fetch_feed(url, log_file):
     feed = None
@@ -158,35 +162,53 @@ def truncate_entries(entries, max_entries):
     return entries
 
 def gpt_summary(query,model,language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
-    if not OPENAI_PROXY:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            base_url=OPENAI_BASE_URL,
-        )
-    else:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            # Or use the `OPENAI_BASE_URL` env var
-            base_url=OPENAI_BASE_URL,
-            # example: "http://my.test.server.example.com:8083",
-            http_client=httpx.Client(proxy=OPENAI_PROXY),
-            # example:"http://my.test.proxy.example.com",
-        )
-    completion = client.chat.completions.create(
-        model=model,
-        messages=messages,
+    zh_prompt = (
+        "请用中文在{summary_length}字内总结下面的这篇来自RSS订阅的文章，让读者能一眼看出主要内容。"
+        "如果遇到专有名词，请用原始语言，不用翻译。请直接输出总结内容，无需加入引导语如“下面是总结”。"
     )
-    return completion.choices[0].message.content
+
+    prompt = (
+        "Please summarize the following article from an RSS feed in {language} within {summary_length} characters, so the reader can see the main points at a glance. "
+        "If you encounter proper nouns, keep them in their original language and do not translate them. Output only the summary itself — do not include leading phrases such as 'The following is a summary'."
+    )
+
+    system_prompt = zh_prompt if language == "zh" else prompt
+
+    # Choose model: prefer explicit `model` arg, fallback to env `CUSTOM_MODEL`, otherwise use a reasonable default
+    chosen_model = model or custom_model or "glm-z1-flash"
+
+    payload = {
+        "model": chosen_model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": query},
+        ],
+        "temperature": 1,
+        # keep a large max_tokens similar to your example; provider may enforce limits
+        "max_tokens": model_max_tokens,
+        "stream": False,
+    }
+
+    headers = {
+        "Authorization": f"Bearer {BIGMODEL_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    # Call the BigModel-compatible API endpoint
+    try:
+        url = BIGMODEL_URL
+        proxies = None
+        if BIGMODEL_PROXY:
+            proxies = {"http": BIGMODEL_PROXY, "https": BIGMODEL_PROXY}
+        resp = requests.post(url, json=payload, headers=headers, timeout=60, proxies=proxies)
+        resp.raise_for_status()
+        data = resp.json()
+
+        # Expecting structure: choices[0].message.content
+        return data.get("choices", [])[0].get("message", {}).get("content")
+    except Exception:
+        # Let caller handle logging/errors (caller already wraps calls in try/except)
+        raise
 
 def should_generate_digest(sec):
     """
@@ -336,7 +358,7 @@ def output(sec, language):
             cnt += 1
             if cnt > max_items:
                 entry.summary = None
-            elif OPENAI_API_KEY:
+            elif BIGMODEL_API_KEY:
                 token_length = len(cleaned_article)
                 if custom_model:
                     try:
