@@ -444,3 +444,11 @@ Append: [雷诺集团将与吉利合作在巴西生产新车，投资 38 亿雷�
 append_entries: 2
 Finish: 2025-11-18 18:18:29.150501
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 19:10:31.440929
+Existing_entries: 292
+Fetching from https://readhub.cn/rss
+Append: [不再只是聊天：微软 Azure Copilot 获智能体加持，可 AI 自主执行云端任务](https://readhub.cn/topic/8oNMwcEPPQF)
+append_entries: 1
+Finish: 2025-11-18 19:10:32.871211
+Wrote digest feed: docs/readhub-digest.xml
