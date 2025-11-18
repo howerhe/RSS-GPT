@@ -92,3 +92,12 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-18 11:11:14.213924
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 12:24:23.799762
+Existing_entries: 15
+Fetching from https://www.doctorofcredit.com/feed/
+Fetch error: 500
+Fetch failed from https://www.doctorofcredit.com/feed/
+append_entries: 0
+error when rendering xml, skip docs/doctorofcredit
+error when rendering digest xml (docs/doctorofcredit-digest.xml): 'None' has no attribute 'feed'

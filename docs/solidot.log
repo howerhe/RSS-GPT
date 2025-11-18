@@ -238,3 +238,18 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-18 11:11:12.423519
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 12:24:20.620431
+Existing_entries: 79
+Fetching from https://www.solidot.org/index.rss
+Append: [很多时候放弃是最明智的选择](https://www.solidot.org/story?sid=82831)
+Append: [Sundar Pichai 称如果 AI 泡沫破裂没有公司能免受影响](https://www.solidot.org/story?sid=82830)
+Append: [微软在 Windows 11 中加入 AI 智能体](https://www.solidot.org/story?sid=82829)
+Append: [Take-Two Interactive CEO 认为游戏行业正转向 PC](https://www.solidot.org/story?sid=82828)
+Append: [为何一部分人对人脸过目不忘](https://www.solidot.org/story?sid=82827)
+Append: [全球互联网自由度连续 15 年下降](https://www.solidot.org/story?sid=82826)
+Append: [华盛顿邮报上万员工和合同工信息泄露](https://www.solidot.org/story?sid=82825)
+Append: [Google 将标记耗电量高的 Android 应用](https://www.solidot.org/story?sid=82824)
+append_entries: 8
+Finish: 2025-11-18 12:24:22.130076
+Wrote digest feed: docs/solidot-digest.xml
