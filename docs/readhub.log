@@ -452,3 +452,14 @@ Append: [不再只是聊天：微软 Azure Copilot 获智能体加持，可 AI �
 append_entries: 1
 Finish: 2025-11-18 19:10:32.871211
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 20:14:28.097545
+Existing_entries: 293
+Fetching from https://readhub.cn/rss
+Append: [美国 8 月份工厂订单增长 1.4%，预估为 1.4%](https://readhub.cn/topic/8oOL0ryJ35b)
+Append: [谷歌推出最新一代 AI 模型 Gemini 3](https://readhub.cn/topic/8oON5R2iyWh)
+Append: [Manner 咖啡回应香港上市传闻：不予置评](https://readhub.cn/topic/8oO2u5ds3Ty)
+Append: [Waymo 宣布 2026 年将在得克萨斯州和佛罗里达州更多城市推出服务](https://readhub.cn/topic/8oON9WEdOwx)
+append_entries: 4
+Finish: 2025-11-18 20:14:29.839388
+Wrote digest feed: docs/readhub-digest.xml
