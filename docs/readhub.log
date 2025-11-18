@@ -470,3 +470,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-18 22:11:47.268289
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 23:10:57.341828
+Existing_entries: 297
+Fetching from https://readhub.cn/rss
+Append: [纳指收跌 1.2%，亚马逊、AMD 跌超 4%](https://readhub.cn/topic/8oOkiKJ9SEh)
+Append: [北京海淀区挂牌出让一综合用地 起拍价 84.22 亿元](https://readhub.cn/topic/8oNZ334T7RX)
+Append: [苹果揭秘 3D 打印技术 用粉末「堆」起 Apple Watch 表壳](https://readhub.cn/topic/8oOKGrFMDY7)
+Append: [CFTC 将于 11 月 19 日恢复发布交易员持仓报告](https://readhub.cn/topic/8oOjvmJIARr)
+append_entries: 4
+Finish: 2025-11-18 23:10:58.711284
+Wrote digest feed: docs/readhub-digest.xml
