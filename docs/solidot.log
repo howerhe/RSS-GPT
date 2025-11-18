@@ -267,3 +267,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-18 14:12:27.787729
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 15:13:38.378408
+Existing_entries: 87
+Fetching from https://www.solidot.org/index.rss
+Append: [哈佛持有 4.42 亿美元的加密货币](https://www.solidot.org/story?sid=82835)
+Append: [Debian Libre Live Images 项目发布首个版本](https://www.solidot.org/story?sid=82834)
+Append: [Cloudflare 宕机影响整个互联网](https://www.solidot.org/story?sid=82833)
+Append: [浣熊显示驯化的早期迹象](https://www.solidot.org/story?sid=82832)
+append_entries: 4
+Finish: 2025-11-18 15:13:40.806022
+Wrote digest feed: docs/solidot-digest.xml

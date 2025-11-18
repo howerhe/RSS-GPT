@@ -117,3 +117,12 @@ Fetch failed from https://www.doctorofcredit.com/feed/
 append_entries: 0
 error when rendering xml, skip docs/doctorofcredit
 error building digest: 'NoneType' object has no attribute 'feed'
+------------------------------------------------------
+Started: 2025-11-18 15:13:42.404394
+Existing_entries: 15
+Fetching from https://www.doctorofcredit.com/feed/
+Fetch error: 500
+Fetch failed from https://www.doctorofcredit.com/feed/
+append_entries: 0
+error when rendering xml, skip docs/doctorofcredit
+error when rendering digest xml (docs/doctorofcredit-digest.xml): 'None' has no attribute 'feed'
