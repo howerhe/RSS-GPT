@@ -143,3 +143,22 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-18 17:12:26.207606
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 18:18:29.302382
+Existing_entries: 16
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3583
+Summarized using glm-4.5-air
+Append: [Wings Credit Union $300 Checking Bonus + $100 Referral](https://www.doctorofcredit.com/mn-wi-mi-fl-ga-wings-credit-union-300-checking-bonus/)
+Token length: 290
+Summarized using glm-4.5-air
+Append: [Aldi Stores: Buy $105 Zift e-GiftCard For $85; $50 DoorDash For $45](https://www.doctorofcredit.com/aldi-stores-buy-105-zift-e-giftcard-for-85-50-doordash-for-45/)
+Token length: 210
+Summarized using glm-4.5-air
+Append: [Kroger.com: $100 Uber e-Giftcard For $85 (Plus More Deals)](https://www.doctorofcredit.com/kroger-com-100-uber-e-giftcard-for-85-plus-more-deals/)
+Token length: 574
+Summarized using glm-4.5-air
+Append: [Rakuten: Get 10%/10x Back on Stubhub](https://www.doctorofcredit.com/rakuten-get-10-10x-back-on-stubhub/)
+append_entries: 4
+Finish: 2025-11-18 18:18:46.099565
+Wrote digest feed: docs/doctorofcredit-digest.xml

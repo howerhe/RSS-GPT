@@ -435,3 +435,12 @@ Append: [美联储理事巴尔警告监管放松或导致银行体系中风险�
 append_entries: 1
 Finish: 2025-11-18 17:12:25.665276
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 18:18:27.065321
+Existing_entries: 290
+Fetching from https://readhub.cn/rss
+Append: [美银调查显示投资者以逾三年来最快步伐削减英国股票敞口](https://readhub.cn/topic/8oOVhb0VABg)
+Append: [雷诺集团将与吉利合作在巴西生产新车，投资 38 亿雷亚尔](https://readhub.cn/topic/8oOOXBDmEvg)
+append_entries: 2
+Finish: 2025-11-18 18:18:29.150501
+Wrote digest feed: docs/readhub-digest.xml
