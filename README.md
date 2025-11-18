@@ -57,3 +57,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://www.solidot.org/index.rss -> https://howerhe.github.io/RSS-GPT/solidot.xml
 - https://readhub.cn/rss -> https://howerhe.github.io/RSS-GPT/readhub.xml
+- https://www.doctorofcredit.com/feed/ -> https://howerhe.github.io/RSS-GPT/doctorofcredit.xml

@@ -54,3 +54,4 @@
 
 - https://www.solidot.org/index.rss -> https://howerhe.github.io/RSS-GPT/solidot.xml
 - https://readhub.cn/rss -> https://howerhe.github.io/RSS-GPT/readhub.xml
+- https://www.doctorofcredit.com/feed/ -> https://howerhe.github.io/RSS-GPT/doctorofcredit.xml
