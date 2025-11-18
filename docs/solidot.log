@@ -253,3 +253,10 @@ Append: [Google 将标记耗电量高的 Android 应用](https://www.solidot.org
 append_entries: 8
 Finish: 2025-11-18 12:24:22.130076
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 13:26:40.191256
+Existing_entries: 87
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-18 13:26:42.196653
+Wrote digest feed: docs/solidot-digest.xml
