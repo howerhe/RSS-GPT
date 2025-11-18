@@ -126,3 +126,13 @@ Fetch failed from https://www.doctorofcredit.com/feed/
 append_entries: 0
 error when rendering xml, skip docs/doctorofcredit
 error when rendering digest xml (docs/doctorofcredit-digest.xml): 'None' has no attribute 'feed'
+------------------------------------------------------
+Started: 2025-11-18 16:15:57.746060
+Existing_entries: 15
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 422
+Summarized using glm-4.5-air
+Append: [T-Life (T-Mobile Tuesday): Popeyes, Yankee Candle & More](https://www.doctorofcredit.com/t-life-t-mobile-tuesday-popeyes-yankee-candle-more/)
+append_entries: 1
+Finish: 2025-11-18 16:16:03.447863
+Wrote digest feed: docs/doctorofcredit-digest.xml

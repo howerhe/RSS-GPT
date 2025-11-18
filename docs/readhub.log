@@ -419,3 +419,11 @@ Append: [天津：到 2030 年末 全市租赁公司资产总额力争达到 2.8
 append_entries: 13
 Finish: 2025-11-18 15:13:42.258450
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 16:15:55.946556
+Existing_entries: 288
+Fetching from https://readhub.cn/rss
+Append: [健合集团前三个季度营收破百亿 Swisse 斯维诗中国市场同比增长 15.7%](https://readhub.cn/topic/8oNzYyhWcV5)
+append_entries: 1
+Finish: 2025-11-18 16:15:57.596190
+Wrote digest feed: docs/readhub-digest.xml
