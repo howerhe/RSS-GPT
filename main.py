@@ -174,13 +174,13 @@ def truncate_entries(entries, max_entries):
 
 def gpt_summary(query,model,language):
     zh_prompt = (
-        "请用中文在{summary_length}字内总结下面的这篇来自RSS订阅的文章，让读者能一眼看出主要内容。"
-        "如果遇到专有名词，请用原始语言，不用翻译。请直接输出总结内容，无需加入引导语如“下面是总结”。"
+        f"请用中文在{summary_length}字内总结下面的这篇来自RSS订阅的文章，让读者能一眼看出主要内容。"
+        f"如果遇到专有名词，请用原始语言，不用翻译。请直接输出总结内容，无需加入引导语如“下面是总结”。"
     )
 
     prompt = (
-        "Please summarize the following article from an RSS feed in {language} within {summary_length} characters, so the reader can see the main points at a glance. "
-        "If you encounter proper nouns, keep them in their original language and do not translate them. Output only the summary itself — do not include leading phrases such as 'The following is a summary'."
+        f"Please summarize the following article from an RSS feed in {language} within {summary_length} characters, so the reader can see the main points at a glance. "
+        f"If you encounter proper nouns, keep them in their original language and do not translate them. Output only the summary itself — do not include leading phrases such as 'The following is a summary'."
     )
 
     system_prompt = zh_prompt if language == "zh" else prompt
@@ -312,12 +312,13 @@ def output(sec, language):
     else:
         raise Exception('filter_apply, type, rule must be set together')
 
-    # Max number of items to summarize
-    max_items = get_cfg(sec, 'max_items')
-    if not max_items:
-        max_items = 0
+    # Summarization control
+    summary_cfg = get_cfg(sec, 'summary')
+    if summary_cfg:
+        summarize_flag = str(summary_cfg).strip().lower() in ('1', 'true', 'yes', 'on')
     else:
-        max_items = int(max_items)
+        summarize_flag = False
+
     cnt = 0
     existing_entries = read_entry_from_file(sec)
     with open(log_file, 'a') as f:
@@ -376,38 +377,21 @@ def output(sec, language):
 #                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
 
             cnt += 1
-            if cnt > max_items:
+            # decide whether to summarize this entry
+            if not summarize_flag or not BIGMODEL_API_KEY:
                 entry.summary = None
-            elif BIGMODEL_API_KEY:
+            else:
                 token_length = len(cleaned_article)
-                if custom_model:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model=custom_model, language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using {custom_model}\n")
-                    except Exception as e:
-                        entry.summary = None
-                        with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed, append the original article\n")
-                            f.write(f"error: {e}\n")
-                else:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4o-mini", language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using gpt-4o-mini\n")
-                    except:
-                        try:
-                            entry.summary = gpt_summary(cleaned_article,model="gpt-4o", language=language)
-                            with open(log_file, 'a') as f:
-                                f.write(f"Token length: {token_length}\n")
-                                f.write(f"Summarized using GPT-4o\n")
-                        except Exception as e:
-                            entry.summary = None
-                            with open(log_file, 'a') as f:
-                                f.write(f"Summarization failed, append the original article\n")
-                                f.write(f"error: {e}\n")
+                try:
+                    entry.summary = gpt_summary(cleaned_article, model=None, language=language)
+                    with open(log_file, 'a') as f:
+                        f.write(f"Token length: {token_length}\n")
+                        f.write(f"Summarized using {custom_model}\n")
+                except Exception as e:
+                    entry.summary = None
+                    with open(log_file, 'a') as f:
+                        f.write("Summarization failed, append the original article\n")
+                        f.write(f"error: {e}\n")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
@@ -432,11 +416,22 @@ def output(sec, language):
     # --- Build and write public digest feed (separate file) ---
     digest_file = out_dir + '-digest.xml'
     try:
-        # build one digest item combining all new append_entries (if any)
+        # Load previous digest history first so we can include any existing entries
+        # that were already recorded in feed.xml but not yet included in the digest.
+        prev_digest = read_entry_from_file(sec, suffix='-digest')
+        prev_links = set([getattr(d, 'link', None) for d in prev_digest if getattr(d, 'link', None)])
+
+        # Find candidates from existing_entries that are not yet in prev_digest
+        # and not already in append_entries (these are entries discovered in earlier runs).
+        append_links = set([x.link for x in append_entries])
+        candidates = [e for e in existing_entries if getattr(e, 'link', None) and e.link not in prev_links and e.link not in append_links]
+
+        # build one digest item combining all new append_entries and candidates (if any)
         digest_entry = None
-        if append_entries and generate_digest:
+        if generate_digest and (append_entries or candidates):
             parts = []
-            for it in append_entries:
+            # include entries discovered this run first, then earlier candidates
+            for it in (append_entries + candidates):
                 text = getattr(it, 'summary', None) or getattr(it, 'article', '')
                 parts.append(f'<h3><a href="{it.link}">{it.title}</a></h3><div>{text}</div>')
             digest_html = ''.join(parts)
@@ -446,16 +441,13 @@ def output(sec, language):
             digest_entry.article = digest_html
             digest_entry.summary = None
 
-        # read previous digest entries (history) and prepend new digest entry
-        prev_digest = read_entry_from_file(sec, suffix='-digest')
+        # Prepend new digest entry (if any) and then historical ones
         new_digest_entries = []
         if digest_entry:
             new_digest_entries.append(digest_entry)
-            # Only add historical entries if we just added a new digest
             new_digest_entries.extend(prev_digest)
             new_digest_entries = truncate_entries(new_digest_entries, max_entries=max_entries)
         else:
-            # If no new digest entry, just keep the existing ones (don't refresh)
             new_digest_entries = prev_digest
 
         # render digest template (reuse template.xml for digest)
