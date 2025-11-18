@@ -50,3 +50,10 @@ Append: [Best Posts Last Week: 400k Credit Card Offer, $40 Shopping Portal & Mor
 append_entries: 15
 Finish: 2025-11-18 05:08:40.029977
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-18 06:18:46.379605
+Existing_entries: 15
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-18 06:18:46.792439
+Wrote digest feed: docs/doctorofcredit-digest.xml
