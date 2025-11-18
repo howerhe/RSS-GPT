@@ -27,6 +27,13 @@ U_NAME = os.environ.get('U_NAME')
 BIGMODEL_URL = os.environ.get('BIGMODEL_URL', 'https://open.bigmodel.cn/api/paas/v4/chat/completions')
 BIGMODEL_PROXY = os.environ.get('BIGMODEL_PROXY')
 custom_model = os.environ.get('CUSTOM_MODEL')
+
+# Debug: Print environment and config info
+print(f"[DEBUG] BIGMODEL_API_KEY set: {bool(BIGMODEL_API_KEY)}")
+print(f"[DEBUG] BIGMODEL_URL: {BIGMODEL_URL}")
+print(f"[DEBUG] BIGMODEL_PROXY: {BIGMODEL_PROXY}")
+print(f"[DEBUG] CUSTOM_MODEL: {custom_model}")
+print(f"[DEBUG] U_NAME: {U_NAME}")
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
 summary_length = int(get_cfg('cfg', 'summary_length'))
@@ -37,6 +44,10 @@ try:
     model_max_tokens = int(_cfg_max_tokens) if _cfg_max_tokens else 65536
 except Exception:
     model_max_tokens = 65536
+
+print(f"[DEBUG] Config - BASE: {BASE}")
+print(f"[DEBUG] Config - language: {language}")
+print(f"[DEBUG] Config - max_tokens from config: {_cfg_max_tokens}, parsed as: {model_max_tokens}")
 
 def fetch_feed(url, log_file):
     feed = None
@@ -197,12 +208,19 @@ def gpt_summary(query,model,language):
     # Call the BigModel-compatible API endpoint
     try:
         url = BIGMODEL_URL
+        print(f"[DEBUG] gpt_summary - Using URL: {url}")
+        print(f"[DEBUG] gpt_summary - Model: {chosen_model}")
+        print(f"[DEBUG] gpt_summary - Max tokens: {model_max_tokens}")
+        
         proxies = None
         if BIGMODEL_PROXY:
             proxies = {"http": BIGMODEL_PROXY, "https": BIGMODEL_PROXY}
+            print(f"[DEBUG] gpt_summary - Using proxy: {BIGMODEL_PROXY}")
+        
         resp = requests.post(url, json=payload, headers=headers, timeout=60, proxies=proxies)
         resp.raise_for_status()
         data = resp.json()
+        print(f"[DEBUG] gpt_summary - API response status: {resp.status_code}")
 
         # Expecting structure: choices[0].message.content
         return data.get("choices", [])[0].get("message", {}).get("content")
@@ -226,9 +244,11 @@ def should_generate_digest(sec):
         digest_time = always         # Generate on every run
     """
     digest_time = get_cfg(sec, 'digest_time')
+    print(f"[DEBUG] should_generate_digest - Section: {sec}, digest_time: {digest_time}")
     
     # If digest_time is not set, do not generate digest (default: no digest)
     if not digest_time:
+        print(f"[DEBUG] should_generate_digest - No digest_time set for {sec}, skipping digest")
         return False
     
     # If digest_time is 'always', always generate digest
