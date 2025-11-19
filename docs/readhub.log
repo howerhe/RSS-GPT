@@ -584,3 +584,20 @@ Append: [A 股午评：沪指半日跌 0.04%，全市超 4500 股飘绿，军工
 append_entries: 15
 Finish: 2025-11-19 04:16:10.045741
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 05:12:53.686670
+Existing_entries: 376
+Fetching from https://readhub.cn/rss
+Append: [山东出台普高与中职学生互转办法](https://readhub.cn/topic/8oPFQgYC2Ww)
+Append: [银联：下一代新型智能化终端研发已预留 iTAP 路线](https://readhub.cn/topic/8oPEiA22Udn)
+Append: [锂矿概念反复走强，金圆股份 3 连板](https://readhub.cn/topic/8oP3yUWbjTJ)
+Append: [一加李杰：Ace 6T 实现 165FPS 无限满帧 预测友商会跟进](https://readhub.cn/topic/8oP7N0DGRjh)
+Append: [泰国大城府洪灾持续三个月，已致 20 人死亡](https://readhub.cn/topic/8oPG97Bb2Gb)
+Append: [蔚来智驾芯片首次技术外供，曝「神玑 NX9031」已启动技术对外授权](https://readhub.cn/topic/8oPBnJq1Q6I)
+Append: [Take-Two Interactive CEO 认为游戏行业正转向 PC](https://readhub.cn/topic/8oO8lREENjV)
+Append: [印尼格拉斯伯格铜矿将于 2026 年大规模复产](https://readhub.cn/topic/8oPG7ljoOQc)
+Append: [蚂蚁旗下 AI 产品「灵光」首日下载破 20 万](https://readhub.cn/topic/8oP7mtPjnzi)
+Append: [马斯克旗下 xAI 公司正深入洽谈融资 150 亿美元事宜](https://readhub.cn/topic/8oPFNK8MaDN)
+append_entries: 10
+Finish: 2025-11-19 05:12:55.088811
+Wrote digest feed: docs/readhub-digest.xml
