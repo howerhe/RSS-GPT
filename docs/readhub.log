@@ -828,3 +828,13 @@ Append: [北京城市副中心建设累计完成固定资产投资超 9600 亿�
 append_entries: 11
 Finish: 2025-11-19 15:13:05.186233
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 16:16:16.408496
+Existing_entries: 543
+Fetching from https://readhub.cn/rss
+Append: [调查：韩国半导体等支柱行业 2030 年将全面落后中国](https://readhub.cn/topic/8oNREVe4E3C)
+Append: [全球首型深远海智能渔业养殖工船在广东湛江交付投产](https://readhub.cn/topic/8oPQ65WKMzb)
+Append: [塔吉特：第三季度净销售额为 252.7 亿美元，不及市场预期](https://readhub.cn/topic/8oPlX1xstAa)
+append_entries: 3
+Finish: 2025-11-19 16:16:17.962126
+Wrote digest feed: docs/readhub-digest.xml
