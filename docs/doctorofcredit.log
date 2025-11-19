@@ -313,3 +313,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-19 12:23:33.057553
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 13:26:42.904900
+Existing_entries: 33
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 183
+Summarized using glm-4.5-air
+Append: [(Starts 11/24) Chipotle: Purchase $50 Giftcard, Get $10 Promotional Code](https://www.doctorofcredit.com/starts-11-24-chipotle-purchase-50-giftcard-get-10-promotional-code/)
+append_entries: 1
+Finish: 2025-11-19 13:26:46.018752
+Wrote digest feed: docs/doctorofcredit-digest.xml
