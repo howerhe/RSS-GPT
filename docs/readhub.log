@@ -849,3 +849,13 @@ Append: [特斯拉：全球超级充电桩数量突破 75000 根](https://readhu
 append_entries: 4
 Finish: 2025-11-19 17:12:14.023283
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 18:17:56.944510
+Existing_entries: 550
+Fetching from https://readhub.cn/rss
+Append: [特朗普：美沙投资论坛签署 2700 亿美元巨额协议](https://readhub.cn/topic/8oQ9pSbSWaS)
+Append: [伊朗外长：伊朗绝不接受「零浓缩铀」](https://readhub.cn/topic/8oQAZ8TAtV3)
+Append: [俄罗斯股东同意出售塞尔维亚石油公司股份](https://readhub.cn/topic/8oQ9pEJYRd3)
+append_entries: 3
+Finish: 2025-11-19 18:17:58.415424
+Wrote digest feed: docs/readhub-digest.xml

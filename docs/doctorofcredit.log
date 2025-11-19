@@ -360,3 +360,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-19 17:12:14.931611
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 18:17:59.065619
+Existing_entries: 37
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 376
+Summarized using glm-4.5-air
+Append: [Free Browser Extension Automatically Clips Grocery Coupons](https://www.doctorofcredit.com/free-browser-extension-automatically-clips-grocery-coupons/)
+append_entries: 1
+Finish: 2025-11-19 18:18:03.380745
+Wrote digest feed: docs/doctorofcredit-digest.xml

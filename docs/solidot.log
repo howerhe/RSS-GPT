@@ -453,3 +453,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-19 17:12:12.134130
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 18:17:55.106221
+Existing_entries: 98
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-19 18:17:56.678392
+Wrote digest feed: docs/solidot-digest.xml
