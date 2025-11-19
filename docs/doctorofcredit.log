@@ -370,3 +370,10 @@ Append: [Free Browser Extension Automatically Clips Grocery Coupons](https://www
 append_entries: 1
 Finish: 2025-11-19 18:18:03.380745
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 19:10:10.683959
+Existing_entries: 38
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-19 19:10:10.937176
+Wrote digest feed: docs/doctorofcredit-digest.xml

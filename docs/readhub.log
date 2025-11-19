@@ -859,3 +859,11 @@ Append: [俄罗斯股东同意出售塞尔维亚石油公司股份](https://read
 append_entries: 3
 Finish: 2025-11-19 18:17:58.415424
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 19:10:08.662414
+Existing_entries: 553
+Fetching from https://readhub.cn/rss
+Append: [知情人士：特朗普政府考虑暂缓征收半导体关税](https://readhub.cn/topic/8oQFYJuetuT)
+append_entries: 1
+Finish: 2025-11-19 19:10:10.030520
+Wrote digest feed: docs/readhub-digest.xml
