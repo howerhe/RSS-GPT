@@ -397,3 +397,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-19 10:13:50.445109
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 11:10:45.737648
+Existing_entries: 91
+Fetching from https://www.solidot.org/index.rss
+Append: [Google 发布 Gemini 3](https://www.solidot.org/story?sid=82842)
+Append: [Blender 5.0 释出](https://www.solidot.org/story?sid=82841)
+Append: [脑深部电刺激显著改善重度抑郁及焦虑](https://www.solidot.org/story?sid=82840)
+Append: [超加工食品增加年轻人的糖尿病风险](https://www.solidot.org/story?sid=82839)
+Append: [聚变装置 FuZE-3 等离子体压力创纪录](https://www.solidot.org/story?sid=82838)
+Append: [超算模拟银河系千亿颗恒星的演化](https://www.solidot.org/story?sid=82837)
+Append: [加密货币投资者学习如何逃脱绑架](https://www.solidot.org/story?sid=82836)
+append_entries: 7
+Finish: 2025-11-19 11:10:48.838004
+Wrote digest feed: docs/solidot-digest.xml
