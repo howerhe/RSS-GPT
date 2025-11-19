@@ -893,3 +893,11 @@ Append: [美股止跌反弹 英伟达在财报公布前涨超 3%](https://readhu
 append_entries: 1
 Finish: 2025-11-19 22:11:57.711902
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 23:11:34.326214
+Existing_entries: 559
+Fetching from https://readhub.cn/rss
+Append: [中兴发布全新 VR 电影方案：5.5G 高速网 支持 4K/90fps](https://readhub.cn/topic/8oPGpNix49g)
+append_entries: 1
+Finish: 2025-11-19 23:11:35.553486
+Wrote digest feed: docs/readhub-digest.xml
