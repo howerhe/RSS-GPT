@@ -411,3 +411,10 @@ Append: [加密货币投资者学习如何逃脱绑架](https://www.solidot.org/
 append_entries: 7
 Finish: 2025-11-19 11:10:48.838004
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 12:23:28.661669
+Existing_entries: 98
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-19 12:23:30.280915
+Wrote digest feed: docs/solidot-digest.xml

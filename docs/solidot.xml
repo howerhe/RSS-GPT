@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>Google 发布 Gemini 3</title>
 <link>https://www.solidot.org/story?sid=82842</link>
 <guid>https://www.solidot.org/story?sid=82842</guid>
 <content:encoded><![CDATA[
-
 Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 得分达到了 1501 Elo，在多项基准测试中表现出色，其中 GPQA Diamond 博士级推理能力测试得分 91.9%，不使用任何工具的情况下在 Humanity's Last Exam 测试中得分 37.5%。Gemini 3 即日起可在 Gemini 应用、AI Mode in Search for Google AI Pro、Google AI Studio、Vertex AI 和 Google Antigravity 中使用。第三方平台如 Cursor、GitHub、JetBrains、Manus 和 Replit 也可访问该模型。Google 还表示，AI Overviews 月活用户已达 20 亿，Gemini 应用月活用户逾 6.5 亿。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 18:30:04 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 18:30:04 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82841</link>
 <guid>https://www.solidot.org/story?sid=82841</guid>
 <content:encoded><![CDATA[
-
 开源 3D 图形设计软件 Blender 释出了 v5.0。主要变化包括：通过 Wayland/Vulkan 在 Linux 上支持 HDR 和广色域色彩，显著改进主题和 UI，新的色彩空间工具，改进曲线和几何体功能，工作色彩空间（working color space），AgX HDR 视图，Convert to Display 合成器节点，Jump Time by Delta 运算符，等等。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 15:47:46 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 15:47:46 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +30,9 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82840</link>
 <guid>https://www.solidot.org/story?sid=82840</guid>
 <content:encoded><![CDATA[
-
 脑深部电刺激（DBS）——即在脑内植入电极，类似“大脑起搏器”——可使一半对治疗耐受的重度抑郁患者的症状明显改善。重度抑郁障碍是全球最常见且致残性极高的心理健康问题之一。虽然抗抑郁药和心理治疗可帮助许多患者，但治疗抵抗率依然较高，大约有 30%–50% 的患者对现有治疗反应不佳。过去几十年脑深部电刺激（DBS）逐渐被用于治疗帕金森病等神经系统疾病。DBS 通过将微型电极植入大脑深部，释放低强度电刺激以调节异常脑网络活动。上海交大医学院附属瑞金医院的 26 名对治疗耐受的抑郁患者参与了这项研究。临床研究表明，26 名患者中有 13 人（50%）症状显著改善，其中 9 人（35%）达到临床缓解（临床治愈标准）。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 15:17:33 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 15:17:33 +0800</pubDate>
 </item>
 <item>
@@ -45,11 +40,9 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82839</link>
 <guid>https://www.solidot.org/story?sid=82839</guid>
 <content:encoded><![CDATA[
-
 根据发表在《营养与代谢》期刊上的一项研究，超加工食品增加年轻人的糖尿病风险。研究发现，较高的超加工食品摄入量增加了患前驱糖尿病的可能性。前驱糖尿病指血糖升高的早期阶段，可能进一步发展为糖尿病。摄入较多超加工食品的年轻人还表现出胰岛素抵抗的迹象，表明身体利用胰岛素控制血糖的效率下降了。成年早期是身体发育成熟并形成可能持续数十年的生活习惯的关键时期。在该阶段，用水果、蔬菜和全谷物等天然食品代替超加工食品，可降低未来患Ⅱ型糖尿病的风险。研究对 85 名 17～22 岁的年轻人进行了为期 4 年的跟踪调查。参与者在每次随访时列出他们最近一个工作日及周末吃过的所有食物。研究人员将这些食物分为两类：超加工食品（如糖果、汽水、麦片、包装食品、调味酸奶和餐厅食物）和非超加工食物，并计算了每个人每天摄入总热量中的超加工食品占比。结果显示，在基线与随访期间，超加工食品摄入量每增加 10%，患前驱糖尿病的风险就会增加 64%、血糖调节受损增加 56%。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 15:08:12 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 15:08:12 +0800</pubDate>
 </item>
 <item>
@@ -57,11 +50,9 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82838</link>
 <guid>https://www.solidot.org/story?sid=82838</guid>
 <content:encoded><![CDATA[
-
 美国聚变能源技术公司 Zap Energy 宣布，其最新一代“聚变Z箍缩实验3”（FuZE-3）在实验中获得高达 830MPa  的电子压力，对应等离子体总压力约 1.6GPa。该成果刷新了迄今在剪切流稳定Z箍缩装置中实现的压力纪录，是迈向聚变能量增益道路上的重要一步。实现可控核聚变需要在极短时间内获得高温高密度等离子体，其压力是综合反映温度与密度的关键指标。压力越高，发生的聚变反应就越频繁，从而更接近能源输出大于输入的目标。与寻求极高压力或极长约束时间的其他路线不同，Zap Energy 的剪切流稳定Z箍缩技术试图在压缩效率与等离子体稳定性之间寻找平衡。FuZE-3 的设计目标是在“三重乘积”（密度×温度×约束时间）上达到新的高度，这是聚变性能的重要指标。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 15:00:12 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 15:00:12 +0800</pubDate>
 </item>
 <item>
@@ -69,11 +60,9 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82837</link>
 <guid>https://www.solidot.org/story?sid=82837</guid>
 <content:encoded><![CDATA[
-
 研究团队首次成功完成一个前所未有的银河系模拟：在电脑中一颗一颗地追踪超过 1,000 亿颗恒星，并演化 1 万年。这个结果靠的是 AI 与高效能数值模拟的结合，不只模拟的单颗恒星数量比以往最先进的模型多了约 100 倍，整体运算速度也快了 100 倍以上。这次的银河模拟总粒子数约 3,000 亿颗，恒星与气体每粒子约 0.75 个太阳质量，暗物质每粒子约 6 个太阳质量。对于恒星与气体来说，模拟中的一颗粒子几乎就可以当作单颗恒星或一小团云气来看，而不是一整团星团的平均。而要让 3,000 亿颗粒子互相感应重力与流体互动，自然需要超级电脑。计算使用了多套系统，其中主力是日本的超算富岳（Fugaku），最多使用超过 15 万个节点（Arm A64FX CPU），总 CPU 核心数量达数百万级。在富岳上，每 100 万年演化需要 2.78 小时，要模拟完整的 10 亿年银河演化只需要约 115 天，比传统方法估计的 36 年少了两个数量级以上。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Nov 2025 14:35:38 +0800</pubDate>
 <pubDate>Wed, 19 Nov 2025 14:35:38 +0800</pubDate>
 </item>
 <item>
@@ -81,14 +70,11 @@ Google 发布了其最先进的 Gemini 3 模型，模型的 LMArena Leaderboard 
 <link>https://www.solidot.org/story?sid=82836</link>
 <guid>https://www.solidot.org/story?sid=82836</guid>
 <content:encoded><![CDATA[
-
 在意大利 Lugano 湖畔举行的加密货币大会，投资者们在最后一天学习的是如何逃脱绑架：在双手被塑料扎带绑住的情况下如何咬断塑料。在欺骗、网络攻击和市场波动外，加密货币投资者如今面临一个更切身的严重威胁：绑架以及折磨。根据公开报道统计，今年至今袭击加密货币投资者或其家人的案件超过了 60 起。在法国，一位加密货币网红的父亲被发现藏在攻击者汽车后备箱——他被捆绑、殴打，还被泼满了汽油。在美国明尼苏达州，窃贼持枪挟持一家人 9 小时，索要价值 800 万美元的加密货币。在曼哈顿，检方指控两名男子在一栋有 17 个房间的豪华联排别墅内绑架虐待了一名加密货币交易员。Lugano 的投资者们因此参加了为期一天、收费 1000 欧元的反绑架研讨会。保持自身安全最佳方法是低调和减少炫富，做好自卫准备。
 <p></p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Nov 2025 00:02:54 +0800</pubDate>
-<pubDate>Wed, 19 Nov 2025 00:02:54 +0800</pubDate>
 </item>
-
 <item>
 <title>哈佛持有 4.42 亿美元的加密货币</title>
 <link>https://www.solidot.org/story?sid=82835</link>
