@@ -221,3 +221,16 @@ Append: [View Your Pre-Approved & Pre-Qualified Credit Card Offers (Updated For 
 append_entries: 1
 Finish: 2025-11-19 00:56:07.626688
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 02:27:39.865250
+Existing_entries: 28
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 607
+Summarized using glm-4.5-air
+Append: [Shop Cash: $5 For Free](https://www.doctorofcredit.com/shop-cash-5-for-free-3/)
+Token length: 210
+Summarized using glm-4.5-air
+Append: [Amazon: Save An Extra 30% On Diapers](https://www.doctorofcredit.com/amazon-save-an-extra-30-on-diapers/)
+append_entries: 2
+Finish: 2025-11-19 02:27:50.984922
+Wrote digest feed: docs/doctorofcredit-digest.xml
