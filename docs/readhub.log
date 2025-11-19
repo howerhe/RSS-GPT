@@ -877,3 +877,11 @@ Append: [全国经营主体信用建设综合改革试点落户浙江](https://r
 append_entries: 3
 Finish: 2025-11-19 20:12:36.519912
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 21:09:37.127831
+Existing_entries: 557
+Fetching from https://readhub.cn/rss
+Append: [美股科技股大幅拉涨，纳斯达克指数涨超 1%](https://readhub.cn/topic/8oPzsyBQDwP)
+append_entries: 1
+Finish: 2025-11-19 21:09:38.676666
+Wrote digest feed: docs/readhub-digest.xml

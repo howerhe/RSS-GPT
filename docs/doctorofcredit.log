@@ -387,3 +387,19 @@ Append: [Year-End Credit Card Checklist for 2025: Travel Credits, Spend Reset, A
 append_entries: 1
 Finish: 2025-11-19 20:12:44.983484
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 21:09:39.415579
+Existing_entries: 39
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2799
+Summarized using glm-4.5-air
+Append: [Xfinity Rewards Members: $10 Voucher for Select Books at Amazon](https://www.doctorofcredit.com/xfinity-rewards-members-10-voucher-for-select-books-at-amazon/)
+Token length: 2978
+Summarized using glm-4.5-air
+Append: [U.S. Bank $500-$1,500 Business Checking Bonus](https://www.doctorofcredit.com/u-s-bank-400-900-business-checking-bonus/)
+Token length: 151
+Summarized using glm-4.5-air
+Append: [Delta: Round trip To Europe For 24,000 Points](https://www.doctorofcredit.com/delta-round-trip-to-europe-for-24000-points/)
+append_entries: 3
+Finish: 2025-11-19 21:10:17.889510
+Wrote digest feed: docs/doctorofcredit-digest.xml
