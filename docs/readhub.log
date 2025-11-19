@@ -838,3 +838,14 @@ Append: [塔吉特：第三季度净销售额为 252.7 亿美元，不及市场�
 append_entries: 3
 Finish: 2025-11-19 16:16:17.962126
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 17:12:12.403745
+Existing_entries: 546
+Fetching from https://readhub.cn/rss
+Append: [Target 同店销售连降三季，下调全年指引，股价跌回 2019 年](https://readhub.cn/topic/8oPlakJ5LOw)
+Append: [AMD、思科联手沙特 Humain 成立 AI 数据中心合资企业](https://readhub.cn/topic/8oQ6Qdv65X8)
+Append: [欧盟升级科技监管，对亚马逊与微软云业务展开反垄断调查](https://readhub.cn/topic/8oQ52MqIdMN)
+Append: [特斯拉：全球超级充电桩数量突破 75000 根](https://readhub.cn/topic/8oPbaazaXDf)
+append_entries: 4
+Finish: 2025-11-19 17:12:14.023283
+Wrote digest feed: docs/readhub-digest.xml

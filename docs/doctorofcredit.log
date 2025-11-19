@@ -353,3 +353,10 @@ Append: [inKind: Up To 50% Bonus When Buying Credit](https://www.doctorofcredit.
 append_entries: 1
 Finish: 2025-11-19 16:16:32.840627
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 17:12:14.698479
+Existing_entries: 37
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-19 17:12:14.931611
+Wrote digest feed: docs/doctorofcredit-digest.xml
