@@ -867,3 +867,13 @@ Append: [知情人士：特朗普政府考虑暂缓征收半导体关税](https:
 append_entries: 1
 Finish: 2025-11-19 19:10:10.030520
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 20:12:35.335893
+Existing_entries: 554
+Fetching from https://readhub.cn/rss
+Append: [OpenAI 与 Target 携手将 AI 驱动体验带入零售领域](https://readhub.cn/topic/8oPlE50BwOk)
+Append: [贝莱德向 Coinbase 存入 6735 枚比特币 价值超 6 亿美元](https://readhub.cn/topic/8oOGgrZcVC9)
+Append: [全国经营主体信用建设综合改革试点落户浙江](https://readhub.cn/topic/8oPvbGuG127)
+append_entries: 3
+Finish: 2025-11-19 20:12:36.519912
+Wrote digest feed: docs/readhub-digest.xml

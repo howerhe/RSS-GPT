@@ -377,3 +377,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-19 19:10:10.937176
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 20:12:37.263140
+Existing_entries: 38
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 17276
+Summarized using glm-4.5-air
+Append: [Year-End Credit Card Checklist for 2025: Travel Credits, Spend Reset, Application Strategy & More](https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/)
+append_entries: 1
+Finish: 2025-11-19 20:12:44.983484
+Wrote digest feed: docs/doctorofcredit-digest.xml
