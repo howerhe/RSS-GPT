@@ -275,3 +275,13 @@ Append: [Bestbuy.com: $100 Amazon Giftcard + $10 Best Buy eGiftcard For Free (Li
 append_entries: 2
 Finish: 2025-11-19 07:13:03.226343
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 08:16:33.881703
+Existing_entries: 32
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 451
+Summarized using glm-4.5-air
+Append: [Bestbuy.com: Free $10 Best Buy Giftcard When You Purchase $100 In Select Giftcards (Disney, eBay & More)](https://www.doctorofcredit.com/bestbuy-com-free-10-best-buy-giftcard-when-you-purchase-100-in-select-giftcards-disney-ebay-more/)
+append_entries: 1
+Finish: 2025-11-19 08:16:41.429826
+Wrote digest feed: docs/doctorofcredit-digest.xml
