@@ -885,3 +885,11 @@ Append: [美股科技股大幅拉涨，纳斯达克指数涨超 1%](https://read
 append_entries: 1
 Finish: 2025-11-19 21:09:38.676666
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 22:11:56.276759
+Existing_entries: 558
+Fetching from https://readhub.cn/rss
+Append: [美股止跌反弹 英伟达在财报公布前涨超 3%](https://readhub.cn/topic/8oQ26ie2g1Q)
+append_entries: 1
+Finish: 2025-11-19 22:11:57.711902
+Wrote digest feed: docs/readhub-digest.xml
