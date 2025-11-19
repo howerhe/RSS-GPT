@@ -333,3 +333,13 @@ Append: [Bank Amerideals/Chase Offers: 15% at Westin, up to $60 Cashback](https:
 append_entries: 1
 Finish: 2025-11-19 14:12:46.866437
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 15:13:05.826240
+Existing_entries: 35
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2417
+Summarized using glm-4.5-air
+Append: [NASA Federal Credit Union $300 Checking Bonus](https://www.doctorofcredit.com/nasa-federal-credit-union-300-checking-bonus/)
+append_entries: 1
+Finish: 2025-11-19 15:13:13.079260
+Wrote digest feed: docs/doctorofcredit-digest.xml
