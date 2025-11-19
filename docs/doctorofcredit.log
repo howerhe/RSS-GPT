@@ -323,3 +323,13 @@ Append: [(Starts 11/24) Chipotle: Purchase $50 Giftcard, Get $10 Promotional Cod
 append_entries: 1
 Finish: 2025-11-19 13:26:46.018752
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 14:12:36.880360
+Existing_entries: 34
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 713
+Summarized using glm-4.5-air
+Append: [Bank Amerideals/Chase Offers: 15% at Westin, up to $60 Cashback](https://www.doctorofcredit.com/bank-amerideals-chase-offers-15-at-westin-up-to-38-cashback/)
+append_entries: 1
+Finish: 2025-11-19 14:12:46.866437
+Wrote digest feed: docs/doctorofcredit-digest.xml
