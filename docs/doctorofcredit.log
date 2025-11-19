@@ -211,3 +211,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-18 23:10:59.730194
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-19 00:55:56.609072
+Existing_entries: 27
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 7095
+Summarized using glm-4.5-air
+Append: [View Your Pre-Approved & Pre-Qualified Credit Card Offers (Updated For 2025)](https://www.doctorofcredit.com/view-personalized-credit-card-offers/)
+append_entries: 1
+Finish: 2025-11-19 00:56:07.626688
+Wrote digest feed: docs/doctorofcredit-digest.xml
