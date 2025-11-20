@@ -1269,3 +1269,11 @@ Append: [华为鸿蒙星河互联首登 AppStore，支持文件等互传](https:
 append_entries: 2
 Finish: 2025-11-20 17:10:46.902237
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 18:18:05.244134
+Existing_entries: 809
+Fetching from https://readhub.cn/rss
+Append: [美机器人初创公司获 6 亿美元融资 由谷歌旗下基金领投](https://readhub.cn/topic/8oRnLt5stQX)
+append_entries: 1
+Finish: 2025-11-20 18:18:06.800195
+Wrote digest feed: docs/readhub-digest.xml
