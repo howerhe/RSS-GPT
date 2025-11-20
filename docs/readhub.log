@@ -1310,3 +1310,14 @@ Append: [美股收盘：纳指跌超 2% 英伟达高开低收](https://readhub.c
 append_entries: 1
 Finish: 2025-11-20 22:11:42.716568
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 23:11:32.433308
+Existing_entries: 815
+Fetching from https://readhub.cn/rss
+Append: [沪镍收跌 0.92%](https://readhub.cn/topic/8oRo2NbYgIH)
+Append: [纳斯达克中国金龙指数跌超 0.5%](https://readhub.cn/topic/8oRzUpVXsSe)
+Append: [鸿海与 OpenAI 合作，将共同设计数据中心的硬件](https://readhub.cn/topic/8oSD5HfGsWk)
+Append: [谷歌 DeepMind 聘请波士顿动力前 CTO，开启机器人新时代](https://readhub.cn/topic/8oQqjzkvUvm)
+append_entries: 4
+Finish: 2025-11-20 23:11:33.969167
+Wrote digest feed: docs/readhub-digest.xml
