@@ -509,3 +509,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-20 02:25:45.528213
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 03:38:50.299097
+Existing_entries: 98
+Fetching from https://www.solidot.org/index.rss
+Append: [近半美国儿童希望的圣诞礼物是游戏虚拟币](https://www.solidot.org/story?sid=82846)
+Append: [全球近半数人口定居城市](https://www.solidot.org/story?sid=82845)
+Append: [超加工食品与人体主要器官的损伤相关](https://www.solidot.org/story?sid=82844)
+Append: [Z 世代的密码安全意识甚至不如 80 岁的老年人](https://www.solidot.org/story?sid=82843)
+append_entries: 4
+Finish: 2025-11-20 03:38:53.085304
+Wrote digest feed: docs/solidot-digest.xml
