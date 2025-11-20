@@ -570,3 +570,13 @@ Append: [Chase INK Business Cards Now Giving ‘Popup’ Signup Bonus Eligibilit
 append_entries: 2
 Finish: 2025-11-20 18:18:13.964481
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 19:09:39.203319
+Existing_entries: 51
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2880
+Summarized using glm-4.5-air
+Append: [American Express Personal Platinum Adds $200 Oura Ring Credit (30% Off For Black Friday)](https://www.doctorofcredit.com/american-express-personal-platinum-adds-200-oura-ring-credit/)
+append_entries: 1
+Finish: 2025-11-20 19:09:43.866896
+Wrote digest feed: docs/doctorofcredit-digest.xml

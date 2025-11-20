@@ -1277,3 +1277,12 @@ Append: [美机器人初创公司获 6 亿美元融资 由谷歌旗下基金领�
 append_entries: 1
 Finish: 2025-11-20 18:18:06.800195
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 19:09:36.548978
+Existing_entries: 810
+Fetching from https://readhub.cn/rss
+Append: [软银将为 OpenAI 数据中心工厂投资高达 30 亿美元](https://readhub.cn/topic/8oRb8ZmwFF6)
+Append: [谷歌新版 Nano Banana 上线](https://readhub.cn/topic/8oRZ2k9tGqY)
+append_entries: 2
+Finish: 2025-11-20 19:09:37.881717
+Wrote digest feed: docs/readhub-digest.xml
