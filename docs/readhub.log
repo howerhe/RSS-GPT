@@ -1002,3 +1002,20 @@ Append: [A 股三大指数午间休盘涨跌不一，工商银行股价再创新
 append_entries: 13
 Finish: 2025-11-20 04:14:50.368623
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 05:12:59.819561
+Existing_entries: 633
+Fetching from https://readhub.cn/rss
+Append: [特朗普据悉计划推出「创世使命」以促进美国 AI 发展](https://readhub.cn/topic/8oQlPAzfvje)
+Append: [隆基绿能：发行全国首单民企科创绿色公司债](https://readhub.cn/topic/8oQlhZtVGUy)
+Append: [联想集团 CEO 杨元庆：我们并不认为存在人工智能泡沫](https://readhub.cn/topic/8oQjYyfwAKb)
+Append: [飞书多维表格「应用模式」上线，零代码搭建专业业务系统](https://readhub.cn/topic/8oQtgwtz7DS)
+Append: [芯原股份戴伟民：未来端侧微调卡、推理卡销售额将超过云侧训练卡](https://readhub.cn/topic/8oQwRYB10Jc)
+Append: [呼和浩特通报当地华联生活超市经营情况：已启动市场供应日监测机制](https://readhub.cn/topic/8oQvi6pOeqR)
+Append: [OPPO ColorOS 16 首次月度更新 含 Find 系列等百款机型](https://readhub.cn/topic/8oQoCHC03A3)
+Append: [胖东来：企业认为参访无实际收获，10 年内随时可申请退费](https://readhub.cn/topic/8oQsG2rRo22)
+Append: [常熟：力争到 2027 年智能机器人产业规模突破 1200 亿元](https://readhub.cn/topic/8oQuzdOH9Va)
+Append: [联想杨元庆：存储零部件的短缺和价格上涨不会是一个短期现象](https://readhub.cn/topic/8oQtgkwYrSu)
+append_entries: 10
+Finish: 2025-11-20 05:13:01.417096
+Wrote digest feed: docs/readhub-digest.xml
