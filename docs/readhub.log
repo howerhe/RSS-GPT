@@ -1193,3 +1193,24 @@ Append: [摩尔线程：本次发行价格为 114.28 元 / 股](https://readhub.
 append_entries: 20
 Finish: 2025-11-20 12:23:12.105916
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 13:25:13.532966
+Existing_entries: 768
+Fetching from https://readhub.cn/rss
+Append: [*ST 炼石：已收到全部重整投资款 12.38 亿元](https://readhub.cn/topic/8oRWqhm8gW9)
+Append: [乌克兰全国启动紧急停电措施](https://readhub.cn/topic/8oRXaYmT6eN)
+Append: [全球基金上日净买入 323 亿卢比印度股票](https://readhub.cn/topic/8oRMA3BqfrW)
+Append: [启境将于明年年中发布两款新车](https://readhub.cn/topic/8oRW9TbswXU)
+Append: [杭州余杭区推出购房补贴新政 特定楼盘每套补助 3 万元](https://readhub.cn/topic/8oRW981nrNI)
+Append: [智元远征 A2 完成全球首次人形机器人百公里跨省行走](https://readhub.cn/topic/8oRVmF5JPtW)
+Append: [东风与华为共同推出全新汽车品牌奕境，首款车将于明年北京车展亮相](https://readhub.cn/topic/8oRUomkjXoo)
+Append: [宁德时代与中钢协达成战略合作](https://readhub.cn/topic/8oRUoT12o4b)
+Append: [一汽红旗确认与华为达成合作，新车被曝明年推出](https://readhub.cn/topic/8oRF7y3csBE)
+Append: [越南近期洪水与山体滑坡已致 16 人死亡](https://readhub.cn/topic/8oQxwOIsZtm)
+Append: [苹果第十二代 iPad 有望在明年 3 月份推出 将升级 A18 芯片](https://readhub.cn/topic/8oQlKQ8QAWV)
+Append: [雅培以 210 亿美元收购肠癌早筛龙头 Exact Sciences](https://readhub.cn/topic/8oRU6XOSZSV)
+Append: [王文涛部长与英国商贸大臣凯尔举行视频会谈](https://readhub.cn/topic/8oRUiyoVobo)
+Append: [联合飞机在迪拜航展获 1600 架重载工业级无人机订单](https://readhub.cn/topic/8oRU1mj7xhP)
+append_entries: 14
+Finish: 2025-11-20 13:25:15.176196
+Wrote digest feed: docs/readhub-digest.xml

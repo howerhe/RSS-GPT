@@ -507,3 +507,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-20 12:23:13.454609
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 13:25:16.292759
+Existing_entries: 44
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-20 13:25:16.545386
+Wrote digest feed: docs/doctorofcredit-digest.xml
