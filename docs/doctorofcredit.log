@@ -590,3 +590,16 @@ Append: [BJ’s Wholesale: $100 DoorDash eGiftcard For $80](https://www.doctorof
 append_entries: 1
 Finish: 2025-11-20 20:14:13.498925
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 21:11:25.312945
+Existing_entries: 53
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 421
+Summarized using glm-4.5-air
+Append: [Amazon Prime Members Get 30% Off Resale/Warehouse Items](https://www.doctorofcredit.com/amazon-prime-members-get-30-off-resale-warehouse-items/)
+Token length: 195
+Summarized using glm-4.5-air
+Append: [(Starts 11/24) Amazon: Purchase $100 Apple Giftcard, Get $15 Amazon Credit](https://www.doctorofcredit.com/starts-11-24-amazon-purchase-100-apple-giftcard-get-15-amazon-credit/)
+append_entries: 2
+Finish: 2025-11-20 21:11:33.701650
+Wrote digest feed: docs/doctorofcredit-digest.xml

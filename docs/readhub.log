@@ -1294,3 +1294,11 @@ Append: [巴西贝伦 COP30 会场起火致下午议程取消 暂无人员伤亡
 append_entries: 1
 Finish: 2025-11-20 20:14:06.152832
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 21:11:22.867839
+Existing_entries: 813
+Fetching from https://readhub.cn/rss
+Append: [纳斯达克 100 指数跌幅扩大至 2% 抹去早前 2.4% 的涨幅](https://readhub.cn/topic/8oRwcfBnXT1)
+append_entries: 1
+Finish: 2025-11-20 21:11:23.985471
+Wrote digest feed: docs/readhub-digest.xml
