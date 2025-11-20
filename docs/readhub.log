@@ -1302,3 +1302,11 @@ Append: [纳斯达克 100 指数跌幅扩大至 2% 抹去早前 2.4% 的涨幅](
 append_entries: 1
 Finish: 2025-11-20 21:11:23.985471
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 22:11:41.322397
+Existing_entries: 814
+Fetching from https://readhub.cn/rss
+Append: [美股收盘：纳指跌超 2% 英伟达高开低收](https://readhub.cn/topic/8oS5AI3aArF)
+append_entries: 1
+Finish: 2025-11-20 22:11:42.716568
+Wrote digest feed: docs/readhub-digest.xml
