@@ -520,3 +520,10 @@ Append: [Z 世代的密码安全意识甚至不如 80 岁的老年人](https://w
 append_entries: 4
 Finish: 2025-11-20 03:38:53.085304
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 04:14:46.868388
+Existing_entries: 102
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-20 04:14:48.628279
+Wrote digest feed: docs/solidot-digest.xml
