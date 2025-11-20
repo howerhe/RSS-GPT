@@ -531,3 +531,22 @@ Append: [Virgin Atlantic: “High Five” Promotion, Fly Five Different Years & 
 append_entries: 1
 Finish: 2025-11-20 15:12:57.703455
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 16:15:35.591216
+Existing_entries: 45
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 843
+Summarized using glm-4.5-air
+Append: [[Targeted] AmEx Offer: Crate & Barrel, Spend $100+ & Receive $20 Statement Credit](https://www.doctorofcredit.com/targeted-amex-offer-crate-barrel-spend-100-receive-20-statement-credit/)
+Token length: 315
+Summarized using glm-4.5-air
+Append: [Bestbuy.com: Save On Giftcards For DoorDash, Wayfair, Darden, Adidas & More](https://www.doctorofcredit.com/bestbuy-com-save-on-giftcards-for-doordash-wayfair-darden-adidas-more/)
+Token length: 383
+Summarized using glm-4.5-air
+Append: [Bestbuy.com: Buy $100 Apple Giftcard, Get $15 Best Buy Giftcard](https://www.doctorofcredit.com/bestbuy-com-buy-100-apple-giftcard-get-15-best-buy-giftcard/)
+Token length: 496
+Summarized using glm-4.5-air
+Append: [Apple Airpods & Airpods Pro At Lowest-Ever Prices At Major Retailers (From $79.99)](https://www.doctorofcredit.com/apple-airpods-airpods-pro-at-lowest-ever-prices-at-major-retailers-from-79-99/)
+append_entries: 4
+Finish: 2025-11-20 16:15:48.341957
+Wrote digest feed: docs/doctorofcredit-digest.xml

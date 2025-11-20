@@ -1249,3 +1249,14 @@ Append: [上交所问询珠免集团 55.18 亿元资产出售草案，涉及交�
 append_entries: 7
 Finish: 2025-11-20 15:12:53.432641
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 16:15:32.728518
+Existing_entries: 803
+Fetching from https://readhub.cn/rss
+Append: [海洋物联网通信网络首次完成真实环境验证](https://readhub.cn/topic/8oQYD4fUAyh)
+Append: [欧盟对多名俄罗斯个人实施制裁](https://readhub.cn/topic/8oRgsro4MfR)
+Append: [WTI 原油期货涨幅扩大至 1%，报 59.841 美元 / 桶](https://readhub.cn/topic/8oRKhowAPxs)
+Append: [Verizon 重组期间将裁员超 1.3 万人](https://readhub.cn/topic/8oRVSpQ98h6)
+append_entries: 4
+Finish: 2025-11-20 16:15:34.418514
+Wrote digest feed: docs/readhub-digest.xml

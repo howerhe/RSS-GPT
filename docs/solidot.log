@@ -604,3 +604,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-20 15:12:51.668384
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 16:15:30.742021
+Existing_entries: 102
+Fetching from https://www.solidot.org/index.rss
+Append: [美国可能会在两个月内失去麻疹消除国地位](https://www.solidot.org/story?sid=82853)
+Append: [逾 60 个警局装备了波士顿动力的机器狗](https://www.solidot.org/story?sid=82852)
+Append: [中国卡车正迅速从柴油转向电动](https://www.solidot.org/story?sid=82851)
+Append: [中国人才推动美国 AI 研究](https://www.solidot.org/story?sid=82850)
+Append: [Linus Torvalds 认为 AI 辅助编程对新手有用，但不适合应用于生产代码](https://www.solidot.org/story?sid=82849)
+Append: [荷兰将安世半导体控制权归还给中国母公司](https://www.solidot.org/story?sid=82848)
+Append: [物理学家开发 DeepSeek R1 去审查版本](https://www.solidot.org/story?sid=82847)
+append_entries: 7
+Finish: 2025-11-20 16:15:32.345461
+Wrote digest feed: docs/solidot-digest.xml
