@@ -1260,3 +1260,12 @@ Append: [Verizon 重组期间将裁员超 1.3 万人](https://readhub.cn/topic/8
 append_entries: 4
 Finish: 2025-11-20 16:15:34.418514
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 17:10:45.388684
+Existing_entries: 807
+Fetching from https://readhub.cn/rss
+Append: [美国财政部拍卖四周期国债](https://readhub.cn/topic/8oRlsZg5BPR)
+Append: [华为鸿蒙星河互联首登 AppStore，支持文件等互传](https://readhub.cn/topic/8oRdeTlvQj3)
+append_entries: 2
+Finish: 2025-11-20 17:10:46.902237
+Wrote digest feed: docs/readhub-digest.xml

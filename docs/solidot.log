@@ -618,3 +618,10 @@ Append: [物理学家开发 DeepSeek R1 去审查版本](https://www.solidot.org
 append_entries: 7
 Finish: 2025-11-20 16:15:32.345461
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 17:10:43.569522
+Existing_entries: 109
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-20 17:10:45.001291
+Wrote digest feed: docs/solidot-digest.xml

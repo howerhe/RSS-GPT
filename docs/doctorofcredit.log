@@ -550,3 +550,10 @@ Append: [Apple Airpods & Airpods Pro At Lowest-Ever Prices At Major Retailers (F
 append_entries: 4
 Finish: 2025-11-20 16:15:48.341957
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 17:10:48.094634
+Existing_entries: 49
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-20 17:10:48.356000
+Wrote digest feed: docs/doctorofcredit-digest.xml
