@@ -1286,3 +1286,11 @@ Append: [谷歌新版 Nano Banana 上线](https://readhub.cn/topic/8oRZ2k9tGqY)
 append_entries: 2
 Finish: 2025-11-20 19:09:37.881717
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 20:14:04.666179
+Existing_entries: 812
+Fetching from https://readhub.cn/rss
+Append: [巴西贝伦 COP30 会场起火致下午议程取消 暂无人员伤亡报告](https://readhub.cn/topic/8oRqtfxFW06)
+append_entries: 1
+Finish: 2025-11-20 20:14:06.152832
+Wrote digest feed: docs/readhub-digest.xml

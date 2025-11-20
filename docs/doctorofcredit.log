@@ -580,3 +580,13 @@ Append: [American Express Personal Platinum Adds $200 Oura Ring Credit (30% Off 
 append_entries: 1
 Finish: 2025-11-20 19:09:43.866896
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 20:14:07.469768
+Existing_entries: 52
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 326
+Summarized using glm-4.5-air
+Append: [BJ’s Wholesale: $100 DoorDash eGiftcard For $80](https://www.doctorofcredit.com/bjs-wholesale-100-doordash-egiftcard-for-80/)
+append_entries: 1
+Finish: 2025-11-20 20:14:13.498925
+Wrote digest feed: docs/doctorofcredit-digest.xml
