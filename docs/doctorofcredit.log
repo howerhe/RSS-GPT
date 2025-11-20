@@ -420,3 +420,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-19 23:11:36.651528
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-20 00:55:09.027979
+Existing_entries: 43
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 252
+Summarized using glm-4.5-air
+Append: [BECU & SAFE Credit Union To Merge](https://www.doctorofcredit.com/becu-safe-credit-union-to-merge/)
+append_entries: 1
+Finish: 2025-11-20 00:55:15.635061
+Wrote digest feed: docs/doctorofcredit-digest.xml
