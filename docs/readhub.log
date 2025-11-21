@@ -1708,3 +1708,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-21 22:11:59.358113
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 23:11:13.653821
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [俄称对乌实施空袭，乌称击落大量无人机](https://readhub.cn/topic/8oTrCU2zC7i)
+Append: [最终文本草案存分歧 COP30 主席呼吁各方尽快达成共识](https://readhub.cn/topic/8oTPTrRivql)
+Append: [WTI 原油期货跌约 1.6%，本周跌超 3.1%](https://readhub.cn/topic/8oSowTRGzTr)
+append_entries: 3
+Finish: 2025-11-21 23:11:15.251358
+Wrote digest feed: docs/readhub-digest.xml

@@ -831,3 +831,10 @@ Append: [Amazon: Apple Airpods 4 With Noise Cancellation For $99.99](https://www
 append_entries: 3
 Finish: 2025-11-21 22:12:13.178490
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 23:11:17.507502
+Existing_entries: 75
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-21 23:11:17.720598
+Wrote digest feed: docs/doctorofcredit-digest.xml
