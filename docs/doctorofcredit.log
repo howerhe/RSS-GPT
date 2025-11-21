@@ -757,3 +757,16 @@ Append: [My Citi Strata Elite Card Approval Brings Me Over 5/24](https://www.doc
 append_entries: 1
 Finish: 2025-11-21 17:10:45.643423
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 18:17:54.022996
+Existing_entries: 62
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2435
+Summarized using glm-4.5-air
+Append: [[WI only] WaterStone Bank $300 Business Checking Bonus](https://www.doctorofcredit.com/wi-only-waterstone-bank-250-business-checking-bonus/)
+Token length: 2077
+Summarized using glm-4.5-air
+Append: [[TX] Wellby Financial $1,000 Bonus With $50,000 Deposit (Plus, Possible 4.50% APY)(EARN2025)](https://www.doctorofcredit.com/tx-wellby-financial-1000-bonus-with-50000-deposit-plus-possible-4-50-apyearn2025/)
+append_entries: 2
+Finish: 2025-11-21 18:18:03.268634
+Wrote digest feed: docs/doctorofcredit-digest.xml

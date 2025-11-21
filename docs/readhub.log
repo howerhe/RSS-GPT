@@ -1669,3 +1669,13 @@ Append: [标普 500 指数上涨 0.7%，触及盘中新高](https://readhub.cn/t
 append_entries: 2
 Finish: 2025-11-21 17:10:38.749948
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 18:17:50.936319
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [美国四分之一失业者拥有本科或以上学历 创纪录水平](https://readhub.cn/topic/8oTVoRM3asx)
+Append: [富士康计划斥资数十亿美元进军美国人工智能领域](https://readhub.cn/topic/8oT0TCnbzUS)
+Append: [日本央行政策委员 Masu 称「接近」作出加息决定](https://readhub.cn/topic/8oTRTve6MGZ)
+append_entries: 3
+Finish: 2025-11-21 18:17:52.337984
+Wrote digest feed: docs/readhub-digest.xml
