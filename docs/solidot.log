@@ -743,3 +743,10 @@ Append: [惠普和戴尔禁用了部分电脑的 HEVC 硬件解码功能](https:
 append_entries: 3
 Finish: 2025-11-21 10:13:08.965600
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 11:10:24.888108
+Existing_entries: 115
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-21 11:10:26.597526
+Wrote digest feed: docs/solidot-digest.xml
