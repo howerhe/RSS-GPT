@@ -802,3 +802,16 @@ Append: [(Report) Discover 5% Cards Migrating To Capital One Login In January 20
 append_entries: 4
 Finish: 2025-11-21 20:14:01.448380
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 21:10:34.865012
+Existing_entries: 70
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 300
+Summarized using glm-4.5-air
+Append: [[Targeted] AmEx Offer: Google Pay, Use Two Times & Get $10 Credit](https://www.doctorofcredit.com/targeted-amex-offer-google-pay-use-two-times-get-10-credit/)
+Token length: 822
+Summarized using glm-4.5-air
+Append: [American Express Transfer Bonus: 40% To Virgin Atlantic](https://www.doctorofcredit.com/american-express-transfer-bonus-40-to-virgin-atlantic-2/)
+append_entries: 2
+Finish: 2025-11-21 21:10:40.408768
+Wrote digest feed: docs/doctorofcredit-digest.xml
