@@ -815,3 +815,19 @@ Append: [American Express Transfer Bonus: 40% To Virgin Atlantic](https://www.do
 append_entries: 2
 Finish: 2025-11-21 21:10:40.408768
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 22:12:01.175464
+Existing_entries: 72
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1506
+Summarized using glm-4.5-air
+Append: [(Ending Soon) Capital One Quicksilver, Savor, VentureOne $100 Travel Credit + $300 Cash](https://www.doctorofcredit.com/new-signup-bonus-capital-one-quicksilver-savor-ventureone-100-travel-credit-200-cash-with-500-spend/)
+Token length: 572
+Summarized using glm-4.5-air
+Append: [BCU Credit Union – Travel Rewards+ Card – 50k Bonus & $99 Annual Fee](https://www.doctorofcredit.com/bcu-credit-union-travel-rewards-card-50k-bonus-99-annual-fee/)
+Token length: 218
+Summarized using glm-4.5-air
+Append: [Amazon: Apple Airpods 4 With Noise Cancellation For $99.99](https://www.doctorofcredit.com/amazon-apple-airpods-4-with-noise-cancellation-for-118-99/)
+append_entries: 3
+Finish: 2025-11-21 22:12:13.178490
+Wrote digest feed: docs/doctorofcredit-digest.xml
