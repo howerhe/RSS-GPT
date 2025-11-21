@@ -617,3 +617,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-20 23:11:35.589310
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 00:55:24.983648
+Existing_entries: 55
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 405
+Summarized using glm-4.5-air
+Append: [Amazon, BestBuy, Walmart: Apple iPad 2025 For $279 (128GB, 11″)](https://www.doctorofcredit.com/amazon-bestbuy-walmart-apple-ipad-2025-for-279-128gb-11%e2%80%b3/)
+append_entries: 1
+Finish: 2025-11-21 00:55:28.771255
+Wrote digest feed: docs/doctorofcredit-digest.xml
