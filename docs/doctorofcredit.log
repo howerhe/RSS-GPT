@@ -641,3 +641,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-21 03:38:56.393352
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 04:15:23.505321
+Existing_entries: 56
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 6204
+Summarized using glm-4.5-air
+Append: [TradeUp Brokerage $2,000+ Bonus With $100k Transfer](https://www.doctorofcredit.com/tradeup-brokerage-1000-2000-bonus-with-50k-100k-transfer/)
+append_entries: 1
+Finish: 2025-11-21 04:15:29.586037
+Wrote digest feed: docs/doctorofcredit-digest.xml

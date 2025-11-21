@@ -691,3 +691,10 @@ Append: [大脑处理不同语言的基本语音的方式相同](https://www.sol
 append_entries: 3
 Finish: 2025-11-21 03:38:52.839429
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 04:15:18.774104
+Existing_entries: 112
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-21 04:15:20.175553
+Wrote digest feed: docs/solidot-digest.xml
