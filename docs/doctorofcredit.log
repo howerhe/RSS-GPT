@@ -734,3 +734,16 @@ Append: [Aven Credit Card – Earn 6% Back On All Groceries or Gas (Up To $10,00
 append_entries: 1
 Finish: 2025-11-21 15:11:49.817304
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 16:15:15.765709
+Existing_entries: 59
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4832
+Summarized using glm-4.5-air
+Append: [Topcashback: Get $2.50 Bonus With $15 Spend (11/21 Only)](https://www.doctorofcredit.com/topcashback-get-3-bonus-when-you-spend-10-today-only/)
+Token length: 994
+Summarized using glm-4.5-air
+Append: [Synchrony Virgin Red – 60,000 Point Bonus + $200](https://www.doctorofcredit.com/synchrony-virgin-red-60000-point-bonus-200/)
+append_entries: 2
+Finish: 2025-11-21 16:15:26.225550
+Wrote digest feed: docs/doctorofcredit-digest.xml
