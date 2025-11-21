@@ -627,3 +627,10 @@ Append: [Amazon, BestBuy, Walmart: Apple iPad 2025 For $279 (128GB, 11″)](http
 append_entries: 1
 Finish: 2025-11-21 00:55:28.771255
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 02:26:11.328315
+Existing_entries: 56
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-21 02:26:11.558851
+Wrote digest feed: docs/doctorofcredit-digest.xml
