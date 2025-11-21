@@ -1679,3 +1679,11 @@ Append: [日本央行政策委员 Masu 称「接近」作出加息决定](https:
 append_entries: 3
 Finish: 2025-11-21 18:17:52.337984
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 19:10:41.483658
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [万人大裁员背后工程师成重灾区 亚马逊「创新提速」誓言遭遇现实困境](https://readhub.cn/topic/8oT94C6vfxf)
+append_entries: 1
+Finish: 2025-11-21 19:10:42.864799
+Wrote digest feed: docs/readhub-digest.xml

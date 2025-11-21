@@ -770,3 +770,16 @@ Append: [[TX] Wellby Financial $1,000 Bonus With $50,000 Deposit (Plus, Possible
 append_entries: 2
 Finish: 2025-11-21 18:18:03.268634
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 19:10:44.904843
+Existing_entries: 64
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1060
+Summarized using glm-4.5-air
+Append: [Chase INK Preferred Business Card Now Includes Once-Per-Lifetime Language](https://www.doctorofcredit.com/chase-ink-preferred-business-card-now-includes-once-per-lifetime-language/)
+Token length: 831
+Summarized using glm-4.5-air
+Append: [Rakuten: Get 100%/100x On NordVPN](https://www.doctorofcredit.com/rakuten-get-100-100x-on-nordvpn/)
+append_entries: 2
+Finish: 2025-11-21 19:10:54.715862
+Wrote digest feed: docs/doctorofcredit-digest.xml
