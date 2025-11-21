@@ -1660,3 +1660,12 @@ Append: [马斯克 SpaceX 首枚 V3 版星舰火箭出师不利，测试时突�
 append_entries: 5
 Finish: 2025-11-21 16:15:13.850504
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 17:10:37.233471
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [育碧：与腾讯的交易将在未来数日内如期完成，对方获新工作室 Vantage 少数股权](https://readhub.cn/topic/8oT3XHp0LYx)
+Append: [标普 500 指数上涨 0.7%，触及盘中新高](https://readhub.cn/topic/8oTQmuKuFZ6)
+append_entries: 2
+Finish: 2025-11-21 17:10:38.749948
+Wrote digest feed: docs/readhub-digest.xml
