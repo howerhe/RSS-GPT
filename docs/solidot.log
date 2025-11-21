@@ -733,3 +733,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-21 09:13:10.814299
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 10:13:07.535261
+Existing_entries: 112
+Fetching from https://www.solidot.org/index.rss
+Append: [美国 CDC 网页宣称疫苗与自闭症相关](https://www.solidot.org/story?sid=82859)
+Append: [微软公开 Zork 系列游戏源代码](https://www.solidot.org/story?sid=82858)
+Append: [惠普和戴尔禁用了部分电脑的 HEVC 硬件解码功能](https://www.solidot.org/story?sid=82857)
+append_entries: 3
+Finish: 2025-11-21 10:13:08.965600
+Wrote digest feed: docs/solidot-digest.xml
