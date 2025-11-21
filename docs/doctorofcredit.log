@@ -651,3 +651,13 @@ Append: [TradeUp Brokerage $2,000+ Bonus With $100k Transfer](https://www.doctor
 append_entries: 1
 Finish: 2025-11-21 04:15:29.586037
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 05:12:57.574769
+Existing_entries: 57
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 9887
+Summarized using glm-4.5-air
+Append: [DoorDash Promo Codes: 50% Off, Up To $10 Discount (Promo Code NBA50)](https://www.doctorofcredit.com/doordash-promo-codes-25-off-with-25off4u-20-maximum-savings/)
+append_entries: 1
+Finish: 2025-11-21 05:13:06.510520
+Wrote digest feed: docs/doctorofcredit-digest.xml
