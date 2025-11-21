@@ -1687,3 +1687,10 @@ Append: [万人大裁员背后工程师成重灾区 亚马逊「创新提速」�
 append_entries: 1
 Finish: 2025-11-21 19:10:42.864799
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-21 20:13:39.723345
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-21 20:13:41.189336
+Wrote digest feed: docs/readhub-digest.xml
