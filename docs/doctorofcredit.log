@@ -965,3 +965,13 @@ Append: [[CT & Select Counties In NY only] Newtown Savings Bank (NSB) $500 Busin
 append_entries: 1
 Finish: 2025-11-22 16:13:08.676354
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 17:09:30.945681
+Existing_entries: 80
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3208
+Summarized using glm-4.5-air
+Append: [[CT & Select Counties In NY only] Newtown Savings Bank (NSB) $350 Checking Bonus + $150 Savings Bonus](https://www.doctorofcredit.com/ct-select-counties-in-ny-only-newtown-savings-bank-nsb-150-checking-bonus/)
+append_entries: 1
+Finish: 2025-11-22 17:09:37.138188
+Wrote digest feed: docs/doctorofcredit-digest.xml

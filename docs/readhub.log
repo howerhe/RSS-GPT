@@ -1900,3 +1900,11 @@ Append: [无人快递车既要「严守规矩」，还要能「随机应变」](
 append_entries: 2
 Finish: 2025-11-22 16:13:00.118550
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 17:09:26.740861
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [罗永浩：如果不做 TNT 锤子科技有可能不倒闭](https://readhub.cn/topic/8oUkNehHDyn)
+append_entries: 1
+Finish: 2025-11-22 17:09:28.208133
+Wrote digest feed: docs/readhub-digest.xml
