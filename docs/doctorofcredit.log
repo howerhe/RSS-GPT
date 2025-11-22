@@ -975,3 +975,10 @@ Append: [[CT & Select Counties In NY only] Newtown Savings Bank (NSB) $350 Check
 append_entries: 1
 Finish: 2025-11-22 17:09:37.138188
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 18:15:32.721489
+Existing_entries: 81
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-22 18:15:32.996566
+Wrote digest feed: docs/doctorofcredit-digest.xml

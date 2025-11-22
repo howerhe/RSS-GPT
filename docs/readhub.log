@@ -1908,3 +1908,10 @@ Append: [罗永浩：如果不做 TNT 锤子科技有可能不倒闭](https://re
 append_entries: 1
 Finish: 2025-11-22 17:09:28.208133
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 18:15:28.508639
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-22 18:15:29.959427
+Wrote digest feed: docs/readhub-digest.xml
