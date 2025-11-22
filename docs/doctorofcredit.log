@@ -1002,3 +1002,13 @@ Append: [Amazon: $100 inKind Giftcard For $70](https://www.doctorofcredit.com/am
 append_entries: 1
 Finish: 2025-11-22 20:12:46.860756
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 21:10:09.501760
+Existing_entries: 83
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 572
+Summarized using glm-4.5-air
+Append: [ShopRite: Purchase $100 In Gift Cards & Save $20 On Your Next Shop (12/2 – 12/6)](https://www.doctorofcredit.com/shoprite-purchase-100-in-gift-cards-save-15-on-your-next-shop-2/)
+append_entries: 1
+Finish: 2025-11-22 21:10:14.755696
+Wrote digest feed: docs/doctorofcredit-digest.xml
