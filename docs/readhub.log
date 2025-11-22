@@ -1779,3 +1779,14 @@ Append: [华为乾崑 App 发布：支持远控功能与数字钥匙，满足基
 append_entries: 5
 Finish: 2025-11-22 05:11:20.383063
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 06:16:38.786189
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [中国 5G + 工业互联网大会今日在武汉市举办](https://readhub.cn/topic/8oSN5SD7mjc)
+Append: [乌鲁木齐至吉尔吉斯斯坦奥什定期国际客运航线开通](https://readhub.cn/topic/8oUJ7YqYpJR)
+Append: [澳大利亚将禁止机舱内使用充电宝](https://readhub.cn/topic/8oUIOvOeaWd)
+Append: [美国洛杉矶港一船只起火，超百名消防员前往现场](https://readhub.cn/topic/8oUIOejQh3m)
+append_entries: 4
+Finish: 2025-11-22 06:16:40.002435
+Wrote digest feed: docs/readhub-digest.xml
