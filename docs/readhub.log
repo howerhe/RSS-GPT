@@ -1816,3 +1816,19 @@ Append: [2025 年浙江中欧班列已累计开行超 1200 列](https://readhub.
 append_entries: 10
 Finish: 2025-11-22 08:14:52.862959
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 09:11:30.481978
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [以军空袭黎巴嫩南部 致 1 人死亡](https://readhub.cn/topic/8oUYnOUCw70)
+Append: [工信部部长：加快 5G 工厂建设 加强 6G 与工业融合的前瞻研究](https://readhub.cn/topic/8oUY8cx2OX9)
+Append: [魏牌全系车型亮相广州车展 多维发力驱动品牌焕新](https://readhub.cn/topic/8oSX85QcH63)
+Append: [重污染天气橙色预警 哈尔滨启动二级应急响应](https://readhub.cn/topic/8oUY7DYZWZL)
+Append: [紫龙游戏回应「实习生出差抽中显卡要上交」：与公司无关 已报警](https://readhub.cn/topic/8oUVn95LF8d)
+Append: [工信部副部长：2024 年中国民用航空产品产值突破 1600 亿元](https://readhub.cn/topic/8oUWllAB2a0)
+Append: [宁德时代与上汽商用车达成深度战略合作](https://readhub.cn/topic/8oUXOSvrrDO)
+Append: [广汽集团与麦格纳将在欧洲进行整车生产合作](https://readhub.cn/topic/8oSZBbW1oLg)
+Append: [两部门就规范大型网络平台个人信息保护公开征求意见](https://readhub.cn/topic/8oUVFXqwqaz)
+append_entries: 9
+Finish: 2025-11-22 09:11:31.662173
+Wrote digest feed: docs/readhub-digest.xml
