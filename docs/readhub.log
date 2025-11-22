@@ -1790,3 +1790,12 @@ Append: [美国洛杉矶港一船只起火，超百名消防员前往现场](htt
 append_entries: 4
 Finish: 2025-11-22 06:16:40.002435
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 07:11:01.689828
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [美国联邦法官下令禁止国税局与移民局共享纳税人信息](https://readhub.cn/topic/8oUFY3nnZCP)
+Append: [专项债投向政府投资基金将超 800 亿，支持科技自立自强](https://readhub.cn/topic/8oUDVIOGX7m)
+append_entries: 2
+Finish: 2025-11-22 07:11:03.033485
+Wrote digest feed: docs/readhub-digest.xml
