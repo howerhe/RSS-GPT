@@ -1855,3 +1855,11 @@ Append: [哈尔滨机场受雾霾天气影响 32 个航班备降外场](https://
 append_entries: 7
 Finish: 2025-11-22 11:08:43.802628
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 12:19:44.388727
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [中国人民银行行长潘功胜会见南非储备银行行长康亚戈](https://readhub.cn/topic/8oUkwQSSx7Z)
+append_entries: 1
+Finish: 2025-11-22 12:19:45.800660
+Wrote digest feed: docs/readhub-digest.xml
