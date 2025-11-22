@@ -932,3 +932,16 @@ Append: [Amazon: Get 50% Off When Using Membership Rewards Points (Up To $80 In 
 append_entries: 1
 Finish: 2025-11-22 13:17:51.589950
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 14:09:58.269820
+Existing_entries: 76
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 277
+Summarized using glm-4.5-air
+Append: [[YMMV] Chase Sapphire Reserve Up To 175,000 Point Offer](https://www.doctorofcredit.com/ymmv-chase-sapphire-reserve-up-to-175000-point-offer/)
+Token length: 11976
+Summarized using glm-4.5-air
+Append: [[New Boosts] Cash App (Square Cash Debit Card): Cash Boost – Get Cash Back On Categories/Specific Merchants](https://www.doctorofcredit.com/square-cash-debit-card-cash-boost-get-cash-back-on-categories-specific-merchants/)
+append_entries: 2
+Finish: 2025-11-22 14:10:06.760543
+Wrote digest feed: docs/doctorofcredit-digest.xml

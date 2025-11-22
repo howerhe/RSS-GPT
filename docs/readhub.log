@@ -1875,3 +1875,11 @@ Append: [日方报告：一年旅游收入将损失 114 亿美元](https://readh
 append_entries: 5
 Finish: 2025-11-22 13:17:42.833521
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 14:09:54.489962
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [海量细节首次揭秘：前游族董事长林奇被毒杀案始末](https://readhub.cn/topic/8oUTThwgrtS)
+append_entries: 1
+Finish: 2025-11-22 14:09:55.984540
+Wrote digest feed: docs/readhub-digest.xml
