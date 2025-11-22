@@ -1943,3 +1943,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-22 22:10:42.979374
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 23:10:53.418475
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [COP30 峰会闭幕 通过有关气候行动总体协议](https://readhub.cn/topic/8oVQTZuKpaG)
+append_entries: 1
+Finish: 2025-11-22 23:10:54.976006
+Wrote digest feed: docs/readhub-digest.xml
