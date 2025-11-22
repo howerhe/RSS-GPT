@@ -1863,3 +1863,15 @@ Append: [中国人民银行行长潘功胜会见南非储备银行行长康亚�
 append_entries: 1
 Finish: 2025-11-22 12:19:45.800660
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 13:17:41.481507
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [前三季度，上海虹桥商务区跨境电商进出口总额破百亿元](https://readhub.cn/topic/8oSPxgwn287)
+Append: [越南近期洪水与山体滑坡已致 72 人死亡](https://readhub.cn/topic/8oUpEqZy737)
+Append: [我国已建成全球最完整清洁能源产业链](https://readhub.cn/topic/8oUeX7RJIXK)
+Append: [Genspark AI 完成 2.75 亿美元 B 轮融资并发布 AI Workspace](https://readhub.cn/topic/8oU2HQDgIvL)
+Append: [日方报告：一年旅游收入将损失 114 亿美元](https://readhub.cn/topic/8oTutGf00xk)
+append_entries: 5
+Finish: 2025-11-22 13:17:42.833521
+Wrote digest feed: docs/readhub-digest.xml
