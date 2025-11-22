@@ -1756,3 +1756,14 @@ Append: [蚂蚁集团灵光 App 下载量突破 100 万](https://readhub.cn/topi
 append_entries: 10
 Finish: 2025-11-22 03:33:07.397053
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 04:13:53.366451
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [工信部启动卫星物联网业务商用试验](https://readhub.cn/topic/8oUDQZeieFz)
+Append: [11 月沪牌拍卖结果公布：中标率 9.4% 最低成交价 93600 元](https://readhub.cn/topic/8oUCiOfWb7r)
+Append: [凌意生物创新 AAV 基因疗法获 FDA 批准直接开展 Ⅱ 期临床](https://readhub.cn/topic/8oSVrnd0oPo)
+Append: [世界最大跨度四主缆悬索桥今日合龙](https://readhub.cn/topic/8oUBIg19D4H)
+append_entries: 4
+Finish: 2025-11-22 04:13:54.659967
+Wrote digest feed: docs/readhub-digest.xml
