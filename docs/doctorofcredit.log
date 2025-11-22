@@ -992,3 +992,13 @@ Append: [[CA only] Monterra Credit Union (San Mateo Credit Union) $200 Checking 
 append_entries: 1
 Finish: 2025-11-22 19:08:50.173918
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 20:12:43.146886
+Existing_entries: 82
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 203
+Summarized using glm-4.5-air
+Append: [Amazon: $100 inKind Giftcard For $70](https://www.doctorofcredit.com/amazon-100-inkind-giftcard-for-70/)
+append_entries: 1
+Finish: 2025-11-22 20:12:46.860756
+Wrote digest feed: docs/doctorofcredit-digest.xml
