@@ -982,3 +982,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-22 18:15:32.996566
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 19:08:44.727256
+Existing_entries: 81
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3353
+Summarized using glm-4.5-air
+Append: [[CA only] Monterra Credit Union (San Mateo Credit Union) $200 Checking Bonus](https://www.doctorofcredit.com/ca-only-san-mateo-credit-union-100-checking-bonus-direct-deposit-not-required/)
+append_entries: 1
+Finish: 2025-11-22 19:08:50.173918
+Wrote digest feed: docs/doctorofcredit-digest.xml
