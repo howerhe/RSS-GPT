@@ -901,3 +901,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-22 09:11:34.339622
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 10:11:48.881380
+Existing_entries: 75
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-22 10:11:49.103461
+Wrote digest feed: docs/doctorofcredit-digest.xml

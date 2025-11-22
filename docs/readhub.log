@@ -1832,3 +1832,12 @@ Append: [两部门就规范大型网络平台个人信息保护公开征求意�
 append_entries: 9
 Finish: 2025-11-22 09:11:31.662173
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 10:11:45.072235
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [上海海港夺得 2025 赛季中超联赛冠军](https://readhub.cn/topic/8oUaxTvQ7Wc)
+Append: [雷军：小米组合辅助驾驶系统第 4 版「HAD 增强版」将于数日内推送](https://readhub.cn/topic/8oUPWc29a7R)
+append_entries: 2
+Finish: 2025-11-22 10:11:46.404615
+Wrote digest feed: docs/readhub-digest.xml
