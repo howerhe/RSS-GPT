@@ -950,3 +950,10 @@ Append: [Xubuntu.org 披露网站被入侵细节](https://www.solidot.org/story?
 append_entries: 11
 Finish: 2025-11-22 15:10:16.817484
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 16:12:56.671301
+Existing_entries: 126
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-22 16:12:58.195293
+Wrote digest feed: docs/solidot-digest.xml

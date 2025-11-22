@@ -955,3 +955,13 @@ Append: [[LA only] Campus Federal Credit Union $225 Checking Bonus](https://www.
 append_entries: 1
 Finish: 2025-11-22 15:10:25.858812
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 16:13:02.826843
+Existing_entries: 79
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2498
+Summarized using glm-4.5-air
+Append: [[CT & Select Counties In NY only] Newtown Savings Bank (NSB) $500 Business Checking Bonus](https://www.doctorofcredit.com/ct-select-counties-in-ny-only-newtown-savings-bank-nsb-500-business-checking-bonus/)
+append_entries: 1
+Finish: 2025-11-22 16:13:08.676354
+Wrote digest feed: docs/doctorofcredit-digest.xml
