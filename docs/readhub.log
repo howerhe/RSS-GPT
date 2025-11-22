@@ -1718,3 +1718,15 @@ Append: [WTI 原油期货跌约 1.6%，本周跌超 3.1%](https://readhub.cn/top
 append_entries: 3
 Finish: 2025-11-21 23:11:15.251358
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 00:53:25.094082
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [华泰证券：市场波动加大 关注超调板块机会](https://readhub.cn/topic/8oTzlq4d23p)
+Append: [霸王茶姬创始人辟谣：从未发生「茶叶富商残疾女儿」故事](https://readhub.cn/topic/8oTwJ6nTYgu)
+Append: [美联邦航空局对委内瑞拉空域发布安全警告](https://readhub.cn/topic/8oTwwXBJNtN)
+Append: [泰森食品公司将关闭美国牛肉工厂，原因是牛供应减少](https://readhub.cn/topic/8oTjSc2cbS6)
+Append: [特斯拉因致命车祸在美被起诉 车门把手故障被指阻碍救援](https://readhub.cn/topic/8oTVpgGDRqi)
+append_entries: 5
+Finish: 2025-11-22 00:53:26.928051
+Wrote digest feed: docs/readhub-digest.xml
