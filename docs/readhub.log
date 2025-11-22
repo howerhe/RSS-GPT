@@ -1936,3 +1936,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-22 21:10:06.605309
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 22:10:41.417825
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-22 22:10:42.979374
+Wrote digest feed: docs/readhub-digest.xml
