@@ -1730,3 +1730,12 @@ Append: [特斯拉因致命车祸在美被起诉 车门把手故障被指阻碍�
 append_entries: 5
 Finish: 2025-11-22 00:53:26.928051
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 02:21:21.123785
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [美股收评：三大指数集体上涨，英伟达本周累跌 5.9%](https://readhub.cn/topic/8oTk6jn6whN)
+Append: [新疆等地雨雪增多或现强降雪，东北地区偏暖显著](https://readhub.cn/topic/8oSN5kxVANr)
+append_entries: 2
+Finish: 2025-11-22 02:21:22.730909
+Wrote digest feed: docs/readhub-digest.xml
