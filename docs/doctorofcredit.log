@@ -945,3 +945,13 @@ Append: [[New Boosts] Cash App (Square Cash Debit Card): Cash Boost – Get Cash
 append_entries: 2
 Finish: 2025-11-22 14:10:06.760543
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 15:10:21.389478
+Existing_entries: 78
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3131
+Summarized using glm-4.5-air
+Append: [[LA only] Campus Federal Credit Union $225 Checking Bonus](https://www.doctorofcredit.com/la-only-campus-federal-credit-union-225-checking-bonus/)
+append_entries: 1
+Finish: 2025-11-22 15:10:25.858812
+Wrote digest feed: docs/doctorofcredit-digest.xml

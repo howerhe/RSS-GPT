@@ -1883,3 +1883,11 @@ Append: [海量细节首次揭秘：前游族董事长林奇被毒杀案始末](
 append_entries: 1
 Finish: 2025-11-22 14:09:55.984540
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 15:10:17.339976
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美联储官员 Paulson：对 12 月利率决议持谨慎态度](https://readhub.cn/topic/8oSLatz7nPk)
+append_entries: 1
+Finish: 2025-11-22 15:10:18.661478
+Wrote digest feed: docs/readhub-digest.xml

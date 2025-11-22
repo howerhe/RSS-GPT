@@ -932,3 +932,21 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-22 14:09:54.070577
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-22 15:10:15.303524
+Existing_entries: 115
+Fetching from https://www.solidot.org/index.rss
+Append: [伊朗总统表示要迁都](https://www.solidot.org/story?sid=82870)
+Append: [Thunderbird Pro 测试每月 9 美元的付费服务](https://www.solidot.org/story?sid=82869)
+Append: [英国陆军将用《使命召唤》训练士兵](https://www.solidot.org/story?sid=82868)
+Append: [如何关闭 Google 应用中的 Gemini AI](https://www.solidot.org/story?sid=82867)
+Append: [Google 曝光 APT24 使用的 BadAudio 恶意程序](https://www.solidot.org/story?sid=82866)
+Append: [苔藓孢子在空间站外生活 9 个月后仍有繁殖能力](https://www.solidot.org/story?sid=82865)
+Append: [表情符号是如何发明的？](https://www.solidot.org/story?sid=82864)
+Append: [CrossOver Preview 宣布支持 Linux ARM64](https://www.solidot.org/story?sid=82863)
+Append: [慢性病在动物中蔓延](https://www.solidot.org/story?sid=82862)
+Append: [撞击地球的行星忒伊亚可能更靠近太阳](https://www.solidot.org/story?sid=82861)
+Append: [Xubuntu.org 披露网站被入侵细节](https://www.solidot.org/story?sid=82860)
+append_entries: 11
+Finish: 2025-11-22 15:10:16.817484
+Wrote digest feed: docs/solidot-digest.xml

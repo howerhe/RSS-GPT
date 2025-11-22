@@ -4,6 +4,151 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>伊朗总统表示要迁都</title>
+<link>https://www.solidot.org/story?sid=82870</link>
+<guid>https://www.solidot.org/story?sid=82870</guid>
+<content:encoded><![CDATA[
+
+在日益加剧的生态危机和水资源严重短缺的打击下，伊朗总统 Masoud Pezeshkian 周四表示德黑兰已经无法承担首都之职，伊朗别无选择只能迁都。伊朗官员考虑将首都迁至南部沿海地区。但专家表示此举并不能改变近千万德黑兰居民的现状，他们正遭受数十年来供水量持续下降带来的后果。伊朗几个世纪以来多次迁都，这次是首次因为生态灾难而迁都。康奈尔大学社会科学家兼城市规划师 Linda Shi 表示：气候变化并不是造成这一情况的原因，但它却是一个方便的借口，可用于逃避糟糕政治决策的责任。至少从 2008 年起，科学家就警告，伊朗城市和农业无节制抽取地下水正迅速耗尽该国的蓄水层。蓄水层每年损失约 17 亿立方米的水。气候变化确实是方便的借口。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 22 Nov 2025 22:30:34 +0800</pubDate>
+<pubDate>Sat, 22 Nov 2025 22:30:34 +0800</pubDate>
+</item>
+<item>
+<title>Thunderbird Pro 测试每月 9 美元的付费服务</title>
+<link>https://www.solidot.org/story?sid=82869</link>
+<guid>https://www.solidot.org/story?sid=82869</guid>
+<content:encoded><![CDATA[
+
+开源邮件客户端 Thunderbird 项目开始在生产环境测试付费服务 Thunderbird Pro。该服务为每月 9 美元，包括了邮件托管、Send 加密文件共享和 Appointment 日程安排。用户支付 9 美元可获得：30 GB 邮件储存、300 GB Send 储存，15 个 Email 地址以及 3 个自定义域名。有很多人认为该服务定价过高。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 22 Nov 2025 22:07:44 +0800</pubDate>
+<pubDate>Sat, 22 Nov 2025 22:07:44 +0800</pubDate>
+</item>
+<item>
+<title>英国陆军将用《使命召唤》训练士兵</title>
+<link>https://www.solidot.org/story?sid=82868</link>
+<guid>https://www.solidot.org/story?sid=82868</guid>
+<content:encoded><![CDATA[
+
+英国网络与特种作战司令部副司令 Sir Tom Copinger-Symes 将军表示，乌克兰战争证明了精通游戏的士兵的价值，在这场战争中，遥控无人机至关重要。英国国防部周五宣布了与国防相关的电竞比赛 International Defence Esports Games(IDEG)，各国的未来网络战士将同台竞技。除了体验热门游戏《使命召唤》外，IDEG 参与者还将参加无人机模拟游戏 VelociDrone 的比赛。游戏模拟了乌克兰战场常见场景，该游戏正被用于训练英国的无人机操作人员。英国国防部表示，游戏改进了操作人员的目标定位精度和反应速度，以对俄罗斯军队造成致命效果。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 22 Nov 2025 21:58:05 +0800</pubDate>
+<pubDate>Sat, 22 Nov 2025 21:58:05 +0800</pubDate>
+</item>
+<item>
+<title>如何关闭 Google 应用中的 Gemini AI</title>
+<link>https://www.solidot.org/story?sid=82867</link>
+<guid>https://www.solidot.org/story?sid=82867</guid>
+<content:encoded><![CDATA[
+
+Google 被发现默认启用了“在 Gmail、Chat 和 Meet 中启用智能功能”选项，默认启用“Google Workspace 智能功能”。根据 Google 的说明，“启用此设置即表示您同意 Gmail、Google Chat 和 Google Meet 使用您在这些产品中的内容和活动记录，为您提供智能功能和个性化体验”，以及“启用此设置即表示您允许 Google Workspace 使用您的 Workspace 内容和活动记录，从而在 Workspace 中为您提供个性化体验。Workspace 包含适用于企业和学校的多个应用，例如 Gmail、Chat、Meet、云端硬盘等。”用户需要手动选择才能取消这些 AI 功能，方法是 Gmail ——&gt; 设置 ——&gt; 查看所有设置——&gt; 智能功能，去除“在 Gmail、Chat 和 Meet 中启用智能功能”勾选框，在重启应用之后，在智能功能下打开“管理 Google Workspace 智能功能设置”，去除所有勾选框。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 22 Nov 2025 00:01:50 +0800</pubDate>
+<pubDate>Sat, 22 Nov 2025 00:01:50 +0800</pubDate>
+</item>
+<item>
+<title>Google 曝光 APT24 使用的 BadAudio 恶意程序</title>
+<link>https://www.solidot.org/story?sid=82866</link>
+<guid>https://www.solidot.org/story?sid=82866</guid>
+<content:encoded><![CDATA[
+
+Google Threat Intelligence Group(GTIG) 通过官方博客曝光了 APT24 间谍组织使用的 BadAudio 恶意程序。APT24 过去三年在受害者网络部署了此前未有记录的 BadAudio——一种高度混淆的第一阶段下载工具，用于建立持久访问权限。APT24 利用了供应链入侵、多层社会工程攻击以及滥用合法云服务如 Google Drive 和 OneDrive，展示了其攻击能力的持续演进。举例来说，从 2024 年 7 月起，APT24 多次入侵了一家台湾的数字营销公司，该公司为客户网站提供了 JS 库。APT24 通过入侵该公司，将恶意的 JS 代码注入到该公司的一个广泛使用的 JS 库，它还使用误植域名（Typosquatting）冒充合法 CDN 的域名。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 23:36:59 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 23:36:59 +0800</pubDate>
+</item>
+<item>
+<title>苔藓孢子在空间站外生活 9 个月后仍有繁殖能力</title>
+<link>https://www.solidot.org/story?sid=82865</link>
+<guid>https://www.solidot.org/story?sid=82865</guid>
+<content:encoded><![CDATA[
+
+苔藓能在地球上最极端的环境中生长。受此启发，研究人员将苔藓孢子体（即包裹孢子的繁殖结构）送往迄今为止最极端的环境：太空。日本研究人员报告，超过 80% 的孢子在国际空间站（ISS）外生存了 9 个多月，返回地球后仍具备繁殖能力，首次证明了早期陆生植物能长期承受太空环境的考验。研究人员测试了苔藓的 3 种不同结构——原丝体（即幼年苔藓）、繁殖细胞（在压力条件下产生的特化干细胞）和孢子体，以找出哪种在太空中的存活几率最高。他们发现，紫外线辐射是最难克服的生存要素，而孢子体是 3 种苔藓结构中最具韧性的。幼年苔藓在高强度紫外线或极端温度下无一存活。繁殖细胞的存活率虽略高，但孢子对紫外线辐射的耐受性高出约 1000 倍。此外，孢子在零下 196°C 下暴露超过一周后仍能存活并发芽，在 55°C高温下存活一个月后也同样如此。研究团队认为，孢子周围的结构起到了保护屏障的作用，能吸收紫外线辐射，并在物理和化学层面双重保护内部孢子免受损伤。研究人员预测，在太空环境下，包裹的孢子最多可存活 5600 天——约 15 年。他们强调这个数字仅为粗略估算，要准确预测苔藓在太空中的存活时长，还需要更大的数据集。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 22:08:16 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 22:08:16 +0800</pubDate>
+</item>
+<item>
+<title>表情符号是如何发明的？</title>
+<link>https://www.solidot.org/story?sid=82864</link>
+<guid>https://www.solidot.org/story?sid=82864</guid>
+<content:encoded><![CDATA[
+
+1982 年 9 月 16 日，卡内基梅隆大学计算机科学家 Neil Swartz 在学校 BBS 上谈论了一个物理学问题：一根蜡烛和一滴水银在自由落体的电梯中会发生什么？当天晚上计算机科学家 Howard Gayle 在回复中开了一个玩笑：警告！由于一项物理实验，一部电梯“被水银污染”以及因火灾遭受“轻微损坏”。尽管有人澄清这是玩笑，但还是有人信以为真。此事引发了如何避免误解的争论。9 月 17 日 Swartz 建议玩笑性质的主题用 * 标记；其他人提议用 % 替代 *；还有人结合两者： % 代表有趣的笑话，* 代表糟糕的笑话（bad jokes）；还有人提议用 &amp; 或 #。此时一些人已经在使用类似笑脸的符号 \__/ 去标记笑话，但这个符合当时并不流行。 9 月 19 日，计算机科学研究助理教授 Scott Fahlman 提议用 :-) 标记笑话，用 :-( 标记严肃的评论。这一提议
+迅速通过 ARPAnet 流行开来，逐渐成为在线交流的常用符号，有时会省略连接符简写为 :) 或 :(。Fahlman 
+可能并非是该表情符号的第一个提出者，但他在恰当的语境恰当的时间提出了恰当的解决方案。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 21:30:17 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 21:30:17 +0800</pubDate>
+</item>
+<item>
+<title>CrossOver Preview 宣布支持 Linux ARM64</title>
+<link>https://www.solidot.org/story?sid=82863</link>
+<guid>https://www.solidot.org/story?sid=82863</guid>
+<content:encoded><![CDATA[
+
+kgnix 写道：月初 CodeWeavers 发布最新的 CrossOver Preview 版本，带来了一个具有里程碑意义的突破：对 Linux ARM64 平台的原生支持。这是 CrossOver 在兼容层技术道路上的重要一步，也标志着 Wine 生态在新架构适配方面的又一次成熟。<br />
+<br />
+CodeWeavers 是一家长期致力于为 macOS 与 Linux 用户和企业提供基于 Wine 技术的 Windows 应用兼容方案的技术公司。其旗下产品 CrossOver 建立在开源项目 Wine 之上，通过额外的整合和优化，为用户提供更完善、更便捷的运行体验。CodeWeavers 也是 Wine 项目的长期贡献者和 Steam Proton 项目的开发者。
+<br />
+<br />
+CrossOver 产品经理 Meredith 表示，ARM64 支持是一个历时数年的工程。在 Wine 8.0、9.0、10.0 的数次版本迭代中，团队陆续完成了关键组件的开发，包括：PE 转换、WoW64 thunks、ARM64EC 模式、二进制翻译、FEX 模拟器集成，以及为 LLVM 等工具链补齐 ARM64EC 支持。这些技术的逐步落地才使得今天的 ARM64 CrossOver 成为可能。
+<br />
+<br />
+目前，CrossOver ARM64 已能在 System76 Thelio Astra 这样的 ARM64 桌面平台上流畅运行《赛博朋克 2077》《对马岛之魂》等 3A 级游戏，性能表现令人惊喜。然而 CodeWeavers 的愿景似乎并不止于游戏领域。团队表示，他们期待未来 CrossOver ARM64 能成为企业迁移现有 Windows 工作环境至 Linux 的可行方案，以进一步提升安全性、降低维护复杂度并减少系统臃肿。
+<br />
+<br />
+与此同时，Valve 刚刚发布了基于 ARM64 + Linux、同样借助 Wine 技术来运行 x86 Windows 游戏的设备——Steam Frame。两个产品几乎同期亮相，不禁让人思考：基于 ARM 架构的芯片，是否正准备在消费级与企业级 PC 市场上，与传统 x86 展开更直接、全面的竞争？
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 19:01:22 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 19:01:22 +0800</pubDate>
+</item>
+<item>
+<title>慢性病在动物中蔓延</title>
+<link>https://www.solidot.org/story?sid=82862</link>
+<guid>https://www.solidot.org/story?sid=82862</guid>
+<content:encoded><![CDATA[
+
+癌症、肥胖症、糖尿病和退行性关节病等已不再仅是人类的问题，如今它们正在动物王国里传播。在全球范围内，包括家养宠物、家畜和海洋生物在内的各种动物都出现了严重的健康问题。研究发现，遗传倾向会增加某些动物的患病风险。为了外观而选择性繁育的狗和猫，以及为提高生产力而繁育的家畜，患糖尿病和二尖瓣疾病的可能性更大。而环境因素，包括不良饮食、缺乏身体活动及长期压力，也会影响这些疾病在不同物种中出现的方式和时间。这些例子在许多环境中都能找到。家养的猫和狗肥胖现象十分普遍。最近的调查估计，有50%到60%的猫和狗属于超重范畴，这导致了猫糖尿病的发病率逐年上升。在农业环境中，约20%的圈养猪会患上骨关节炎。海洋动物也面临着类似的挑战：白鲸有患胃肠癌的记录，而养殖的大西洋鲑鱼则会患上心肌病综合征。生活在受工业化学品，如多环芳烃和多氯联苯污染的河口的野生动物，其肝癌发病率高达15%至25%。研究指出，人为驱动的生态转型正在加剧这些威胁。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 18:24:17 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 18:24:17 +0800</pubDate>
+</item>
+<item>
+<title>撞击地球的行星忒伊亚可能更靠近太阳</title>
+<link>https://www.solidot.org/story?sid=82861</link>
+<guid>https://www.solidot.org/story?sid=82861</guid>
+<content:encoded><![CDATA[
+
+根据发表在《科学》期刊上的一项研究，通过追踪月球和地球岩石中的铁同位素指纹，试图揭开月球神秘前身起源之谜的研究人员为月球起源于内太阳系的观点增添了证据。研究结果披露，忒伊亚（Theia）——这颗因与地球相撞而形成月球的火星大小的行星体的诞生处可能比地球更靠近太阳。月球被认为是在太阳系形成后约一亿年时因忒伊亚与早期地球碰撞而形成的。大多数关于这一过程的模型提示，月球主要由来自这颗远古撞击体的物质构成。如果忒伊亚的同位素组成与地球不同，那么月球的同位素组成也应该与地球不同。这种同位素差异可揭示某行星体在太阳系中的起源处，从而可为了解忒伊亚的诞生处提供线索。然而对月球岩石的分析表明，月球和地球在许多元素的同位素组成上几乎等同。尽管有多种模型竞相尝试对这种相似性做出解释，但由于缺乏清晰的同位素差异以及其成因尚不确定，因此要确认忒伊亚最初形成于何处颇具挑战性。最新分析结果显示，地球和月球的铁同位素组成如出一辙，忒伊亚可能起源于内太阳系，其形成位置甚至比原地球更接近太阳。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 18:18:56 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 18:18:56 +0800</pubDate>
+</item>
+<item>
+<title>Xubuntu.org 披露网站被入侵细节</title>
+<link>https://www.solidot.org/story?sid=82860</link>
+<guid>https://www.solidot.org/story?sid=82860</guid>
+<content:encoded><![CDATA[
+
+在邮件列表上，Xubuntu 项目披露网站被入侵细节。Xubuntu 官网是在上个月中旬被入侵植入了名为 Xubuntu-Safe-Download.zip 的恶意文件，开发者称攻击者是利用 WordPress 的一个存在弱点的组件使用暴力破解的方式获得了网站访问权限，这次事件只涉及下载站及其提供的 Torrent 链接，其它都未受影响，Xubuntu 的构建系统、软件包或其它组件都未受到影响。如果用户下载了 Xubuntu-Safe-Download.zip 建议立即删除，使用安全软件扫描系统。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Nov 2025 17:53:27 +0800</pubDate>
+<pubDate>Fri, 21 Nov 2025 17:53:27 +0800</pubDate>
+</item>
 
 <item>
 <title>美国 CDC 网页宣称疫苗与自闭症相关</title>
