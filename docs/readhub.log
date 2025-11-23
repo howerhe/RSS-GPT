@@ -2098,3 +2098,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-23 14:10:05.044547
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 15:10:18.569157
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [金富科技：筹划收购广东蓝原科技不低于 51% 股权](https://readhub.cn/topic/8oWAs7XblUV)
+Append: [前三季度结婚登记同比增加超 40 万对 全国 29 个省份延长婚假](https://readhub.cn/topic/8oWZtD7csD0)
+append_entries: 2
+Finish: 2025-11-23 15:10:20.161997
+Wrote digest feed: docs/readhub-digest.xml
