@@ -2067,3 +2067,10 @@ Append: [甲骨文股价暴跌致埃里森财富缩水 1300 亿美元，滑落�
 append_entries: 9
 Finish: 2025-11-23 10:11:36.323184
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 11:09:15.842483
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-23 11:09:17.233129
+Wrote digest feed: docs/readhub-digest.xml
