@@ -1196,3 +1196,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-23 21:10:28.617867
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 22:11:13.008296
+Existing_entries: 94
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 176
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: $50 Back](https://www.doctorofcredit.com/capital-one-shopping-50-back/)
+Token length: 1140
+Summarized using glm-4.5-air
+Append: [[IA] Malvern Bank $300 Checking Bonus](https://www.doctorofcredit.com/ia-malvern-bank-300-checking-bonus/)
+append_entries: 2
+Finish: 2025-11-23 22:11:20.685744
+Wrote digest feed: docs/doctorofcredit-digest.xml
