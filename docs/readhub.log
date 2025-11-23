@@ -2137,3 +2137,10 @@ Append: [贝莱德比特币 ETF 单日成交突破 80 亿美元](https://readhub
 append_entries: 7
 Finish: 2025-11-23 18:15:47.948373
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 19:09:01.383005
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-23 19:09:02.909015
+Wrote digest feed: docs/readhub-digest.xml

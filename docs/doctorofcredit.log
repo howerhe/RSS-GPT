@@ -1160,3 +1160,16 @@ Append: [Amazon: Save On Giftcards For Krispy Kreme, Nautica, Cold Stone, inKind
 append_entries: 2
 Finish: 2025-11-23 18:16:05.809149
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 19:09:06.417285
+Existing_entries: 89
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1486
+Summarized using glm-4.5-air
+Append: [Office Depot/Max Stores: Buy $300 In Visa Giftcards & Get $15 Instant Discount (11/23-11/29)](https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-visa-giftcards-get-15-instant-discount-12-19-12-25/)
+Token length: 222
+Summarized using glm-4.5-air
+Append: [Rakuten: Free $4/400 With Comet Browser Extension](https://www.doctorofcredit.com/rakuten-free-4-400-with-comet-browser-extension/)
+append_entries: 2
+Finish: 2025-11-23 19:09:14.535115
+Wrote digest feed: docs/doctorofcredit-digest.xml
