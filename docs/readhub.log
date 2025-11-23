@@ -2074,3 +2074,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-23 11:09:17.233129
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 12:19:37.494210
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [贵广网络：陈彧辞任董事长，代青松接任](https://readhub.cn/topic/8oW83ch5OP1)
+Append: [美团：周六洗浴行业交易规模破亿，同比暴增 152%](https://readhub.cn/topic/8oWBaadRM41)
+append_entries: 2
+Finish: 2025-11-23 12:19:40.394967
+Wrote digest feed: docs/readhub-digest.xml
