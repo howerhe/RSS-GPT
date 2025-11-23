@@ -2083,3 +2083,11 @@ Append: [美团：周六洗浴行业交易规模破亿，同比暴增 152%](http
 append_entries: 2
 Finish: 2025-11-23 12:19:40.394967
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 13:17:48.946455
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [中国建成全球规模最大生态环境监测网络](https://readhub.cn/topic/8oWQiSxxJ6e)
+append_entries: 1
+Finish: 2025-11-23 13:17:51.365216
+Wrote digest feed: docs/readhub-digest.xml
