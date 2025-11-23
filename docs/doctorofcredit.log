@@ -1050,3 +1050,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-23 04:26:38.595180
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 05:11:56.424415
+Existing_entries: 85
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-23 05:11:56.607382
+Wrote digest feed: docs/doctorofcredit-digest.xml

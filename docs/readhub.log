@@ -1994,3 +1994,12 @@ Append: [上海交大发布全球首款量子科学计算平台](https://readhub
 append_entries: 2
 Finish: 2025-11-23 04:26:35.253313
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 05:11:51.667284
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [美国报告 H5N5 型禽流感致人死亡病例，据信为全球首例](https://readhub.cn/topic/8oVwbC1jtGc)
+Append: [传长城旗下自动驾驶公司毫末智行已停工解散](https://readhub.cn/topic/8oVkPL3mBiT)
+append_entries: 2
+Finish: 2025-11-23 05:11:53.371322
+Wrote digest feed: docs/readhub-digest.xml
