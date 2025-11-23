@@ -2003,3 +2003,12 @@ Append: [传长城旗下自动驾驶公司毫末智行已停工解散](https://r
 append_entries: 2
 Finish: 2025-11-23 05:11:53.371322
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 06:17:06.256417
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [北汽集团张建勇：交付周期已稳定控制在 30 天以内，备件满足率升至 95%](https://readhub.cn/topic/8oW07ckk2VM)
+Append: [冲刺「国产 GPU 第一股」：摩尔线程明日启动申购，发行价 114.28 元 / 股](https://readhub.cn/topic/8oVyH0bVRIg)
+append_entries: 2
+Finish: 2025-11-23 06:17:07.702724
+Wrote digest feed: docs/readhub-digest.xml
