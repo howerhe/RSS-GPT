@@ -1985,3 +1985,12 @@ Append: [浙江温州港「新三样」货物首次实现「出厂即出海」](
 append_entries: 11
 Finish: 2025-11-23 03:20:41.158054
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 04:26:33.498286
+Existing_entries: 1011
+Fetching from https://readhub.cn/rss
+Append: [荷兰国防大臣：埃因霍温机场空中交通暂停](https://readhub.cn/topic/8oVVOfJxokJ)
+Append: [上海交大发布全球首款量子科学计算平台](https://readhub.cn/topic/8oUljuOTxyy)
+append_entries: 2
+Finish: 2025-11-23 04:26:35.253313
+Wrote digest feed: docs/readhub-digest.xml
