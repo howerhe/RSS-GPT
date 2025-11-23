@@ -2012,3 +2012,14 @@ Append: [冲刺「国产 GPU 第一股」：摩尔线程明日启动申购，发
 append_entries: 2
 Finish: 2025-11-23 06:17:07.702724
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 07:11:23.307221
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [雷军提醒：辅助驾驶不是自动驾驶 需时刻保持专注](https://readhub.cn/topic/8oW2bjylJDe)
+Append: [2025 年中国电影年度票房已超 460 亿元](https://readhub.cn/topic/8oW3kbpNgTo)
+Append: [英国计划实现 10% 的关键矿产自给](https://readhub.cn/topic/8oVrd7TxJIn)
+Append: [14 类案例可申报 工信部集中组织开展典型案例征集工作](https://readhub.cn/topic/8oW0uu1uAiN)
+append_entries: 4
+Finish: 2025-11-23 07:11:25.341128
+Wrote digest feed: docs/readhub-digest.xml
