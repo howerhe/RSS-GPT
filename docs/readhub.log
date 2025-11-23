@@ -1951,3 +1951,19 @@ Append: [COP30 峰会闭幕 通过有关气候行动总体协议](https://readhu
 append_entries: 1
 Finish: 2025-11-22 23:10:54.976006
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 01:03:21.985573
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [哥斯达黎加近海海域发生 5.1 级地震](https://readhub.cn/topic/8oVegQdYZtk)
+Append: [国家发改委 4100 万元贷款支持陕西氢能企业发展](https://readhub.cn/topic/8oVdzJIWksR)
+Append: [三股冷空气将接连影响我国，甘肃内蒙古等地迎降雪](https://readhub.cn/topic/8oVdIu6gr9s)
+Append: [上汽集团：2027 年正式实现全固态电池的量产交付](https://readhub.cn/topic/8oVak56AGu8)
+Append: [北汽集团：收到人民法院就某车企不正当竞争案作出的一审胜诉判决](https://readhub.cn/topic/8oUinYV8NEV)
+Append: [峰飞航空发布 eVTOL 零碳水上机场 推动低空经济向水域延伸](https://readhub.cn/topic/8oUbklAJSha)
+Append: [多家航空公司取消往返委内瑞拉航班](https://readhub.cn/topic/8oVTIrOnDvo)
+Append: [视觉中国致歉：侵权涉案作品已于诉讼发生后在网站下架，侵权行为终止](https://readhub.cn/topic/8oVXbS78ApR)
+Append: [小米举办小米 17 和澎湃 OS3 庆功会：共 18 道菜](https://readhub.cn/topic/8oUmWR7zxsD)
+append_entries: 9
+Finish: 2025-11-23 01:03:23.337760
+Wrote digest feed: docs/readhub-digest.xml
