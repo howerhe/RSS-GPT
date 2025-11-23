@@ -1130,3 +1130,13 @@ Append: [Amazon Kindle Unlimited: 3 Months For $.99](https://www.doctorofcredit.
 append_entries: 1
 Finish: 2025-11-23 15:10:27.027391
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 16:13:07.216194
+Existing_entries: 86
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 426
+Summarized using glm-4.5-air
+Append: [BJ’s Wholesale Club $5 Membership Renewal](https://www.doctorofcredit.com/bjs-wholesale-club-10-membership-renewal/)
+append_entries: 1
+Finish: 2025-11-23 16:13:12.328982
+Wrote digest feed: docs/doctorofcredit-digest.xml

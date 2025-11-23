@@ -2107,3 +2107,12 @@ Append: [前三季度结婚登记同比增加超 40 万对 全国 29 个省份�
 append_entries: 2
 Finish: 2025-11-23 15:10:20.161997
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 16:13:02.442345
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [工业和信息化部：将从三方面推动集成电路产业高质量发展](https://readhub.cn/topic/8oWUuOKMUGM)
+Append: [打破核心技术瓶颈 我国科研团队发布稀土材料最新成果](https://readhub.cn/topic/8oWdWP3bkZd)
+append_entries: 2
+Finish: 2025-11-23 16:13:03.748273
+Wrote digest feed: docs/readhub-digest.xml
