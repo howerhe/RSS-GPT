@@ -1189,3 +1189,10 @@ Append: [[MN, WI, TN, TX] Altra Federal Credit Union $300 Checking Bonus (Decemb
 append_entries: 3
 Finish: 2025-11-23 20:13:19.407070
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 21:10:28.337438
+Existing_entries: 94
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-23 21:10:28.617867
+Wrote digest feed: docs/doctorofcredit-digest.xml
