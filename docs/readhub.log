@@ -1967,3 +1967,21 @@ Append: [小米举办小米 17 和澎湃 OS3 庆功会：共 18 道菜](https://
 append_entries: 9
 Finish: 2025-11-23 01:03:23.337760
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 03:20:39.606013
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [今年我国低空经济市场规模预计将达 1.5 万亿元](https://readhub.cn/topic/8oVnJGzWiy0)
+Append: [山东出台 15 条新政推进水资源节约集约利用](https://readhub.cn/topic/8oUq5h1UYpI)
+Append: [微软发布 Win11 紧急更新，修复「无限安装循环」BUG](https://readhub.cn/topic/8oU2HNhYvNq)
+Append: [央视曝光豪车碰瓷特大骗保案：二手豪车专挑货车撞 涉案金额超 1 亿元](https://readhub.cn/topic/8oVafndoT1K)
+Append: [首个国产九价 HPV 疫苗落地黑龙江](https://readhub.cn/topic/8oVlsX6rJTD)
+Append: [小米公司发言人澄清「小米汽车工厂内电池产线起火」相关谣言](https://readhub.cn/topic/8oVlAMYLYZU)
+Append: [中国首条大容量全固态电池产线建成](https://readhub.cn/topic/8oVWxBjZxOO)
+Append: [比特币向上升破 86000 美元，日内涨近 2%](https://readhub.cn/topic/8oVbpnEMSPq)
+Append: [火星人居科幻城、法拉利世界娱乐综合体等项目落户北京城市副中心文旅区](https://readhub.cn/topic/8oUHicIcmvG)
+Append: [我国实现纤维素全碳素合成淀粉 转化率达 93.3%](https://readhub.cn/topic/8oU81uQ91Tj)
+Append: [浙江温州港「新三样」货物首次实现「出厂即出海」](https://readhub.cn/topic/8oUqko1MbvB)
+append_entries: 11
+Finish: 2025-11-23 03:20:41.158054
+Wrote digest feed: docs/readhub-digest.xml

@@ -1033,3 +1033,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-23 01:03:26.738547
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 03:20:43.832227
+Existing_entries: 84
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 5471
+Summarized using glm-4.5-air
+Append: [(YMMV) Capital One Shopping Referral Bonus; $60-$80 For Each](https://www.doctorofcredit.com/join-capital-one-shopping-get-10-after-spending-10/)
+append_entries: 1
+Finish: 2025-11-23 03:20:49.441688
+Wrote digest feed: docs/doctorofcredit-digest.xml
