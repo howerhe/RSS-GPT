@@ -2116,3 +2116,10 @@ Append: [打破核心技术瓶颈 我国科研团队发布稀土材料最新成�
 append_entries: 2
 Finish: 2025-11-23 16:13:03.748273
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 17:10:05.947439
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-23 17:10:08.095867
+Wrote digest feed: docs/readhub-digest.xml

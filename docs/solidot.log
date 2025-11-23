@@ -1111,3 +1111,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-23 16:13:01.891927
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 17:10:03.536872
+Existing_entries: 126
+Fetching from https://www.solidot.org/index.rss
+Append: [Chrome 考虑恢复支持 JPEG-XL](https://www.solidot.org/story?sid=82875)
+Append: [美国 CDC 将终止所有实验猴研究](https://www.solidot.org/story?sid=82874)
+Append: [Firefox 147 将支持 XDG Base Directory Specification 目录标准](https://www.solidot.org/story?sid=82873)
+Append: [密码学会因密钥丢失被迫重新选举](https://www.solidot.org/story?sid=82872)
+append_entries: 4
+Finish: 2025-11-23 17:10:05.477220
+Wrote digest feed: docs/solidot-digest.xml

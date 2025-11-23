@@ -4,6 +4,54 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>Chrome 考虑恢复支持 JPEG-XL</title>
+<link>https://www.solidot.org/story?sid=82875</link>
+<guid>https://www.solidot.org/story?sid=82875</guid>
+<content:encoded><![CDATA[
+
+2023 年 Google Chrome 移除了对实验性的 JPEG-XL 图像格式的支持。JPEG-XL 是免专利新的图像格式。Google 此举引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。到了 2025 年事情有了戏剧性转变。Google 开发者 Rick Byers 表示考虑恢复支持 JPEG-XL，预计将使用 JPEG-XL 的 Rust 语言实现。Google 开发者称，Safari 加入了对 JPEG-XL 支持，Firefox 也表明了立场，PDF 也准备添加 JPEG-XL 支持。Chromium 要默认启用 JPEG XL 解码器，需要有长期维护的承诺，满足这些条件的话将会恢复支持。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 23 Nov 2025 23:13:09 +0800</pubDate>
+<pubDate>Sun, 23 Nov 2025 23:13:09 +0800</pubDate>
+</item>
+<item>
+<title>美国 CDC 将终止所有实验猴研究</title>
+<link>https://www.solidot.org/story?sid=82874</link>
+<guid>https://www.solidot.org/story?sid=82874</guid>
+<content:encoded><![CDATA[
+
+美国疾病控制与预防中心（CDC）的科学家近日已接到逐步停止所有猴子研究工作的指令。这将导致约 200 只恒河猴和豚尾猴参与的研究工作停止。这些猴子曾被用于艾滋病、肝炎和其他传染病研究。目前它们前路未卜，其中一部分可能被转移到灵长类动物保护区，另一部分可能会被安乐死。此举将是美国政府机构首次终止其内部的非人灵长类动物研究项目。多年来一直致力于推动政府终止对动物研究支持的美国非营利组织“白大褂废物项目(White Coat Waste Project)”对这上述决定表示欢迎。而生物医学科学家则警告称，此举将是一个重大错误。他们表示，CDC 的猴子研究项目对于艾滋病病毒暴露前预防药物研发至关重要，这种预防策略已经大幅降低全球艾滋病感染率。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 23 Nov 2025 21:35:54 +0800</pubDate>
+<pubDate>Sun, 23 Nov 2025 21:35:54 +0800</pubDate>
+</item>
+<item>
+<title>Firefox 147 将支持 XDG Base Directory Specification 目录标准</title>
+<link>https://www.solidot.org/story?sid=82873</link>
+<guid>https://www.solidot.org/story?sid=82873</guid>
+<content:encoded><![CDATA[
+
+在 Linux 操作系统上 Firefox 浏览器将所有文件都储存在 ~/.mozilla 目录下。2004 年 9 月递交的一份 bug 报告呼吁 Firefox 遵守 Freedesktop.org 的 XDG Base Directory Specification 目录标准：将配置文件、缓存数据、用户数据等储存在不同目录，如 ~/.config 和 ~/.local/share。21 年后，Firefox 终于解决了该 bug，从 Firefox 147 起它将支持 XDG Base Directory Specification 目录标准。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 23 Nov 2025 21:13:20 +0800</pubDate>
+<pubDate>Sun, 23 Nov 2025 21:13:20 +0800</pubDate>
+</item>
+<item>
+<title>密码学会因密钥丢失被迫重新选举</title>
+<link>https://www.solidot.org/story?sid=82872</link>
+<guid>https://www.solidot.org/story?sid=82872</guid>
+<content:encoded><![CDATA[
+
+总部位于美国华盛顿 Bellevue 的密码学会 International Association of Cryptologic Research（IACR）在全世界有数千名会员，该组织于 10 月 17 日至 11 月 16 日之间举行了包括主席在内的多个领导职位的选举，使用名为 Helios 的电子投票系统。该系统对每张选票进行加密，允许投票者追踪自己投的票。投票结果使用三个密钥进行解密，这三个密钥掌握在三位选举委员会成员手中。然而问题是其中一人——Google 的 Moti Yung 的密钥丢了，导致结果无法解密。密码学会表示这一轮投票作废，新一轮投票将于 11 月 21 日至 12 月 20 日举行。该组织同时表示 Moti Yung 已经辞去了选举委员会成员职位。IACR 表示为避免再次出现类似的问题，他们将放宽密钥使用要求，采用三分之二密钥使用门槛。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 23 Nov 2025 00:06:39 +0800</pubDate>
+<pubDate>Sun, 23 Nov 2025 00:06:39 +0800</pubDate>
+</item>
 
 <item>
 <title>伊朗总统表示要迁都</title>
