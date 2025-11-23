@@ -2123,3 +2123,17 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-23 17:10:08.095867
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 18:15:46.561607
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [俞敏洪全员信再向员工道歉：老板也在拼命努力 并承担更大风险](https://readhub.cn/topic/8oVbpFYL9ri)
+Append: [美团：未来五年投入 100 亿完善骑手保障](https://readhub.cn/topic/8oUq5u0DMaG)
+Append: [海澜之家递表港交所，门店总数突破 7200 家](https://readhub.cn/topic/8oVhZ9TYPfX)
+Append: [网传上海、广州将试点「老头乐」C7 驾照，多地交管辟谣](https://readhub.cn/topic/8oWHIM1gSn4)
+Append: [武汉大学雷军班学生首次公开亮相：部分同学创业已初步盈利](https://readhub.cn/topic/8oW9lVfVJ59)
+Append: [农夫山泉钟睒睒捐赠 1 亿元教育基金](https://readhub.cn/topic/8oWL2uDa8p3)
+Append: [贝莱德比特币 ETF 单日成交突破 80 亿美元](https://readhub.cn/topic/8oW3mX815v5)
+append_entries: 7
+Finish: 2025-11-23 18:15:47.948373
+Wrote digest feed: docs/readhub-digest.xml
