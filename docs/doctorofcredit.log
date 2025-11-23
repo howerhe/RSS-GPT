@@ -1209,3 +1209,19 @@ Append: [[IA] Malvern Bank $300 Checking Bonus](https://www.doctorofcredit.com/i
 append_entries: 2
 Finish: 2025-11-23 22:11:20.685744
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 23:10:58.853204
+Existing_entries: 96
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2382
+Summarized using glm-4.5-air
+Append: [[TX] Education Credit Union $190 Checking Bonus](https://www.doctorofcredit.com/tx-education-credit-union-190-checking-bonus/)
+Token length: 352
+Summarized using glm-4.5-air
+Append: [Food Lion: Save $25 On Groceries When You Purchase $100 In Select Giftcards (Lowe’s & More)](https://www.doctorofcredit.com/food-lion-save-25-on-groceries-when-you-purchase-100-in-select-giftcards-lowes-more/)
+Token length: 3093
+Summarized using glm-4.5-air
+Append: [[TX] Greater Texas Credit Union $250 Checking Bonus](https://www.doctorofcredit.com/tx-greater-texas-credit-union-250-checking-bonus/)
+append_entries: 3
+Finish: 2025-11-23 23:11:10.408711
+Wrote digest feed: docs/doctorofcredit-digest.xml

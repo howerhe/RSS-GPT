@@ -2165,3 +2165,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-23 22:11:09.398900
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-23 23:10:53.120961
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [回购增持「进度条」频频刷新 上市公司纷纷出手稳预期](https://readhub.cn/topic/8oX8CNUB98w)
+Append: [小米汽车推 HAD 增强版：辅助驾驶里程破 3 亿公里](https://readhub.cn/topic/8oVeKQIZsnc)
+Append: [X 平台更新：展示账号所在地并重启语音备忘录功能](https://readhub.cn/topic/8oVfk04HSWI)
+Append: [雷神发布首款国产芯片电竞主机黑武士 &#x2022; 猎刃 Pro](https://readhub.cn/topic/8oVf1Ugo22o)
+append_entries: 4
+Finish: 2025-11-23 23:10:55.012731
+Wrote digest feed: docs/readhub-digest.xml
