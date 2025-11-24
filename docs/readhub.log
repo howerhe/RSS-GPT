@@ -2544,3 +2544,10 @@ Append: [卢特尼克：欧盟需改变其数字法规，以达成降低钢铁�
 append_entries: 2
 Finish: 2025-11-24 21:11:57.503705
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 22:10:42.002097
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-24 22:10:43.544036
+Wrote digest feed: docs/readhub-digest.xml
