@@ -1357,3 +1357,13 @@ Append: [U.S. Bank $400 Checking Bonus](https://www.doctorofcredit.com/u-s-bank-
 append_entries: 2
 Finish: 2025-11-24 15:14:26.269382
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 16:13:41.072599
+Existing_entries: 108
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1153
+Summarized using glm-4.5-air
+Append: [Target.com: Save On Giftcards For Uber, XBOX, Apple, Google Play, Cheesecake & Many More (Plus 5% REDcard Discount)](https://www.doctorofcredit.com/target-com-save-on-giftcards-for-uber-xbox-apple-google-play-cheesecake-many-more-plus-5-redcard-discount/)
+append_entries: 1
+Finish: 2025-11-24 16:13:45.841544
+Wrote digest feed: docs/doctorofcredit-digest.xml
