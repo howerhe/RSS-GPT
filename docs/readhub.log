@@ -2551,3 +2551,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-24 22:10:43.544036
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 23:11:37.185172
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [中国首个规模化专用光量子计算机制造工厂落地深圳南山](https://readhub.cn/topic/8oYGvRHVPg2)
+append_entries: 1
+Finish: 2025-11-24 23:11:38.658565
+Wrote digest feed: docs/readhub-digest.xml

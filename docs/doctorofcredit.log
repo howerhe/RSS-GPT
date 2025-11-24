@@ -1430,3 +1430,28 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-24 22:10:48.351321
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 23:11:43.277971
+Existing_entries: 116
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 196
+Summarized using glm-4.5-air
+Append: [Disney+, Hulu Bundle With Ads For $4.99 Per Month For 12 Months](https://www.doctorofcredit.com/disney-hulu-bundle-with-ads-for-4-99-per-month-for-12-months/)
+Token length: 339
+Summarized using glm-4.5-air
+Append: [Chase Offers (IHG Only?): 10% Back On Airfare When You Spend $499.99+](https://www.doctorofcredit.com/chase-offers-ihg-only-10-back-on-airfare-when-you-spend-499-99/)
+Token length: 740
+Summarized using glm-4.5-air
+Append: [Citi AAdvantage Business 75,000 American Airlines Miles Signup Bonus Offer](https://www.doctorofcredit.com/citi-american-airlines-75000-miles-business-offer-3/)
+Token length: 595
+Summarized using glm-4.5-air
+Append: [[Now Bookable] Marriott To Acquire citizenM Hotel Brand For $355 Million, Status Match](https://www.doctorofcredit.com/marriott-to-acquire-citizenm-hotel-brand-for-355-million-status-match/)
+Token length: 144
+Summarized using glm-4.5-air
+Append: [Peloton: 50% Off Lululemon Apparel](https://www.doctorofcredit.com/peloton-50-off-lululemon-apparel/)
+Token length: 1035
+Summarized using glm-4.5-air
+Append: [Kimpton Secret Password: “The Life Of A Kimpton Guest”](https://www.doctorofcredit.com/kimpton-secret-password/)
+append_entries: 6
+Finish: 2025-11-24 23:12:04.700016
+Wrote digest feed: docs/doctorofcredit-digest.xml
