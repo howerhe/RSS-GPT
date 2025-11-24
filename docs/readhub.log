@@ -2257,3 +2257,14 @@ Append: [蚂蚁集团、紫金矿业入股聚变技术研发商星能玄光](htt
 append_entries: 20
 Finish: 2025-11-24 03:53:03.292706
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 04:27:25.485801
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [中国旺旺上半年营收 111.1 亿元 同比增长 2.1%](https://readhub.cn/topic/8oXXtCL4sZz)
+Append: [兆新股份：公司目前暂无存储 AI 相关业务](https://readhub.cn/topic/8oXXCeggGSK)
+Append: [广汽集团全固态电池中试产线正式建成投产](https://readhub.cn/topic/8oXDGEQWdWq)
+Append: [OpenAI 加强应对 Google AI 竞争](https://readhub.cn/topic/8oXPNqGKlLy)
+append_entries: 4
+Finish: 2025-11-24 04:27:27.078102
+Wrote digest feed: docs/readhub-digest.xml

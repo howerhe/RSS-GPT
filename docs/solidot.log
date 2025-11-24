@@ -1186,3 +1186,10 @@ Append: [三星内存芯片价格飙升 60%](https://www.solidot.org/story?sid=8
 append_entries: 1
 Finish: 2025-11-24 03:53:01.162001
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 04:27:23.290983
+Existing_entries: 131
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-24 04:27:24.920983
+Wrote digest feed: docs/solidot-digest.xml
