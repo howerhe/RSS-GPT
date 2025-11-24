@@ -4,6 +4,54 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>蝙蝠侠会促进人的友善行为</title>
+<link>https://www.solidot.org/story?sid=82879</link>
+<guid>https://www.solidot.org/story?sid=82879</guid>
+<content:encoded><![CDATA[
+
+根据发表在《Mental Health Research》期刊上的一项研究，打扮成蝙蝠侠可能会在公共场合促进亲社会行为。意大利研究人员在米兰地铁展开了研究，观察了 138 次乘车。对照组由一名装扮成孕妇的女性与一位观察员组成，她们一起登上列车。实验组成员打扮成蝙蝠侠登上列车。结果显示，当蝙蝠侠出现时，乘客让座的概率显著高于对照组。值得注意的是，实验组中 44% 的让座者表示并没有看到蝙蝠侠。这表明意外事件能促进亲社会行为，这项发现对于在公共场合鼓励善意行为有重要意义。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 24 Nov 2025 16:46:00 +0800</pubDate>
+<pubDate>Mon, 24 Nov 2025 16:46:00 +0800</pubDate>
+</item>
+<item>
+<title>Git 3.0 将用 main 而不是 master 为默认分支名</title>
+<link>https://www.solidot.org/story?sid=82878</link>
+<guid>https://www.solidot.org/story?sid=82878</guid>
+<content:encoded><![CDATA[
+
+从 Git 3.0 起，默认分支名将是 main 而不是 master。关于 main 和 master 名字的争论可以追溯到 2020 年，而 GitHub 早在 2020 年 10 月 1 日将新建代码库的默认分支名改为 main。Git 3.0 预计会在 2026 年底左右发布，主要变化包括：默认哈希函数从 SHA-1 改为 SHA-256 以提高安全性；改变默认存储格式以更好支持 macOS 和 Windows 并提升性能；更正式的将 Rust 集成到 Git 自身构建流程中。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 24 Nov 2025 15:36:03 +0800</pubDate>
+<pubDate>Mon, 24 Nov 2025 15:36:03 +0800</pubDate>
+</item>
+<item>
+<title>看不见的微塑料通过空气扩散到全球</title>
+<link>https://www.solidot.org/story?sid=82877</link>
+<guid>https://www.solidot.org/story?sid=82877</guid>
+<content:encoded><![CDATA[
+
+看不见的微塑料通过空气扩散到全球。早稻田大学环境化学教授 Hiroshi Okochi 称，最近的研究表明空气传播的塑料污染正以惊人速度扩散。空气传播的微塑料直径小于 2.5 微米。Okochi 团队在 2023 年发表的一项研究发现，富士山顶云层中的水每升含有 6.7 个微塑料颗粒。德国和瑞士的团队报告，他们在北极每升雪中发现了逾万个微塑料颗粒。这些微塑料可能是通过空气传播随雪沉积。尽管在人体各部位都发现微塑料，但目前尚不清楚空气中的塑料颗粒对健康的影响。1 微米或更小的通过空气传播的塑料颗粒被认为能到达肺泡。英国一项研究表明，在 13 名接受肺部手术的患者的肺组织样本中，有 11 份检测到了微塑料。其中肺下部的微塑料含量最高。人每天呼吸超过 2 万次，一生累计呼吸 6-7 亿次。Okochi 表示人类不可避免的会吸入空气中的微塑料，但因为看不见所以也丝毫不知。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 24 Nov 2025 14:58:20 +0800</pubDate>
+<pubDate>Mon, 24 Nov 2025 14:58:20 +0800</pubDate>
+</item>
+<item>
+<title>X 展示账号地理位置暴露众多 MAGA 账号在外国运营</title>
+<link>https://www.solidot.org/story?sid=82876</link>
+<guid>https://www.solidot.org/story?sid=82876</guid>
+<content:encoded><![CDATA[
+
+马斯克（Elon Musk）旗下的社交媒体 X/Twitter 开始展示账号注册的地理位置，如果该账号使用了 VPN 隐藏 IP 它还会提示可能使用了 VPN。该功能在上线之后一度下线，之后又恢复上线。地理位置信息显示很多政治网红的账号其实都是在美国之外运营的。MAGA NATION 有逾 39.2 万粉丝，其运营地点位于东欧；Dark Maga 有逾 1.5 万粉丝，其运营地点位于泰国；MAGA Scope 有逾 5.1 万粉丝，其运营地点位于尼日利亚；America First 有逾 6.7 万粉丝，其运营地点位于孟加拉国。反 MAGA 账号 Ron Smith 有逾 5.2 万名粉丝，其运营地点位于肯尼亚；Republicans Against Trump 有逾 97 万粉丝，其运营地点位于奥地利，目前使用美国 IP 的 VPN 隐藏原 IP。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 24 Nov 2025 14:26:48 +0800</pubDate>
+<pubDate>Mon, 24 Nov 2025 14:26:48 +0800</pubDate>
+</item>
 
 <item>
 <title>三星内存芯片价格飙升 60%</title>

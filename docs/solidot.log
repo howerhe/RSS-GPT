@@ -1221,3 +1221,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-24 08:18:17.977282
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 09:15:53.767274
+Existing_entries: 131
+Fetching from https://www.solidot.org/index.rss
+Append: [蝙蝠侠会促进人的友善行为](https://www.solidot.org/story?sid=82879)
+Append: [Git 3.0 将用 main 而不是 master 为默认分支名](https://www.solidot.org/story?sid=82878)
+Append: [看不见的微塑料通过空气扩散到全球](https://www.solidot.org/story?sid=82877)
+Append: [X 展示账号地理位置暴露众多 MAGA 账号在外国运营](https://www.solidot.org/story?sid=82876)
+append_entries: 4
+Finish: 2025-11-24 09:15:56.607474
+Wrote digest feed: docs/solidot-digest.xml
