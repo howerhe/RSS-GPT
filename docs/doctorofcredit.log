@@ -1390,3 +1390,10 @@ Append: [Maximizing The StubHub $300 Credit On Chase Sapphire Reserve Card](http
 append_entries: 1
 Finish: 2025-11-24 18:18:50.847676
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 19:08:29.926268
+Existing_entries: 112
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-24 19:08:30.277445
+Wrote digest feed: docs/doctorofcredit-digest.xml

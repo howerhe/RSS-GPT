@@ -2519,3 +2519,11 @@ Append: [OpenAI：在 ChatGPT 提供购物搜索功能](https://readhub.cn/topic
 append_entries: 1
 Finish: 2025-11-24 18:18:39.038040
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 19:08:24.277938
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [特朗普的医保计划将把《平价医疗法案》的补贴延长两年](https://readhub.cn/topic/8oY1xHqQXAt)
+append_entries: 1
+Finish: 2025-11-24 19:08:25.472543
+Wrote digest feed: docs/readhub-digest.xml
