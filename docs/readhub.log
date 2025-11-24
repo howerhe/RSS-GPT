@@ -2527,3 +2527,11 @@ Append: [特朗普的医保计划将把《平价医疗法案》的补贴延长�
 append_entries: 1
 Finish: 2025-11-24 19:08:25.472543
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 20:14:04.900687
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [苹果罕见裁员 数十个销售部门岗位被裁](https://readhub.cn/topic/8oYd4EFicl2)
+append_entries: 1
+Finish: 2025-11-24 20:14:06.312059
+Wrote digest feed: docs/readhub-digest.xml
