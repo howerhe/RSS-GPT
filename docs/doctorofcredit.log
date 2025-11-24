@@ -1328,3 +1328,19 @@ Append: [HBO Max: $2.99 Per Month For 12 Months](https://www.doctorofcredit.com/
 append_entries: 2
 Finish: 2025-11-24 13:28:18.540093
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 14:13:00.204708
+Existing_entries: 103
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 494
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: 20% Off PayPal, New Restrictive Language & More](https://www.doctorofcredit.com/best-posts-last-week-20-off-paypal-new-restrictive-language-more/)
+Token length: 1944
+Summarized using glm-4.5-air
+Append: [Kroger.com: Save on Giftcards For Starbucks, IKEA, Uber, Happy & More](https://www.doctorofcredit.com/kroger-com-save-on-giftcards-for-starbucks-ikea-uber-happy-more/)
+Token length: 1150
+Summarized using glm-4.5-air
+Append: [Amazon: Get $20 Credit With $75 Purchase of Baby Care Items (Diapers, Wipes, Etc.); Code BABYTURKEY](https://www.doctorofcredit.com/amazon-get-30-credit-with-100-purchase-of-baby-care-items-diapers-wipes-etc/)
+append_entries: 3
+Finish: 2025-11-24 14:13:20.687872
+Wrote digest feed: docs/doctorofcredit-digest.xml
