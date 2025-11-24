@@ -1380,3 +1380,13 @@ Append: [Giant, Stop&Shop, Martin’s: 2x Fuel Points on Mastercard Gift Cards (
 append_entries: 2
 Finish: 2025-11-24 17:12:23.978684
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 18:18:43.442293
+Existing_entries: 111
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 6537
+Summarized using glm-4.5-air
+Append: [Maximizing The StubHub $300 Credit On Chase Sapphire Reserve Card](https://www.doctorofcredit.com/maximizing-the-stubhub-300-credit-on-chase-sapphire-reserve-card/)
+append_entries: 1
+Finish: 2025-11-24 18:18:50.847676
+Wrote digest feed: docs/doctorofcredit-digest.xml

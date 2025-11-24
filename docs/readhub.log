@@ -2511,3 +2511,11 @@ Append: [亚马逊要砸高达 500 亿美元扩建美政府 AI 算力，将新�
 append_entries: 1
 Finish: 2025-11-24 17:12:10.208956
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 18:18:37.602347
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [OpenAI：在 ChatGPT 提供购物搜索功能](https://readhub.cn/topic/8oYVup3GHd8)
+append_entries: 1
+Finish: 2025-11-24 18:18:39.038040
+Wrote digest feed: docs/readhub-digest.xml
