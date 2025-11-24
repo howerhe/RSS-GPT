@@ -1232,3 +1232,11 @@ Append: [X 展示账号地理位置暴露众多 MAGA 账号在外国运营](http
 append_entries: 4
 Finish: 2025-11-24 09:15:56.607474
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 10:14:40.207927
+Existing_entries: 135
+Fetching from https://www.solidot.org/index.rss
+Append: [Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元](https://www.solidot.org/story?sid=82880)
+append_entries: 1
+Finish: 2025-11-24 10:14:41.942754
+Wrote digest feed: docs/solidot-digest.xml
