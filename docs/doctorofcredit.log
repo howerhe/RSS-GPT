@@ -1225,3 +1225,16 @@ Append: [[TX] Greater Texas Credit Union $250 Checking Bonus](https://www.doctor
 append_entries: 3
 Finish: 2025-11-23 23:11:10.408711
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 01:00:04.732063
+Existing_entries: 99
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1661
+Summarized using glm-4.5-air
+Append: [[Last Day To Use Freebies] McDonald’s Monopoly: Free Codes Entry Method (10 Per Day)](https://www.doctorofcredit.com/mcdonalds-monopoly-free-entry-method-10-per-day/)
+Token length: 2277
+Summarized using glm-4.5-air
+Append: [[IN & MI] Everwise Credit Union $250 Checking Bonus, Direct Deposit Not Required](https://www.doctorofcredit.com/in-mi-everwise-credit-union-250-checking-bonus-direct-deposit-not-required/)
+append_entries: 2
+Finish: 2025-11-24 01:00:15.148251
+Wrote digest feed: docs/doctorofcredit-digest.xml
