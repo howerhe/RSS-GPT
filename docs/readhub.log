@@ -2503,3 +2503,11 @@ Append: [从 AI 潜在牺牲品到赢家，谷歌在 ChatGPT 冲击下逆袭](ht
 append_entries: 8
 Finish: 2025-11-24 16:13:36.800553
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 17:12:08.716681
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [亚马逊要砸高达 500 亿美元扩建美政府 AI 算力，将新增 1.3GW 容量](https://readhub.cn/topic/8oYNXlJ6es8)
+append_entries: 1
+Finish: 2025-11-24 17:12:10.208956
+Wrote digest feed: docs/readhub-digest.xml
