@@ -2535,3 +2535,12 @@ Append: [苹果罕见裁员 数十个销售部门岗位被裁](https://readhub.c
 append_entries: 1
 Finish: 2025-11-24 20:14:06.312059
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 21:11:55.987125
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [IPO 搁浅一年后，先正达据悉考虑最快明年香港上市](https://readhub.cn/topic/8oYE7VKnEpt)
+Append: [卢特尼克：欧盟需改变其数字法规，以达成降低钢铁和铝关税的协议](https://readhub.cn/topic/8oY6GIgzqeO)
+append_entries: 2
+Finish: 2025-11-24 21:11:57.503705
+Wrote digest feed: docs/readhub-digest.xml

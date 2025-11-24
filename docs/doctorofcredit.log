@@ -1410,3 +1410,16 @@ Append: [Befrugal: Shop $15 & Get $3 Bonus](https://www.doctorofcredit.com/befru
 append_entries: 2
 Finish: 2025-11-24 20:14:23.064051
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 21:12:01.503836
+Existing_entries: 114
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 457
+Summarized using glm-4.5-air
+Append: [[Targeted] AmEx Offer: AmexTravel (Select Airlines), Spend $1,000+ & Receive $200 Statement Credit](https://www.doctorofcredit.com/targeted-amex-offer-amextravel-select-airlines-spend-1000-receive-200-statement-credit/)
+Token length: 543
+Summarized using glm-4.5-air
+Append: [Free $50 Gifting For OKX Crypto Users](https://www.doctorofcredit.com/free-50-gifting-for-okx-crypto-users/)
+append_entries: 2
+Finish: 2025-11-24 21:12:10.865056
+Wrote digest feed: docs/doctorofcredit-digest.xml
