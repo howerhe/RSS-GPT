@@ -1315,3 +1315,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-24 12:24:20.239759
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 13:27:57.410300
+Existing_entries: 101
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 10510
+Summarized using glm-4.5-air
+Append: [[YMMV] SoFi Checking & Savings $300 + $505 Signup Bonus (Nationwide; Requires $5,000 Direct Deposit)](https://www.doctorofcredit.com/sofi-checking-5000-direct-deposit-required/)
+Token length: 460
+Summarized using glm-4.5-air
+Append: [HBO Max: $2.99 Per Month For 12 Months](https://www.doctorofcredit.com/hbo-max-2-99-per-month-for-12-months/)
+append_entries: 2
+Finish: 2025-11-24 13:28:18.540093
+Wrote digest feed: docs/doctorofcredit-digest.xml

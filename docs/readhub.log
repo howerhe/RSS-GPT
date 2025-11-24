@@ -2439,3 +2439,21 @@ Append: [报道：问界 M6 预计明年二季度上市，不会取代 M5](https
 append_entries: 14
 Finish: 2025-11-24 12:24:15.873979
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-24 13:27:51.812455
+Existing_entries: 1014
+Fetching from https://readhub.cn/rss
+Append: [中天火箭：国华军民融合产业发展基金、陕西航天科技集团合计减持 125.65 万股](https://readhub.cn/topic/8oYATnfzmAO)
+Append: [高乐股份：第一大股东筹划控制权变更 股票停牌](https://readhub.cn/topic/8oY9qS8BxRH)
+Append: [威领股份：因筹划控制权变更事项 紧急停牌](https://readhub.cn/topic/8oY9s0oJLCR)
+Append: [赛微电子：国家集成电路基金 9 月 23 日至 11 月 24 日合计减持 1.07% 股份](https://readhub.cn/topic/8oY9qKWQdG0)
+Append: [明宇制药向港交所提交上市申请](https://readhub.cn/topic/8oY9q7S1qtm)
+Append: [美股大型科技股盘前普涨：特斯拉、谷歌涨 2%](https://readhub.cn/topic/8oXu2jHjxz8)
+Append: [全球基金今日净卖出 407 亿卢比印度股票](https://readhub.cn/topic/8oXz925CRc0)
+Append: [首批 7 只双创人工智能 ETF 将本周五集中发行](https://readhub.cn/topic/8oY7fHJWAyJ)
+Append: [研究：AI 工具在心理疾病诊断上优于传统量表](https://readhub.cn/topic/8oY7gH1qyMD)
+Append: [阿里千问启用全新域名，提供更多 Qwen3 系列模型](https://readhub.cn/topic/8oY0o5wohI9)
+Append: [中央空管办加强规范低空管理系统建设](https://readhub.cn/topic/8oY6uEcrVBS)
+append_entries: 11
+Finish: 2025-11-24 13:27:53.233793
+Wrote digest feed: docs/readhub-digest.xml
