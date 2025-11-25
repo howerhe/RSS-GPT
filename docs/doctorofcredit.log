@@ -1547,3 +1547,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-25 11:11:09.986461
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 12:25:08.205244
+Existing_entries: 127
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 140
+Summarized using glm-4.5-air
+Append: [[YMMV] PayPal: 20% Back In Points When You Shop Apparel](https://www.doctorofcredit.com/ymmv-paypal-20-back-in-points-when-you-shop-apparel/)
+Token length: 288
+Summarized using glm-4.5-air
+Append: [Peacock Premium (Ad Supported) Renewal: 12 Months For $19.99](https://www.doctorofcredit.com/peacock-premium-ad-supported-renewal-12-months-for-19-99/)
+append_entries: 2
+Finish: 2025-11-25 12:25:18.046154
+Wrote digest feed: docs/doctorofcredit-digest.xml
