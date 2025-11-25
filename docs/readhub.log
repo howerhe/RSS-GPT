@@ -2914,3 +2914,12 @@ Append: [10 月比亚迪欧洲销量同比猛增 206.8%，特斯拉大降 48.5%]
 append_entries: 3
 Finish: 2025-11-25 17:13:14.747497
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 18:18:40.806061
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [苹果有望超越三星 再度成为全球最大智能手机制造商](https://readhub.cn/topic/8oaAp4hpmdd)
+Append: [沪镍收涨 1.10%](https://readhub.cn/topic/8oa5vE5YHJF)
+append_entries: 2
+Finish: 2025-11-25 18:18:42.202146
+Wrote digest feed: docs/readhub-digest.xml

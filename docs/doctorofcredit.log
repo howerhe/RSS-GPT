@@ -1619,3 +1619,16 @@ Append: [[Targeted] Amazon: Get 50% Off When Using $.01 American Express Reward 
 append_entries: 4
 Finish: 2025-11-25 17:13:39.479373
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 18:18:46.839474
+Existing_entries: 137
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 5720
+Summarized using glm-4.5-air
+Append: [UberEats: Promo Codes, Discounts & Other Savings ($4 off $20)](https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/)
+Token length: 5895
+Summarized using glm-4.5-air
+Append: [Kudos Shopping Portal 100% Of Affiliate Commission & More On Boosted Merchants + $20 Signup Bonus](https://www.doctorofcredit.com/kudos-shopping-portal-simplified-system-pays-out-100-of-affiliate-commission/)
+append_entries: 2
+Finish: 2025-11-25 18:19:00.847061
+Wrote digest feed: docs/doctorofcredit-digest.xml
