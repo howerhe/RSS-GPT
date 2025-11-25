@@ -2923,3 +2923,10 @@ Append: [沪镍收涨 1.10%](https://readhub.cn/topic/8oa5vE5YHJF)
 append_entries: 2
 Finish: 2025-11-25 18:18:42.202146
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 19:10:37.732968
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-25 19:10:39.329341
+Wrote digest feed: docs/readhub-digest.xml
