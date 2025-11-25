@@ -1485,3 +1485,16 @@ Append: [Giftcards.com: Purchase $100 Visa eGiftcard, Get $10 Giftcards.com With
 append_entries: 1
 Finish: 2025-11-25 03:43:52.862127
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 04:18:36.398831
+Existing_entries: 125
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3097
+Summarized using glm-4.5-air
+Append: [Staples: No Purchase Fee On $200 Visa Gift Cards](https://www.doctorofcredit.com/staples-no-purchase-fee-on-200-visa-gift-cards-10-31-11-6-limit-5/)
+Token length: 634
+Summarized using glm-4.5-air
+Append: [AllTrails+ Membership: One Year For $17.99 With Promo Code CYBER2025](https://www.doctorofcredit.com/alltrails-membership-one-year-for-17-99-with-promo-code-summernow/)
+append_entries: 2
+Finish: 2025-11-25 04:18:47.978978
+Wrote digest feed: docs/doctorofcredit-digest.xml
