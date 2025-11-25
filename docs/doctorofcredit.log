@@ -1455,3 +1455,16 @@ Append: [Kimpton Secret Password: “The Life Of A Kimpton Guest”](https://www
 append_entries: 6
 Finish: 2025-11-24 23:12:04.700016
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 00:55:46.222208
+Existing_entries: 122
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1244
+Summarized using glm-4.5-air
+Append: [Chase Aeroplan Card: 75,000 + 25,000 Point Offer (+0.5 On Base Spend)](https://www.doctorofcredit.com/chase-aeroplan-card-75000-25000-point-offer/)
+Token length: 884
+Summarized using glm-4.5-air
+Append: [Chase Ultimate Rewards: Up To 25% Transfer Bonus To Aeroplan (1:1.25)](https://www.doctorofcredit.com/chase-ultimate-rewards-up-to-25-transfer-bonus-to-aeroplan-11-25/)
+append_entries: 2
+Finish: 2025-11-25 00:55:55.976150
+Wrote digest feed: docs/doctorofcredit-digest.xml
