@@ -1655,3 +1655,16 @@ Append: [Bilt Rent Day (December 2025): Up To 100% Bonus To British Airways](htt
 append_entries: 2
 Finish: 2025-11-25 20:14:13.852529
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 21:11:32.847226
+Existing_entries: 142
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 304
+Summarized using glm-4.5-air
+Append: [[Ending Soon] Turo & Delta Airlines Partner (2,000 Miles For First Booking, 500 For All Other Bookings)](https://www.doctorofcredit.com/turo-delta-airlines-partner-2000-miles-for-first-booking-500-for-all-other-bookings/)
+Token length: 373
+Summarized using glm-4.5-air
+Append: [Hulu & HBO Max For $2.99 Per Month For 12 Months](https://www.doctorofcredit.com/hulu-hbo-max-for-2-99-per-month-for-12-months/)
+append_entries: 2
+Finish: 2025-11-25 21:11:40.725338
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -2944,3 +2944,11 @@ Append: [英伟达：我们的 GPU 比谷歌的 AI 芯片领先一代](https://r
 append_entries: 7
 Finish: 2025-11-25 20:13:55.338962
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 21:11:24.541500
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [午盘：三大指数悉数走高 道指上涨近 500 点](https://readhub.cn/topic/8oa6ZSo46Ws)
+append_entries: 1
+Finish: 2025-11-25 21:11:27.407691
+Wrote digest feed: docs/readhub-digest.xml
