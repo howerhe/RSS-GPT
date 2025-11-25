@@ -1587,3 +1587,16 @@ Append: [Rove Miles: Black Friday Deals](https://www.doctorofcredit.com/rove-mil
 append_entries: 1
 Finish: 2025-11-25 15:14:05.342344
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 16:15:59.143180
+Existing_entries: 131
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1839
+Summarized using glm-4.5-air
+Append: [VanillaGift.com: 100% Off Purchase Fees Vanilla Cards (FLASH25)](https://www.doctorofcredit.com/vanillagift-com-100-off-purchase-fees-vanilla-egift-cards-with-promo-code-lastminute23/)
+Token length: 717
+Summarized using glm-4.5-air
+Append: [[YMMV] Audible Premium Plus: $.99 Per Month + $20 Credit (First 3 Months)](https://www.doctorofcredit.com/audible-premium-plus-99-per-month-first-3-months/)
+append_entries: 2
+Finish: 2025-11-25 16:16:11.658694
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -2895,3 +2895,12 @@ Append: [深圳：11 月 30 日将停止 2025 年电动自行车以旧换新补�
 append_entries: 6
 Finish: 2025-11-25 15:13:52.293559
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 16:15:53.313293
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [谷歌股价飙升 两位创始人分别成为世界第二、第三富豪](https://readhub.cn/topic/8oa1bJdafCf)
+Append: [神舟二十二号飞船成功完成自主快速交会对接](https://readhub.cn/topic/8oZTa9Mx2YP)
+append_entries: 2
+Finish: 2025-11-25 16:15:54.555397
+Wrote digest feed: docs/readhub-digest.xml
