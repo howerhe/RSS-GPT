@@ -1373,3 +1373,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-25 06:19:18.659356
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 07:13:34.879461
+Existing_entries: 136
+Fetching from https://www.solidot.org/index.rss
+Append: [皮尤调查显示美国最流行的社媒仍然是 YouTube](https://www.solidot.org/story?sid=82883)
+Append: [接吻行为可以追溯到 2100 万年前](https://www.solidot.org/story?sid=82882)
+Append: [英伟达证实 Windows 十月更新导致游戏性能问题](https://www.solidot.org/story?sid=82881)
+append_entries: 3
+Finish: 2025-11-25 07:13:36.806704
+Wrote digest feed: docs/solidot-digest.xml
