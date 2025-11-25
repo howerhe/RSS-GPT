@@ -1475,3 +1475,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-25 02:29:24.615461
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 03:43:48.408961
+Existing_entries: 124
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 448
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Purchase $100 Visa eGiftcard, Get $10 Giftcards.com With Code VISABOGO](https://www.doctorofcredit.com/giftcards-com-purchase-100-visa-egiftcard-get-10-giftcards-com-with-code-visabogo/)
+append_entries: 1
+Finish: 2025-11-25 03:43:52.862127
+Wrote digest feed: docs/doctorofcredit-digest.xml
