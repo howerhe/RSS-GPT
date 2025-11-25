@@ -2882,3 +2882,16 @@ Append: [百度新设两个大模型研发部，直接向 CEO 李彦宏汇报](h
 append_entries: 13
 Finish: 2025-11-25 14:12:57.320388
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 15:13:50.955050
+Existing_entries: 1013
+Fetching from https://readhub.cn/rss
+Append: [小马智行：第三季度 Robotaxi 业务收入达 4770 万元 同比增长 89.5%](https://readhub.cn/topic/8oZq8OgH1es)
+Append: [淘宝闪购已迈入新增长阶段，客单价和用户留存率持续上升](https://readhub.cn/topic/8oZuP3lXRad)
+Append: [美股开盘涨跌不一，英伟达跌超 4%](https://readhub.cn/topic/8oZvqS1VJEL)
+Append: [*ST 苏吴：公司触及重大违法强制退市情形 股票明起停牌](https://readhub.cn/topic/8oZvoOwJofA)
+Append: [波罗的海干散货运价指数 (BDI) 升至近两年高位](https://readhub.cn/topic/8oYC0aWUPmc)
+Append: [深圳：11 月 30 日将停止 2025 年电动自行车以旧换新补贴](https://readhub.cn/topic/8oZtfD4VkIy)
+append_entries: 6
+Finish: 2025-11-25 15:13:52.293559
+Wrote digest feed: docs/readhub-digest.xml

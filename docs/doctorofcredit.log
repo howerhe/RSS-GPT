@@ -1577,3 +1577,13 @@ Append: [ALL Signature: 30-40% Off (Points Subscription Service, Buy Points For 
 append_entries: 1
 Finish: 2025-11-25 14:13:07.713565
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 15:13:57.030623
+Existing_entries: 130
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1067
+Summarized using glm-4.5-air
+Append: [Rove Miles: Black Friday Deals](https://www.doctorofcredit.com/rove-miles-black-friday-deals/)
+append_entries: 1
+Finish: 2025-11-25 15:14:05.342344
+Wrote digest feed: docs/doctorofcredit-digest.xml
