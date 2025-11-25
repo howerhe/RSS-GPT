@@ -1567,3 +1567,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-25 13:28:36.694164
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 14:13:02.498456
+Existing_entries: 129
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1560
+Summarized using glm-4.5-air
+Append: [ALL Signature: 30-40% Off (Points Subscription Service, Buy Points For Less Than Their Worth)](https://www.doctorofcredit.com/all-signature-30-40-off-points-subscription-service-buy-points-for-less-than-their-worth/)
+append_entries: 1
+Finish: 2025-11-25 14:13:07.713565
+Wrote digest feed: docs/doctorofcredit-digest.xml
