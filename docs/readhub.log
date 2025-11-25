@@ -2904,3 +2904,13 @@ Append: [神舟二十二号飞船成功完成自主快速交会对接](https://r
 append_entries: 2
 Finish: 2025-11-25 16:15:54.555397
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 17:13:13.164892
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [尊界明年将推 6 款车 江淮大整合「一切为了尊界」](https://readhub.cn/topic/8oZqMt4hhrl)
+Append: [美国财政部拍卖六周期国债](https://readhub.cn/topic/8oa4P9gz5af)
+Append: [10 月比亚迪欧洲销量同比猛增 206.8%，特斯拉大降 48.5%](https://readhub.cn/topic/8oZZIyhF6WE)
+append_entries: 3
+Finish: 2025-11-25 17:13:14.747497
+Wrote digest feed: docs/readhub-digest.xml

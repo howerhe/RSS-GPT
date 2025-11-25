@@ -1600,3 +1600,22 @@ Append: [[YMMV] Audible Premium Plus: $.99 Per Month + $20 Credit (First 3 Month
 append_entries: 2
 Finish: 2025-11-25 16:16:11.658694
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 17:13:21.443906
+Existing_entries: 133
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 564
+Summarized using glm-4.5-air
+Append: [Topcashback/BeFrugal: Get 8-20% Cashback On Walmart Flash Deals](https://www.doctorofcredit.com/topcashback-befrugal-get-8-20-cashback-on-walmart-flash-deals/)
+Token length: 358
+Summarized using glm-4.5-air
+Append: [[Starts 11/27] CVS: 50% Off ExtraCare Membership ($24)](https://www.doctorofcredit.com/starts-11-27-cvs-50-off-extracare-membership-24/)
+Token length: 1206
+Summarized using glm-4.5-air
+Append: [Panera Bread: Get $10 Bonus Card For Every $50 In Giftcards Purchased (11/42-12/31)](https://www.doctorofcredit.com/panera-bread-get-10-bonus-card-for-every-50-in-giftcards-purchased-11-9-12-31/)
+Token length: 3578
+Summarized using glm-4.5-air
+Append: [[Targeted] Amazon: Get 50% Off When Using $.01 American Express Reward Dollars (Up To $80 In Discounts)](https://www.doctorofcredit.com/targeted-amazon-get-30-off-when-using-01-reward-dollars-up-to-30-in-discounts/)
+append_entries: 4
+Finish: 2025-11-25 17:13:39.479373
+Wrote digest feed: docs/doctorofcredit-digest.xml
