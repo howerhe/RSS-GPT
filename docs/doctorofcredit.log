@@ -1681,3 +1681,16 @@ Append: [T-Life (T-Mobile Tuesday): 7-Eleven, DoorDash & More](https://www.docto
 append_entries: 2
 Finish: 2025-11-25 22:12:13.737558
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 23:11:28.378292
+Existing_entries: 146
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 215
+Summarized using glm-4.5-air
+Append: [US Mobile: 12 Months For $167](https://www.doctorofcredit.com/us-mobile-12-months-for-167/)
+Token length: 450
+Summarized using glm-4.5-air
+Append: [[Targeted] Citi ThankYou (Formerly SYWR): Spending Offers For December-February](https://www.doctorofcredit.com/targeted-citi-thankyou-formerly-sywr-spending-offers-for-december-february/)
+append_entries: 2
+Finish: 2025-11-25 23:11:37.593094
+Wrote digest feed: docs/doctorofcredit-digest.xml

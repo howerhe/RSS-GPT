@@ -2961,3 +2961,11 @@ Append: [戴尔上调全年 AI 服务器发货预期](https://readhub.cn/topic/8
 append_entries: 2
 Finish: 2025-11-25 22:11:59.842183
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 23:11:22.339310
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [美股三大指数集体收涨，英伟达跌超 2%](https://readhub.cn/topic/8oaUsnCy0EQ)
+append_entries: 1
+Finish: 2025-11-25 23:11:23.510418
+Wrote digest feed: docs/readhub-digest.xml
