@@ -1668,3 +1668,16 @@ Append: [Hulu & HBO Max For $2.99 Per Month For 12 Months](https://www.doctorofc
 append_entries: 2
 Finish: 2025-11-25 21:11:40.725338
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 22:12:05.326480
+Existing_entries: 144
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 262
+Summarized using glm-4.5-air
+Append: [Rebatemes: $40 Cashback On PrivateVPN Subscription (2 Month Minimum, $20+ Money Maker)](https://www.doctorofcredit.com/rebatemes-40-cashback-on-privatevpn-subscription-2-month-minimum-20-money-maker/)
+Token length: 628
+Summarized using glm-4.5-air
+Append: [T-Life (T-Mobile Tuesday): 7-Eleven, DoorDash & More](https://www.doctorofcredit.com/t-life-t-mobile-tuesday-7-eleven-doordash-more/)
+append_entries: 2
+Finish: 2025-11-25 22:12:13.737558
+Wrote digest feed: docs/doctorofcredit-digest.xml

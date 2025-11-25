@@ -2952,3 +2952,12 @@ Append: [午盘：三大指数悉数走高 道指上涨近 500 点](https://read
 append_entries: 1
 Finish: 2025-11-25 21:11:27.407691
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 22:11:58.453445
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [短端美债收益率走低，报道称哈塞特在美联储主席人选中「脱颖而出」](https://readhub.cn/topic/8oa6ZTDc0Eh)
+Append: [戴尔上调全年 AI 服务器发货预期](https://readhub.cn/topic/8oaNjoKwm69)
+append_entries: 2
+Finish: 2025-11-25 22:11:59.842183
+Wrote digest feed: docs/readhub-digest.xml
