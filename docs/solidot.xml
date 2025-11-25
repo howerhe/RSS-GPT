@@ -5,15 +5,38 @@
 <link>https://www.solidot.org</link>
 
 <item>
+<title>SSD 长期断电后会缓慢丢失数据</title>
+<link>https://www.solidot.org/story?sid=82885</link>
+<guid>https://www.solidot.org/story?sid=82885</guid>
+<content:encoded><![CDATA[
+
+固态硬盘（SSD）基本上取代了机械硬盘成为最流行的存储设备，SSD 速度更快，功耗更低。但如果你计划将 SSD 作为冷存储设备使用，将数据储存在 SSD 里面然后离线保存几年，那么你可能需要三思而行，因为 SSD 在长时间断电后会缓慢损失或丢失数据。最便宜的 QLC NAND SSD 能在完全断电的情况下安全保存数据约一年时间，而价格更贵的 TLC NAND SSD 能保存数据三年，MLC 和 SLC NAND SSD 在断电的情况下分别能保存数据 5 年和 10 年。绝大多数消费级 SSD 使用的是 TLC 或 QLC NAND，因此断电超过一年就可能面临数据丢失的风险。相比下，机械硬盘比 SSD 更适合长时间断电保存数据。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 25 Nov 2025 15:08:44 +0800</pubDate>
+<pubDate>Tue, 25 Nov 2025 15:08:44 +0800</pubDate>
+</item>
+<item>
+<title>微软警告 Windows AI 功能可能会产生幻觉</title>
+<link>https://www.solidot.org/story?sid=82884</link>
+<guid>https://www.solidot.org/story?sid=82884</guid>
+<content:encoded><![CDATA[
+
+微软正在 Windows 11 中集成越来越多的 AI 功能，最新的测试版本 v26220.7262 加入了 Copilot Actions，但默认没有启用，需要管理员权限才能激活。对于这些基于大模型的 AI 功能，微软试图推卸掉自己的责任，它通过其支持文档警告，称 Copilot Actions 之类的 AI 功能会引入新的安全风险，如跨提示注入(cross-prompt injection 或 XPIA)——文档或 UI 元素中的恶意内容能覆盖 AI 指令，导致数据泄露或安装恶意程序等意外操作。它建议用户在了解安全风险的情况下启用 AI 功能。Copilot Actions 具有高访问权限，能对用户的 Documents、Downloads、Desktop、Pictures、Videos 和 Music 等文件夹进行读写操作。微软还表示 AI 也可能会产生幻觉，“产生意外之外的输出”。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 25 Nov 2025 14:15:50 +0800</pubDate>
+<pubDate>Tue, 25 Nov 2025 14:15:50 +0800</pubDate>
+</item>
+
+<item>
 <title>皮尤调查显示美国最流行的社媒仍然是 YouTube</title>
 <link>https://www.solidot.org/story?sid=82883</link>
 <guid>https://www.solidot.org/story?sid=82883</guid>
 <content:encoded><![CDATA[
-
 皮尤研究中心于 2 月 5 日至 6 月 18 日之间调查了 5022 名美国人的社媒使用情况。结果显示：YouTube 84%，Facebook 71%，Instagram 50%，TikTok 37%，WhatsApp 32%，Reddit 26%，Snapchat 25%，X.com（Twitter）21%，Threads 8%，Bluesky 4% 和 Truth Social 3%。YouTube 和 Facebook 仍然是美国占据主导地位的社交媒体，但其使用比例长期保持稳定，而年轻人更可能使用 YouTube，30-49 岁人群则更可能使用 Facebook（80%）。逾半数女性使用 Instagram (55%)，男性则只有 44%；男性更可能使用 X 和 Reddit，民主党人和倾向民主党的独立人士更可能使用 WhatsApp、Reddit、TikTok、Bluesky 和 ​​Threads。
 <p></p>
 ]]></content:encoded>
-<pubDate>Mon, 24 Nov 2025 21:04:35 +0800</pubDate>
 <pubDate>Mon, 24 Nov 2025 21:04:35 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +44,9 @@
 <link>https://www.solidot.org/story?sid=82882</link>
 <guid>https://www.solidot.org/story?sid=82882</guid>
 <content:encoded><![CDATA[
-
 人、猴甚至北极熊都会接吻。研究人员将嘴对嘴的接吻行为追溯到 2100 万年前。接吻行为可能传播疾病，且似乎并不能直接提高生存或繁殖能力。虽然接吻对许多人类群体具有强烈的情感和文化意义，但其演化背景却很少被深入研究。在这项研究中，研究人员首次尝试跨物种追踪接吻的起源——利用灵长类动物间的演化关系进行分析。结果表明，接吻在大型类人猿中有很深的渊源，在 2150 万至 1690 万年前的祖先中就已出现。这种行为似乎在演化过程中持续存在，并且在该类群的大多数物种中仍可观察到。研究小组还得出结论，已经灭绝的人类近亲——尼安德特人可能也会接吻。这一结论得到了早期研究的支持，人类与尼安德特人曾交换口腔微生物（通过唾液转移）并进行杂交，这意味着接吻是他们互动的一部分。
 <p></p>
 ]]></content:encoded>
-<pubDate>Mon, 24 Nov 2025 18:27:44 +0800</pubDate>
 <pubDate>Mon, 24 Nov 2025 18:27:44 +0800</pubDate>
 </item>
 <item>
@@ -33,14 +54,11 @@
 <link>https://www.solidot.org/story?sid=82881</link>
 <guid>https://www.solidot.org/story?sid=82881</guid>
 <content:encoded><![CDATA[
-
 英伟达上周释出了 GeForce Hotfix Display Driver v581.94，称微软在十月份释出的 Windows 11 24H2 和 Windows 11 25H 更新导致游戏性能出现问题。存在问题的补丁是 KB5066835，安装之后部分游戏的性能可能会下降。除此之外，微软的十月份例行更新还被发现会破坏 localhost HTTP 连接，智能卡身份验证问题，以及 Windows Recovery Environment(WinRE)无法使用 USB 鼠标和键盘。
 <p></p>
 ]]></content:encoded>
 <pubDate>Mon, 24 Nov 2025 17:43:09 +0800</pubDate>
-<pubDate>Mon, 24 Nov 2025 17:43:09 +0800</pubDate>
 </item>
-
 <item>
 <title>Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元</title>
 <link>https://www.solidot.org/story?sid=82880</link>

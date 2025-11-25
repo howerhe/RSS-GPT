@@ -1383,3 +1383,12 @@ Append: [英伟达证实 Windows 十月更新导致游戏性能问题](https://w
 append_entries: 3
 Finish: 2025-11-25 07:13:36.806704
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 08:17:59.093921
+Existing_entries: 139
+Fetching from https://www.solidot.org/index.rss
+Append: [SSD 长期断电后会缓慢丢失数据](https://www.solidot.org/story?sid=82885)
+Append: [微软警告 Windows AI 功能可能会产生幻觉](https://www.solidot.org/story?sid=82884)
+append_entries: 2
+Finish: 2025-11-25 08:18:00.548894
+Wrote digest feed: docs/solidot-digest.xml
