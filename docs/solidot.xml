@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>SSD 长期断电后会缓慢丢失数据</title>
 <link>https://www.solidot.org/story?sid=82885</link>
 <guid>https://www.solidot.org/story?sid=82885</guid>
 <content:encoded><![CDATA[
-
 固态硬盘（SSD）基本上取代了机械硬盘成为最流行的存储设备，SSD 速度更快，功耗更低。但如果你计划将 SSD 作为冷存储设备使用，将数据储存在 SSD 里面然后离线保存几年，那么你可能需要三思而行，因为 SSD 在长时间断电后会缓慢损失或丢失数据。最便宜的 QLC NAND SSD 能在完全断电的情况下安全保存数据约一年时间，而价格更贵的 TLC NAND SSD 能保存数据三年，MLC 和 SLC NAND SSD 在断电的情况下分别能保存数据 5 年和 10 年。绝大多数消费级 SSD 使用的是 TLC 或 QLC NAND，因此断电超过一年就可能面临数据丢失的风险。相比下，机械硬盘比 SSD 更适合长时间断电保存数据。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 25 Nov 2025 15:08:44 +0800</pubDate>
 <pubDate>Tue, 25 Nov 2025 15:08:44 +0800</pubDate>
 </item>
 <item>
@@ -21,14 +20,11 @@
 <link>https://www.solidot.org/story?sid=82884</link>
 <guid>https://www.solidot.org/story?sid=82884</guid>
 <content:encoded><![CDATA[
-
 微软正在 Windows 11 中集成越来越多的 AI 功能，最新的测试版本 v26220.7262 加入了 Copilot Actions，但默认没有启用，需要管理员权限才能激活。对于这些基于大模型的 AI 功能，微软试图推卸掉自己的责任，它通过其支持文档警告，称 Copilot Actions 之类的 AI 功能会引入新的安全风险，如跨提示注入(cross-prompt injection 或 XPIA)——文档或 UI 元素中的恶意内容能覆盖 AI 指令，导致数据泄露或安装恶意程序等意外操作。它建议用户在了解安全风险的情况下启用 AI 功能。Copilot Actions 具有高访问权限，能对用户的 Documents、Downloads、Desktop、Pictures、Videos 和 Music 等文件夹进行读写操作。微软还表示 AI 也可能会产生幻觉，“产生意外之外的输出”。
 <p></p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Nov 2025 14:15:50 +0800</pubDate>
-<pubDate>Tue, 25 Nov 2025 14:15:50 +0800</pubDate>
 </item>
-
 <item>
 <title>皮尤调查显示美国最流行的社媒仍然是 YouTube</title>
 <link>https://www.solidot.org/story?sid=82883</link>

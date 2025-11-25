@@ -1392,3 +1392,10 @@ Append: [微软警告 Windows AI 功能可能会产生幻觉](https://www.solido
 append_entries: 2
 Finish: 2025-11-25 08:18:00.548894
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 09:15:11.767880
+Existing_entries: 141
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-25 09:15:14.511543
+Wrote digest feed: docs/solidot-digest.xml
