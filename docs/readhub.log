@@ -2930,3 +2930,17 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-25 19:10:39.329341
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 20:13:54.057797
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美国 10 月预算赤字为 2844 亿美元](https://readhub.cn/topic/8oaFIMznG2H)
+Append: [蒋凡：淘宝闪购 UE 显著改善，单均亏损较七八月降一半](https://readhub.cn/topic/8oZqpKvoNe3)
+Append: [虎鲸文娱集团已实现连续三季度盈利](https://readhub.cn/topic/8oZqwI5vlP9)
+Append: [谷歌洽谈向 Meta 出售 AI 芯片](https://readhub.cn/topic/8oZdKj0EXia)
+Append: [英伟达总市值较历史最高点损失 1 万亿美元](https://readhub.cn/topic/8oZwWixGqIi)
+Append: [新火科技：启动不超 500 万美元比特币购买计划](https://readhub.cn/topic/8oZtheOyrjX)
+Append: [英伟达：我们的 GPU 比谷歌的 AI 芯片领先一代](https://readhub.cn/topic/8oaCy6O4MnE)
+append_entries: 7
+Finish: 2025-11-25 20:13:55.338962
+Wrote digest feed: docs/readhub-digest.xml

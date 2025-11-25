@@ -1642,3 +1642,16 @@ Append: [Chase/U.S. Bank Offers: Get 5% Back At Food Lion](https://www.doctorofc
 append_entries: 1
 Finish: 2025-11-25 19:11:16.823215
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-25 20:14:00.758655
+Existing_entries: 140
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 544
+Summarized using glm-4.5-air
+Append: [Chase Sends Out Survey Regarding Premium Aeroplan Card](https://www.doctorofcredit.com/chase-sends-out-survey-regarding-premium-aeroplan-card/)
+Token length: 287
+Summarized using glm-4.5-air
+Append: [Bilt Rent Day (December 2025): Up To 100% Bonus To British Airways](https://www.doctorofcredit.com/bilt-rent-day-december-2025-up-to-100-bonus-to-british-airways/)
+append_entries: 2
+Finish: 2025-11-25 20:14:13.852529
+Wrote digest feed: docs/doctorofcredit-digest.xml
