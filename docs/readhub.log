@@ -3355,3 +3355,11 @@ Append: [英国经济预测提前发布 政府借贷成本随之剧烈波动](ht
 append_entries: 5
 Finish: 2025-11-26 19:10:05.761393
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 20:13:52.186076
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [深交所组织上市公司澳大利亚路演 宣介中国经济高质量发展投资机遇](https://readhub.cn/topic/8obQleyxtZ3)
+append_entries: 1
+Finish: 2025-11-26 20:13:53.455008
+Wrote digest feed: docs/readhub-digest.xml

@@ -1857,3 +1857,13 @@ Append: [Postmates: $10 Off $25 With Promo Code BLACKFRIDAY (Nationwide)](https:
 append_entries: 2
 Finish: 2025-11-26 19:10:22.275578
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 20:13:59.023349
+Existing_entries: 158
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 381
+Summarized using glm-4.5-air
+Append: [Chase Offers: Paze Checkout, Spend $100 & Get $50 Back ($5 For Activating)](https://www.doctorofcredit.com/chase-offers-paze-checkout-spend-100-get-50-back-5-for-activating/)
+append_entries: 1
+Finish: 2025-11-26 20:14:03.752429
+Wrote digest feed: docs/doctorofcredit-digest.xml
