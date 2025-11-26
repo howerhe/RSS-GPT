@@ -3378,3 +3378,15 @@ Append: [知情人士：日本拟发行超 735 亿美元的新债以资助刺激
 append_entries: 1
 Finish: 2025-11-26 22:12:01.925376
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 23:11:21.960011
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [Redmi 多款新品曝光：平板耳机齐上阵，春节前密集发布](https://readhub.cn/topic/8ob3SkQsf0i)
+Append: [新型安卓银行木马 Sturnus 窃取加密通讯数据](https://readhub.cn/topic/8oazC2hpgyk)
+Append: [欧盟议会通过决议 呼吁设定社交媒体最低使用年龄](https://readhub.cn/topic/8obPMGNZyI2)
+Append: [台积电美国晶圆厂因供应商停电导致生产中断，损失尚不明确](https://readhub.cn/topic/8obIU0ghdU2)
+Append: [WTI 1 月原油期货收涨 1.21%，报 58.65 美元 / 桶](https://readhub.cn/topic/8obvUS9LRlt)
+append_entries: 5
+Finish: 2025-11-26 23:11:25.658927
+Wrote digest feed: docs/readhub-digest.xml
