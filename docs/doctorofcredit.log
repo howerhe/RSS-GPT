@@ -1807,3 +1807,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-26 14:13:02.208974
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 15:11:47.370721
+Existing_entries: 153
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 417
+Summarized using glm-4.5-air
+Append: [Amazon: Save On Fire TV Stick, From $17.99](https://www.doctorofcredit.com/amazon-save-on-fire-tv-stick-from-17-99/)
+Token length: 143
+Summarized using glm-4.5-air
+Append: [Fairmont: 30% Off Stays](https://www.doctorofcredit.com/fairmont-30-off-stays/)
+append_entries: 2
+Finish: 2025-11-26 15:11:58.551517
+Wrote digest feed: docs/doctorofcredit-digest.xml
