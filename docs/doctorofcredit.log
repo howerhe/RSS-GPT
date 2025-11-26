@@ -1720,3 +1720,10 @@ Append: [Topcashback: 110% Back On Keeper Security ($15-$30 Profit)](https://www
 append_entries: 2
 Finish: 2025-11-26 02:42:49.562959
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 03:43:25.023177
+Existing_entries: 152
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-26 03:43:25.331297
+Wrote digest feed: docs/doctorofcredit-digest.xml
