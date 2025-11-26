@@ -1613,3 +1613,15 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-26 15:11:38.291516
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 16:15:15.555451
+Existing_entries: 152
+Fetching from https://www.solidot.org/index.rss
+Append: [欧洲议会呼吁限制未成年人使用社媒](https://www.solidot.org/story?sid=82902)
+Append: [马来西亚柔佛州停止批准一级和二级数据中心](https://www.solidot.org/story?sid=82901)
+Append: [研究揭示大脑如何调配有限的工作记忆资源](https://www.solidot.org/story?sid=82900)
+Append: [东南亚地区遭遇创纪录降雨和洪灾](https://www.solidot.org/story?sid=82899)
+Append: [美国网红对他们无法购买的中国造电动汽车赞不绝口](https://www.solidot.org/story?sid=82898)
+append_entries: 5
+Finish: 2025-11-26 16:15:17.327010
+Wrote digest feed: docs/solidot-digest.xml
