@@ -3286,3 +3286,18 @@ Append: [华盛锂电：股东敦行价值拟减持不超 0.63% 股份](https://
 append_entries: 20
 Finish: 2025-11-26 13:29:24.898442
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 14:12:55.270816
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [欧洲央行警告：过高的估值增加金融稳定风险](https://readhub.cn/topic/8obEcH7tHC1)
+Append: [居然智家：公司旗下洞窝、居然设计家已接入阿里千问](https://readhub.cn/topic/8obXxFShiHT)
+Append: [Alphabet 股价暴涨，谷歌两创始人跃居全球富豪榜第二和第三位](https://readhub.cn/topic/8obEBy2VtW6)
+Append: [特斯拉客服回应落水自动降窗：从未听说过该功能](https://readhub.cn/topic/8ob3x9Cp99q)
+Append: [中央网信办：网站平台要坚持问题导向 强化对财经类「自媒体」和 MCN 机构账号管理](https://readhub.cn/topic/8obWTwfn33n)
+Append: [SuperX 宣布董事会已授权 2000 万美元股票回购计划](https://readhub.cn/topic/8obWS3S1WfG)
+Append: [美国上周初请失业金人数录得 21.6 万人，预估 22.5 万人，前值 22 万人](https://readhub.cn/topic/8obVmaqvzcA)
+Append: [算力利用率提升 30%，华为与三大高校开源 Flex:ai](https://readhub.cn/topic/8oZIvRqrbSs)
+append_entries: 8
+Finish: 2025-11-26 14:12:56.776513
+Wrote digest feed: docs/readhub-digest.xml

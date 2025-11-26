@@ -1800,3 +1800,10 @@ Append: [[OK & KS] Communication Federal Credit Union $300 Checking Bonus](https
 append_entries: 1
 Finish: 2025-11-26 13:29:36.107230
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 14:13:02.072534
+Existing_entries: 153
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-26 14:13:02.208974
+Wrote digest feed: docs/doctorofcredit-digest.xml
