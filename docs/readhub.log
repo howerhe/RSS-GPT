@@ -3333,3 +3333,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-26 17:11:23.670228
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 18:15:18.012799
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [香港保安局：大埔火灾不排除刑事案件可能性](https://readhub.cn/topic/8obp6BYqj08)
+Append: [根据新的法律，苹果公司在印度反垄断案件中可能面临高达 380 亿美元的罚款](https://readhub.cn/topic/8oboIxLrpwU)
+Append: [香港大火波及 7 幢大厦 官方：难以评估何时能扑灭](https://readhub.cn/topic/8obi4JnTdAZ)
+append_entries: 3
+Finish: 2025-11-26 18:15:19.413794
+Wrote digest feed: docs/readhub-digest.xml
