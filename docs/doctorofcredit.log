@@ -1707,3 +1707,16 @@ Append: [Visible+ Pro Annual Plan: 50% Off With Promo Code BLACKFRIDAY50 ($115 A
 append_entries: 2
 Finish: 2025-11-26 00:56:42.847626
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 02:42:35.851243
+Existing_entries: 150
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 598
+Summarized using glm-4.5-air
+Append: [[Targeted] Venmo: Earn An Additional 5% Back (Up To 8% Back)](https://www.doctorofcredit.com/targeted-venmo-earn-an-additional-5-back-up-to-8-back/)
+Token length: 676
+Summarized using glm-4.5-air
+Append: [Topcashback: 110% Back On Keeper Security ($15-$30 Profit)](https://www.doctorofcredit.com/topcashback-110-back-on-keeper-security-15-30-profit/)
+append_entries: 2
+Finish: 2025-11-26 02:42:49.562959
+Wrote digest feed: docs/doctorofcredit-digest.xml
