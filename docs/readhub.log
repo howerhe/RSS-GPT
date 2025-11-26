@@ -3343,3 +3343,15 @@ Append: [香港大火波及 7 幢大厦 官方：难以评估何时能扑灭](ht
 append_entries: 3
 Finish: 2025-11-26 18:15:19.413794
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 19:10:04.412458
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [韩国发射自研运载火箭「世界」号](https://readhub.cn/topic/8obtNAPn4Tp)
+Append: [赵长江发文回应加入智界：还在休息中](https://readhub.cn/topic/8obG5XcJIuL)
+Append: [2025 字节跳动奖学金公布：奖金翻倍至 20 万元，追加奖励导师 10 万元](https://readhub.cn/topic/8obJfKr6UIk)
+Append: [红果短剧：今年孵化微短剧数量较年初增长近 4 倍](https://readhub.cn/topic/8obWUpUMLQH)
+Append: [英国经济预测提前发布 政府借贷成本随之剧烈波动](https://readhub.cn/topic/8obS9q5Kp1L)
+append_entries: 5
+Finish: 2025-11-26 19:10:05.761393
+Wrote digest feed: docs/readhub-digest.xml

@@ -1844,3 +1844,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-26 18:15:25.663002
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 19:10:12.059302
+Existing_entries: 156
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 711
+Summarized using glm-4.5-air
+Append: [(11/27-11/28) Rakuten: Lululemon 12% Cashback (12x Per Dollar)](https://www.doctorofcredit.com/rakuten-lululemon-15-cashback-15x-per-dollar/)
+Token length: 6595
+Summarized using glm-4.5-air
+Append: [Postmates: $10 Off $25 With Promo Code BLACKFRIDAY (Nationwide)](https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/)
+append_entries: 2
+Finish: 2025-11-26 19:10:22.275578
+Wrote digest feed: docs/doctorofcredit-digest.xml
