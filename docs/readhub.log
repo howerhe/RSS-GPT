@@ -3370,3 +3370,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-26 21:10:44.069521
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 22:11:59.907997
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [知情人士：日本拟发行超 735 亿美元的新债以资助刺激计划](https://readhub.cn/topic/8obIEqm0meF)
+append_entries: 1
+Finish: 2025-11-26 22:12:01.925376
+Wrote digest feed: docs/readhub-digest.xml

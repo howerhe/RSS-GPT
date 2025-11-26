@@ -1877,3 +1877,10 @@ Append: [Chase Ultimate Rewards 10-15% Giftcard Redemption Discount (Apple, Home
 append_entries: 1
 Finish: 2025-11-26 21:10:55.761727
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 22:12:08.253665
+Existing_entries: 160
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-26 22:12:08.561999
+Wrote digest feed: docs/doctorofcredit-digest.xml
