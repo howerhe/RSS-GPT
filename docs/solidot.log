@@ -1625,3 +1625,10 @@ Append: [美国网红对他们无法购买的中国造电动汽车赞不绝口](
 append_entries: 5
 Finish: 2025-11-26 16:15:17.327010
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 17:11:20.170141
+Existing_entries: 157
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-26 17:11:21.596598
+Wrote digest feed: docs/solidot-digest.xml

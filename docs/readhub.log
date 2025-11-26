@@ -3326,3 +3326,10 @@ Append: [中国游客锐减冲击日本旅游业](https://readhub.cn/topic/8obdZ
 append_entries: 6
 Finish: 2025-11-26 16:15:19.897059
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 17:11:22.259258
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-26 17:11:23.670228
+Wrote digest feed: docs/readhub-digest.xml

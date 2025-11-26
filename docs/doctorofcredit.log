@@ -1830,3 +1830,10 @@ Append: [Hotels.com: Purchase $150/$250 Giftcard & Get $25/$40 Bonus Card](https
 append_entries: 1
 Finish: 2025-11-26 16:15:30.299967
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 17:11:29.891947
+Existing_entries: 156
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-26 17:11:30.095309
+Wrote digest feed: docs/doctorofcredit-digest.xml
