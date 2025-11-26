@@ -3363,3 +3363,10 @@ Append: [深交所组织上市公司澳大利亚路演 宣介中国经济高质�
 append_entries: 1
 Finish: 2025-11-26 20:13:53.455008
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 21:10:42.366975
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-26 21:10:44.069521
+Wrote digest feed: docs/readhub-digest.xml

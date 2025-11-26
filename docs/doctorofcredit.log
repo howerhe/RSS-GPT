@@ -1867,3 +1867,13 @@ Append: [Chase Offers: Paze Checkout, Spend $100 & Get $50 Back ($5 For Activati
 append_entries: 1
 Finish: 2025-11-26 20:14:03.752429
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 21:10:50.386080
+Existing_entries: 159
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 400
+Summarized using glm-4.5-air
+Append: [Chase Ultimate Rewards 10-15% Giftcard Redemption Discount (Apple, Home Depot & More)](https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-giftcard-redemption-discount-apple-home-depot-more/)
+append_entries: 1
+Finish: 2025-11-26 21:10:55.761727
+Wrote digest feed: docs/doctorofcredit-digest.xml
