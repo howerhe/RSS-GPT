@@ -1694,3 +1694,16 @@ Append: [[Targeted] Citi ThankYou (Formerly SYWR): Spending Offers For December-
 append_entries: 2
 Finish: 2025-11-25 23:11:37.593094
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 00:56:34.046580
+Existing_entries: 148
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 238
+Summarized using glm-4.5-air
+Append: [Newegg: $150 In Zift Zillions For $130.99 (Limit 3), Includes Lowe’s](https://www.doctorofcredit.com/newegg-150-in-zift-zillions-for-130-99-limit-3-includes-lowes/)
+Token length: 530
+Summarized using glm-4.5-air
+Append: [Visible+ Pro Annual Plan: 50% Off With Promo Code BLACKFRIDAY50 ($115 After Stacking)](https://www.doctorofcredit.com/visible-pro-annual-plan-50-off-with-promo-code-blackfriday50-115-after-stacking/)
+append_entries: 2
+Finish: 2025-11-26 00:56:42.847626
+Wrote digest feed: docs/doctorofcredit-digest.xml
