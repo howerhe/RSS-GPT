@@ -1546,3 +1546,21 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-26 07:13:05.045437
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-26 08:17:21.337546
+Existing_entries: 141
+Fetching from https://www.solidot.org/index.rss
+Append: [上一次有射击游戏销量超过《使命召唤》是 2006 年](https://www.solidot.org/story?sid=82897)
+Append: [FX 将制作改编自《孤岛惊魂》的电视剧](https://www.solidot.org/story?sid=82896)
+Append: [AI 并不能思考](https://www.solidot.org/story?sid=82895)
+Append: [新加坡要求苹果和 Google 采取行动防止冒充政府发送短信](https://www.solidot.org/story?sid=82894)
+Append: [联想囤积了可供一整年使用的内存](https://www.solidot.org/story?sid=82893)
+Append: [大脑结构在 9、32、66 和 83 岁时经历重大变化](https://www.solidot.org/story?sid=82892)
+Append: [中国首次发射应急飞船神舟二十二号](https://www.solidot.org/story?sid=82890)
+Append: [流行减肥药未能延缓阿尔茨海默病](https://www.solidot.org/story?sid=82889)
+Append: [人脑预配置了理解世界的指令](https://www.solidot.org/story?sid=82888)
+Append: [美国人延长了手机使用寿命](https://www.solidot.org/story?sid=82887)
+Append: [Google 将用 Aluminium OS 取代 ChromeOS](https://www.solidot.org/story?sid=82886)
+append_entries: 11
+Finish: 2025-11-26 08:17:23.014291
+Wrote digest feed: docs/solidot-digest.xml
