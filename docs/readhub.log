@@ -3768,3 +3768,12 @@ Append: [奇瑞汽车捐赠 1000 万港元，紧急驰援香港大埔火灾救�
 append_entries: 2
 Finish: 2025-11-27 17:10:15.473618
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 18:17:03.302986
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [香港大埔火灾引发竹棚安全关注](https://readhub.cn/topic/8ocaWe7NnA2)
+Append: [美国阿拉斯加州南部附近发生 6.2 级左右地震](https://readhub.cn/topic/8odR4VQbOgc)
+append_entries: 2
+Finish: 2025-11-27 18:17:04.832980
+Wrote digest feed: docs/readhub-digest.xml
