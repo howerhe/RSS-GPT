@@ -2092,3 +2092,10 @@ Append: [Amazon Haul: 50%-60% Off Name Brand Items](https://www.doctorofcredit.c
 append_entries: 3
 Finish: 2025-11-27 21:11:06.148732
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 22:11:41.928713
+Existing_entries: 178
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-27 22:11:42.197568
+Wrote digest feed: docs/doctorofcredit-digest.xml
