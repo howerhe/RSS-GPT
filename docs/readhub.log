@@ -3759,3 +3759,12 @@ Append: [北京发布太空数据中心建设规划方案](https://readhub.cn/to
 append_entries: 8
 Finish: 2025-11-27 16:14:53.571914
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 17:10:14.159981
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [广汽集团捐赠 600 万港元驰援香港](https://readhub.cn/topic/8od6QjFujd9)
+Append: [奇瑞汽车捐赠 1000 万港元，紧急驰援香港大埔火灾救援](https://readhub.cn/topic/8od9BKYMcO5)
+append_entries: 2
+Finish: 2025-11-27 17:10:15.473618
+Wrote digest feed: docs/readhub-digest.xml
