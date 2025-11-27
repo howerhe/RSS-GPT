@@ -2016,3 +2016,13 @@ Append: [Rakuten: Get 12x Back On Lululemon, Saks, Dell & More](https://www.doct
 append_entries: 3
 Finish: 2025-11-27 14:12:42.466078
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 15:12:53.911524
+Existing_entries: 169
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 653
+Summarized using glm-4.5-air
+Append: [[Targeted] Amazon Business: Get 35% Off First Order, Up To $100 Discount](https://www.doctorofcredit.com/targeted-amazon-business-get-40-off-first-order-up-to-100-discount/)
+append_entries: 1
+Finish: 2025-11-27 15:13:03.273678
+Wrote digest feed: docs/doctorofcredit-digest.xml

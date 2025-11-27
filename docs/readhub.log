@@ -3732,3 +3732,15 @@ Append: [DeepSeek 发布可自验证数学模型 DeepSeekMath-V2](https://readhu
 append_entries: 8
 Finish: 2025-11-27 14:12:19.646158
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 15:12:45.194658
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [中国平安启动捐赠 1000 万港元，用于香港应急救灾和灾后恢复等工作](https://readhub.cn/topic/8odEG5LiLRl)
+Append: [极端天气已致斯里兰卡 47 人死亡](https://readhub.cn/topic/8ocs5Czp0Zy)
+Append: [波罗的海干散货运价指数连续第十个交易日上涨](https://readhub.cn/topic/8obThKPILob)
+Append: [消息人士：欧佩克 + 可能会就评估成员国最大产能的机制达成一致](https://readhub.cn/topic/8odDTjzZXlP)
+Append: [深圳市「AI + 劳动仲裁」智能辅助办案系统上线](https://readhub.cn/topic/8ockRvg8w1n)
+append_entries: 5
+Finish: 2025-11-27 15:12:46.941565
+Wrote digest feed: docs/readhub-digest.xml
