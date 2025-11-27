@@ -1688,3 +1688,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-27 02:26:45.790598
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 03:40:41.163469
+Existing_entries: 157
+Fetching from https://www.solidot.org/index.rss
+Append: [著名歌星的平均寿命较短](https://www.solidot.org/story?sid=82904)
+Append: [科学家可能首次观察到了暗物质](https://www.solidot.org/story?sid=82903)
+append_entries: 2
+Finish: 2025-11-27 03:40:42.778742
+Wrote digest feed: docs/solidot-digest.xml

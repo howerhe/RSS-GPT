@@ -1911,3 +1911,13 @@ Append: [Hilton Timeshare Offer – Get 3 Nights + 125k Points For $199](https:/
 append_entries: 1
 Finish: 2025-11-27 02:26:58.971904
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 03:40:51.465258
+Existing_entries: 162
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 340
+Summarized using glm-4.5-air
+Append: [Amazon: $10 Credit When You Purchase Amazon Devices (From $21.99)](https://www.doctorofcredit.com/amazon-10-credit-when-you-purchase-amazon-devices-from-21-99/)
+append_entries: 1
+Finish: 2025-11-27 03:40:55.980779
+Wrote digest feed: docs/doctorofcredit-digest.xml
