@@ -2026,3 +2026,19 @@ Append: [[Targeted] Amazon Business: Get 35% Off First Order, Up To $100 Discoun
 append_entries: 1
 Finish: 2025-11-27 15:13:03.273678
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 16:15:00.593842
+Existing_entries: 170
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 300
+Summarized using glm-4.5-air
+Append: [Chase Offers: 5% Back On United Airlines](https://www.doctorofcredit.com/chase-offers-5-back-on-united-airlines/)
+Token length: 2048
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save On Disney, Uber, Stubhub, Petco, Ulta, Kohl’s, Adidas and more](https://www.doctorofcredit.com/giftcards-com-save-on-disney-uber-stubhub-petco-ulta-kohls-adidas-and-more/)
+Token length: 632
+Summarized using glm-4.5-air
+Append: [Amazon Haul: $0.01 Flash Sale (Limit 3 Per Account)](https://www.doctorofcredit.com/amazon-haul-1-flash-sale-limit-3-per-account/)
+append_entries: 3
+Finish: 2025-11-27 16:15:10.273396
+Wrote digest feed: docs/doctorofcredit-digest.xml
