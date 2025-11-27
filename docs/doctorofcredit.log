@@ -2076,3 +2076,19 @@ Append: [Amazon: Blink Mini Indoor Camera For $9.99](https://www.doctorofcredit.
 append_entries: 1
 Finish: 2025-11-27 20:12:10.577478
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 21:10:51.590152
+Existing_entries: 175
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 481
+Summarized using glm-4.5-air
+Append: [SiriusXM: 12 Months For $3.99 Per Month + Free $25 Visa Giftcard](https://www.doctorofcredit.com/siriusxm-12-months-for-3-99-per-month-free-25-visa-giftcard/)
+Token length: 394
+Summarized using glm-4.5-air
+Append: [EVgo: $10 EV Charging Credit With Promo Code WINTERDRIVE10DR + $5 With WINTERDRIVE5DR](https://www.doctorofcredit.com/evgo-5-ev-charging-credit-with-promo-code-backtoschool5/)
+Token length: 699
+Summarized using glm-4.5-air
+Append: [Amazon Haul: 50%-60% Off Name Brand Items](https://www.doctorofcredit.com/amazon-haul-50-off-name-brand-items/)
+append_entries: 3
+Finish: 2025-11-27 21:11:06.148732
+Wrote digest feed: docs/doctorofcredit-digest.xml

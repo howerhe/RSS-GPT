@@ -3795,3 +3795,10 @@ Append: [我国科学家在量子体系中实现并探测高阶非平衡拓扑�
 append_entries: 2
 Finish: 2025-11-27 20:11:59.651906
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 21:10:42.276834
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-27 21:10:44.518129
+Wrote digest feed: docs/readhub-digest.xml
