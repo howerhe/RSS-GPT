@@ -3777,3 +3777,12 @@ Append: [美国阿拉斯加州南部附近发生 6.2 级左右地震](https://re
 append_entries: 2
 Finish: 2025-11-27 18:17:04.832980
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 19:09:56.489109
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [微博捐赠 1000 万港元支持香港火灾救援](https://readhub.cn/topic/8odF0AS1hL0)
+Append: [Soul App 向港交所递交上市申请，累计注册用户达 3.9 亿](https://readhub.cn/topic/8odEHB5sr8T)
+append_entries: 2
+Finish: 2025-11-27 19:09:57.929721
+Wrote digest feed: docs/readhub-digest.xml
