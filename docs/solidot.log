@@ -1704,3 +1704,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-27 04:16:25.379401
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 05:13:16.155737
+Existing_entries: 159
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-27 05:13:17.706474
+Wrote digest feed: docs/solidot-digest.xml
