@@ -1901,3 +1901,13 @@ Append: [PayPal via Perplexity: 50% Off Up To $50](https://www.doctorofcredit.co
 append_entries: 1
 Finish: 2025-11-27 00:55:36.157859
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 02:26:54.291245
+Existing_entries: 161
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1220
+Summarized using glm-4.5-air
+Append: [Hilton Timeshare Offer – Get 3 Nights + 125k Points For $199](https://www.doctorofcredit.com/hilton-timeshare-offer-get-3-nights-100k-points-for-149/)
+append_entries: 1
+Finish: 2025-11-27 02:26:58.971904
+Wrote digest feed: docs/doctorofcredit-digest.xml
