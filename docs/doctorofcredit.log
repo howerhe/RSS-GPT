@@ -1921,3 +1921,13 @@ Append: [Amazon: $10 Credit When You Purchase Amazon Devices (From $21.99)](http
 append_entries: 1
 Finish: 2025-11-27 03:40:55.980779
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 04:16:34.161516
+Existing_entries: 163
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4061
+Summarized using glm-4.5-air
+Append: [[NV, ID, UT, WY, TX, CA, AZ, CO, NM] Nevada State Bank $350 Checking/$350 Savings & $500 Investment Bonus](https://www.doctorofcredit.com/nv-nevada-state-bank-350-checking-350-savings-500-investment-bonus/)
+append_entries: 1
+Finish: 2025-11-27 04:16:45.244595
+Wrote digest feed: docs/doctorofcredit-digest.xml
