@@ -2066,3 +2066,13 @@ Append: [Costco.com: $100 inKind Giftcard For $64.99](https://www.doctorofcredit
 append_entries: 1
 Finish: 2025-11-27 19:10:08.833863
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 20:12:06.862327
+Existing_entries: 174
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 285
+Summarized using glm-4.5-air
+Append: [Amazon: Blink Mini Indoor Camera For $9.99](https://www.doctorofcredit.com/amazon-blink-mini-indoor-camera-for-9-99/)
+append_entries: 1
+Finish: 2025-11-27 20:12:10.577478
+Wrote digest feed: docs/doctorofcredit-digest.xml

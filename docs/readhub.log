@@ -3786,3 +3786,12 @@ Append: [Soul App 向港交所递交上市申请，累计注册用户达 3.9 亿
 append_entries: 2
 Finish: 2025-11-27 19:09:57.929721
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 20:11:58.136468
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [美国银行系统重要性被上调 面临更高附加资本要求](https://readhub.cn/topic/8odYzyaYpBJ)
+Append: [我国科学家在量子体系中实现并探测高阶非平衡拓扑相](https://readhub.cn/topic/8odYIe9zpIU)
+append_entries: 2
+Finish: 2025-11-27 20:11:59.651906
+Wrote digest feed: docs/readhub-digest.xml
