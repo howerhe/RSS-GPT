@@ -1891,3 +1891,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-26 23:11:32.425001
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 00:55:29.974424
+Existing_entries: 160
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1523
+Summarized using glm-4.5-air
+Append: [PayPal via Perplexity: 50% Off Up To $50](https://www.doctorofcredit.com/paypal-via-perplexity-50-off-up-to-50/)
+append_entries: 1
+Finish: 2025-11-27 00:55:36.157859
+Wrote digest feed: docs/doctorofcredit-digest.xml
