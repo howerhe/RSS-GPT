@@ -3809,3 +3809,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-27 22:11:34.708960
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 23:11:26.378324
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [北溪爆炸案一嫌疑人被引渡至德国受审](https://readhub.cn/topic/8odefPJLAfb)
+Append: [纳芯微港股 IPO 拟发行逾 1900 万股 最高定价 116 港元](https://readhub.cn/topic/8odlqkLMOLM)
+Append: [离岸人民币兑美元报 7.0744 元，较周三纽约尾盘跌 54 点](https://readhub.cn/topic/8odZ0684APa)
+Append: [央视《鸿蒙星光盛典》活动宣布延期，原定 11 月 28 日晚举办](https://readhub.cn/topic/8odPg00D4rg)
+append_entries: 4
+Finish: 2025-11-27 23:11:28.078813
+Wrote digest feed: docs/readhub-digest.xml
