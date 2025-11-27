@@ -2000,3 +2000,19 @@ Append: [Costco: $100 Uber eGiftcards For $74.99 (Limit 2)](https://www.doctorof
 append_entries: 2
 Finish: 2025-11-27 13:26:54.773602
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 14:12:26.513412
+Existing_entries: 166
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4430
+Summarized using glm-4.5-air
+Append: [Rakuten: Signup For OnePay & Get $175](https://www.doctorofcredit.com/one-finance-review-get-up-to-3-apy-with-direct-deposits-25-signup-offer/)
+Token length: 334
+Summarized using glm-4.5-air
+Append: [Major Retailers: Apple Pencil From $49](https://www.doctorofcredit.com/major-retailers-apple-pencil-from-49/)
+Token length: 621
+Summarized using glm-4.5-air
+Append: [Rakuten: Get 12x Back On Lululemon, Saks, Dell & More](https://www.doctorofcredit.com/rakuten-get-12x-back-on-lululemon-saks-dell-more/)
+append_entries: 3
+Finish: 2025-11-27 14:12:42.466078
+Wrote digest feed: docs/doctorofcredit-digest.xml

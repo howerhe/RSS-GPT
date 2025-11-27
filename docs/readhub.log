@@ -3717,3 +3717,18 @@ Append: [腾讯今日耗资约 6.357 亿港元回购 103.6 万股股份](https:/
 append_entries: 17
 Finish: 2025-11-27 13:26:41.479274
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 14:12:18.421308
+Existing_entries: 1017
+Fetching from https://readhub.cn/rss
+Append: [欧洲央行管委卡扎克斯：在讨论降息时机尚不成熟](https://readhub.cn/topic/8od3UOuVZ0c)
+Append: [中国航发通用航空发动机获超 10 亿元订单](https://readhub.cn/topic/8odCoBeocjC)
+Append: [10 月私募基金新备案规模 670 亿元，私募证券占比超 6 成](https://readhub.cn/topic/8odC35XGnNx)
+Append: [华为云进行组织调整 周跃峰出任华为云 CEO](https://readhub.cn/topic/8odC2r40lDr)
+Append: [海昌新材：拟 2.35 亿元收购信为通讯 51% 股权](https://readhub.cn/topic/8ocrQ4PjkAw)
+Append: [科华数据：为腾讯提供数据中心全生命周期服务](https://readhub.cn/topic/8od9xYSOSKF)
+Append: [国风新材：申请恢复审核资产重组事项](https://readhub.cn/topic/8obV0qW1fhm)
+Append: [DeepSeek 发布可自验证数学模型 DeepSeekMath-V2](https://readhub.cn/topic/8od7kpNzyut)
+append_entries: 8
+Finish: 2025-11-27 14:12:19.646158
+Wrote digest feed: docs/readhub-digest.xml
