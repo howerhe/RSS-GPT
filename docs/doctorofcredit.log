@@ -1987,3 +1987,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-27 12:24:11.289811
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-27 13:26:47.467156
+Existing_entries: 164
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 775
+Summarized using glm-4.5-air
+Append: [(Starts 11/27 9pm PT) Starbucks: Purchase $25 eGiftcard, Get $5 Bonus Giftcard](https://www.doctorofcredit.com/starts-11-27-9pm-pt-starbucks-purchase-25-egiftcard-get-5-bonus-giftcard/)
+Token length: 270
+Summarized using glm-4.5-air
+Append: [Costco: $100 Uber eGiftcards For $74.99 (Limit 2)](https://www.doctorofcredit.com/costco-100-uber-egiftcards-for-75/)
+append_entries: 2
+Finish: 2025-11-27 13:26:54.773602
+Wrote digest feed: docs/doctorofcredit-digest.xml
