@@ -2106,3 +2106,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-27 23:11:35.634626
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 00:54:19.652065
+Existing_entries: 178
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 158
+Summarized using glm-4.5-air
+Append: [Hy-Vee: Buy $150 In Select Third Party Giftcards & Get $20 Hy-Vee Giftcard (11/28)](https://www.doctorofcredit.com/hy-vee-buy-150-in-select-third-party-giftcards-get-20-hy-vee-giftcard-11-28/)
+Token length: 1874
+Summarized using glm-4.5-air
+Append: [Meijer: Purchase $50 In Third Party Giftcards, Get 10,000 Point (Valid Until 12/2)](https://www.doctorofcredit.com/meijer-purchase-50-in-third-party-giftcards-get-5000-points/)
+append_entries: 2
+Finish: 2025-11-28 00:54:32.465492
+Wrote digest feed: docs/doctorofcredit-digest.xml
