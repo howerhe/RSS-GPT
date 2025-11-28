@@ -2232,3 +2232,10 @@ Append: [Market Basket: 20% Off Select Gift Cards (DoorDash, Uber & More) [11/28
 append_entries: 1
 Finish: 2025-11-28 12:23:26.791702
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 13:25:21.260515
+Existing_entries: 192
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-28 13:25:21.478476
+Wrote digest feed: docs/doctorofcredit-digest.xml
