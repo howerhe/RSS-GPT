@@ -2239,3 +2239,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-28 13:25:21.478476
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 14:12:19.213890
+Existing_entries: 192
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 359
+Summarized using glm-4.5-air
+Append: [Recap: Marriott Ends Sonder Agreement, Citi’s ‘Errant’ Approval](https://www.doctorofcredit.com/recap-marriott-ends-sonder-agreement-citis-errant-approval/)
+append_entries: 1
+Finish: 2025-11-28 14:12:24.054634
+Wrote digest feed: docs/doctorofcredit-digest.xml
