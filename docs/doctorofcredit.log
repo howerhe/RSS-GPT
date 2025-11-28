@@ -2177,3 +2177,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-28 08:17:56.922441
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 09:13:42.427420
+Existing_entries: 183
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 545
+Summarized using glm-4.5-air
+Append: [Citi ThankYou Giftcard Redemption Discount Schedule (10%, 15%, 20%)](https://www.doctorofcredit.com/citi-thankyou-giftcard-redemption-discount-schedule-10-15-20/)
+Token length: 328
+Summarized using glm-4.5-air
+Append: [Amazon: $100 Mastercard Giftcard For $100 (Limit 37)](https://www.doctorofcredit.com/amazon-100-mastercard-giftcard-for-100-limit-37/)
+append_entries: 2
+Finish: 2025-11-28 09:13:57.873293
+Wrote digest feed: docs/doctorofcredit-digest.xml
