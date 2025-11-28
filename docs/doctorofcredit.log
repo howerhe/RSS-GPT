@@ -2256,3 +2256,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-28 15:12:13.790560
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 16:14:45.574592
+Existing_entries: 193
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 553
+Summarized using glm-4.5-air
+Append: [H-E-B: Buy Visa/MC/AmEx Giftcard & Get $20 H-E-B Gift Card (Works On $500 Giftcard)](https://www.doctorofcredit.com/h-e-b-buy-visa-mc-amex-giftcard-get-20-h-e-b-gift-card-works-on-500-giftcard/)
+Token length: 357
+Summarized using glm-4.5-air
+Append: [(DassPass Members) $100 DoorDash eGiftcard For $75](https://www.doctorofcredit.com/dasspass-members-100-doordash-egiftcard-for-75/)
+append_entries: 2
+Finish: 2025-11-28 16:14:54.976509
+Wrote digest feed: docs/doctorofcredit-digest.xml
