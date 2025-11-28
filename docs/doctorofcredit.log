@@ -2133,3 +2133,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-28 03:40:32.693569
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 04:16:09.276548
+Existing_entries: 180
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 112
+Summarized using glm-4.5-air
+Append: [Costco.com: Save On Giftcards For Shake Shake, Bob Evans, Jamba Juice, Regal Cinemas](https://www.doctorofcredit.com/costco-com-save-on-giftcards-for-shake-shake-bob-evans-jamba-juice/)
+append_entries: 1
+Finish: 2025-11-28 04:16:18.821368
+Wrote digest feed: docs/doctorofcredit-digest.xml
