@@ -2212,3 +2212,13 @@ Append: [Carl’s Jr: 30% Off Giftcards](https://www.doctorofcredit.com/carls-jr
 append_entries: 5
 Finish: 2025-11-28 10:14:30.665109
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 11:10:41.924906
+Existing_entries: 190
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 709
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: 25% Back At Walmart (Max $1,000 Back)](https://www.doctorofcredit.com/capital-one-shopping-25-back-at-walmart-max-1000-back/)
+append_entries: 1
+Finish: 2025-11-28 11:10:46.353936
+Wrote digest feed: docs/doctorofcredit-digest.xml
