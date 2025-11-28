@@ -2303,3 +2303,22 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-28 20:13:24.432850
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 21:10:23.430593
+Existing_entries: 197
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 536
+Summarized using glm-4.5-air
+Append: [Giftory, AMC Theatres: 2x Tickets + Regular Popcorn For $16.99/$19.60](https://www.doctorofcredit.com/giftory-amc-theatres-2x-tickets-regular-popcorn-for-16-99-19-60/)
+Token length: 418
+Summarized using glm-4.5-air
+Append: [Existing T-Mobile Customers With Free Hulu Get Disney+ For $1 Per Month](https://www.doctorofcredit.com/existing-t-mobile-customers-with-free-hulu-get-disney-for-1-per-month/)
+Token length: 276
+Summarized using glm-4.5-air
+Append: [eBay: 20% Off Select Items With Promo Code CYBERWEEK](https://www.doctorofcredit.com/ebay-20-off-select-items-with-promo-code-cyberweek/)
+Token length: 735
+Summarized using glm-4.5-air
+Append: [Google Play App: Save Giftcards For Disney, DoorDash, Gamestop, Lowe’s and more](https://www.doctorofcredit.com/google-play-app-save-giftcards-for-disney-doordash-gamestop-lowes-and-more/)
+append_entries: 4
+Finish: 2025-11-28 21:10:40.208898
+Wrote digest feed: docs/doctorofcredit-digest.xml

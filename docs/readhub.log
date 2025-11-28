@@ -4138,3 +4138,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-28 20:13:16.181670
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 21:10:13.786881
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [欧洲债市：德债小幅走低 德国 11 月通胀率高于预期](https://readhub.cn/topic/8of3rdGRgFz)
+append_entries: 1
+Finish: 2025-11-28 21:10:15.504112
+Wrote digest feed: docs/readhub-digest.xml
