@@ -2269,3 +2269,13 @@ Append: [(DassPass Members) $100 DoorDash eGiftcard For $75](https://www.doctoro
 append_entries: 2
 Finish: 2025-11-28 16:14:54.976509
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 17:10:40.835418
+Existing_entries: 195
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 460
+Summarized using glm-4.5-air
+Append: [Check Your Amazon ‘Buy Again’ Tab on Black Friday & Cyber Monday](https://www.doctorofcredit.com/check-you-amazon-buy-again-tab-on-black-friday-cyber-monday/)
+append_entries: 1
+Finish: 2025-11-28 17:10:48.835730
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -4100,3 +4100,11 @@ Append: [谷歌在欧盟对微软展开新调查后撤回反垄断申诉](https:
 append_entries: 8
 Finish: 2025-11-28 16:14:37.628683
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 17:10:31.505141
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [世贸组织：全球货物贸易增速将放缓](https://readhub.cn/topic/8of37ODtAzr)
+append_entries: 1
+Finish: 2025-11-28 17:10:32.988836
+Wrote digest feed: docs/readhub-digest.xml
