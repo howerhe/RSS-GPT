@@ -2190,3 +2190,25 @@ Append: [Amazon: $100 Mastercard Giftcard For $100 (Limit 37)](https://www.docto
 append_entries: 2
 Finish: 2025-11-28 09:13:57.873293
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 10:14:06.754311
+Existing_entries: 185
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 645
+Summarized using glm-4.5-air
+Append: [Amazon Giftcard Deals: Up To 20% Off (Hotels.com, Lyft, One4All, Choice & More)](https://www.doctorofcredit.com/amazon-giftcard-deals-up-to-20-off-hotels-com-lyft-one4all-choice-more/)
+Token length: 715
+Summarized using glm-4.5-air
+Append: [Target: 10% Off Target Giftcards (12/6-12/7)](https://www.doctorofcredit.com/target-10-off-target-giftcards-12-6-12-7/)
+Token length: 226
+Summarized using glm-4.5-air
+Append: [Target.com: Buy $250 Airbnb eGiftcard & Get Free $25 Target Giftcard](https://www.doctorofcredit.com/target-com-buy-250-airbnb-egiftcard-get-free-25-target-giftcard/)
+Token length: 171
+Summarized using glm-4.5-air
+Append: [Panda Express: Buy 3 Giftcards ($10 Min Each) & Get 20% Off](https://www.doctorofcredit.com/panda-express-buy-3-giftcards-10-min-each-get-20-off/)
+Token length: 133
+Summarized using glm-4.5-air
+Append: [Carl’s Jr: 30% Off Giftcards](https://www.doctorofcredit.com/carls-jr-30-off-giftcards/)
+append_entries: 5
+Finish: 2025-11-28 10:14:30.665109
+Wrote digest feed: docs/doctorofcredit-digest.xml
