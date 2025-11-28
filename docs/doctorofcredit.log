@@ -2249,3 +2249,10 @@ Append: [Recap: Marriott Ends Sonder Agreement, Citi’s ‘Errant’ Approval](
 append_entries: 1
 Finish: 2025-11-28 14:12:24.054634
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 15:12:13.552118
+Existing_entries: 193
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-28 15:12:13.790560
+Wrote digest feed: docs/doctorofcredit-digest.xml
