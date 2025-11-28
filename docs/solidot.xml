@@ -5,15 +5,26 @@
 <link>https://www.solidot.org</link>
 
 <item>
+<title>改变推荐算法排名能改变一个人的政治立场</title>
+<link>https://www.solidot.org/story?sid=82914</link>
+<guid>https://www.solidot.org/story?sid=82914</guid>
+<content:encoded><![CDATA[
+
+发表在《科学》期刊上的一项新实验，采用了独立于 X 平台算法的由 AI 驱动的浏览器扩展程序来重新排序 X/Twitter 上的信息流，结果表明即使所接触的仅是敌对政治内容的微小变化，也能在数天内显著影响用户对反对党的观感。这些发现为算法所控帖子排名对用户社交媒体信息流会有影响提供了直接的因果证据。社交媒体已成为全球许多人获取政治信息的重要来源。然而平台算法对我们在浏览过程中所接触的内容施加了强大的影响力，因为这些算法能以种种难以理解的方式悄然左右人们的思想、情绪和行为。尽管人们就这些排名算法影响我们的方式提出了诸多解释，但要验证这些理论却异常困难。这是因为平台运营方独自掌控着其专有算法的运行方式，而且只有他们才能尝试不同信息流设计并评估其因果效应。为规避这些难题，研究人员创建了浏览器扩展，在人们浏览社交媒体信息流时对信息流实时进行重新排序，这一过程无需获得平台本身的许可。研究表明算法介导的与政治敌意内容的接触既能塑造情感极化，也能实时调控用户在使用平台过程中的瞬时情绪反应。
+<p></p>
+]]></content:encoded>
+<pubDate>Fri, 28 Nov 2025 13:47:07 +0800</pubDate>
+<pubDate>Fri, 28 Nov 2025 13:47:07 +0800</pubDate>
+</item>
+
+<item>
 <title>KDE Plasma 6.8 将只支持 Wayland</title>
 <link>https://www.solidot.org/story?sid=82913</link>
 <guid>https://www.solidot.org/story?sid=82913</guid>
 <content:encoded><![CDATA[
-
 KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 X11。KDE Plasma 6.7 系列的最后一个版本预计会在 2027 年初发布，对 X11 会话的支持将会持续到 2027 年初。如果用户想要继续使用 X11，可以选择支持 Plasma X11 的长期支持发行版如 AlmaLinux 9，它会一直支持到 2032 年。而 X11 应用仍然可以通过 Xwayland 兼容层运行。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 28 Nov 2025 00:01:18 +0800</pubDate>
 <pubDate>Fri, 28 Nov 2025 00:01:18 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +32,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82912</link>
 <guid>https://www.solidot.org/story?sid=82912</guid>
 <content:encoded><![CDATA[
-
 美国五角大楼建议将阿里巴巴、百度和比亚迪纳入协助中国军方的1260H名单。1260H名单虽无直接法律效力，但对美国投资者具有重要警示作用。美国国防部副部长 Stephen Feinberg 在 10 月 7 日的信函中表示，这三家企业连同另外五家，包括成都新易盛通信技术、华虹半导体、RoboSense速腾聚创、药明康德以及中际旭创，都应被列入1260H名单。阿里巴巴在一份声明中说，将该公司列入名单“毫无依据”，“阿里巴巴既非中国军事企业，也未参与任何军民融合战略” 。阿里巴巴进一步指出，由于公司不从事与美国军事采购相关的业务，被列入1260H清单不影响它在美国或全球任何地区正常开展业务。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 23:15:58 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 23:15:58 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +42,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82911</link>
 <guid>https://www.solidot.org/story?sid=82911</guid>
 <content:encoded><![CDATA[
-
 沙盒游戏《Garry's Mod》和生存游戏《Rust》的开发商 Facepunch Studios 宣布在 MIT 许可证下开源其正在开发的新一代沙盒引擎 S&amp;box，游戏代码托管在 GitHub 上。开发者表示此举受到了开源游戏引擎 Godot 成功的启发。S&amp;box 是基于 Valve 的 Source 2 引擎，底层的 Source 2 引擎并没有开源（需要由 Valve 决定是否开源），s&amp;box 开源的是底层之上的编辑器、网络、场景系统、用户界面等，这些部分都是用 C# 开发的。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 23:10:37 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 23:10:37 +0800</pubDate>
 </item>
 <item>
@@ -45,11 +52,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82910</link>
 <guid>https://www.solidot.org/story?sid=82910</guid>
 <content:encoded><![CDATA[
-
 在印度首都德里一间手术室内，医生们准备切除患者的胆囊。患者全身麻醉，但却戴着播放音乐的耳机。虽然麻醉期间患者的大脑大部分区域不活跃，但听觉通路仍然维持部分活跃。根据印度科学家在《Music and Medicine》期刊上发表的一项研究，全身麻醉期间播放音乐能显著减少用药量和改善术后恢复。研究主要针对通过腹腔镜技术进行的胆囊切除手术。这是一种标准的微创切除手术，持续时间短，通常不到一小时，因此需要患者迅速且“头脑清醒”的恢复。在试验中，佩戴耳机播放音乐的患者需要的药物剂量更低，术后恢复更平稳，压力激素水平更低，且在手术过程中血压得到更好的控制。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 22:54:27 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 22:54:27 +0800</pubDate>
 </item>
 <item>
@@ -57,11 +62,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82909</link>
 <guid>https://www.solidot.org/story?sid=82909</guid>
 <content:encoded><![CDATA[
-
 根据发表在《自然》期刊上的一项研究，毅力号火星漫游车在两个火星年的观测中记录到了 55 次闪电现象。闪电是由于大气湍流使粒子相互碰撞摩擦产生电荷。电荷积累到一定程度后以放电形式释放。闪电在地球上无处不在。科学家认为火星也存在放电现象，虽然火星大气层主要由二氧化碳组成，比地球更稀薄干燥。毅力号漫游车配备了能探测闪电迹象的仪器。法国图卢兹大学行星科学家 Baptiste Chide 领导的团队分析了漫游车 SuperCam 收集的数据，发现了 55 个事件，其中 7 个事件完整捕捉到了放电特征。大多数放电事件都非常微弱，能量仅为 0.1-150 纳焦耳。第七次事件最大，能量达到 40 毫焦耳。相比下，地球的一次云地闪电释放的能量约为 10 亿焦耳。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 18:04:14 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 18:04:14 +0800</pubDate>
 </item>
 <item>
@@ -69,11 +72,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82908</link>
 <guid>https://www.solidot.org/story?sid=82908</guid>
 <content:encoded><![CDATA[
-
 戴尔 COO Jeffrey Clarke 称 Windows 11 PC 的更新换代速度比 Windows 10 慢。如果以上一代操作系统停止支持这一时间点进行比较，Windows 11 普及率比 Windows 10 落后 10 到 12 个百分点。由于微软提高了硬件需求，现有的 Windows 10 PC 很多无法升级到 Windows 11。Clarke 表示有 5 亿台 PC 无法运行 Windows 11，还有同样数量的 PC 能升级到 Windows 11。戴尔三季度营收为 270 亿美元，同比增长 11%，预计四季度营收将达到 315 亿美元，2026 财年营收将达到 1117 亿美元，分别同比增长 32% 和 17%。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 16:49:05 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 16:49:05 +0800</pubDate>
 </item>
 <item>
@@ -81,11 +82,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82907</link>
 <guid>https://www.solidot.org/story?sid=82907</guid>
 <content:encoded><![CDATA[
-
 苹果有望时隔十多年再次成为全球最大的智能手机制造商。根据研究机构 Counterpoint Research 的预测，苹果今年推出的 iPhone 17 在美国本土以及中国都取得了成功，推动 iPhone 年销量超过三星手机。Counterpoint Research 预测苹果 iPhone 在 2025 年出货量增长 10%，而三星手机增速预计为 4.6%。苹果 iPhone 年出货量预计达到 2.43 亿部，略高于三星手机的 2.35 亿部。苹果的市场占有率达到 19.4%，三星约为 18.7%。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 16:01:21 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 16:01:21 +0800</pubDate>
 </item>
 <item>
@@ -93,11 +92,9 @@ KDE Plasma 团队宣布即将发布的 v6.8 将只支持 Wayland，停止支持 
 <link>https://www.solidot.org/story?sid=82906</link>
 <guid>https://www.solidot.org/story?sid=82906</guid>
 <content:encoded><![CDATA[
-
 SEO 公司 Graphite 上个月发表了一份报告，称互联网上逾半数内容是 AI 生成的。Graphite 分析了 2020 年 1 月至 2025 年 5 月间发表的 65,000 篇英文文章的随机样本，使用了 AI 检测工具 Surfer 进行评估，如果一篇文章的内容有五成或更多部分被认为是大模型撰写的，那么这篇文章就被视为是 AI 生成。对 AI 撰写文章的分析显示大部分属于大众兴趣类文章：新闻更新、指南、生活方式、评论和产品介绍。此类文章主要是说服读者或为读者提供信息，不涉及表达原创。也就是说 AI 擅长处理低级别的模式化的写作，如周末游清单、求职信和商业文案等。此类工作过去由自由职业者操手，现在大模型的普及使得这些工作急剧减少。由人类创作的原创类文章可能比以前更富有价值。即使互联网上的大部分内容不再由人类撰写，作家、记者和知识分子的工作并不会变得多余。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Nov 2025 15:24:10 +0800</pubDate>
 <pubDate>Thu, 27 Nov 2025 15:24:10 +0800</pubDate>
 </item>
 <item>
@@ -105,14 +102,11 @@ SEO 公司 Graphite 上个月发表了一份报告，称互联网上逾半数内
 <link>https://www.solidot.org/story?sid=82905</link>
 <guid>https://www.solidot.org/story?sid=82905</guid>
 <content:encoded><![CDATA[
-
 中国是美国之后最大的新药研发国，中国药企去年开展的临床试验占到了全球的三分之一，而十年前这一比例仅为 5%。中国生物科技公司在癌症等领域正迅速崛起，相关领域企业的股价今年以来飙升了 110%，是美国同行涨幅的三倍多。2025 年上半年大型药企签署的全球授权协议中，近三分之一涉及到中国企业，是 2021 年的四倍。辉瑞公司于 5 月同意向三生制药（3SBio）支付 12.5 亿美元收购一种实验性抗癌药物；葛兰素史克于 6 月与恒瑞医药达成了潜在总金额 120 亿美元的组合授权协议。
 <p></p>
 ]]></content:encoded>
 <pubDate>Thu, 27 Nov 2025 14:46:23 +0800</pubDate>
-<pubDate>Thu, 27 Nov 2025 14:46:23 +0800</pubDate>
 </item>
-
 <item>
 <title>著名歌星的平均寿命较短</title>
 <link>https://www.solidot.org/story?sid=82904</link>

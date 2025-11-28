@@ -2156,3 +2156,10 @@ Append: [Save On Apple Watch, Models Starting At $129](https://www.doctorofcredi
 append_entries: 2
 Finish: 2025-11-28 05:13:41.379939
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 06:19:31.656448
+Existing_entries: 183
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-28 06:19:31.959749
+Wrote digest feed: docs/doctorofcredit-digest.xml

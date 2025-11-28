@@ -1881,3 +1881,11 @@ Append: [中国药企走向全球](https://www.solidot.org/story?sid=82905)
 append_entries: 9
 Finish: 2025-11-28 05:13:19.094006
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 06:19:20.154692
+Existing_entries: 168
+Fetching from https://www.solidot.org/index.rss
+Append: [改变推荐算法排名能改变一个人的政治立场](https://www.solidot.org/story?sid=82914)
+append_entries: 1
+Finish: 2025-11-28 06:19:21.882234
+Wrote digest feed: docs/solidot-digest.xml
