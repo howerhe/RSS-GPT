@@ -2222,3 +2222,13 @@ Append: [Capital One Shopping: 25% Back At Walmart (Max $1,000 Back)](https://ww
 append_entries: 1
 Finish: 2025-11-28 11:10:46.353936
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 12:23:20.926432
+Existing_entries: 191
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 304
+Summarized using glm-4.5-air
+Append: [Market Basket: 20% Off Select Gift Cards (DoorDash, Uber & More) [11/28 Only]](https://www.doctorofcredit.com/market-basket-20-off-select-gift-cards-doordash-uber-more-11-28-only/)
+append_entries: 1
+Finish: 2025-11-28 12:23:26.791702
+Wrote digest feed: docs/doctorofcredit-digest.xml
