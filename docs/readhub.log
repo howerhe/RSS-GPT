@@ -4146,3 +4146,10 @@ Append: [欧洲债市：德债小幅走低 德国 11 月通胀率高于预期](h
 append_entries: 1
 Finish: 2025-11-28 21:10:15.504112
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 22:11:10.781439
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-28 22:11:12.348493
+Wrote digest feed: docs/readhub-digest.xml

@@ -2322,3 +2322,10 @@ Append: [Google Play App: Save Giftcards For Disney, DoorDash, Gamestop, Lowe’
 append_entries: 4
 Finish: 2025-11-28 21:10:40.208898
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 22:11:20.570138
+Existing_entries: 201
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-28 22:11:20.747855
+Wrote digest feed: docs/doctorofcredit-digest.xml
