@@ -4124,3 +4124,10 @@ Append: [国内商品期市夜盘收盘涨跌参半，黑色系涨幅居前](htt
 append_entries: 9
 Finish: 2025-11-28 18:16:45.469330
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 19:09:20.141335
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-28 19:09:21.430785
+Wrote digest feed: docs/readhub-digest.xml
