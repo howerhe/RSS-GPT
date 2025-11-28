@@ -2143,3 +2143,16 @@ Append: [Costco.com: Save On Giftcards For Shake Shake, Bob Evans, Jamba Juice, 
 append_entries: 1
 Finish: 2025-11-28 04:16:18.821368
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 05:13:28.861922
+Existing_entries: 181
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1012
+Summarized using glm-4.5-air
+Append: [[Targeted] Free $5 From Mrrebates Portal, Includes Existing Users (Minimum $10 To Cashout)](https://www.doctorofcredit.com/free-5-from-mrrebates-portal-minimum-10-to-cashout/)
+Token length: 437
+Summarized using glm-4.5-air
+Append: [Save On Apple Watch, Models Starting At $129](https://www.doctorofcredit.com/save-on-apple-watch-models-starting-at-129/)
+append_entries: 2
+Finish: 2025-11-28 05:13:41.379939
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -1865,3 +1865,19 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-28 04:15:59.501744
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 05:13:17.488980
+Existing_entries: 159
+Fetching from https://www.solidot.org/index.rss
+Append: [KDE Plasma 6.8 将只支持 Wayland](https://www.solidot.org/story?sid=82913)
+Append: [五角大楼建议将阿里巴巴百度等加入到协助中国军方的名单](https://www.solidot.org/story?sid=82912)
+Append: [基于 Source 2 的 s&box 引擎开源](https://www.solidot.org/story?sid=82911)
+Append: [手术期间播放音乐有助于减少用药量改善术后恢复](https://www.solidot.org/story?sid=82910)
+Append: [NASA 漫游车在火星上发现闪电](https://www.solidot.org/story?sid=82909)
+Append: [戴尔称 Windows 11 换代速度比 Windows 10 慢](https://www.solidot.org/story?sid=82908)
+Append: [苹果时隔多年再次成为全球最大的智能手机制造商](https://www.solidot.org/story?sid=82907)
+Append: [AI 撰写了哪些类型的文章](https://www.solidot.org/story?sid=82906)
+Append: [中国药企走向全球](https://www.solidot.org/story?sid=82905)
+append_entries: 9
+Finish: 2025-11-28 05:13:19.094006
+Wrote digest feed: docs/solidot-digest.xml

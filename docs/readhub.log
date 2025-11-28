@@ -3923,3 +3923,10 @@ Append: [美银上调戴尔科技目标价至 163 美元](https://readhub.cn/top
 append_entries: 15
 Finish: 2025-11-28 04:16:01.832703
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 05:13:19.808560
+Existing_entries: 1015
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-28 05:13:21.504863
+Wrote digest feed: docs/readhub-digest.xml
