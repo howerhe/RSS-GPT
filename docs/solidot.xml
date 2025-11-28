@@ -4,19 +4,17 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>改变推荐算法排名能改变一个人的政治立场</title>
 <link>https://www.solidot.org/story?sid=82914</link>
 <guid>https://www.solidot.org/story?sid=82914</guid>
 <content:encoded><![CDATA[
-
 发表在《科学》期刊上的一项新实验，采用了独立于 X 平台算法的由 AI 驱动的浏览器扩展程序来重新排序 X/Twitter 上的信息流，结果表明即使所接触的仅是敌对政治内容的微小变化，也能在数天内显著影响用户对反对党的观感。这些发现为算法所控帖子排名对用户社交媒体信息流会有影响提供了直接的因果证据。社交媒体已成为全球许多人获取政治信息的重要来源。然而平台算法对我们在浏览过程中所接触的内容施加了强大的影响力，因为这些算法能以种种难以理解的方式悄然左右人们的思想、情绪和行为。尽管人们就这些排名算法影响我们的方式提出了诸多解释，但要验证这些理论却异常困难。这是因为平台运营方独自掌控着其专有算法的运行方式，而且只有他们才能尝试不同信息流设计并评估其因果效应。为规避这些难题，研究人员创建了浏览器扩展，在人们浏览社交媒体信息流时对信息流实时进行重新排序，这一过程无需获得平台本身的许可。研究表明算法介导的与政治敌意内容的接触既能塑造情感极化，也能实时调控用户在使用平台过程中的瞬时情绪反应。
 <p></p>
 ]]></content:encoded>
 <pubDate>Fri, 28 Nov 2025 13:47:07 +0800</pubDate>
-<pubDate>Fri, 28 Nov 2025 13:47:07 +0800</pubDate>
 </item>
-
 <item>
 <title>KDE Plasma 6.8 将只支持 Wayland</title>
 <link>https://www.solidot.org/story?sid=82913</link>

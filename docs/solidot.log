@@ -1889,3 +1889,10 @@ Append: [改变推荐算法排名能改变一个人的政治立场](https://www.
 append_entries: 1
 Finish: 2025-11-28 06:19:21.882234
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 07:13:15.565488
+Existing_entries: 169
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-28 07:13:17.522806
+Wrote digest feed: docs/solidot-digest.xml
