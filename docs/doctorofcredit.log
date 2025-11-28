@@ -2279,3 +2279,13 @@ Append: [Check Your Amazon ‘Buy Again’ Tab on Black Friday & Cyber Monday](h
 append_entries: 1
 Finish: 2025-11-28 17:10:48.835730
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-28 18:16:53.335926
+Existing_entries: 196
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 728
+Summarized using glm-4.5-air
+Append: [Amazon, Walmart: Apple Airtag For $18 (4-Pack For $63)](https://www.doctorofcredit.com/amazon-walmart-apple-airtag-for-18-4-pack-for-65/)
+append_entries: 1
+Finish: 2025-11-28 18:16:57.279035
+Wrote digest feed: docs/doctorofcredit-digest.xml
