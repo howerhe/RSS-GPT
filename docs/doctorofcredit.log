@@ -2363,3 +2363,10 @@ Append: [The Farmer’s Dog: First Box Free (Cancel After Box Shipped)](https://
 append_entries: 1
 Finish: 2025-11-29 03:40:31.918273
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 04:15:12.336497
+Existing_entries: 203
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-29 04:15:12.550692
+Wrote digest feed: docs/doctorofcredit-digest.xml
