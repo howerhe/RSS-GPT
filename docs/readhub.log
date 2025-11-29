@@ -4316,3 +4316,15 @@ Append: [AI 行情助谷歌股价创新高，创始人布林捐赠超 70 亿](ht
 append_entries: 3
 Finish: 2025-11-29 13:20:31.110768
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 14:10:25.913653
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [印尼洪灾遇难人数升至 303 人](https://readhub.cn/topic/8ogJ0BvXTgU)
+Append: [上海中心城区首个数据跨境服务中心揭牌](https://readhub.cn/topic/8ogOmlCfCa2)
+Append: [中央港澳办协调中央有关部门和广东省继续为香港救灾工作提供协助和支援](https://readhub.cn/topic/8ogV9yDFgE0)
+Append: [取款超 5 万不再需要登记](https://readhub.cn/topic/8ofr8rIzRkS)
+Append: [大摩中国 CIO 调查：B 端对千问和阿里云兴趣显著增加 预计三年内千问超越 DeepSeek](https://readhub.cn/topic/8ofhr6PEBSi)
+append_entries: 5
+Finish: 2025-11-29 14:10:27.869125
+Wrote digest feed: docs/readhub-digest.xml
