@@ -2128,3 +2128,10 @@ Append: [现代家猫起源于北非野猫](https://www.solidot.org/story?sid=82
 append_entries: 8
 Finish: 2025-11-29 16:13:21.657745
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 17:10:13.563400
+Existing_entries: 177
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-11-29 17:10:15.117026
+Wrote digest feed: docs/solidot-digest.xml
