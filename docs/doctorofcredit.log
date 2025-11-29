@@ -2475,3 +2475,34 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-29 19:09:07.870626
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 20:12:57.409766
+Existing_entries: 203
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2135
+Summarized using glm-4.5-air
+Append: [Deal Calendar (Full List Of Deals, Credit Card & Bank Bonuses + Their Expiry Dates)](https://www.doctorofcredit.com/deal-calendar-full-list-deals-credit-card-bank-bonuses-expiry-dates/)
+Token length: 221
+Summarized using glm-4.5-air
+Append: [[YMMV] PayPal: Make 3 $10 Purchases, Get 1,000 Points (Worth $10)](https://www.doctorofcredit.com/ymmv-paypal-make-3-10-purchases-get-1000-points-worth-10/)
+Token length: 385
+Summarized using glm-4.5-air
+Append: [StayVancouver: Book A Stay In Vancouver & Get Up To $350 For Two Nights](https://www.doctorofcredit.com/stayvancouver-book-a-stay-in-vancouver-get-up-to-250-for-two-nights/)
+Token length: 144
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: 12% Back At eBay](https://www.doctorofcredit.com/capital-one-shopping-12-back-at-ebay/)
+Token length: 248
+Summarized using glm-4.5-air
+Append: [Iberia: Up To 60% Off (One Way To Spain From 6,400 Miles)](https://www.doctorofcredit.com/iberia-up-to-60-off-one-way-to-spain-from-6400-miles/)
+Token length: 200
+Summarized using glm-4.5-air
+Append: [[Targeted] Capital One Offers: Hotels.com, Spend $350 & Get 20,000 Miles](https://www.doctorofcredit.com/targeted-capital-one-offers-hotels-com-spend-350-get-20000-miles/)
+Token length: 485
+Summarized using glm-4.5-air
+Append: [[Targeted] Capital One Offers: British Airways, Spend $1,000 & Get 50,000 Miles](https://www.doctorofcredit.com/targeted-capital-one-offers-british-airways-spend-1000-get-50000-miles/)
+Token length: 412
+Summarized using glm-4.5-air
+Append: [TripAdvisor Rewards: Sign Up & Get $50 Off ‘Things To Do’ + $10](https://www.doctorofcredit.com/tripadvisor-rewards-sign-up-get-50-off-things-to-do-10/)
+append_entries: 8
+Finish: 2025-11-29 20:13:29.409734
+Wrote digest feed: docs/doctorofcredit-digest.xml
