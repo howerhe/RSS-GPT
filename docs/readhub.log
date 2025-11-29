@@ -4214,3 +4214,11 @@ Append: [赴日「退订潮」持续扩大 中国游客出境游正在转向](ht
 append_entries: 6
 Finish: 2025-11-29 04:15:03.962706
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 05:12:00.613902
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [电影《疯狂动物城 2》总票房破 11 亿](https://readhub.cn/topic/8ofkLVvWXwf)
+append_entries: 1
+Finish: 2025-11-29 05:12:02.131146
+Wrote digest feed: docs/readhub-digest.xml
