@@ -2343,3 +2343,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-29 00:54:58.706896
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 02:26:13.193472
+Existing_entries: 201
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 161
+Summarized using glm-4.5-air
+Append: [Amazon: $15 Off $30+ On Select Items (Kitchen, Tools, Outdoor & Office Supplies)](https://www.doctorofcredit.com/amazon-15-off-30-on-select-items-kitchen-tools-outdoor-office-supplies/)
+append_entries: 1
+Finish: 2025-11-29 02:26:17.865782
+Wrote digest feed: docs/doctorofcredit-digest.xml
