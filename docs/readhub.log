@@ -4160,3 +4160,16 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-28 23:11:21.878953
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 00:54:49.068467
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [矿业公司 SolGold：已拒绝江西铜业的收购要约](https://readhub.cn/topic/8of4eB6wCkW)
+Append: [美联邦航空局：因炸弹威胁 飞往费城国际机场航班全部停飞](https://readhub.cn/topic/8ofa0bG24oF)
+Append: [香港特区政府将举行仪式哀悼火灾遇难者](https://readhub.cn/topic/8of0IByj5hq)
+Append: [亚马逊「黑五」遭全球围堵：30 多国员工联合罢工抗议](https://readhub.cn/topic/8oeqxsZyrxt)
+Append: [西气东输气源地新增超深天然气产能 20 亿立方米](https://readhub.cn/topic/8ofWSd09rUj)
+Append: [中央气象台继续发布台风蓝色预警](https://readhub.cn/topic/8ofUJVhdSjj)
+append_entries: 6
+Finish: 2025-11-29 00:54:50.379608
+Wrote digest feed: docs/readhub-digest.xml
