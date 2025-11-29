@@ -2529,3 +2529,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-29 22:11:03.476107
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 23:11:38.357029
+Existing_entries: 214
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-11-29 23:11:38.694566
+Wrote digest feed: docs/doctorofcredit-digest.xml
