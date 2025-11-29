@@ -4222,3 +4222,14 @@ Append: [电影《疯狂动物城 2》总票房破 11 亿](https://readhub.cn/to
 append_entries: 1
 Finish: 2025-11-29 05:12:02.131146
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 06:17:12.003473
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [中国人民银行、科技部等部门联合召开科技金融统筹推进机制第一次会议](https://readhub.cn/topic/8ofyySuU2KQ)
+Append: [前全球销售主管爆猛料：特斯拉曾拆解中国电车汲取经验](https://readhub.cn/topic/8oduQe9GhrP)
+Append: [上海乐高乐园游客量破百万，未来将启动二期扩建](https://readhub.cn/topic/8oeAyxbDtB1)
+Append: [山东省国资委：省属企业要凝聚加强市值管理的工作共识](https://readhub.cn/topic/8ofuhdWGYQZ)
+append_entries: 4
+Finish: 2025-11-29 06:17:15.020229
+Wrote digest feed: docs/readhub-digest.xml
