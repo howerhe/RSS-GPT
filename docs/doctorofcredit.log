@@ -2506,3 +2506,19 @@ Append: [TripAdvisor Rewards: Sign Up & Get $50 Off ‘Things To Do’ + $10](ht
 append_entries: 8
 Finish: 2025-11-29 20:13:29.409734
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 21:10:19.678150
+Existing_entries: 211
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1629
+Summarized using glm-4.5-air
+Append: [[AL] Avadian Credit Union $500 Checking Bonus](https://www.doctorofcredit.com/al-avadian-credit-union-600-checking-bonus/)
+Token length: 552
+Summarized using glm-4.5-air
+Append: [Capital One Offers: Best Western, Hertz, Trip.com, Choice, Sixt, VRBO](https://www.doctorofcredit.com/capital-one-offers-best-western-hertz-trip-com-choice-sixt-vrbo/)
+Token length: 807
+Summarized using glm-4.5-air
+Append: [[Starts 12/1] OKX (Crypto Platform): Deposit & Get 5% Match (Up To $250 USDG)](https://www.doctorofcredit.com/starts-12-1-okx-crypto-platform-deposit-get-5-match-up-to-250-usdg/)
+append_entries: 3
+Finish: 2025-11-29 21:10:33.667371
+Wrote digest feed: docs/doctorofcredit-digest.xml
