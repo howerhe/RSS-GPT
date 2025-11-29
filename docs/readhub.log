@@ -4286,3 +4286,11 @@ Append: [香港特区政府：目前捐助基金和政府拨款已达 11 亿港�
 append_entries: 7
 Finish: 2025-11-29 10:12:08.858737
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 11:09:16.439256
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [白皮书：上海 2024 年金融科技产业规模约为 4405 亿元](https://readhub.cn/topic/8ogGrYeEsoG)
+append_entries: 1
+Finish: 2025-11-29 11:09:17.643113
+Wrote digest feed: docs/readhub-digest.xml
