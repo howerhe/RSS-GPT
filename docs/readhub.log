@@ -4328,3 +4328,12 @@ Append: [大摩中国 CIO 调查：B 端对千问和阿里云兴趣显著增加 
 append_entries: 5
 Finish: 2025-11-29 14:10:27.869125
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 15:11:16.032449
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [泰康保险集团捐赠 1000 万元，支援香港大埔火灾救援](https://readhub.cn/topic/8oeLbxLAywL)
+Append: [智联招聘：前三季度宠物经济相关岗位大涨 30%](https://readhub.cn/topic/8ogO73OcDQy)
+append_entries: 2
+Finish: 2025-11-29 15:11:17.976580
+Wrote digest feed: docs/readhub-digest.xml
