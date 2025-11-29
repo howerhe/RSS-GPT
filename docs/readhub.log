@@ -4337,3 +4337,10 @@ Append: [智联招聘：前三季度宠物经济相关岗位大涨 30%](https://
 append_entries: 2
 Finish: 2025-11-29 15:11:17.976580
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 16:13:22.439781
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-29 16:13:23.886889
+Wrote digest feed: docs/readhub-digest.xml

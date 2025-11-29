@@ -2113,3 +2113,18 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-11-29 15:11:15.238617
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 16:13:19.875925
+Existing_entries: 169
+Fetching from https://www.solidot.org/index.rss
+Append: [天文学家观测到红矮星的日冕物质抛射](https://www.solidot.org/story?sid=82922)
+Append: [荷兰大学反思对微软软件的依赖](https://www.solidot.org/story?sid=82921)
+Append: [因强太阳辐射可能破坏飞控数据空客对全世界六千架客机进行软件更新](https://www.solidot.org/story?sid=82920)
+Append: [禽流感病毒能抵抗高烧](https://www.solidot.org/story?sid=82919)
+Append: [《怪奇物语》定义了算法时代](https://www.solidot.org/story?sid=82918)
+Append: [TikTok 日本月活用户逾 4200 万](https://www.solidot.org/story?sid=82917)
+Append: [欧洲新法律要求社媒为金融诈骗承担责任](https://www.solidot.org/story?sid=82916)
+Append: [现代家猫起源于北非野猫](https://www.solidot.org/story?sid=82915)
+append_entries: 8
+Finish: 2025-11-29 16:13:21.657745
+Wrote digest feed: docs/solidot-digest.xml
