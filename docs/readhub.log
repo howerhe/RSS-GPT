@@ -4233,3 +4233,14 @@ Append: [山东省国资委：省属企业要凝聚加强市值管理的工作�
 append_entries: 4
 Finish: 2025-11-29 06:17:15.020229
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 07:11:21.391779
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [央行：近期虚拟货币投机炒作有所抬头 风险防控面临新挑战](https://readhub.cn/topic/8og1pzi0uYD)
+Append: [中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡](https://readhub.cn/topic/8og1AJ3DF3H)
+Append: [打击虚拟货币交易炒作工作协调机制会议召开](https://readhub.cn/topic/8og0WgmD93f)
+Append: [国务院安委会部署开展高层建筑重大火灾风险隐患排查整治行动](https://readhub.cn/topic/8ofziScPuyj)
+append_entries: 4
+Finish: 2025-11-29 07:11:23.143261
+Wrote digest feed: docs/readhub-digest.xml
