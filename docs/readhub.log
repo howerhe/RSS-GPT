@@ -4190,3 +4190,14 @@ Append: [英特尔股价大涨 分析师称其可能向苹果公司供应处理�
 append_entries: 10
 Finish: 2025-11-29 02:26:04.954709
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 03:40:17.845708
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [大连金融监管局同意华信信托依法进入破产程序](https://readhub.cn/topic/8oedP9Ncifx)
+Append: [青海海西州都兰县发生 4.0 级地震，暂无人员伤亡和财产损失](https://readhub.cn/topic/8ofV2maeNyL)
+Append: [山东印发加强土地资源集约高效利用支撑全省绿色低碳高质量发展实施意见](https://readhub.cn/topic/8ofjIfEbqOy)
+Append: [容大感光：部分光刻胶产品已可替代日系产品 并已在部分客户中实现批量应用](https://readhub.cn/topic/8oeo4exdowG)
+append_entries: 4
+Finish: 2025-11-29 03:40:19.695122
+Wrote digest feed: docs/readhub-digest.xml
