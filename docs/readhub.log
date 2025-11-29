@@ -4294,3 +4294,15 @@ Append: [白皮书：上海 2024 年金融科技产业规模约为 4405 亿元](
 append_entries: 1
 Finish: 2025-11-29 11:09:17.643113
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 12:20:52.393646
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [两部门协调援助应急装备物资，支持香港大埔火灾应对处置后续工作](https://readhub.cn/topic/8ogO5AFOH84)
+Append: [国产 CAR-T 产品新适应症获批，覆盖两大血液肿瘤](https://readhub.cn/topic/8oeCUx5V5UE)
+Append: [中华慈善总会：已募集近 7000 万元救灾款物帮扶香港火灾受灾同胞](https://readhub.cn/topic/8ogLtWBkUed)
+Append: [我国前 10 个月乡村消费品零售额 5.5 万亿元](https://readhub.cn/topic/8ogLtOb7Yzd)
+Append: [国家消防救援局指导广东消防支援香港多台套救援装备](https://readhub.cn/topic/8ogL8yWTmFw)
+append_entries: 5
+Finish: 2025-11-29 12:20:53.928286
+Wrote digest feed: docs/readhub-digest.xml
