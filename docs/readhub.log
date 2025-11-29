@@ -4306,3 +4306,13 @@ Append: [国家消防救援局指导广东消防支援香港多台套救援装�
 append_entries: 5
 Finish: 2025-11-29 12:20:53.928286
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-29 13:20:29.595578
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [哈尔滨工业大学与中国农业科学院共建农业人工智能学院](https://readhub.cn/topic/8ogQrUdiyUF)
+Append: [欧航局双卫星进入轨道 将收集地球水循环数据](https://readhub.cn/topic/8ogPSAk8gjW)
+Append: [AI 行情助谷歌股价创新高，创始人布林捐赠超 70 亿](https://readhub.cn/topic/8og0Sxfbg6e)
+append_entries: 3
+Finish: 2025-11-29 13:20:31.110768
+Wrote digest feed: docs/readhub-digest.xml
