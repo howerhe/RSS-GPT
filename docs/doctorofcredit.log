@@ -2616,3 +2616,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-30 12:21:18.726551
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 13:20:41.790299
+Existing_entries: 215
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2635
+Summarized using glm-4.5-air
+Append: [Giant, Stop&Shop, Martin’s: Get 4x-6x Points On Select Third-Party Giftcards (11/28-12/4)](https://www.doctorofcredit.com/giant-stopshop-martins-get-6x-fuel-points-on-all-third-party-giftcards/)
+append_entries: 1
+Finish: 2025-11-30 13:20:48.279329
+Wrote digest feed: docs/doctorofcredit-digest.xml

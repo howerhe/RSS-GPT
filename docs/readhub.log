@@ -4521,3 +4521,14 @@ Append: [泰国南部洪灾死亡人数上升至 162 人](https://readhub.cn/top
 append_entries: 3
 Finish: 2025-11-30 12:21:08.869871
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 13:20:31.111534
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [我国成功发射实践二十八号卫星](https://readhub.cn/topic/8oi7HdIdfEx)
+Append: [罗永浩回应推迟公布录音：周一有大事官宣，不想被口水战带偏](https://readhub.cn/topic/8ohWmxnxPV2)
+Append: [上海交大宣布设置全球首个具身智能本科专业 联合华为培养](https://readhub.cn/topic/8ohXTHrsZXB)
+Append: [《疯狂动物城 2》票房超第一部，成为中国影史进口动画票房冠军](https://readhub.cn/topic/8ohH1f0Uqt7)
+append_entries: 4
+Finish: 2025-11-30 13:20:32.524609
+Wrote digest feed: docs/readhub-digest.xml
