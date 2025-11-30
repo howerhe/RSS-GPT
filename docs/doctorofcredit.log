@@ -2659,3 +2659,13 @@ Append: [Bose QC Over-Ear Noise-Cancelling Headphones For $159.99 (Plus Bonus $3
 append_entries: 2
 Finish: 2025-11-30 16:13:52.378776
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 17:10:37.390937
+Existing_entries: 220
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1152
+Summarized using glm-4.5-air
+Append: [Amazon: Use Citi Thank You Points & Get 40% Off, Up To $50 Discount](https://www.doctorofcredit.com/amazon-use-one-citi-thankyou-point-get-40-discount-up-to-20-discount-works-on-giftcards/)
+append_entries: 1
+Finish: 2025-11-30 17:10:43.919170
+Wrote digest feed: docs/doctorofcredit-digest.xml

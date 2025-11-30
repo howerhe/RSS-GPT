@@ -4559,3 +4559,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-30 16:13:28.879228
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 17:10:26.399262
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [高盛：美联储 12 月降息已成定局](https://readhub.cn/topic/8oh73kdvoeu)
+Append: [欧佩克 + 同意在 2026 年保持集团整体石油产量不变](https://readhub.cn/topic/8oiHFx2sqqJ)
+append_entries: 2
+Finish: 2025-11-30 17:10:27.902852
+Wrote digest feed: docs/readhub-digest.xml
