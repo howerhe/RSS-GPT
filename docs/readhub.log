@@ -4393,3 +4393,16 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-29 23:11:29.311613
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 01:03:02.500065
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [我国单机容量最大燃气电厂首台机组今投产](https://readhub.cn/topic/8oh8VE1FDgb)
+Append: [中国赴日航班数量大幅削减引日方担忧](https://readhub.cn/topic/8ohFbsAOUoB)
+Append: [小鹏汽车副总裁陈涵：反内卷是中国汽车行业走向成熟的必然一步](https://readhub.cn/topic/8ogUSrfteyM)
+Append: [中国电建通报「福建永安一水库大坝建设被指偷工减料」：已成立调查组](https://readhub.cn/topic/8oh9Ia3Ka2X)
+Append: [香港屋宇署勒令 30 个私人楼宇工程项目暂时停工](https://readhub.cn/topic/8ohCjenJiIg)
+Append: [香港天文台发布黄色火灾危险警告](https://readhub.cn/topic/8ohAcUaPsph)
+append_entries: 6
+Finish: 2025-11-30 01:03:03.802464
+Wrote digest feed: docs/readhub-digest.xml
