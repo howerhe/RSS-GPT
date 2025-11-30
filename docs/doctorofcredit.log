@@ -2699,3 +2699,16 @@ Append: [Bestbuy.com: $100 eGiftcard For $85 For Instacart, Wayfair, PetSmart & 
 append_entries: 1
 Finish: 2025-11-30 20:13:17.132637
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 21:10:35.922850
+Existing_entries: 224
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 989
+Summarized using glm-4.5-air
+Append: [Staples: No Activation Fee on $200 Mastercard Gift Cards (11/30-12/6)](https://www.doctorofcredit.com/staples-no-activation-fee-on-200-mastercard-gift-cards-12-5-12-11-limit-5-per-day/)
+Token length: 548
+Summarized using glm-4.5-air
+Append: [Discover Q1 2026 5% Categories: Grocery, Wholesale, Streaming](https://www.doctorofcredit.com/discover-q1-2026-5-categories-grocery-wholesale-streaming/)
+append_entries: 2
+Finish: 2025-11-30 21:10:42.892336
+Wrote digest feed: docs/doctorofcredit-digest.xml
