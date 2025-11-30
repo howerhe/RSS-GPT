@@ -2712,3 +2712,13 @@ Append: [Discover Q1 2026 5% Categories: Grocery, Wholesale, Streaming](https://
 append_entries: 2
 Finish: 2025-11-30 21:10:42.892336
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 22:11:44.322298
+Existing_entries: 226
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4082
+Summarized using glm-4.5-air
+Append: [Walgreens: Free 8×10 Photo Print With Promo Code 1FREE810](https://www.doctorofcredit.com/walgreens-free-8x10-photo-print-with-promo-code-eightdec/)
+append_entries: 1
+Finish: 2025-11-30 22:11:48.929392
+Wrote digest feed: docs/doctorofcredit-digest.xml

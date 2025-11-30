@@ -4596,3 +4596,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-30 21:10:27.719236
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 22:11:33.110303
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-30 22:11:34.710760
+Wrote digest feed: docs/readhub-digest.xml
