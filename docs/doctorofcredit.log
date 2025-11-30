@@ -2636,3 +2636,13 @@ Append: [Avis: Get 15% Back in Amazon Gift Cards on US Car Rentals](https://www.
 append_entries: 1
 Finish: 2025-11-30 14:10:54.880368
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 15:11:30.964925
+Existing_entries: 217
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 304
+Summarized using glm-4.5-air
+Append: [Target: Purchase $100 In Baby Items (Diapers, Baby Wipes Etc) & Get $20 Target Giftcard](https://www.doctorofcredit.com/target-purchase-100-in-baby-items-diapers-baby-wipes-etc-get-20-target-giftcard/)
+append_entries: 1
+Finish: 2025-11-30 15:11:34.912999
+Wrote digest feed: docs/doctorofcredit-digest.xml
