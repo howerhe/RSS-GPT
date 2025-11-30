@@ -4511,3 +4511,13 @@ Append: [央行：10 月债券市场共发行各类债券 63574.6 亿元](https:
 append_entries: 4
 Finish: 2025-11-30 11:09:23.751449
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 12:21:07.367362
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [AI 相关需求推升行业景气度，PCB 上游高端基材货缺价涨](https://readhub.cn/topic/8ohg2kLkorT)
+Append: [凌科药业向港交所提交上市申请书](https://readhub.cn/topic/8ohxCmXvSHK)
+Append: [泰国南部洪灾死亡人数上升至 162 人](https://readhub.cn/topic/8og43B0MQnE)
+append_entries: 3
+Finish: 2025-11-30 12:21:08.869871
+Wrote digest feed: docs/readhub-digest.xml
