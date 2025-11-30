@@ -2550,3 +2550,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-11-30 03:20:23.968997
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 04:27:58.021038
+Existing_entries: 214
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3657
+Summarized using glm-4.5-air
+Append: [(Credits Posting)[Expired] Chase Sapphire Preferred, The Infatuation: Spend $150 at Select Restaurants & Get $75 Statement Credit](https://www.doctorofcredit.com/chase-sapphire-preferred-the-infatuation-spend-150-at-select-restaurants-get-75-statement-credit/)
+append_entries: 1
+Finish: 2025-11-30 04:28:06.104861
+Wrote digest feed: docs/doctorofcredit-digest.xml
