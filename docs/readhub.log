@@ -4429,3 +4429,15 @@ Append: [神舟二十一号乘组开展首次全系统压力应急演练，主�
 append_entries: 2
 Finish: 2025-11-30 04:27:48.969438
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 05:12:14.833758
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [中国社会福利基金会公布大埔火灾募捐进展：累计近百万人次捐赠](https://readhub.cn/topic/8ofr8iznUfI)
+Append: [混元 OCR 模型核心技术揭秘：统一框架、真端到端](https://readhub.cn/topic/8ohPfbvA6n4)
+Append: [业内人士：我国近 9 成老年人倾向于居家养老 潜在护理人才需求或超 1000 万](https://readhub.cn/topic/8ohTt9duA0n)
+Append: [航行警告：南海海域有火箭残骸坠落](https://readhub.cn/topic/8ohIV16v6G5)
+Append: [马斯克旗下 xAI 起诉苹果与 OpenAI 寻求韩国方面证据](https://readhub.cn/topic/8ofZzcQCGOw)
+append_entries: 5
+Finish: 2025-11-30 05:12:16.373249
+Wrote digest feed: docs/readhub-digest.xml
