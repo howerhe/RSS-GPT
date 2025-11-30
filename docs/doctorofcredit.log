@@ -2626,3 +2626,13 @@ Append: [Giant, Stop&Shop, Martin’s: Get 4x-6x Points On Select Third-Party Gi
 append_entries: 1
 Finish: 2025-11-30 13:20:48.279329
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 14:10:47.415856
+Existing_entries: 216
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3834
+Summarized using glm-4.5-air
+Append: [Avis: Get 15% Back in Amazon Gift Cards on US Car Rentals](https://www.doctorofcredit.com/avis-get-10-20-back-in-amazon-gift-cards-on-all-us-car-rentals/)
+append_entries: 1
+Finish: 2025-11-30 14:10:54.880368
+Wrote digest feed: docs/doctorofcredit-digest.xml

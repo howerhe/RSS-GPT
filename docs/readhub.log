@@ -4532,3 +4532,12 @@ Append: [《疯狂动物城 2》票房超第一部，成为中国影史进口动
 append_entries: 4
 Finish: 2025-11-30 13:20:32.524609
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 14:10:36.466198
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [广东陆丰核电项目 1、2 号机常规岛建设全面启动](https://readhub.cn/topic/8oi9PuttbDo)
+Append: [印尼苏门答腊岛山体滑坡灾害已致 303 人死亡](https://readhub.cn/topic/8ogKTVZojKC)
+append_entries: 2
+Finish: 2025-11-30 14:10:38.159052
+Wrote digest feed: docs/readhub-digest.xml
