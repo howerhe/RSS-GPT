@@ -2669,3 +2669,16 @@ Append: [Amazon: Use Citi Thank You Points & Get 40% Off, Up To $50 Discount](ht
 append_entries: 1
 Finish: 2025-11-30 17:10:43.919170
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 18:16:29.055967
+Existing_entries: 221
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 431
+Summarized using glm-4.5-air
+Append: [T-Mobile Home Internet $300 Visa Card + $400 From Capital One Shopping](https://www.doctorofcredit.com/t-mobile-home-internet-300-visa-card-400-from-capital-one-shopping/)
+Token length: 418
+Summarized using glm-4.5-air
+Append: [Staples.com: $200 Fee Free Virtual Visa Giftcard (Limit 5)](https://www.doctorofcredit.com/staples-com-200-fee-free-virtual-visa-giftcard-limit-5/)
+append_entries: 2
+Finish: 2025-11-30 18:16:36.896425
+Wrote digest feed: docs/doctorofcredit-digest.xml

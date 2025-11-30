@@ -4568,3 +4568,10 @@ Append: [欧佩克 + 同意在 2026 年保持集团整体石油产量不变](htt
 append_entries: 2
 Finish: 2025-11-30 17:10:27.902852
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 18:16:18.271136
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-30 18:16:19.483997
+Wrote digest feed: docs/readhub-digest.xml
