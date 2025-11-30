@@ -4603,3 +4603,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-11-30 22:11:34.710760
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 23:10:58.492605
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [委内瑞拉向欧佩克抗议美国企图以武力控制其石油](https://readhub.cn/topic/8oiX449kruu)
+Append: [美团 Q3 净亏损 160 亿元 王兴称外卖大战不可持续](https://readhub.cn/topic/8ohv2sn6aoW)
+append_entries: 2
+Finish: 2025-11-30 23:10:59.825310
+Wrote digest feed: docs/readhub-digest.xml

@@ -2722,3 +2722,22 @@ Append: [Walgreens: Free 8×10 Photo Print With Promo Code 1FREE810](https://www
 append_entries: 1
 Finish: 2025-11-30 22:11:48.929392
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 23:11:09.671567
+Existing_entries: 227
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1300
+Summarized using glm-4.5-air
+Append: [FNBO MGM Rewards Iconic World Elite Mastercard 45,000 Bonus](https://www.doctorofcredit.com/fnbo-launches-mgm-rewards-iconic-world-elite-mastercard/)
+Token length: 355
+Summarized using glm-4.5-air
+Append: [inKind: $25 Off $50 (Works For New/Existing Users)](https://www.doctorofcredit.com/inkind-25-off-50-works-for-new-existing-users-2/)
+Token length: 510
+Summarized using glm-4.5-air
+Append: [[YMMV] Capital One Shopping: Ticket Purchase, Get $250 Back When You Spend $250+](https://www.doctorofcredit.com/ymmv-capital-one-shopping-ticket-purchase-get-250-back-when-you-spend-250/)
+Token length: 265
+Summarized using glm-4.5-air
+Append: [Dollar General: Save 15% On Giftcards For PlayStation, GameStop & More](https://www.doctorofcredit.com/dollar-general-save-15-on-giftcards-for-playstation-gamestop-more/)
+append_entries: 4
+Finish: 2025-11-30 23:11:30.901630
+Wrote digest feed: docs/doctorofcredit-digest.xml
