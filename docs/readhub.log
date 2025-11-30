@@ -4490,3 +4490,13 @@ Append: [赣锋锂业：赣锋国际拟向中非基金发行 1 亿美元可交�
 append_entries: 5
 Finish: 2025-11-30 09:11:26.323752
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 10:11:45.025186
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [香港宏福苑起火房屋结构暂无危险 预计今天完成搜索工作](https://readhub.cn/topic/8ohsC0nGrn7)
+Append: [香港特区政府：目前火灾已造成 146 人遇难](https://readhub.cn/topic/8ohbnon3Ve1)
+Append: [中国神华：北海二期 3 号机组通过 168 小时试运行](https://readhub.cn/topic/8ohq3oboOfV)
+append_entries: 3
+Finish: 2025-11-30 10:11:46.520983
+Wrote digest feed: docs/readhub-digest.xml
