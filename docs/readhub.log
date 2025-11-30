@@ -4552,3 +4552,10 @@ Append: [欧佩克 + 将就产能评估审查机制达成一致](https://readhub
 append_entries: 4
 Finish: 2025-11-30 15:11:21.425190
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 16:13:27.195098
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-11-30 16:13:28.879228
+Wrote digest feed: docs/readhub-digest.xml

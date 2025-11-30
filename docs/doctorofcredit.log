@@ -2646,3 +2646,16 @@ Append: [Target: Purchase $100 In Baby Items (Diapers, Baby Wipes Etc) & Get $20
 append_entries: 1
 Finish: 2025-11-30 15:11:34.912999
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 16:13:38.275786
+Existing_entries: 218
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 530
+Summarized using glm-4.5-air
+Append: [SportsLine + Paramount+ Premium Subscription Plan, 12-15 Months For $40](https://www.doctorofcredit.com/sportsline-paramount-premium-subscription-plan-12-months-for-34-99/)
+Token length: 870
+Summarized using glm-4.5-air
+Append: [Bose QC Over-Ear Noise-Cancelling Headphones For $159.99 (Plus Bonus $30 Amazon Credit)](https://www.doctorofcredit.com/bose-qc-over-ear-noise-cancelling-headphones-for-159-99-plus-bonus-30-amazon-credit/)
+append_entries: 2
+Finish: 2025-11-30 16:13:52.378776
+Wrote digest feed: docs/doctorofcredit-digest.xml
