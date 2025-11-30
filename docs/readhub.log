@@ -4500,3 +4500,14 @@ Append: [中国神华：北海二期 3 号机组通过 168 小时试运行](http
 append_entries: 3
 Finish: 2025-11-30 10:11:46.520983
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 11:09:22.365496
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [阿特斯：拟与控股股东设立合资公司调整美国市场业务](https://readhub.cn/topic/8ohwYKaVgt9)
+Append: [小米汽车：11 月新增 17 家门店](https://readhub.cn/topic/8ohvl41cyxy)
+Append: [国家发展改革委部署促进民营经济发展壮大](https://readhub.cn/topic/8ohvmZMXBlb)
+Append: [央行：10 月债券市场共发行各类债券 63574.6 亿元](https://readhub.cn/topic/8ohv1yjtbKZ)
+append_entries: 4
+Finish: 2025-11-30 11:09:23.751449
+Wrote digest feed: docs/readhub-digest.xml
