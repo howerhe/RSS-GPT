@@ -4454,3 +4454,12 @@ Append: [比亚迪腾势 D9 成全球首款 30 万辆交付新能源 MPV](https:
 append_entries: 6
 Finish: 2025-11-30 06:17:52.585802
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-11-30 07:11:16.822373
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [女子地铁内蹲坐被摔倒乘客压骨折 起诉地铁方获赔 15 万](https://readhub.cn/topic/8ogFTwYCvty)
+Append: [香港特区政府为大埔宏福苑受灾民众提供免费住所](https://readhub.cn/topic/8ohVOQzqEOH)
+append_entries: 2
+Finish: 2025-11-30 07:11:18.404365
+Wrote digest feed: docs/readhub-digest.xml
