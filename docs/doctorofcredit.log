@@ -2861,3 +2861,13 @@ Append: [[Targeted] AmEx Offer & Chase Offer: IKEA, Get 10% Back (Max $27 Cashba
 append_entries: 1
 Finish: 2025-12-01 13:30:00.590853
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 14:13:49.517089
+Existing_entries: 243
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 645
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: Cyber Monday, 40-50% Off Amazon & More](https://www.doctorofcredit.com/best-posts-last-week-cyber-monday-40-50-off-amazon-more/)
+append_entries: 1
+Finish: 2025-12-01 14:13:57.346829
+Wrote digest feed: docs/doctorofcredit-digest.xml
