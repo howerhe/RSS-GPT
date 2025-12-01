@@ -2817,3 +2817,16 @@ Append: [(Update: Paypal Live) Chase Freedom 5x Categories For Q4 2025: Departme
 append_entries: 1
 Finish: 2025-12-01 08:20:03.028744
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 09:19:38.637568
+Existing_entries: 240
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3820
+Summarized using glm-4.5-air
+Append: [[CT, DE, MA, MI, NH, NJ, NY, OH, PA, RI, VT, VA, D.C., MD, FL] Citizens Bank $400/$500 Checking Bonus](https://www.doctorofcredit.com/ct-de-ma-mi-nh-nj-ny-oh-pa-ri-vt-citizens-bank-400-checking-bonus-2/)
+Token length: 203
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: 14% Back At Lowe’s](https://www.doctorofcredit.com/capital-one-shopping-12-back-at-ebay-2/)
+append_entries: 2
+Finish: 2025-12-01 09:19:50.289381
+Wrote digest feed: docs/doctorofcredit-digest.xml
