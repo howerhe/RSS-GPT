@@ -2881,3 +2881,13 @@ Append: [Shopback: $105 Moneymaker With ExpressVPN Signup at 150% Back (30-Day M
 append_entries: 1
 Finish: 2025-12-01 15:13:38.494144
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 16:17:33.062292
+Existing_entries: 245
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 653
+Summarized using glm-4.5-air
+Append: [Chase Offers Offers: Get 5% Back At Giftcards.com (Up To $50 Back)](https://www.doctorofcredit.com/chase-offers-offers-get-5-back-at-giftcards-com-up-to-50-back/)
+append_entries: 1
+Finish: 2025-12-01 16:17:39.353961
+Wrote digest feed: docs/doctorofcredit-digest.xml

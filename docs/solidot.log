@@ -2442,3 +2442,10 @@ Append: [韩国电商巨头逾 3000 万用户账户泄漏](https://www.solidot.o
 append_entries: 3
 Finish: 2025-12-01 15:13:23.080856
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 16:17:18.672104
+Existing_entries: 190
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-01 16:17:20.364080
+Wrote digest feed: docs/solidot-digest.xml
