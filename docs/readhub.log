@@ -4926,3 +4926,10 @@ Append: [滴滴自动驾驶在广州试运行全天候、全无人 Robotaxi 服�
 append_entries: 1
 Finish: 2025-12-01 17:14:28.102647
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 18:20:30.510911
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-01 18:20:32.404208
+Wrote digest feed: docs/readhub-digest.xml
