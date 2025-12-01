@@ -2940,3 +2940,13 @@ Append: [AmEx Offers: Save On Visible, Total Wireless, Tracfone, Straight Talk (
 append_entries: 2
 Finish: 2025-12-01 20:13:42.229811
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 21:10:39.209237
+Existing_entries: 253
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 401
+Summarized using glm-4.5-air
+Append: [Newegg: $100 Lowe’s eGiftcard for $90 (Limit 10)](https://www.doctorofcredit.com/newegg-100-lowes-egiftcard-for-90-limit-1/)
+append_entries: 1
+Finish: 2025-12-01 21:10:43.547700
+Wrote digest feed: docs/doctorofcredit-digest.xml
