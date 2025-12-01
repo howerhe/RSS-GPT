@@ -2851,3 +2851,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-01 12:25:01.153736
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 13:29:55.396438
+Existing_entries: 242
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1328
+Summarized using glm-4.5-air
+Append: [[Targeted] AmEx Offer & Chase Offer: IKEA, Get 10% Back (Max $27 Cashback)](https://www.doctorofcredit.com/chase-offers-ikea-get-10-back-max-20-cashback/)
+append_entries: 1
+Finish: 2025-12-01 13:30:00.590853
+Wrote digest feed: docs/doctorofcredit-digest.xml
