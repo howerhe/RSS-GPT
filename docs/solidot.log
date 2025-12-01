@@ -2349,3 +2349,10 @@ Append: [高污染环境下锻炼的效果较低](https://www.solidot.org/story?
 append_entries: 4
 Finish: 2025-12-01 03:43:38.625888
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 04:42:00.476467
+Existing_entries: 181
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-01 04:42:04.368470
+Wrote digest feed: docs/solidot-digest.xml

@@ -2770,3 +2770,13 @@ Append: [[WI, IL] Landmark Credit Union $500 Business Credit Card Offer](https:/
 append_entries: 3
 Finish: 2025-12-01 03:44:11.839146
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 04:42:15.253019
+Existing_entries: 236
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 741
+Summarized using glm-4.5-air
+Append: [Rakuten: Get 15x Back On Lululemon, Dell, Hyatt & IHG Bookings and more](https://www.doctorofcredit.com/rakuten-get-15x-back-on-lululemon-dell-hyatt-ihg-bookings-and-more/)
+append_entries: 1
+Finish: 2025-12-01 04:42:28.328851
+Wrote digest feed: docs/doctorofcredit-digest.xml
