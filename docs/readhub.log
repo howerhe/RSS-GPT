@@ -4964,3 +4964,17 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-01 22:10:53.144551
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 23:12:01.872157
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [荷兰和乌克兰将联合生产无人机](https://readhub.cn/topic/8okG7JaHTin)
+Append: [詹南德里亚卸任苹果 AI 战略负责人，微软前高管接棒](https://readhub.cn/topic/8okQvgYLdbN)
+Append: [国家安全机关提示：警惕境外组织利用恶意 SDK 收集敏感信息](https://readhub.cn/topic/8okSG5Rwf1R)
+Append: [我国船用吊舱推进器突破国际技术壁垒：实现 100% 国产化，性能比肩国际先进水平](https://readhub.cn/topic/8ojNolx7rOy)
+Append: [哥伦比亚总统宣布恢复与委内瑞拉民用航空服务](https://readhub.cn/topic/8okPRCfRNfn)
+Append: [中长期美债收益率涨约 8 个基点](https://readhub.cn/topic/8ok40wt6kja)
+Append: [美股三大指数集体收跌 加密货币概念股跌幅居前](https://readhub.cn/topic/8okKTrOORut)
+append_entries: 7
+Finish: 2025-12-01 23:12:04.006115
+Wrote digest feed: docs/readhub-digest.xml

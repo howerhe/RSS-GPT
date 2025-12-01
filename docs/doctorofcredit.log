@@ -2957,3 +2957,28 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-01 22:11:03.920411
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 23:12:14.514993
+Existing_entries: 254
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 127
+Summarized using glm-4.5-air
+Append: [PayPal: 15% Off Chipotle, 20% Off Fandango Giftcards](https://www.doctorofcredit.com/paypal-15-off-chipotle-20-off-fandango-giftcards/)
+Token length: 2548
+Summarized using glm-4.5-air
+Append: [GrubHub/Seamless Promo Codes: 30% Off Groceries, Up To $30 (Limit 3)](https://www.doctorofcredit.com/grubhub-seamless-promo-codes/)
+Token length: 1074
+Summarized using glm-4.5-air
+Append: [Discover Card: 15-20% Discount When Redeeming Rewards For Giftcards (Apple, Chipotle, Lowe’s & More)](https://www.doctorofcredit.com/discover-25-bonus-20-discount-when-redeeming-rewards-for-giftcards-lowes-chipotle-more/)
+Token length: 368
+Summarized using glm-4.5-air
+Append: [Chase Ultimate Rewards: 70% Transfer Bonus To IHG (1:1.7)](https://www.doctorofcredit.com/chase-ultimate-rewards-70-transfer-bonus-to-ihg-11-7/)
+Token length: 294
+Summarized using glm-4.5-air
+Append: [Southwest: Up To 50% Off Base Fares With Promo Code 50CYBER](https://www.doctorofcredit.com/southwest-up-to-50-off-base-fares-with-promo-code-50cyber/)
+Token length: 275
+Summarized using glm-4.5-air
+Append: [Giftcardgranny.com: $100 Digital Visa Card For $95.95 (Limit 1)](https://www.doctorofcredit.com/giftcardgranny-com-100-digital-visa-card-for-95-95-limit-1/)
+append_entries: 6
+Finish: 2025-12-01 23:12:44.779403
+Wrote digest feed: docs/doctorofcredit-digest.xml
