@@ -2741,3 +2741,16 @@ Append: [Dollar General: Save 15% On Giftcards For PlayStation, GameStop & More]
 append_entries: 4
 Finish: 2025-11-30 23:11:30.901630
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 01:07:56.200036
+Existing_entries: 231
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 475
+Summarized using glm-4.5-air
+Append: [Capital One Offers: Target, Walgreens, Staples & More](https://www.doctorofcredit.com/capital-one-offers-target-walgreens-staples-more/)
+Token length: 587
+Summarized using glm-4.5-air
+Append: [Mesa To Add Omni Hotels As Transfer Partner?](https://www.doctorofcredit.com/mesa-to-add-omni-hotels-as-transfer-partner/)
+append_entries: 2
+Finish: 2025-12-01 01:08:05.291665
+Wrote digest feed: docs/doctorofcredit-digest.xml
