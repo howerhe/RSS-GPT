@@ -2917,3 +2917,13 @@ Append: [Chase Offers: T-Mobile/Verizon $50 Off $50 (2 Payments Required)](https
 append_entries: 4
 Finish: 2025-12-01 18:21:22.804805
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 19:15:17.629114
+Existing_entries: 250
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1447
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save On IKEA, Amtrak, CVS and Dozens More](https://www.doctorofcredit.com/giftcards-com-save-on-ikea-amtrak-cvs-and-dozens-more/)
+append_entries: 1
+Finish: 2025-12-01 19:15:22.901403
+Wrote digest feed: docs/doctorofcredit-digest.xml

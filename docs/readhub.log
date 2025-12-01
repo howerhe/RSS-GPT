@@ -4933,3 +4933,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-01 18:20:32.404208
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 19:15:05.427692
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [Jane Street 和城堡证券全年交易业务收入迈向历史新高](https://readhub.cn/topic/8ok90grye75)
+append_entries: 1
+Finish: 2025-12-01 19:15:07.222922
+Wrote digest feed: docs/readhub-digest.xml
