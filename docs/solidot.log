@@ -2411,3 +2411,10 @@ Append: [Linux Kernel 6.18 释出](https://www.solidot.org/story?sid=82927)
 append_entries: 6
 Finish: 2025-12-01 11:11:35.488417
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 12:24:46.482651
+Existing_entries: 187
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-01 12:24:48.263713
+Wrote digest feed: docs/solidot-digest.xml
