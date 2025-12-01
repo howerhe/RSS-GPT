@@ -2927,3 +2927,16 @@ Append: [Giftcards.com: Save On IKEA, Amtrak, CVS and Dozens More](https://www.d
 append_entries: 1
 Finish: 2025-12-01 19:15:22.901403
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 20:13:29.648170
+Existing_entries: 251
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 322
+Summarized using glm-4.5-air
+Append: [AmEx Offers: Get 10% Off CVS (Max $10 Back)](https://www.doctorofcredit.com/amex-offers-get-10-off-cvs-max-10-back/)
+Token length: 375
+Summarized using glm-4.5-air
+Append: [AmEx Offers: Save On Visible, Total Wireless, Tracfone, Straight Talk (E.g. $15 Off $15)](https://www.doctorofcredit.com/amex-offers-save-on-visible-total-wireless-tracfone-straight-talk-e-g-15-off-15/)
+append_entries: 2
+Finish: 2025-12-01 20:13:42.229811
+Wrote digest feed: docs/doctorofcredit-digest.xml
