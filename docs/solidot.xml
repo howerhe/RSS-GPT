@@ -4,6 +4,78 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>韩国电商巨头逾 3000 万用户账户泄漏</title>
+<link>https://www.solidot.org/story?sid=82932</link>
+<guid>https://www.solidot.org/story?sid=82932</guid>
+<content:encoded><![CDATA[
+
+韩国电商巨头酷澎发生了 3000 余万个用户账号信息遭泄事件。遭泄的个人信息包含用户姓名、电子邮箱、电话号码、地址，甚至包含部分订购记录。根据韩国 《个人信息保护法》，若企业违反相关法律，可以被处以最多相当于销售额 3% 的罚款。酷澎今年前三季度累计销售额为 36.3 万亿韩元。若从中减去与个人信息泄露案关联度不高的业务部门业绩等，销售额为 31 万亿韩元。若再将其折算为年销售额，罚款或达 1.2 万亿韩元。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 17:32:10 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 17:32:10 +0800</pubDate>
+</item>
+<item>
+<title>SmartTube 官方 APK 文件被植入恶意程序</title>
+<link>https://www.solidot.org/story?sid=82931</link>
+<guid>https://www.solidot.org/story?sid=82931</guid>
+<content:encoded><![CDATA[
+
+SmartTube 开发者上周宣布数字签名泄漏，他发布了使用新签名的新版本应用，督促用户切换到新版本。SmartTube 是 Android TV 和 Fire TV 设备上 YouTube 应用的流行替代。开发者透露，他用于构建官方 APK 文件的计算机遭到入侵，导致部分 APK 版本植入了恶意程序。暂时不清楚哪个版本的 APK 最早包含了恶意程序。APKMirror 上的 SmartTube v30.43 和 30.47 都被标记为感染恶意程序。开发者表示，所有旧版本 SmartTube  都已经从项目的 GitHub 库中移除，感染恶意程序的计算机也进行了处理，旧数字签名被弃用。SmartTube v30.56 是使用新签名在干净计算机上构建的首个版本。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 16:40:30 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 16:40:30 +0800</pubDate>
+</item>
+<item>
+<title>日本多家新闻社要求 Perplexity 停止使用其新闻稿</title>
+<link>https://www.solidot.org/story?sid=82930</link>
+<guid>https://www.solidot.org/story?sid=82930</guid>
+<content:encoded><![CDATA[
+
+日本共同社、每日新闻社与产经新闻社周一向 AI 搜索公司 Perplexity 发送抗议书，以该公司擅自使用新闻机构发布的新闻稿、侵犯著作权为由，要求立即停止使用。在这之前，读卖新闻、朝日新闻社和日本经济新闻社也都提出了类似的要求和诉讼。共同社在抗议书中指出，确认到自 2024 年 8 月起的约 1 年里，Perplexity 合计数十万次访问刊登共同社与加盟报社稿件的新闻网站“47NEWS”。抗议书强调，Perplexity 未获许可即收集和复制新闻内容，并用于生成回答，侵犯了著作权。抗议书还指出，Perplexity 回答所显示的参考来源是共同社新闻稿，但给出的回答却是与稿件内容不同的虚假信息，损害了共同社新闻产品的信誉和品牌价值。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 16:00:48 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 16:00:48 +0800</pubDate>
+</item>
+<item>
+<title>因发射事故俄罗斯失去了唯一一个载人飞船发射场</title>
+<link>https://www.solidot.org/story?sid=82929</link>
+<guid>https://www.solidot.org/story?sid=82929</guid>
+<content:encoded><![CDATA[
+
+11 月 27 日俄罗斯在拜科努尔航天发射场成功发射了联盟号 MS-28 载人飞船。但 31/6 发射台下的移动维护舱却因为火箭尾焰从高空倒扣坠落而严重受损，在修复前发射台将无法使用，至于修复时间专家估计从几个月到三年。拜科努尔航天发射场是目前俄罗斯唯一能向国际空间站发射联盟号载人飞船和进步号无人货船的发射场地，而无人货船 MS-33 原计划于 12 月 21 日发射。俄罗斯还有其它发射场，但它们或者位于不适合的维度如 Plesetsk 发射场，或者没有获得载人飞行认证如东方发射场，或者已经退役移交给博物馆如拜科努尔的加加林发射台。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 15:45:12 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 15:45:12 +0800</pubDate>
+</item>
+<item>
+<title>NixOS 25.11 释出</title>
+<link>https://www.solidot.org/story?sid=82928</link>
+<guid>https://www.solidot.org/story?sid=82928</guid>
+<content:encoded><![CDATA[
+
+基于 Nix 包管理器的发行版 NixOS 释出了代号为 Xantusia 的 NixOS 25.11。主要新特性包括：不依赖 bash 基于 Rust 的初始化系统 nixos-init；COSMIC 桌面环境的 beta 版本；FirewallD 支持；GNOME 49，移除 X11 会话支持，用户仍然可以通过 XWayland 运行 X11 应用；Papers 文档查看器取代 Evince；Showtime 播放器现取代 Totem；nixos-rebuild-ng 默认启用；Syncthing 2.0.0；LLVM 21 等等。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 14:44:23 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 14:44:23 +0800</pubDate>
+</item>
+<item>
+<title>Linux Kernel 6.18 释出</title>
+<link>https://www.solidot.org/story?sid=82927</link>
+<guid>https://www.solidot.org/story?sid=82927</guid>
+<content:encoded><![CDATA[
+
+Linus Torvalds 在内核邮件列表上宣布释出 Linux Kernel 6.18。主要新特性包括：移除 Bcachefs 文件系统，Rust Binder 驱动，支持用文件句柄管理命名空间，支持 AccECN 拥塞控制协议，初步支持 BPF 程序签名，用 sheaves 改进内存管理，更好的控制透明大页等等。更多可浏览 KernelNewbies 6.18。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 13:48:08 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 13:48:08 +0800</pubDate>
+</item>
 
 <item>
 <title>Reddit 评论后端从 Python 迁移到 Go Microservice</title>
