@@ -2432,3 +2432,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-01 14:13:36.729218
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 15:13:21.419152
+Existing_entries: 187
+Fetching from https://www.solidot.org/index.rss
+Append: [树莓派因为内存价格飙升而涨价](https://www.solidot.org/story?sid=82935)
+Append: [吸血章鱼揭示章鱼的起源](https://www.solidot.org/story?sid=82934)
+Append: [韩国电商巨头逾 3000 万用户账户泄漏](https://www.solidot.org/story?sid=82933)
+append_entries: 3
+Finish: 2025-12-01 15:13:23.080856
+Wrote digest feed: docs/solidot-digest.xml

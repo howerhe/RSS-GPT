@@ -2871,3 +2871,13 @@ Append: [Best Posts Last Week: Cyber Monday, 40-50% Off Amazon & More](https://w
 append_entries: 1
 Finish: 2025-12-01 14:13:57.346829
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 15:13:36.301748
+Existing_entries: 244
+Fetching from https://www.doctorofcredit.com/feed/
+Summarization failed, append the original article
+error: 400 Client Error: Bad Request for url: https://open.bigmodel.cn/api/paas/v4/chat/completions
+Append: [Shopback: $105 Moneymaker With ExpressVPN Signup at 150% Back (30-Day Money Back Guarantee)(Today Only, 12/1)](https://www.doctorofcredit.com/shopback-105-moneymaker-with-expressvpn-signup-at-150-back-30-day-money-back-guaranteetoday-only-12-1/)
+append_entries: 1
+Finish: 2025-12-01 15:13:38.494144
+Wrote digest feed: docs/doctorofcredit-digest.xml

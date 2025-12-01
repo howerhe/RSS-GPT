@@ -4889,3 +4889,19 @@ Append: [TCL 中环：高级管理人员变更，张长旭、杨帆履新](https
 append_entries: 12
 Finish: 2025-12-01 14:13:39.335620
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 15:13:24.000996
+Existing_entries: 1012
+Fetching from https://readhub.cn/rss
+Append: [探路者：拟以 3.21 亿元收购贝特莱 51% 股权](https://readhub.cn/topic/8ojbQROF7DO)
+Append: [美股开盘：三大指数集体低开，科技、加密货币板块领跌](https://readhub.cn/topic/8ojVhNriwwV)
+Append: [美国银行预计美联储将在 12 月降息](https://readhub.cn/topic/8ojgROZOURo)
+Append: [纳斯达克中国金龙指数盘初涨约 0.5%](https://readhub.cn/topic/8ojsc14RpYv)
+Append: [纳斯达克中国金龙指数盘初涨约 0.5%](https://readhub.cn/topic/8ojtFf0luuW)
+Append: [波罗的海干散货运价指数创近两年新高，因海岬型船需求强劲](https://readhub.cn/topic/8ojmEx3ujK9)
+Append: [Strategy 宣布建立股息和利息准备金，以缓解市场对其可能出售比特币的担忧](https://readhub.cn/topic/8ojoGKgKUyt)
+Append: [园林股份：拟购买华澜微 6.5% 股份，交易总金额合计 1.12 亿元](https://readhub.cn/topic/8ojqW3Ofdev)
+Append: [空客曝出 A320 机身面板质量缺陷 已导致部分飞机交付延迟](https://readhub.cn/topic/8ojkfO2quSo)
+append_entries: 9
+Finish: 2025-12-01 15:13:26.175696
+Wrote digest feed: docs/readhub-digest.xml
