@@ -2794,3 +2794,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-01 06:20:41.600303
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 07:16:28.405958
+Existing_entries: 237
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2584
+Summarized using glm-4.5-air
+Append: [Chase United Cardholders: Up To 28% Off Award Flights](https://www.doctorofcredit.com/chase-united-cardholders-up-to-28-off-award-flights/)
+Token length: 1113
+Summarized using glm-4.5-air
+Append: [Rakuten: 100% Cashback On Surfshark](https://www.doctorofcredit.com/topcashback-108-cashback-on-surfshark/)
+append_entries: 2
+Finish: 2025-12-01 07:16:44.741291
+Wrote digest feed: docs/doctorofcredit-digest.xml
