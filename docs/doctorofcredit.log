@@ -2754,3 +2754,19 @@ Append: [Mesa To Add Omni Hotels As Transfer Partner?](https://www.doctorofcredi
 append_entries: 2
 Finish: 2025-12-01 01:08:05.291665
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 03:43:50.679487
+Existing_entries: 233
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 397
+Summarized using glm-4.5-air
+Append: [(YMMV) Capital One Shopping: Spend $250+ On Travel, Get $250 Back](https://www.doctorofcredit.com/ymmv-capital-one-shopping-spend-250-on-travel-get-250-back/)
+Token length: 2513
+Summarized using glm-4.5-air
+Append: [[CO, WY, In Branch] Blue Federal Credit Union $500 Checking Bonus](https://www.doctorofcredit.com/co-wy-blue-federal-credit-union-200-checking-bonus/)
+Token length: 747
+Summarized using glm-4.5-air
+Append: [[WI, IL] Landmark Credit Union $500 Business Credit Card Offer](https://www.doctorofcredit.com/wi-il-landmark-credit-union-500-business-credit-card-offer/)
+append_entries: 3
+Finish: 2025-12-01 03:44:11.839146
+Wrote digest feed: docs/doctorofcredit-digest.xml

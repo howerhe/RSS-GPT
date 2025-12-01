@@ -4,6 +4,54 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>Reddit 评论后端从 Python 迁移到 Go Microservice</title>
+<link>https://www.solidot.org/story?sid=82926</link>
+<guid>https://www.solidot.org/story?sid=82926</guid>
+<content:encoded><![CDATA[
+
+Reddit 完成了将评论后端从 Python 迁移到 Go Microservice 的工作。此举旨在改进性能和可靠性。Reddit 是全世界访问量第七大的网站，是集社交新闻和论坛性质于一身的社交媒体。Reddit 团队称，新架构简化了评论系统的依赖链，同时维持了下游系统的完整事件交付保证。迁移到域特定微服务架构也为平台进一步分解其它核心服务奠定了基础。Reddit 高级软件工程师 Katie Shannon 称，相比旧的 Python 系统，关键写操作、创建、更新和递增端点的延迟降低了一半，之前的系统延迟曾最高达 15 秒。
+<p></p>
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 00:02:59 +0800</pubDate>
+<pubDate>Mon, 01 Dec 2025 00:02:59 +0800</pubDate>
+</item>
+<item>
+<title>挪威财富基金支持要求微软披露低人权国家业务风险提案</title>
+<link>https://www.solidot.org/story?sid=82925</link>
+<guid>https://www.solidot.org/story?sid=82925</guid>
+<content:encoded><![CDATA[
+
+挪威主权财富基金宣布将在微软年度股东大会上支持一项股东提案。该提案要求微软提交一份关于在低人权国家开展业务的风险报告。微软管理层对该提案表达了反对立场。挪威主权财富基金还反对再次任命 CEO Satya Nadella 为董事会主席及其薪酬方案。挪威主权财富基金规模高达 2 万亿美元，持有的微软股份价值 500 亿美元，仅次于该基金持有的英伟达股份价值。它是微软的第八大股东。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 30 Nov 2025 23:16:32 +0800</pubDate>
+<pubDate>Sun, 30 Nov 2025 23:16:32 +0800</pubDate>
+</item>
+<item>
+<title>争夺非洲 IPv4 地址之战</title>
+<link>https://www.solidot.org/story?sid=82924</link>
+<guid>https://www.solidot.org/story?sid=82924</guid>
+<content:encoded><![CDATA[
+
+Lu Heng 生长于浙江宁波的渔村石浦，从小就接触网络。大学期间卖过《魔兽世界》的点卡（time cards），在荷兰居住期间创办了一家提供互联网服务的公司。他在 20 多岁时产生了一个能让他暴富的想法：收购非洲数百万未使用的 IPv4 地址，然后高价出租给非洲之外急需 IPv4 地址的公司。IPv4 地址在世界其它地方已经供不应求，从 IPv4 到 IPv6 的转变也没有预计的顺利，半数互联网流量仍然使用 IPv4，而非洲是唯一一个仍然有足够 IPv4 地址可供分配的大陆。2013 年 Lu 在非洲岛国塞舌尔注册了一家公司 Cloud Innovation，向 African Network Information Centre（Afrinic）申请 IP 地址。Afrinic 在 2013-2016 年间向 Cloud Innovation 分配了 620 万 IPv4 地址，比非洲人口最多的尼日利亚拥有的 IPv4 地址还要多。Cloud Innovation 将其拥有的 IPv4 地址转让给 Lu 在香港创办的公司如 Larus，再由 Larus 将地址出租给其它公司使用。Lu 声称他的关联公司控制着逾千万 IPv4 地址。互联网的设计者可能没有预想到会有人将 IP 地址货币化。Lu 的行为引发了争议和冲突。African 在 2020 年要求收回地址，称这些地址不应该在非洲之外使用。为了保住其持有的地址，Lu 在毛里求斯起诉了 Afrinic。当地法院于 2021 年 7 月冻结了 Afrinic 的银行账户，导致该机构瘫痪，破坏了该机构继续分配新 IPv4 地址的能力。Lu 还通过大量诉讼试图压制对他的批评，声称这些批评损害了他的声誉。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 30 Nov 2025 22:25:50 +0800</pubDate>
+<pubDate>Sun, 30 Nov 2025 22:25:50 +0800</pubDate>
+</item>
+<item>
+<title>高污染环境下锻炼的效果较低</title>
+<link>https://www.solidot.org/story?sid=82923</link>
+<guid>https://www.solidot.org/story?sid=82923</guid>
+<content:encoded><![CDATA[
+
+锻炼有益健康，但如果是在高污染环境下锻炼那么效果将会大打折扣。研究人员分析了英国、台湾、中国、丹麦和美国等地区十余年收集的逾 150 万成年人的健康数据。研究人员发现，每周进行至少两个半小时运动如慢跑的成年人，研究期间的死亡风险比运动量少的人低 30%。但在 PM2.5 水平超过 25 μg/m³ 的地区，运动的保护作用下降至 12%-15%。在污染更严重的地区如 PM2.5 水平超过 35 μg/m³，运动的保护作用进一步减弱。研究人员指出他们的研究数据主要来自高收入国家，如果在 PM2.5 水平超过 50 μg/m³ 的低收入国家，影响可能更为显著。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 29 Nov 2025 23:41:54 +0800</pubDate>
+<pubDate>Sat, 29 Nov 2025 23:41:54 +0800</pubDate>
+</item>
 
 <item>
 <title>天文学家观测到红矮星的日冕物质抛射</title>

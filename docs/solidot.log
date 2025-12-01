@@ -2338,3 +2338,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-01 01:07:44.296394
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 03:43:37.319607
+Existing_entries: 177
+Fetching from https://www.solidot.org/index.rss
+Append: [Reddit 评论后端从 Python 迁移到 Go Microservice](https://www.solidot.org/story?sid=82926)
+Append: [挪威财富基金支持要求微软披露低人权国家业务风险提案](https://www.solidot.org/story?sid=82925)
+Append: [争夺非洲 IPv4 地址之战](https://www.solidot.org/story?sid=82924)
+Append: [高污染环境下锻炼的效果较低](https://www.solidot.org/story?sid=82923)
+append_entries: 4
+Finish: 2025-12-01 03:43:38.625888
+Wrote digest feed: docs/solidot-digest.xml
