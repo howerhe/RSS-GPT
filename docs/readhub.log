@@ -4918,3 +4918,11 @@ Append: [我国科学家全面模拟火星沙尘循环](https://readhub.cn/topic
 append_entries: 6
 Finish: 2025-12-01 16:17:22.677765
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-01 17:14:25.889305
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [滴滴自动驾驶在广州试运行全天候、全无人 Robotaxi 服务](https://readhub.cn/topic/8ojgOa6trsz)
+append_entries: 1
+Finish: 2025-12-01 17:14:28.102647
+Wrote digest feed: docs/readhub-digest.xml
