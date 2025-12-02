@@ -3165,3 +3165,16 @@ Append: [Frontier: 100% Off Roundtrip Base Fares (Tues, Wed, Sat Travel, 50% Oth
 append_entries: 4
 Finish: 2025-12-02 21:12:41.744507
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 22:11:43.797379
+Existing_entries: 272
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 613
+Summarized using glm-4.5-air
+Append: [T-Life (T-Mobile Tuesday): 7-Eleven, Popeyes, Little Caesars & More](https://www.doctorofcredit.com/t-life-t-mobile-tuesday-7-eleven-popeyes-little-caesars-more/)
+Token length: 3563
+Summarized using glm-4.5-air
+Append: [Massive WeBull Referrer Bonus – up to $5,000 (No Referral Sharing)](https://www.doctorofcredit.com/massive-webull-referrer-bonus-up-to-5000-no-referral-sharing/)
+append_entries: 2
+Finish: 2025-12-02 22:12:01.427238
+Wrote digest feed: docs/doctorofcredit-digest.xml

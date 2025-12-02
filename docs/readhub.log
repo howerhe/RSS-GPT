@@ -5356,3 +5356,10 @@ Append: [法国 Mistral AI 针对英伟达系统发布新款定制 AI 模型](ht
 append_entries: 1
 Finish: 2025-12-02 21:12:11.393985
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 22:11:30.847885
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-02 22:11:32.417632
+Wrote digest feed: docs/readhub-digest.xml
