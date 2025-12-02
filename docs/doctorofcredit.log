@@ -3041,3 +3041,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-02 08:18:49.560926
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 09:18:14.761685
+Existing_entries: 261
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-02 09:18:15.117000
+Wrote digest feed: docs/doctorofcredit-digest.xml
