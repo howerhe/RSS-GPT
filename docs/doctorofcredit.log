@@ -3106,3 +3106,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-02 16:17:10.797549
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 17:16:21.228610
+Existing_entries: 264
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 805
+Summarized using glm-4.5-air
+Append: [Check Instacart For Discount Offers](https://www.doctorofcredit.com/check-instacart-for-discount-offers/)
+Token length: 173
+Summarized using glm-4.5-air
+Append: [Smoothie King: Free 12 oz Holiday Pecan Delight (12/2 Only)](https://www.doctorofcredit.com/smoothie-king-free-12-oz-holiday-pecan-delight-12-2-only/)
+append_entries: 2
+Finish: 2025-12-02 17:16:28.186693
+Wrote digest feed: docs/doctorofcredit-digest.xml
