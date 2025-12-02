@@ -3069,3 +3069,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-02 12:26:02.855489
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 13:31:15.712209
+Existing_entries: 261
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1639
+Summarized using glm-4.5-air
+Append: [Get 5 Months Free Uber One Membership When Switching Payment Method in UberEATS](https://www.doctorofcredit.com/get-5-months-free-uber-one-membership-when-switching-payment-method-in-ubereats/)
+append_entries: 1
+Finish: 2025-12-02 13:31:23.764819
+Wrote digest feed: docs/doctorofcredit-digest.xml
