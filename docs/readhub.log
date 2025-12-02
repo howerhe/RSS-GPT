@@ -5324,3 +5324,10 @@ Append: [亚马逊急推最新 AI 芯片，挑战英伟达和谷歌](https://rea
 append_entries: 4
 Finish: 2025-12-02 17:16:10.233781
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 18:19:54.969792
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-02 18:19:56.543499
+Wrote digest feed: docs/readhub-digest.xml
