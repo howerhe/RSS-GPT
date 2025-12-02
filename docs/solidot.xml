@@ -4,6 +4,90 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>2025 年牛津年度单词是 Rage bait</title>
+<link>https://www.solidot.org/story?sid=82944</link>
+<guid>https://www.solidot.org/story?sid=82944</guid>
+<content:encoded><![CDATA[
+
+牛津大学出版社的 2025 年年度单词是 Rage bait。Rage bait 意思是愤怒诱饵，它和去年的年度单词 brain rot（脑腐）一起提醒我们，在算法时代，情绪已成为最被操弄的资源。Rage bait 专指那些刻意让人愤怒、挫折或感到冒犯，以拉高点击率或社群互动的网络内容，例如在网络上故意激怒你，只为了让你多按个怒的表情符号、骂两句、再分享出去，让算法把愤怒推得更远。根据牛津语料库资料，rage bait 在过去 12 个月内的使用频率增加三倍，成为媒体与社群平台经常提到的词。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 17:51:39 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 17:51:39 +0800</pubDate>
+</item>
+<item>
+<title>华为过去几年申请的 GPU 专利超过英伟达</title>
+<link>https://www.solidot.org/story?sid=82943</link>
+<guid>https://www.solidot.org/story?sid=82943</guid>
+<content:encoded><![CDATA[
+
+华为的 GPU 相关专利申请量正在增加。截至 2023 年的 5 年里，申请数量增加到了原来的 10 倍，超过了美国英伟达和英特尔的申请量。这反映出华为正在大力开发 AI 相关技术。从包含 GPU 这一关键词的专利来看，最近几年三星电子与华为的申请量激增。2023 年华为的申请量为 3091 项，增加到了 2018 年的约 10 倍。2023 年的申请量相当于英特尔的 3 倍、英伟达的 5 倍。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 16:15:00 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 16:15:00 +0800</pubDate>
+</item>
+<item>
+<title>新加坡禁止中学生在校期间使用智能手机</title>
+<link>https://www.solidot.org/story?sid=82942</link>
+<guid>https://www.solidot.org/story?sid=82942</guid>
+<content:encoded><![CDATA[
+
+新加坡教育部宣布，明年 1 月起，所有中学生在学校时，包括上课、课间休息，以及课后进行课程辅助活动、增益课或补课等，都不得使用智能手机和手表。学生在校时须把智能手机和手表放入储物柜或书包等指定存放空间；若有必要，学校会允许学生使用智能手机。新教育部称，此举旨在鼓励学生培养良好数码习惯，下课后与同学进行有意义的互动交流，以及培养健康生活方式。新加坡之前已经不允许小学生在校使用智能手机或手表，他们在学校必须把这些配备放在书包或指定存放空间，包括课间休息，及下课后进行学习项目的时候。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 15:57:23 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 15:57:23 +0800</pubDate>
+</item>
+<item>
+<title>Steam 用户中 Linux 比例达到 3.20%</title>
+<link>https://www.solidot.org/story?sid=82941</link>
+<guid>https://www.solidot.org/story?sid=82941</guid>
+<content:encoded><![CDATA[
+
+掌机 Steam Deck 的流行以及基于 Arch Linux 的发行版 SteamOS 的成功推动 Linux 用户比例达到 3.20%。根据 Valve 公布的 2025 年 11 月 Steam 硬件和软件调查，玩家运行的操作系统中 Linux 比例达到 3.20%（+0.15%），Windows 占 94.79%（-0.05%），OSX 占 2.02%（-0.09%），其中在 Windows 10 停止支持后 Windows 11 比例达到了 65.59%（+2.02%），Windows 10 降至三成以内占 29.06%（-2.08%）。在 Windows 平台，英特尔 CPU 占 57.30%（-0.52%），AMD 占 42.61%（+0.52%）。对于用户使用的语言，简体中文占 24.93%（+0.92%），英文占 37.37%（-0.59%）。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 15:47:20 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 15:47:20 +0800</pubDate>
+</item>
+<item>
+<title>Let’s Encrypt 到 2028 年将证书有效期缩短至 45 天</title>
+<link>https://www.solidot.org/story?sid=82940</link>
+<guid>https://www.solidot.org/story?sid=82940</guid>
+<content:encoded><![CDATA[
+
+Let’s Encrypt 宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守今年早些时候 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。决议要求到 2026 年 3 月 15 日 TLS 证书最长有效期将缩短至 200 天；到 2027 年 3 月 15 日 TLS 证书最长有效期将缩短至 100 天；2029 年 3 月 15 日 TLS 证书最长有效期将缩短至 47 天。Let’s Encrypt 还将缩短验证域名控制权后允许为该域名签发证书的时间间隔，从目前的 30 天缩短至 7 小时。为减少对用户的影响，新的变更将分阶段实施：2026 年 5 月 13 日可选配置有效期 45 天，2027 年 2 月 10 日默认配置有效期 64 天，2028 年 2 月 16 日有效期进一步缩短为 45 天。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 15:15:07 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 15:15:07 +0800</pubDate>
+</item>
+<item>
+<title>印度要求智能手机预装政府的网络安全应用</title>
+<link>https://www.solidot.org/story?sid=82939</link>
+<guid>https://www.solidot.org/story?sid=82939</guid>
+<content:encoded><![CDATA[
+
+印度电信部要求智能手机制造商在手机上预装用户无法禁用的政府网络安全应用 Sanchar Saathi。该命令是于 11 月 28 日下达给手机制造商的，要求在 90 天内完成。该命令没有公开发布，而是通过私下下达给智能手机制造商。苹果、三星、vivo、OPPO 和小米等都受到新命令的约束。印度电信部还要求对于现有手机，制造商需要通过软件更新将该应用推送给用户。印度是全球最大的手机市场之一，有逾 12 亿用户。Sanchar Saathi 于 1 月推出，政府声称该应用帮助找回了逾 70 万部丢失的手机。印度此举可能会激怒苹果公司和隐私倡导者。苹果公司通常会拒绝此类请求，Counterpoint Research 研究总监 Tarun Pathak 称，苹果可能会寻求折衷方案：与其强制预装，不如协商要求提供一个选项，引导用户安装该应用。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 14:09:10 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 14:09:10 +0800</pubDate>
+</item>
+<item>
+<title>澳大利亚社会试验青少年不使用社媒的后果</title>
+<link>https://www.solidot.org/story?sid=82938</link>
+<guid>https://www.solidot.org/story?sid=82938</guid>
+<content:encoded><![CDATA[
+
+2025 年 12 月 10 日，澳大利亚禁止 16 岁以下青少年使用社媒的禁令将正式生效，从这一天开始，社媒平台如  Snapchat、Facebook、Instagram、Kick、Reddit、Threads、TikTok、Twitch、X 和 YouTube 都必须采取措施移除未成年人账户，禁止未成年人注册，违反者将面临最高 4950 万澳元的罚款。Meta 表示将从 12 月 4 日起 Facebook、Instagram 和 Threads 关闭旧账户屏蔽新注册账户。Meta 鼓励 16 岁以下用户下载自己的内容。Snap 表示用户可停用账户最多三年，或者直至年满 16 岁。世界各国正在关注澳大利亚的这一社会试验，丹麦和马来西亚等国都宣布了类似计划。根据 CNN 的报告，很多澳大利亚学生并不知道即将生效的禁令，他们想知道 16 岁之后账户是否能恢复，或者谎报年龄会发生什么。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Dec 2025 13:44:39 +0800</pubDate>
+<pubDate>Tue, 02 Dec 2025 13:44:39 +0800</pubDate>
+</item>
 
 <item>
 <title>汽车轮胎是海洋微塑料的最大单一来源</title>

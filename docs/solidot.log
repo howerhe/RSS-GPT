@@ -2563,3 +2563,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-02 09:18:03.130722
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 10:14:25.992421
+Existing_entries: 192
+Fetching from https://www.solidot.org/index.rss
+Append: [2025 年牛津年度单词是 Rage bait](https://www.solidot.org/story?sid=82944)
+Append: [华为过去几年申请的 GPU 专利超过英伟达](https://www.solidot.org/story?sid=82943)
+Append: [新加坡禁止中学生在校期间使用智能手机](https://www.solidot.org/story?sid=82942)
+Append: [Steam 用户中 Linux 比例达到 3.20%](https://www.solidot.org/story?sid=82941)
+Append: [Let’s Encrypt 到 2028 年将证书有效期缩短至 45 天](https://www.solidot.org/story?sid=82940)
+Append: [印度要求智能手机预装政府的网络安全应用](https://www.solidot.org/story?sid=82939)
+Append: [澳大利亚社会试验青少年不使用社媒的后果](https://www.solidot.org/story?sid=82938)
+append_entries: 7
+Finish: 2025-12-02 10:14:28.366140
+Wrote digest feed: docs/solidot-digest.xml
