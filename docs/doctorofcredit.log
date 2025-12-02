@@ -3146,3 +3146,22 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-02 20:14:58.847218
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 21:12:22.531773
+Existing_entries: 268
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1674
+Summarized using glm-4.5-air
+Append: [Current $175 Referral Checking Bonus + Portal](https://www.doctorofcredit.com/current-150-referral-checking-bonus-portal/)
+Token length: 384
+Summarized using glm-4.5-air
+Append: [Spirit Airlines: 60% Off Base Fares (Tue/Wed/Sat Only)](https://www.doctorofcredit.com/spirit-airlines-60-off-base-fares-tue-wed-sat-only/)
+Token length: 552
+Summarized using glm-4.5-air
+Append: [JetBlue: 35% Off Base Fares With Promo Code SAVE35](https://www.doctorofcredit.com/jetblue-35-off-base-fares-with-promo-code-save35/)
+Token length: 533
+Summarized using glm-4.5-air
+Append: [Frontier: 100% Off Roundtrip Base Fares (Tues, Wed, Sat Travel, 50% Other Days)](https://www.doctorofcredit.com/frontier-100-off-roundtrip-base-fares-tues-wed-sat-travel-50-other-days/)
+append_entries: 4
+Finish: 2025-12-02 21:12:41.744507
+Wrote digest feed: docs/doctorofcredit-digest.xml

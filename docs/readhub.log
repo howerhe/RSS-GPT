@@ -5348,3 +5348,11 @@ Append: [OpenAI 正开发大语言模型 Garlic](https://readhub.cn/topic/8olaIE
 append_entries: 3
 Finish: 2025-12-02 20:14:47.485859
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 21:12:09.723711
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [法国 Mistral AI 针对英伟达系统发布新款定制 AI 模型](https://readhub.cn/topic/8olnDiqNsuf)
+append_entries: 1
+Finish: 2025-12-02 21:12:11.393985
+Wrote digest feed: docs/readhub-digest.xml
