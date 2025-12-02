@@ -2992,3 +2992,10 @@ Append: [Breeze Airways: Up To 60% Off Base Price With Promo Code CYBER](https:/
 append_entries: 1
 Finish: 2025-12-02 00:57:41.648984
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 02:45:40.354344
+Existing_entries: 261
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-02 02:45:40.598177
+Wrote digest feed: docs/doctorofcredit-digest.xml
