@@ -2982,3 +2982,13 @@ Append: [Giftcardgranny.com: $100 Digital Visa Card For $95.95 (Limit 1)](https:
 append_entries: 6
 Finish: 2025-12-01 23:12:44.779403
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 00:57:36.590000
+Existing_entries: 260
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 295
+Summarized using glm-4.5-air
+Append: [Breeze Airways: Up To 60% Off Base Price With Promo Code CYBER](https://www.doctorofcredit.com/breeze-airways-up-to-60-off-base-price-with-promo-code-cyber/)
+append_entries: 1
+Finish: 2025-12-02 00:57:41.648984
+Wrote digest feed: docs/doctorofcredit-digest.xml
