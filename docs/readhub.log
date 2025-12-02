@@ -5055,3 +5055,16 @@ Append: [国债期货多数走弱 30 年期主力合约跌幅扩大至 0.46%](ht
 append_entries: 20
 Finish: 2025-12-02 03:47:35.915405
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 04:22:32.669087
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [港股午评：恒生指数涨 0.11%，恒生科技指数跌 0.53%](https://readhub.cn/topic/8okoTsFtXyE)
+Append: [滨江集团 13.6 亿元底价竞得杭州滨江区宅地](https://readhub.cn/topic/8okihZomTKm)
+Append: [优必选与卓世科技计划 5 年内联合部署 1 万台机器人](https://readhub.cn/topic/8okcJ24yN74)
+Append: [我国卫生资源总量持续稳步增长](https://readhub.cn/topic/8okgZWI5TP8)
+Append: [国民技术港股 IPO 获中国证监会备案](https://readhub.cn/topic/8oknhpixJ8q)
+Append: [清微智能完成超 20 亿元 C 轮融资 已启动上市筹备工作](https://readhub.cn/topic/8okmJpvhaxG)
+append_entries: 6
+Finish: 2025-12-02 04:22:33.740232
+Wrote digest feed: docs/readhub-digest.xml
