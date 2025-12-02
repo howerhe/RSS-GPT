@@ -3099,3 +3099,10 @@ Append: [Chipotle: BOGO After 4PM On 12/6, 12/13 & 12/20](https://www.doctorofcr
 append_entries: 1
 Finish: 2025-12-02 15:14:37.601832
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 16:17:10.567863
+Existing_entries: 264
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-02 16:17:10.797549
+Wrote digest feed: docs/doctorofcredit-digest.xml

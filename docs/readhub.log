@@ -5302,3 +5302,14 @@ Append: [波音 CFO：预计明年 737 和 787 飞机交付量将增加](https:/
 append_entries: 11
 Finish: 2025-12-02 15:14:21.278143
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 16:16:57.847435
+Existing_entries: 1011
+Fetching from https://readhub.cn/rss
+Append: [美股开盘：三大指数集体高开，波音涨超 6%](https://readhub.cn/topic/8olY9EG13to)
+Append: [国家医保局：已有 27 省份，超九成统筹区全面实现生育津贴直接发放至个人](https://readhub.cn/topic/8okcJ56bE5k)
+Append: [沃尔玛投资 3.5 亿美元在美国建设第二家牛奶加工厂](https://readhub.cn/topic/8olbmIGMh0P)
+Append: [李想回应理想汽车入局智能眼镜行业：灵感来自钢铁侠](https://readhub.cn/topic/8olSS1Njqz4)
+append_entries: 4
+Finish: 2025-12-02 16:16:59.378687
+Wrote digest feed: docs/readhub-digest.xml
