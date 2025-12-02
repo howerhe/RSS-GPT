@@ -3079,3 +3079,13 @@ Append: [Get 5 Months Free Uber One Membership When Switching Payment Method in 
 append_entries: 1
 Finish: 2025-12-02 13:31:23.764819
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 14:14:35.482916
+Existing_entries: 262
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 209
+Summarized using glm-4.5-air
+Append: [Recap: GM Rewards Loophole, JetBlue 25 For 25 & More](https://www.doctorofcredit.com/recap-gm-rewards-loophole-jetblue-25-for-25-more/)
+append_entries: 1
+Finish: 2025-12-02 14:14:39.482979
+Wrote digest feed: docs/doctorofcredit-digest.xml
