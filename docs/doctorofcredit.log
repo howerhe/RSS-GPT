@@ -3139,3 +3139,10 @@ Append: [Southwest Shopping: Spend $200 & Get 1,000 Miles Bonus (12/1-12/26)](ht
 append_entries: 1
 Finish: 2025-12-02 19:13:38.345386
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 20:14:58.612731
+Existing_entries: 268
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-02 20:14:58.847218
+Wrote digest feed: docs/doctorofcredit-digest.xml

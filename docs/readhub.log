@@ -5338,3 +5338,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-02 19:13:23.781541
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 20:14:45.730536
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [上海网信办：已指导小红书、哔哩哔哩等网站平台自查清理涉唱衰楼市等违法违规和不良信息 4 万余条](https://readhub.cn/topic/8olOAMR3TEM)
+Append: [寒武纪在北京成立智算科技公司 注册资本 1 亿](https://readhub.cn/topic/8olBMLrE8Sr)
+Append: [OpenAI 正开发大语言模型 Garlic](https://readhub.cn/topic/8olaIEtX6RO)
+append_entries: 3
+Finish: 2025-12-02 20:14:47.485859
+Wrote digest feed: docs/readhub-digest.xml
