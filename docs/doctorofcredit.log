@@ -3129,3 +3129,13 @@ Append: [Synchrony Virgin Red – 75,000 Point Bonus](https://www.doctorofcredit
 append_entries: 1
 Finish: 2025-12-02 18:20:16.249024
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 19:13:34.975695
+Existing_entries: 267
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 182
+Summarized using glm-4.5-air
+Append: [Southwest Shopping: Spend $200 & Get 1,000 Miles Bonus (12/1-12/26)](https://www.doctorofcredit.com/southwest-shopping-spend-200-get-1000-miles-bonus-12-1-12-26/)
+append_entries: 1
+Finish: 2025-12-02 19:13:38.345386
+Wrote digest feed: docs/doctorofcredit-digest.xml

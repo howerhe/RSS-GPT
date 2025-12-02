@@ -5331,3 +5331,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-02 18:19:56.543499
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 19:13:22.539820
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-02 19:13:23.781541
+Wrote digest feed: docs/readhub-digest.xml
