@@ -5363,3 +5363,16 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-02 22:11:32.417632
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-02 23:11:41.461465
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [南非第三季度 GDP 同比增 2.1%，高于预期](https://readhub.cn/topic/8olC8E2NKCE)
+Append: [四嫌犯落网，珠宝下落不明：卢浮宫「世纪劫案」凸显安保隐忧](https://readhub.cn/topic/8oke6V7XR9v)
+Append: [我国科学家破解水稻高温感知机制 助力水稻稳产](https://readhub.cn/topic/8oldv5PeSKQ)
+Append: [在岸人民币兑美元与上一交易日夜盘收盘持平](https://readhub.cn/topic/8olrTgDzTKz)
+Append: [美股三大指数集体收涨](https://readhub.cn/topic/8olzQOl3q5B)
+Append: [WTI 1 月原油期货收跌超 1.14%，报 58.64 美元 / 桶](https://readhub.cn/topic/8olsyWmXLNe)
+append_entries: 6
+Finish: 2025-12-02 23:11:42.798360
+Wrote digest feed: docs/readhub-digest.xml
