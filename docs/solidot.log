@@ -2739,3 +2739,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-03 09:16:56.916708
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 10:14:34.046348
+Existing_entries: 207
+Fetching from https://www.solidot.org/index.rss
+Append: [AlphaFold 如何改变世界](https://www.solidot.org/story?sid=82954)
+Append: [日本商业字体公司被收购之后价格上涨逾 50 倍](https://www.solidot.org/story?sid=82953)
+append_entries: 2
+Finish: 2025-12-03 10:14:35.832518
+Wrote digest feed: docs/solidot-digest.xml
