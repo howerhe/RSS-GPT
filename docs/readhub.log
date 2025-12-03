@@ -5706,3 +5706,15 @@ Append: [Anthropic 拟数亿美元收购 Bun，Claude Code 将迎性能提速](h
 append_entries: 8
 Finish: 2025-12-03 15:14:39.807827
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 16:17:45.784030
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [横琴人寿：拟增资 18.52 亿元至 49.89 亿元](https://readhub.cn/topic/8on3ASberd9)
+Append: [EIA 官网疑似出现技术问题，原油周报未能按时公布](https://readhub.cn/topic/8onFyPMBXiN)
+Append: [微软：并未下调销售人员的销售配额或目标](https://readhub.cn/topic/8onHLDHl3Gr)
+Append: [美国天然气期货价格自 2022 年以来首次触及 5 美元](https://readhub.cn/topic/8onI3bSjS8b)
+Append: [沪锡涨 3.6% 升破 32 万元 / 吨 创 2022 年 4 月以来新高](https://readhub.cn/topic/8onAIiKbcDW)
+append_entries: 5
+Finish: 2025-12-03 16:17:47.118906
+Wrote digest feed: docs/readhub-digest.xml
