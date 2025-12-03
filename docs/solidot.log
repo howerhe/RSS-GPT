@@ -2748,3 +2748,12 @@ Append: [日本商业字体公司被收购之后价格上涨逾 50 倍](https://
 append_entries: 2
 Finish: 2025-12-03 10:14:35.832518
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 11:12:07.162646
+Existing_entries: 209
+Fetching from https://www.solidot.org/index.rss
+Append: [《绝地潜兵 2》将游戏容量从 154GB 减少到 23GB](https://www.solidot.org/story?sid=82956)
+Append: [ShadyPanda 利用浏览器扩展感染逾 400 万用户](https://www.solidot.org/story?sid=82955)
+append_entries: 2
+Finish: 2025-12-03 11:12:08.900324
+Wrote digest feed: docs/solidot-digest.xml
