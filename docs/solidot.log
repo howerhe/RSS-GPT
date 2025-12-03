@@ -2725,3 +2725,10 @@ Append: [朱雀三号可重复使用火箭通回收失败](https://www.solidot.o
 append_entries: 3
 Finish: 2025-12-03 07:14:59.533661
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 08:18:05.988505
+Existing_entries: 207
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-03 08:18:07.630684
+Wrote digest feed: docs/solidot-digest.xml
