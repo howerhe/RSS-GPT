@@ -3343,3 +3343,16 @@ Append: [[Opens Today] Chase To Open Sapphire Lounge In Las Vegas’ Harry Reid 
 append_entries: 4
 Finish: 2025-12-03 20:15:30.732172
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 21:12:11.590146
+Existing_entries: 280
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 316
+Summarized using glm-4.5-air
+Append: [British Airways Announces Rewards Devaluation (~10%)](https://www.doctorofcredit.com/british-airways-announces-rewards-devaluation-10/)
+Token length: 537
+Summarized using glm-4.5-air
+Append: [Redstone Credit Card To Receive Nerf (No More 5% Restaurants & Gas)](https://www.doctorofcredit.com/redstone-credit-card-to-receive-nerf-no-more-5-restaurants-gas/)
+append_entries: 2
+Finish: 2025-12-03 21:12:19.270724
+Wrote digest feed: docs/doctorofcredit-digest.xml

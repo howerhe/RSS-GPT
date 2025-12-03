@@ -5754,3 +5754,13 @@ Append: [大摩向投资者征询以数据中心为抵押的「重大风险转�
 append_entries: 6
 Finish: 2025-12-03 20:14:57.155262
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 21:11:57.993840
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [OpenAI 将收购 AI 模型训练工具初创公司 Neptune](https://readhub.cn/topic/8onc58UweAM)
+Append: [报道：特朗普政府将提议大幅降低拜登时期颁布的燃油经济性标准](https://readhub.cn/topic/8omHwx0dzG7)
+Append: [俄一波音 777 客机起飞后引擎起火 载有 400 余名乘客](https://readhub.cn/topic/8onZxSZEERU)
+append_entries: 3
+Finish: 2025-12-03 21:11:59.402547
+Wrote digest feed: docs/readhub-digest.xml
