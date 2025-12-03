@@ -5679,3 +5679,15 @@ Append: [理想汽车发布首款 AI 智能眼镜 Livis 补贴后售价 1699 元
 append_entries: 15
 Finish: 2025-12-03 13:30:17.080163
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 14:13:53.745342
+Existing_entries: 1015
+Fetching from https://readhub.cn/rss
+Append: [微软据称下调人工智能软件销售配额](https://readhub.cn/topic/8onAuxoeb0E)
+Append: [纳斯达克 100 指数期货转跌](https://readhub.cn/topic/8onAuq1XJcN)
+Append: [中科创达：将推动整个操作系统从原来的 OS 向 AIOS 变革](https://readhub.cn/topic/8on9Tga7PBL)
+Append: [豆包手机助手回应「侵犯用户隐私」： 需用户主动授权，产品目前并不面向普通消费者](https://readhub.cn/topic/8on88CWgWhT)
+Append: [广东佛山新动能产业基金签约子基金，总规模 100 亿元投向机器人产业](https://readhub.cn/topic/8on7MM3hJdP)
+append_entries: 5
+Finish: 2025-12-03 14:13:55.206825
+Wrote digest feed: docs/readhub-digest.xml

@@ -3279,3 +3279,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-03 13:30:29.040288
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 14:14:07.168001
+Existing_entries: 275
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 385
+Summarized using glm-4.5-air
+Append: [Amazon Prime Store Card To Lose Special Financing Option As Of February 16, 2026](https://www.doctorofcredit.com/amazon-prime-store-card-to-lose-special-financing-option-as-of-february-16-2026/)
+append_entries: 1
+Finish: 2025-12-03 14:14:12.508137
+Wrote digest feed: docs/doctorofcredit-digest.xml
