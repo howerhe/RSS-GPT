@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>《绝地潜兵 2》将游戏容量从 154GB 减少到 23GB</title>
 <link>https://www.solidot.org/story?sid=82956</link>
 <guid>https://www.solidot.org/story?sid=82956</guid>
 <content:encoded><![CDATA[
-
 《绝地潜兵 2（HELLDIVERS 2）》开发商 Arrowhead Game Studios 释出最新更新，将 PC 版本的游戏容量从 154GB 减少到 23GB，瘦身高达 85%。Arrowhead 此前曾在官方博客上解释了为什么 PC 版本的容量如此之大，原因是 PC 版本包含了大量重复数据，旨在加快机械硬盘上游戏的加载速度，而游戏机使用的是固态硬盘，因此主机版本的容量没有这么大。今天绝大部分 PC 使用的硬盘已从机械硬盘过渡到固态硬盘，Arrowhead 估计只有 12% 的《绝地潜兵 2》玩家仍然使用机械硬盘。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Dec 2025 18:24:47 +0800</pubDate>
 <pubDate>Wed, 03 Dec 2025 18:24:47 +0800</pubDate>
 </item>
 <item>
@@ -21,15 +20,12 @@
 <link>https://www.solidot.org/story?sid=82955</link>
 <guid>https://www.solidot.org/story?sid=82955</guid>
 <content:encoded><![CDATA[
-
 安全公司 Koi Security 披露了被称为 ShadyPanda 的攻击者利用浏览器扩展感染了 430 万 Chrome 和 Edge 用户。攻击者采取了长线方案，首先通过合法应用吸引积累用户群，然后通过后续更新植入恶意代码。攻击者的活动分为多个阶段，第一阶段是在扩展中嵌入联盟营销追踪代码，拦截电商平台购物链接嵌入自己的联盟营销代码获取佣金；第二阶段是劫持搜索和窃取 cookie；第三阶段植入远程访问后门变成间谍软件窃取敏感浏览器数据。
 受影响的扩展包括了 Clean Master、以及 Infinity 和 WeTab 等。WeTab 开发商随后发表声明，称 Clean Master 扩展已被该公司出售，与 WeTab 和 Infinity 已经没有关联，而 WeTab 和 Infinity 并没有恶意代码，
 <p></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Dec 2025 17:50:12 +0800</pubDate>
-<pubDate>Wed, 03 Dec 2025 17:50:12 +0800</pubDate>
 </item>
-
 <item>
 <title>AlphaFold 如何改变世界</title>
 <link>https://www.solidot.org/story?sid=82954</link>

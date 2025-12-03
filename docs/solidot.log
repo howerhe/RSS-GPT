@@ -2757,3 +2757,10 @@ Append: [ShadyPanda 利用浏览器扩展感染逾 400 万用户](https://www.so
 append_entries: 2
 Finish: 2025-12-03 11:12:08.900324
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 12:25:16.263383
+Existing_entries: 211
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-03 12:25:17.736055
+Wrote digest feed: docs/solidot-digest.xml
