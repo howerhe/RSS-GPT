@@ -3223,3 +3223,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-03 05:13:42.806259
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 06:19:41.947608
+Existing_entries: 275
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-03 06:19:42.209502
+Wrote digest feed: docs/doctorofcredit-digest.xml
