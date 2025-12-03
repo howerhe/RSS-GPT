@@ -5741,3 +5741,16 @@ Append: [供过于求，惠誉评级下调中短期油价预期](https://readhub
 append_entries: 1
 Finish: 2025-12-03 19:12:11.677518
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 20:14:55.722589
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [OpenAI：面向企业及商用客户的 ChatGPT 服务当前出现错误率升高](https://readhub.cn/topic/8omwgXGLkP0)
+Append: [浙江义乌：2025 年跨境电商进口清单量突破 1 亿单](https://readhub.cn/topic/8omwkJE4uW1)
+Append: [消息称特朗普政府考虑明年对机器人实施行政令](https://readhub.cn/topic/8on6d5ENB4P)
+Append: [爱马仕继承人起诉 LVMH 集团，声称其价值超百亿美元的股份被夺走](https://readhub.cn/topic/8omZ5awB4fM)
+Append: [伦敦证券交易所集团与 OpenAI 达成合作](https://readhub.cn/topic/8onADMpxg9V)
+Append: [大摩向投资者征询以数据中心为抵押的「重大风险转移」交易意向](https://readhub.cn/topic/8onX5mu9wQI)
+append_entries: 6
+Finish: 2025-12-03 20:14:57.155262
+Wrote digest feed: docs/readhub-digest.xml

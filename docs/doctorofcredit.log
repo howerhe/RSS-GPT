@@ -3324,3 +3324,22 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-03 19:12:24.055961
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 20:15:10.107612
+Existing_entries: 276
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 233
+Summarized using glm-4.5-air
+Append: [Amazon: $10 Off $40 On Household Essentials](https://www.doctorofcredit.com/amazon-10-off-40-on-household-essentials/)
+Token length: 627
+Summarized using glm-4.5-air
+Append: [Amazon: Send Your Driver $5 For Free (Alexa, Thank my driver)](https://www.doctorofcredit.com/amazon-send-your-driver-5-for-free-alexa-thank-my-driver/)
+Token length: 361
+Summarized using glm-4.5-air
+Append: [Capital One To Rate Transfer Rate To Emirates To 1,000:750 (4:3)](https://www.doctorofcredit.com/capital-one-to-rate-transfer-rate-to-emirates-to-1000750-43/)
+Token length: 449
+Summarized using glm-4.5-air
+Append: [[Opens Today] Chase To Open Sapphire Lounge In Las Vegas’ Harry Reid International Airport (LAS)](https://www.doctorofcredit.com/chase-to-open-sapphire-lounge-in-las-vegas-harry-reid-international-airport-las/)
+append_entries: 4
+Finish: 2025-12-03 20:15:30.732172
+Wrote digest feed: docs/doctorofcredit-digest.xml
