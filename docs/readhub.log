@@ -5691,3 +5691,18 @@ Append: [广东佛山新动能产业基金签约子基金，总规模 100 亿元
 append_entries: 5
 Finish: 2025-12-03 14:13:55.206825
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 15:14:38.438653
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [国家禁毒委员会主任王小洪：强化涉麻精药品等成瘾性物质管控 分类加强制毒物品管制](https://readhub.cn/topic/8onDDYx1Nkr)
+Append: [元保发布第三季度财报：营收达 11.58 亿元，AI 驱动业务成效显著](https://readhub.cn/topic/8omtlVLfYu2)
+Append: [美国 11 月标普全球服务业 PMI 终值为 54.1](https://readhub.cn/topic/8onDlmShwpk)
+Append: [TikTok 将在巴西投资逾 370 亿美元建设数据中心](https://readhub.cn/topic/8on88are8AT)
+Append: [美股开盘：三大指数集体低开，纳指跌 0.45%，微软跌超 2%](https://readhub.cn/topic/8onCUXEPWRe)
+Append: [纳斯达克中国金龙指数跌幅扩大至 1%](https://readhub.cn/topic/8olY9LutyVm)
+Append: [日本全日空一波音 787 客机空中发生发动机故障](https://readhub.cn/topic/8onADFLIKDr)
+Append: [Anthropic 拟数亿美元收购 Bun，Claude Code 将迎性能提速](https://readhub.cn/topic/8omgJy2aMYT)
+append_entries: 8
+Finish: 2025-12-03 15:14:39.807827
+Wrote digest feed: docs/readhub-digest.xml

@@ -3289,3 +3289,10 @@ Append: [Amazon Prime Store Card To Lose Special Financing Option As Of February
 append_entries: 1
 Finish: 2025-12-03 14:14:12.508137
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 15:14:51.725691
+Existing_entries: 276
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-03 15:14:51.894530
+Wrote digest feed: docs/doctorofcredit-digest.xml
