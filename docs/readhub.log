@@ -5725,3 +5725,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-03 17:16:24.200285
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 18:19:21.256629
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美财长拟推新规：地区联储主席任命前需在辖区内居住至少三年](https://readhub.cn/topic/8onGenvhas2)
+append_entries: 1
+Finish: 2025-12-03 18:19:22.813270
+Wrote digest feed: docs/readhub-digest.xml
