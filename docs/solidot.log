@@ -2715,3 +2715,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-03 06:19:27.871328
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 07:14:52.501612
+Existing_entries: 204
+Fetching from https://www.solidot.org/index.rss
+Append: [Waymo 无人驾驶出租车在杀猫之后又撞狗](https://www.solidot.org/story?sid=82952)
+Append: [美国威斯康星州要求包含性内容的网站验证访客年龄和屏蔽 VPN](https://www.solidot.org/story?sid=82951)
+Append: [朱雀三号可重复使用火箭通回收失败](https://www.solidot.org/story?sid=82950)
+append_entries: 3
+Finish: 2025-12-03 07:14:59.533661
+Wrote digest feed: docs/solidot-digest.xml
