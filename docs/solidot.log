@@ -2675,3 +2675,15 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-03 00:57:05.502593
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 02:44:30.426646
+Existing_entries: 199
+Fetching from https://www.solidot.org/index.rss
+Append: [俄罗斯新一代洲际导弹 RS-28 再次发射失败](https://www.solidot.org/story?sid=82949)
+Append: [土耳其研究发现猫咪对男性的叫声更响](https://www.solidot.org/story?sid=82948)
+Append: [全球第七位艾滋病治愈者](https://www.solidot.org/story?sid=82947)
+Append: [《西线无战事》将进入公有领域](https://www.solidot.org/story?sid=82946)
+Append: [FreeBSD 15.0 释出](https://www.solidot.org/story?sid=82945)
+append_entries: 5
+Finish: 2025-12-03 02:44:32.288684
+Wrote digest feed: docs/solidot-digest.xml
