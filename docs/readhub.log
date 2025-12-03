@@ -5764,3 +5764,12 @@ Append: [俄一波音 777 客机起飞后引擎起火 载有 400 余名乘客](h
 append_entries: 3
 Finish: 2025-12-03 21:11:59.402547
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 22:12:41.789667
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [美股三大指数集体收涨 有色金属、加密储备概念股涨幅居前](https://readhub.cn/topic/8oneFlZL94I)
+Append: [美元指数跌 0.5%，失守 50 日均线](https://readhub.cn/topic/8onafptPF6p)
+append_entries: 2
+Finish: 2025-12-03 22:12:43.161770
+Wrote digest feed: docs/readhub-digest.xml

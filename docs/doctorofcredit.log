@@ -3356,3 +3356,16 @@ Append: [Redstone Credit Card To Receive Nerf (No More 5% Restaurants & Gas)](ht
 append_entries: 2
 Finish: 2025-12-03 21:12:19.270724
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 22:12:55.317398
+Existing_entries: 282
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 239
+Summarized using glm-4.5-air
+Append: [Amazon Prime Young Adults: 50% Off GrubHub With Promo Code PRIMEYA](https://www.doctorofcredit.com/amazon-prime-young-adults-50-off-grubhub-with-promo-code-primeya/)
+Token length: 337
+Summarized using glm-4.5-air
+Append: [Xfinity (New Customers): 1 Gig Fiber Internet (5-Yr Price Lock) + 2-Yr Peacock Premium + 1-Yr Unlimited Mobile For $50 Per Month](https://www.doctorofcredit.com/xfinity-new-customers-1-gig-fiber-internet-5-yr-price-lock-2-yr-peacock-premium-1-yr-unlimited-mobile-for-50-per-month/)
+append_entries: 2
+Finish: 2025-12-03 22:13:03.626794
+Wrote digest feed: docs/doctorofcredit-digest.xml
