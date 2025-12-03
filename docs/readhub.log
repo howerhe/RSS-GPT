@@ -5773,3 +5773,13 @@ Append: [美元指数跌 0.5%，失守 50 日均线](https://readhub.cn/topic/8o
 append_entries: 2
 Finish: 2025-12-03 22:12:43.161770
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 23:10:07.351679
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [小包裹跑出加速度 快递市场呈现三大特征](https://readhub.cn/topic/8onjzI5DMlZ)
+Append: [美银预测：标普 500 指数的强劲涨势将在 2026 年消退](https://readhub.cn/topic/8onQgygCIkp)
+Append: [美国原油期货收涨超 0.5%，纽约天然气收涨 3.2%](https://readhub.cn/topic/8onhme3cqmL)
+append_entries: 3
+Finish: 2025-12-03 23:10:08.888998
+Wrote digest feed: docs/readhub-digest.xml

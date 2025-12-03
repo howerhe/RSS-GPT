@@ -3369,3 +3369,22 @@ Append: [Xfinity (New Customers): 1 Gig Fiber Internet (5-Yr Price Lock) + 2-Yr 
 append_entries: 2
 Finish: 2025-12-03 22:13:03.626794
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 23:10:21.307552
+Existing_entries: 284
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1208
+Summarized using glm-4.5-air
+Append: [Disney Premier Credit Card from Chase $400 Cash Signup Bonus](https://www.doctorofcredit.com/disney-premier-credit-card-from-chase-400-cash-signup-bonus/)
+Token length: 5628
+Summarized using glm-4.5-air
+Append: [DoorDash DashPass Members: Save 15% Off Many Giftcard Brands (Chipotle)](https://www.doctorofcredit.com/doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more/)
+Token length: 1271
+Summarized using glm-4.5-air
+Append: [[Confirmed] U.S. Bank To Make Negative Changes To U.S. Bank Altitude Reserve (Travel Transfers, 1¢ Per Point Instead of 1.5¢ & More)](https://www.doctorofcredit.com/u-s-bank-to-make-negative-changes-to-u-s-bank-altitude-reserve-travel-transfers-1%c2%a2-per-point-instead-of-1-5%c2%a2/)
+Token length: 1249
+Summarized using glm-4.5-air
+Append: [Topcashback: Valley Direct High Yield Savings Account $150 Bonus (& $100 Checking Bonus](https://www.doctorofcredit.com/swagbucks-valley-direct-high-yield-savings-account-60-bonus/)
+append_entries: 4
+Finish: 2025-12-03 23:10:45.155744
+Wrote digest feed: docs/doctorofcredit-digest.xml
