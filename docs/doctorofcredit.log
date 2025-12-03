@@ -3199,3 +3199,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-03 02:44:46.305226
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-03 03:46:39.389154
+Existing_entries: 274
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 279
+Summarized using glm-4.5-air
+Append: [Free 20 Ounce Coke After Coupon](https://www.doctorofcredit.com/free-20-ounce-coke-after-coupon/)
+append_entries: 1
+Finish: 2025-12-03 03:46:45.331250
+Wrote digest feed: docs/doctorofcredit-digest.xml
