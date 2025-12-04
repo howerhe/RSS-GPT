@@ -4,6 +4,54 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>单细胞变形虫能在 63°C 下生长</title>
+<link>https://www.solidot.org/story?sid=82960</link>
+<guid>https://www.solidot.org/story?sid=82960</guid>
+<content:encoded><![CDATA[
+
+科学家发现了一种微小的单细胞变形虫，它可在 63°C 下生长，创下真核生物的耐热纪录。“复杂生命”通常指细胞内含有细胞核和内部结构的生物。该变形虫能在足以杀死所有其他已知复杂生命体的高温下茁壮成长，这挑战了以往的观点，即包括所有动植物在内的“真核生物”无法适应细菌等无核生物所能耐受的极端环境。研究人员在美国加州北部喀斯喀特山脉拉森火山国家公园发现该生物，将其命名为 Incendiamoeba cascadensis，意为“来自喀斯喀特的火变形虫”。I.cascadensis 在 63°C 时仍能分裂繁殖，在 64°C 下依然能够活动。即使在高达 70°C 的环境中，这些细胞也能形成休眠的“包囊”，并在温度降低后重新被激活。相比之下，一些最耐热的细菌和古菌能承受高得多的温度：古菌 Methanopyrus kandleri 保持着目前已知生命形式的最高耐热纪录——122°C。而此前真核生物的耐热纪录由几种真菌和红藻保持；人类及其他哺乳动物细胞的耐热上限则大约只有 43°C。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 03 Dec 2025 23:57:54 +0800</pubDate>
+<pubDate>Wed, 03 Dec 2025 23:57:54 +0800</pubDate>
+</item>
+<item>
+<title>Zig 从 GitHub 迁移到 Codeberg</title>
+<link>https://www.solidot.org/story?sid=82959</link>
+<guid>https://www.solidot.org/story?sid=82959</guid>
+<content:encoded><![CDATA[
+
+Zig 软件基金会总裁兼首席开发者 Andrew Kelly 宣布项目将从 GitHub 迁移到 Codeberg，理由是微软对 AI 的迷恋正在毁掉 GitHub。他给出的一个例子是 GitHub Actions 的一个严重 bug 在 2022 年 2 月引入直到 2025 年 8 月才解决，该 bug 会导致死循环，导致进程一直运行其它任务无法执行。Andrew Kelly 认为  GitHub 不再致力于提供卓越的服务，用前 CEO 在离职前的“名言”——要么拥抱 AI 要么走——他们选择沉迷于 AI。Zig 不是唯一一个选择离开的项目，Dillo 浏览器项目也决定离开。与此同时，Codeberg 的支持会员数从 1 月的 600 人增加到了 1200 多人。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 03 Dec 2025 22:50:23 +0800</pubDate>
+<pubDate>Wed, 03 Dec 2025 22:50:23 +0800</pubDate>
+</item>
+<item>
+<title>印度政府撤回了在手机预装政府网络安全应用的命令</title>
+<link>https://www.solidot.org/story?sid=82958</link>
+<guid>https://www.solidot.org/story?sid=82958</guid>
+<content:encoded><![CDATA[
+
+在引发公众强烈抗议后，印度政府撤回了要求智能手机制造商在新手机上预装网络安全应用 Sanchar Saathi 的命令。这一命令于上个月底传达给智能手机制造商，本周一公开。该命令遭到了厂商的抵制和安全专家的强烈反对。印度电信部长 Jyotiraditya Scindia 否认该应用是为了加强监控。印度电信部称，迄今已有 1400 万用户下载了该应用，每天报告 2000 起诈骗案件。仅周二一天就有 60 万新用户注册——十倍增长。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 03 Dec 2025 20:55:24 +0800</pubDate>
+<pubDate>Wed, 03 Dec 2025 20:55:24 +0800</pubDate>
+</item>
+<item>
+<title>特朗普政府再次以投资方式获得企业股份</title>
+<link>https://www.solidot.org/story?sid=82957</link>
+<guid>https://www.solidot.org/story?sid=82957</guid>
+<content:encoded><![CDATA[
+
+在英特尔之后，特朗普政府再次以注资方式获得企业股份，这次是英特尔前 CEO Pat Gelsinger 创办的 xLight。xLight 致力于改进极紫外光刻（EUV）工艺使用的激光器，希望在荷兰 ASML 的光刻机中集成它的改良激光器。去年因为英特尔业绩不佳而被董事会解雇的 Pat Gelsinger 担任 xLight 的执行董事长。特朗普政府将向 xLight 注资 1.5 亿美元，预计将成为 xLight 的最大股东。这笔资金来自于拜登政府在 2022 年通过的芯片法案《Chips and Science Act》。英特尔获得的政府资金原本也是来自于芯片法案。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 03 Dec 2025 20:27:30 +0800</pubDate>
+<pubDate>Wed, 03 Dec 2025 20:27:30 +0800</pubDate>
+</item>
 
 <item>
 <title>《绝地潜兵 2》将游戏容量从 154GB 减少到 23GB</title>
