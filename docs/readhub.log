@@ -6111,3 +6111,11 @@ Append: [天域半导体香港 IPO 散户发售部分获得 60.63 倍认购](htt
 append_entries: 5
 Finish: 2025-12-04 16:17:07.268148
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 17:15:48.154104
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [顶住「抛售美国资产」声浪压力 Pimco 靠美债押注出奇制胜](https://readhub.cn/topic/8oopDrmCy3v)
+append_entries: 1
+Finish: 2025-12-04 17:15:49.417217
+Wrote digest feed: docs/readhub-digest.xml
