@@ -3388,3 +3388,10 @@ Append: [Topcashback: Valley Direct High Yield Savings Account $150 Bonus (& $10
 append_entries: 4
 Finish: 2025-12-03 23:10:45.155744
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 00:57:38.441153
+Existing_entries: 288
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-04 00:57:38.689217
+Wrote digest feed: docs/doctorofcredit-digest.xml
