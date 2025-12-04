@@ -3523,3 +3523,16 @@ Append: [Giftcards.com: Get 10% Off Uber Giftcards (12/2-12/15)](https://www.doc
 append_entries: 1
 Finish: 2025-12-04 18:19:55.615386
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 19:13:05.457952
+Existing_entries: 291
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 395
+Summarized using glm-4.5-air
+Append: [Chase United Cards Now Earn 2x Per Dollar On Bilt Rent Payments (3% Fee)](https://www.doctorofcredit.com/chase-united-cards-to-earn-2x-per-dollar-on-bilt-rent-payments-3-fee/)
+Token length: 685
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: 40%+ Back on Stubhub ($50 Moneymaker For Chase Sapphire Reserve Cardholders)](https://www.doctorofcredit.com/capital-one-shopping-40-back-on-stubhub-50-moneymaker-for-chase-sapphire-reserve-cardholders/)
+append_entries: 2
+Finish: 2025-12-04 19:13:13.558568
+Wrote digest feed: docs/doctorofcredit-digest.xml

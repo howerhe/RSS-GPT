@@ -6128,3 +6128,10 @@ Append: [美国抵押贷款利率跌至去年 10 月以来新低，但买家开�
 append_entries: 2
 Finish: 2025-12-04 18:19:38.670399
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 19:12:52.782896
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-04 19:12:54.132482
+Wrote digest feed: docs/readhub-digest.xml
