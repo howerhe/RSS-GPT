@@ -2888,3 +2888,10 @@ Append: [美光押注 AI 退出消费者内存和存储业务](https://www.solid
 append_entries: 1
 Finish: 2025-12-04 06:19:39.925658
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 07:14:30.070452
+Existing_entries: 216
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-04 07:14:32.203645
+Wrote digest feed: docs/solidot-digest.xml
