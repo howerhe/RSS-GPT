@@ -3451,3 +3451,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-04 09:17:01.691036
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 10:15:08.773082
+Existing_entries: 288
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 148
+Summarized using glm-4.5-air
+Append: [Staples.com: Save On Giftcards For Lowe’s, Hulu & More](https://www.doctorofcredit.com/staples-com-save-on-giftcards-for-lowes-hulu-more/)
+append_entries: 1
+Finish: 2025-12-04 10:15:13.866858
+Wrote digest feed: docs/doctorofcredit-digest.xml

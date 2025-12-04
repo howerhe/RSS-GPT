@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>美国驱逐了偷拍 SpaceX 机密材料的俄罗斯宇航员</title>
 <link>https://www.solidot.org/story?sid=82965</link>
 <guid>https://www.solidot.org/story?sid=82965</guid>
 <content:encoded><![CDATA[
-
 原计划参加 SpaceX Crew-12 任务前往国际空间站的俄罗斯宇航员 Oleg Artemyev 被从乘组名单中移除，他的位置由另一名俄罗斯宇航员 Andrey Fedyaev 接替。原因是他被逮到在加州 Hawthorne 基地使用手机偷拍了 SpaceX 火箭引擎和内部机密材料，违反了美国出口管制规定。Artemyev 上周被从训练基地驱逐。报道称，NASA 不希望围绕 Artemyev 的争议公开化。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Dec 2025 16:31:35 +0800</pubDate>
 <pubDate>Thu, 04 Dec 2025 16:31:35 +0800</pubDate>
 </item>
 <item>
@@ -21,14 +20,11 @@
 <link>https://www.solidot.org/story?sid=82964</link>
 <guid>https://www.solidot.org/story?sid=82964</guid>
 <content:encoded><![CDATA[
-
 Django Python Web 框架项目宣布释出 Django 6.0。主要新特性包括：支持内容安全政策（Content Security Policy 或CSP）；模板语言支持模板局部（Template Partials）；使用 Python 的 email API 处理邮件；等等。
 <p></p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Dec 2025 16:06:00 +0800</pubDate>
-<pubDate>Thu, 04 Dec 2025 16:06:00 +0800</pubDate>
 </item>
-
 <item>
 <title>Linux 5.4 系列释出最后一个更新</title>
 <link>https://www.solidot.org/story?sid=82963</link>

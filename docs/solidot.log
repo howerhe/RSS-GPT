@@ -2913,3 +2913,10 @@ Append: [Django 6.0 释出](https://www.solidot.org/story?sid=82964)
 append_entries: 2
 Finish: 2025-12-04 09:16:46.402598
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 10:14:52.307597
+Existing_entries: 220
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-04 10:14:53.823711
+Wrote digest feed: docs/solidot-digest.xml
