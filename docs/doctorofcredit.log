@@ -3565,3 +3565,10 @@ Append: [eBay: Up To $45 Off Select Items With Promo Code SPENDANDSAVE](https://
 append_entries: 4
 Finish: 2025-12-04 21:12:42.332779
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 22:10:53.128079
+Existing_entries: 298
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-04 22:10:53.388646
+Wrote digest feed: docs/doctorofcredit-digest.xml

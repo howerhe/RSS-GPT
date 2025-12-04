@@ -6152,3 +6152,10 @@ Append: [Blue Owl 资本为其数据中心基金募集 17 亿美元](https://rea
 append_entries: 1
 Finish: 2025-12-04 21:12:14.583723
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 22:10:40.079580
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-04 22:10:41.660437
+Wrote digest feed: docs/readhub-digest.xml
