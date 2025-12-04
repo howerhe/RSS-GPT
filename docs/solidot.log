@@ -2904,3 +2904,12 @@ Append: [Valve 透露了在 ARM CPU 上运行 x86 应用的开源项目](https:/
 append_entries: 2
 Finish: 2025-12-04 08:18:40.199538
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 09:16:44.473587
+Existing_entries: 218
+Fetching from https://www.solidot.org/index.rss
+Append: [美国驱逐了偷拍 SpaceX 机密材料的俄罗斯宇航员](https://www.solidot.org/story?sid=82965)
+Append: [Django 6.0 释出](https://www.solidot.org/story?sid=82964)
+append_entries: 2
+Finish: 2025-12-04 09:16:46.402598
+Wrote digest feed: docs/solidot-digest.xml
