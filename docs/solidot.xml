@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>Statcounter 数据显示 Windows 11 份额增长缓慢</title>
 <link>https://www.solidot.org/story?sid=82968</link>
 <guid>https://www.solidot.org/story?sid=82968</guid>
 <content:encoded><![CDATA[
-
 虽然 Windows 10 已经停止了主流支持（即免费更新），转向了付费的扩展支持阶段，但 Windows 10 用户并没有迅速拥抱 Windows 11。Statcounter 的数据显示，2025 年 11 月 Windows 11 份额为 53.7%，而 Windows 10 仍然有 42.7%。分析师认为，一个原因是 Windows 11 提高了硬件需求，很多现有的 Windows 10 PC 无法升级。而客户通常抱着一个信念是“如果东西没坏就没必要动它”。Windows 11 也没有提供什么必不可少的新功能能促使企业客户更新换代。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Dec 2025 21:47:04 +0800</pubDate>
 <pubDate>Thu, 04 Dec 2025 21:47:04 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@
 <link>https://www.solidot.org/story?sid=82967</link>
 <guid>https://www.solidot.org/story?sid=82967</guid>
 <content:encoded><![CDATA[
-
 今天的学科日益细化，我们很难再看到精通多个领域的“大师”。以数学为例，数学被划分为 63 个大类，每个大类又进一步细分为 529 个子类，每个子类都发展出自己专门的术语，用于阐述和证明技术定理，而掌握这些术语需要多年的学习。这些专门的术语阻碍了数学家或科学家与非专业人士进行沟通。研究人员已经发现，科学文献的可读性随时间在下降。去年夏天几何朗兰兹猜想获得证明，但真正能读懂证明的人寥寥无几。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Dec 2025 21:23:06 +0800</pubDate>
 <pubDate>Thu, 04 Dec 2025 21:23:06 +0800</pubDate>
 </item>
 <item>
@@ -33,14 +30,11 @@
 <link>https://www.solidot.org/story?sid=82966</link>
 <guid>https://www.solidot.org/story?sid=82966</guid>
 <content:encoded><![CDATA[
-
 安全公司 Wiz 周三披露了危险等级 10/10 的 React Server 高危漏洞。React Server 被网站和云环境广泛使用，安全研究人员督促管理员尽快打上补丁，因为漏洞极其容易被利用（成功率差不多 100%）。漏洞利用代码已经公开，攻击者可利用漏洞远程执行代码。约 6% 的网站和 39% 的云环境使用 React。受影响的 React 版本包括 v19.0.1、v19.1.2 或 v19.2.1，受影响的第三方组件包括 Vite RSC、Parcel RSC、React Router RSC、RedwoodSDK、Waku 和 Next.js  等。漏洞编号为 CVE-2025-55182，存在于 React Server Components 的 Flight 协议中，源自于不安全的反序列化。
 <p></p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Dec 2025 17:52:47 +0800</pubDate>
-<pubDate>Thu, 04 Dec 2025 17:52:47 +0800</pubDate>
 </item>
-
 <item>
 <title>美国驱逐了偷拍 SpaceX 机密材料的俄罗斯宇航员</title>
 <link>https://www.solidot.org/story?sid=82965</link>

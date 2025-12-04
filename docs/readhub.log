@@ -6087,3 +6087,15 @@ Append: [美国上周首次申领失业救济人数为 19.1 万人](https://read
 append_entries: 10
 Finish: 2025-12-04 14:14:04.108421
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 15:15:37.924792
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [淘宝闪购回应《外卖平台服务管理基本要求》](https://readhub.cn/topic/8oou5uDFJG1)
+Append: [Apple 公布 2025 年 App Store Awards 中国区获奖作品](https://readhub.cn/topic/8ooqBQ6dMWK)
+Append: [纳斯达克中国金龙指数盘初涨 0.42%](https://readhub.cn/topic/8oorxTWXc47)
+Append: [欧洲央行执委 Cipollone 表示通胀「基本得到控制」](https://readhub.cn/topic/8ooPWQIRYIW)
+Append: [Meta Platforms 的扎克伯格计划对 Metaverse 预算削减 30%](https://readhub.cn/topic/8oopDpoR3GE)
+append_entries: 5
+Finish: 2025-12-04 15:15:39.487422
+Wrote digest feed: docs/readhub-digest.xml
