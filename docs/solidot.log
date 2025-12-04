@@ -2941,3 +2941,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-04 13:31:00.872664
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 14:13:59.758722
+Existing_entries: 220
+Fetching from https://www.solidot.org/index.rss
+Append: [Statcounter 数据显示 Windows 11 份额增长缓慢](https://www.solidot.org/story?sid=82968)
+Append: [数学家也难以理解非其领域的数学](https://www.solidot.org/story?sid=82967)
+Append: [React Server 高危漏洞影响无数网站](https://www.solidot.org/story?sid=82966)
+append_entries: 3
+Finish: 2025-12-04 14:14:01.443223
+Wrote digest feed: docs/solidot-digest.xml

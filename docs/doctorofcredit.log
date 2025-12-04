@@ -3485,3 +3485,10 @@ Append: [[YMMV] Capital One VentureOne $100 + 40,000 Points Signup Bonus with $1
 append_entries: 1
 Finish: 2025-12-04 13:31:24.726032
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 14:14:17.046525
+Existing_entries: 290
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-04 14:14:17.271548
+Wrote digest feed: docs/doctorofcredit-digest.xml
