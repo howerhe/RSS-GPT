@@ -5863,3 +5863,14 @@ Append: [23 万科 01盘中涨超 90% 被实施临时停牌](https://readhub.cn/
 append_entries: 20
 Finish: 2025-12-04 03:48:13.259473
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 04:22:38.436983
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [速卖通：「黑五」期间二轮电动车销量同比增长 40 倍](https://readhub.cn/topic/8oo5Rpft3zb)
+Append: [蜜雪冰城收购的「鲜啤福鹿家」全面开放加盟](https://readhub.cn/topic/8on6gINOuzM)
+Append: [中央协调提供的救灾物资为香港救援提供重要保障](https://readhub.cn/topic/8oo5NSmszpF)
+Append: [日本 30 年期国债拍卖认购倍数创 2019 年以来新高](https://readhub.cn/topic/8oo6oR2ZGfB)
+append_entries: 4
+Finish: 2025-12-04 04:22:39.876655
+Wrote digest feed: docs/readhub-digest.xml
