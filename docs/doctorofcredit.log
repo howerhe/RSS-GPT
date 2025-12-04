@@ -3546,3 +3546,22 @@ Append: [Chase Offers/WF/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter
 append_entries: 1
 Finish: 2025-12-04 20:14:37.721633
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 21:12:26.054252
+Existing_entries: 294
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 152
+Summarized using glm-4.5-air
+Append: [Jamba Juice: Free $4 Credit (Valid Through 12/12)](https://www.doctorofcredit.com/jamba-juice-free-4-credit-valid-through-12-12/)
+Token length: 749
+Summarized using glm-4.5-air
+Append: [[Another Round] American Airlines: Early Access To World Cup Tickets](https://www.doctorofcredit.com/american-airlines-early-access-to-world-cup-tickets/)
+Token length: 577
+Summarized using glm-4.5-air
+Append: [American Express Sends Out Survey Regarding Marriott Business Card (Possible $600 Annual Fee)](https://www.doctorofcredit.com/american-express-sends-out-survey-regarding-marriott-business-card-possible-600-annual-fee/)
+Token length: 376
+Summarized using glm-4.5-air
+Append: [eBay: Up To $45 Off Select Items With Promo Code SPENDANDSAVE](https://www.doctorofcredit.com/ebay-up-to-45-off-select-items-with-promo-code-spendandsave/)
+append_entries: 4
+Finish: 2025-12-04 21:12:42.332779
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -6144,3 +6144,11 @@ Append: [北京奥林匹克中心区将建全球首个国家人形机器人赛�
 append_entries: 2
 Finish: 2025-12-04 20:14:21.239051
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 21:12:13.202864
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [Blue Owl 资本为其数据中心基金募集 17 亿美元](https://readhub.cn/topic/8opC0CU7n9e)
+append_entries: 1
+Finish: 2025-12-04 21:12:14.583723
+Wrote digest feed: docs/readhub-digest.xml
