@@ -3536,3 +3536,13 @@ Append: [Capital One Shopping: 40%+ Back on Stubhub ($50 Moneymaker For Chase Sa
 append_entries: 2
 Finish: 2025-12-04 19:13:13.558568
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 20:14:32.664384
+Existing_entries: 293
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 766
+Summarized using glm-4.5-air
+Append: [Chase Offers/WF/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)](https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/)
+append_entries: 1
+Finish: 2025-12-04 20:14:37.721633
+Wrote digest feed: docs/doctorofcredit-digest.xml

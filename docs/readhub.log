@@ -6135,3 +6135,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-04 19:12:54.132482
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 20:14:19.874790
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [周鸿祎：豆包手机冲垮大厂护城河 美团淘宝高管可能要连夜开会了](https://readhub.cn/topic/8ooktKScWk8)
+Append: [北京奥林匹克中心区将建全球首个国家人形机器人赛训基地](https://readhub.cn/topic/8ooktjJ5beI)
+append_entries: 2
+Finish: 2025-12-04 20:14:21.239051
+Wrote digest feed: docs/readhub-digest.xml
