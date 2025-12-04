@@ -2880,3 +2880,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-04 05:13:04.762549
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 06:19:38.123819
+Existing_entries: 215
+Fetching from https://www.solidot.org/index.rss
+Append: [美光押注 AI 退出消费者内存和存储业务](https://www.solidot.org/story?sid=82961)
+append_entries: 1
+Finish: 2025-12-04 06:19:39.925658
+Wrote digest feed: docs/solidot-digest.xml
