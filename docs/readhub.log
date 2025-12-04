@@ -6159,3 +6159,16 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-04 22:10:41.660437
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 23:11:46.273189
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [12 月 8 日，智元第 5000 台通用具身机器人量产下线仪式定档](https://readhub.cn/topic/8oomHr0YZRo)
+Append: [吴清：营造更具吸引力的「长钱长投」制度环境](https://readhub.cn/topic/8opRlRNAulq)
+Append: [碧桂园境外债重组方案获香港高等法院批准](https://readhub.cn/topic/8oof8OtZLk4)
+Append: [调查：美联储 12 月降息 25 个基点的概率为 87%](https://readhub.cn/topic/8opO7drc5vU)
+Append: [美股收盘：三大股指涨跌不一 英特尔跌超 7%](https://readhub.cn/topic/8opJpLNZqzY)
+Append: [美国原油期货收涨超 1.2%，纽约天然气收涨至 5 美元上方](https://readhub.cn/topic/8opINUavPuK)
+append_entries: 6
+Finish: 2025-12-04 23:11:47.817000
+Wrote digest feed: docs/readhub-digest.xml
