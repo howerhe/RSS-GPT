@@ -2859,3 +2859,10 @@ Append: [特朗普政府再次以投资方式获得企业股份](https://www.sol
 append_entries: 4
 Finish: 2025-12-04 02:46:14.308615
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 03:48:09.353693
+Existing_entries: 215
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-04 03:48:10.872312
+Wrote digest feed: docs/solidot-digest.xml
