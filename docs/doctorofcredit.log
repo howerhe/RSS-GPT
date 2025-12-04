@@ -3513,3 +3513,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-04 17:16:02.459154
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 18:19:51.697424
+Existing_entries: 290
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1064
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Get 10% Off Uber Giftcards (12/2-12/15)](https://www.doctorofcredit.com/giftcards-com-get-10-off-uber-giftcards-12-2-12-15/)
+append_entries: 1
+Finish: 2025-12-04 18:19:55.615386
+Wrote digest feed: docs/doctorofcredit-digest.xml

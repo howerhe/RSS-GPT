@@ -6119,3 +6119,12 @@ Append: [顶住「抛售美国资产」声浪压力 Pimco 靠美债押注出奇�
 append_entries: 1
 Finish: 2025-12-04 17:15:49.417217
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 18:19:37.069183
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [高盛暂停为与芝商所（CME）事故相关的数字中心公司发售债券](https://readhub.cn/topic/8op5YQCiIZH)
+Append: [美国抵押贷款利率跌至去年 10 月以来新低，但买家开始逢低入场](https://readhub.cn/topic/8op2hZHaJ93)
+append_entries: 2
+Finish: 2025-12-04 18:19:38.670399
+Wrote digest feed: docs/readhub-digest.xml
