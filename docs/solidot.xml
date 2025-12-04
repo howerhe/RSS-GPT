@@ -4,6 +4,30 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>Linux 5.4 系列释出最后一个更新</title>
+<link>https://www.solidot.org/story?sid=82963</link>
+<guid>https://www.solidot.org/story?sid=82963</guid>
+<content:encoded><![CDATA[
+
+稳定版内核维护者 Greg Kroah-Hartman 宣布释出 Linux 5.4.302。这是 5.4 系列最后一个稳定版本，该系列已终止支持，他不再建议任何人使用，因为有大量 bug 没有修复，他提供了未修复 CVE 漏洞的列表，目前数量高达 1539 个，未来这个数字只会继续增加。Linux 5.4 于 2019 年 11 月 24 日释出，是第 20 个长期支持（LTS）版本。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 04 Dec 2025 16:03:29 +0800</pubDate>
+<pubDate>Thu, 04 Dec 2025 16:03:29 +0800</pubDate>
+</item>
+<item>
+<title>Valve 透露了在 ARM CPU 上运行 x86 应用的开源项目</title>
+<link>https://www.solidot.org/story?sid=82962</link>
+<guid>https://www.solidot.org/story?sid=82962</guid>
+<content:encoded><![CDATA[
+
+Valve 早些时候披露了 VR 头显产品 Steam Frame，使用了 Arm SoC，运行 Linux 操作系统 SteamOS。Valve 此前开发了在 x86 架构 Linux 操作系统上运行 Windows 游戏的兼容层项目 Proton，但在非 x86 架构上如何运行 Windows 游戏？根据 The Verge 报道，Valve 对此早就做好了充分准备。SteamOS 和 Steam Deck 的架构师  Pierre-Loup Griffais 透露 Valve 早在几年前就开始资助在 Arm 架构上运行 Windows 游戏的开源项目的开发工作，未来 Windows 应用开发商无需再在移植上花费时间就让包括游戏在内的应用在基于 x86 以及 Arm 架构处理器的 Linux 操作系统上运行。最新披露的开源项目是 Fex。Griffais 称 Valve 从 2016 年和 2017 年起就开始招募并资助开源开发者，Fex 首席开发者 Ryan Houdek 称他在 2018 年完成了首个原型，而 Valve 提供的薪水让他能全职投入 Fex 项目。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 04 Dec 2025 15:31:57 +0800</pubDate>
+<pubDate>Thu, 04 Dec 2025 15:31:57 +0800</pubDate>
+</item>
 
 <item>
 <title>美光押注 AI 退出消费者内存和存储业务</title>

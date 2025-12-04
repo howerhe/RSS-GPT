@@ -2895,3 +2895,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-04 07:14:32.203645
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-04 08:18:38.515917
+Existing_entries: 216
+Fetching from https://www.solidot.org/index.rss
+Append: [Linux 5.4 系列释出最后一个更新](https://www.solidot.org/story?sid=82963)
+Append: [Valve 透露了在 ARM CPU 上运行 x86 应用的开源项目](https://www.solidot.org/story?sid=82962)
+append_entries: 2
+Finish: 2025-12-04 08:18:40.199538
+Wrote digest feed: docs/solidot-digest.xml
