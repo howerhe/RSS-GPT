@@ -6512,3 +6512,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-05 18:15:58.183602
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 19:10:30.531025
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [SpaceX 恰当出售股份事宜，估值或升至 8000 亿美元](https://readhub.cn/topic/8oqoiXOPcgu)
+append_entries: 1
+Finish: 2025-12-05 19:10:32.271316
+Wrote digest feed: docs/readhub-digest.xml

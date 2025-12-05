@@ -3732,3 +3732,13 @@ Append: [American Airlines AAdvantage Pass: $5,000 (Gold, 100k Points & 15,000 L
 append_entries: 1
 Finish: 2025-12-05 18:16:17.852579
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 19:10:46.320709
+Existing_entries: 307
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1006
+Summarized using glm-4.5-air
+Append: [Klarna Launches Premium & Max Memberships](https://www.doctorofcredit.com/klarna-launches-premium-max-memberships/)
+append_entries: 1
+Finish: 2025-12-05 19:10:54.459627
+Wrote digest feed: docs/doctorofcredit-digest.xml
