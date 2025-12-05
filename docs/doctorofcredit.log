@@ -3598,3 +3598,10 @@ Append: [Citi AAdvantage Executive 100,000 Mile Offer](https://www.doctorofcredi
 append_entries: 4
 Finish: 2025-12-05 00:58:25.754479
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 02:47:34.932124
+Existing_entries: 302
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-05 02:47:35.215854
+Wrote digest feed: docs/doctorofcredit-digest.xml

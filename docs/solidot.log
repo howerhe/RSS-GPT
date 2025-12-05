@@ -3021,3 +3021,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-05 00:57:54.740287
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 02:47:17.014995
+Existing_entries: 223
+Fetching from https://www.solidot.org/index.rss
+Append: [AI 时代精英更容易操控民意](https://www.solidot.org/story?sid=82971)
+Append: [Bennu 小行星样本发现生命所需的糖类](https://www.solidot.org/story?sid=82970)
+Append: [内存是如此昂贵以至于三星半导体不愿意向三星电子供应内存](https://www.solidot.org/story?sid=82969)
+append_entries: 3
+Finish: 2025-12-05 02:47:18.790146
+Wrote digest feed: docs/solidot-digest.xml
