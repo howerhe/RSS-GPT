@@ -6539,3 +6539,11 @@ Append: [SpaceX 据悉正按 8000 亿美元估值进行股票出售谈判](https
 append_entries: 5
 Finish: 2025-12-05 21:11:29.542671
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 22:11:55.582861
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [美元指数本周跌超 0.4%](https://readhub.cn/topic/8oqvx7gbGJh)
+append_entries: 1
+Finish: 2025-12-05 22:11:57.140592
+Wrote digest feed: docs/readhub-digest.xml

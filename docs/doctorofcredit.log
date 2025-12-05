@@ -3768,3 +3768,16 @@ Append: [Disney+: Free Subway Footlong (No Purchase Required, First 200k)](https
 append_entries: 3
 Finish: 2025-12-05 21:12:02.282427
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 22:12:10.970264
+Existing_entries: 312
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 370
+Summarized using glm-4.5-air
+Append: [[Last Day] BeFrugal: $40 Referral Bonus](https://www.doctorofcredit.com/befrugal-40-referral-bonus/)
+Token length: 563
+Summarized using glm-4.5-air
+Append: [Nordstrom Rack: $10 Off $10.01+ (Free In Store Pickup)](https://www.doctorofcredit.com/nordstrom-rack-10-off-10-01-free-in-store-pickup/)
+append_entries: 2
+Finish: 2025-12-05 22:12:23.125772
+Wrote digest feed: docs/doctorofcredit-digest.xml
