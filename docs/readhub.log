@@ -6505,3 +6505,10 @@ Append: [据悉 G7 和欧盟考虑禁止俄罗斯石油出口海运服务，取�
 append_entries: 3
 Finish: 2025-12-05 17:12:29.383292
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 18:15:56.712702
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-05 18:15:58.183602
+Wrote digest feed: docs/readhub-digest.xml

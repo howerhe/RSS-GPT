@@ -3722,3 +3722,13 @@ Append: [Citi Offers: BJ’s Wholesale Club, 5% Back (Up To $6 Back)](https://ww
 append_entries: 1
 Finish: 2025-12-05 17:12:48.511214
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 18:16:11.778584
+Existing_entries: 306
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 561
+Summarized using glm-4.5-air
+Append: [American Airlines AAdvantage Pass: $5,000 (Gold, 100k Points & 15,000 Loyalty Points)](https://www.doctorofcredit.com/american-airlines-aadvantage-pass-5000-gold-100k-points-15000-loyalty-points/)
+append_entries: 1
+Finish: 2025-12-05 18:16:17.852579
+Wrote digest feed: docs/doctorofcredit-digest.xml
