@@ -6547,3 +6547,14 @@ Append: [美元指数本周跌超 0.4%](https://readhub.cn/topic/8oqvx7gbGJh)
 append_entries: 1
 Finish: 2025-12-05 22:11:57.140592
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 23:12:02.559712
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [下周将有两股冷空气来袭 中东部或有大范围雨雪](https://readhub.cn/topic/8oqFjyKKSJ6)
+Append: [在岸人民币兑美元较上一交易日夜盘收盘跌 10 点](https://readhub.cn/topic/8oqqCArCnHO)
+Append: [AI 可穿戴公司 Limitless 宣布被 Meta 收购](https://readhub.cn/topic/8oqq9ReZg2x)
+Append: [现货金价在美国 PCE 数据发布后短暂扩大涨幅，本周跌 1%](https://readhub.cn/topic/8oqxKkzHiPW)
+append_entries: 4
+Finish: 2025-12-05 23:12:04.193698
+Wrote digest feed: docs/readhub-digest.xml

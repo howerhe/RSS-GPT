@@ -3781,3 +3781,13 @@ Append: [Nordstrom Rack: $10 Off $10.01+ (Free In Store Pickup)](https://www.doc
 append_entries: 2
 Finish: 2025-12-05 22:12:23.125772
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 23:12:18.246596
+Existing_entries: 314
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 251
+Summarized using glm-4.5-air
+Append: [Amazon: $20 Credit When You Spend $100+ On Select Items](https://www.doctorofcredit.com/amazon-20-credit-when-you-spend-100-on-select-items/)
+append_entries: 1
+Finish: 2025-12-05 23:12:23.656484
+Wrote digest feed: docs/doctorofcredit-digest.xml
