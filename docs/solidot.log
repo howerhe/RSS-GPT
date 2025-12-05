@@ -3113,3 +3113,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-05 13:27:16.257854
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 14:13:01.669117
+Existing_entries: 231
+Fetching from https://www.solidot.org/index.rss
+Append: [论文抄袭率更高的人更可能进入政府部门且晋升更快](https://www.solidot.org/story?sid=82983)
+Append: [Netflix 以 827 亿美元收购华纳兄弟](https://www.solidot.org/story?sid=82982)
+Append: [AI 聊天机器人擅长利用不准确信息改变人的政治观点](https://www.solidot.org/story?sid=82981)
+Append: [长期限制热量摄入能减缓大脑衰老](https://www.solidot.org/story?sid=82980)
+Append: [最新实验不支持第四种中微子假说](https://www.solidot.org/story?sid=82979)
+Append: [长江存储 NAND 市场份额突破 10%](https://www.solidot.org/story?sid=82978)
+Append: [研究称火山喷发引发了黑死病的传播](https://www.solidot.org/story?sid=82977)
+append_entries: 7
+Finish: 2025-12-05 14:13:03.158920
+Wrote digest feed: docs/solidot-digest.xml

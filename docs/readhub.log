@@ -6458,3 +6458,12 @@ Append: [中国电信：已在 30 个省份落地超 500 个网联无人机应�
 append_entries: 18
 Finish: 2025-12-05 13:27:18.685148
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 14:13:04.200252
+Existing_entries: 1018
+Fetching from https://readhub.cn/rss
+Append: [佳华科技：拟购买数盾信息控股权，股票复牌](https://readhub.cn/topic/8oqU4u8Nxgy)
+Append: [Agentic AI 浪潮已来，亚马逊云科技抢占第一波先机](https://readhub.cn/topic/8oqAlgEuPh8)
+append_entries: 2
+Finish: 2025-12-05 14:13:05.376313
+Wrote digest feed: docs/readhub-digest.xml
