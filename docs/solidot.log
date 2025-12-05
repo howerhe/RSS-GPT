@@ -3127,3 +3127,10 @@ Append: [研究称火山喷发引发了黑死病的传播](https://www.solidot.o
 append_entries: 7
 Finish: 2025-12-05 14:13:03.158920
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 15:13:32.186775
+Existing_entries: 238
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-05 15:13:33.516085
+Wrote digest feed: docs/solidot-digest.xml
