@@ -3752,3 +3752,19 @@ Append: [IHG: 10%-15% Off Award Stays](https://www.doctorofcredit.com/ihg-10-15-
 append_entries: 1
 Finish: 2025-12-05 20:14:28.326527
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 21:11:43.334360
+Existing_entries: 309
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 964
+Summarized using glm-4.5-air
+Append: [Helium Mobile: Free Plan (No CC Required) With Promo Code BREAKFREE or HELIUMFREE](https://www.doctorofcredit.com/helium-mobile-free-plan-no-cc-required-with-promo-code-breakfree-or-heliumfree/)
+Token length: 614
+Summarized using glm-4.5-air
+Append: [Bank of America Sonesta Card To Be Discontinued](https://www.doctorofcredit.com/bank-of-america-sonesta-card-to-be-discontinued/)
+Token length: 381
+Summarized using glm-4.5-air
+Append: [Disney+: Free Subway Footlong (No Purchase Required, First 200k)](https://www.doctorofcredit.com/disney-free-subway-footlong-no-purchase-required-first-200k/)
+append_entries: 3
+Finish: 2025-12-05 21:12:02.282427
+Wrote digest feed: docs/doctorofcredit-digest.xml

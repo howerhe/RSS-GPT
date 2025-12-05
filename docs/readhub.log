@@ -6527,3 +6527,15 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-05 20:14:05.852220
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 21:11:27.993363
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [小米金融业务换帅：孙谦担任天星数科总裁，向 CFO 林世伟汇报](https://readhub.cn/topic/8ophSdeyZRY)
+Append: [高盛予小米「买入」评级 预期未来数季将有更多 AI 成果公布](https://readhub.cn/topic/8oq4KQuxCB3)
+Append: [百度旗下昆仑芯拟赴港上市](https://readhub.cn/topic/8oqBU0HHR0C)
+Append: [足球巨星 C 罗投资 Perplexity AI](https://readhub.cn/topic/8oqNbsx6D8F)
+Append: [SpaceX 据悉正按 8000 亿美元估值进行股票出售谈判](https://readhub.cn/topic/8oqoidxSPDR)
+append_entries: 5
+Finish: 2025-12-05 21:11:29.542671
+Wrote digest feed: docs/readhub-digest.xml
