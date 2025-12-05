@@ -6495,3 +6495,13 @@ Append: [总产值达 200 亿元，中国首个商业航天产业基地成形起
 append_entries: 4
 Finish: 2025-12-05 16:15:31.926061
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 17:12:28.159064
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [欧洲主要股指开盘集体上涨，欧洲斯托克 50 指数涨 0.23%](https://readhub.cn/topic/8oq4LP6lZFi)
+Append: [与丰田 GR GT 同步打造，雷克萨斯传奇超跑 LFA 电动化复出](https://readhub.cn/topic/8oq8ZqQ37xk)
+Append: [据悉 G7 和欧盟考虑禁止俄罗斯石油出口海运服务，取代油价上限](https://readhub.cn/topic/8oqciCVonsU)
+append_entries: 3
+Finish: 2025-12-05 17:12:29.383292
+Wrote digest feed: docs/readhub-digest.xml

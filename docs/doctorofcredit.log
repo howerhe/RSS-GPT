@@ -3712,3 +3712,13 @@ Append: [Meijer Mperks: $10 Off $150 Visa Giftcards (Valid Until 12/30)](https:/
 append_entries: 1
 Finish: 2025-12-05 16:15:56.443013
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 17:12:43.113457
+Existing_entries: 305
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 201
+Summarized using glm-4.5-air
+Append: [Citi Offers: BJ’s Wholesale Club, 5% Back (Up To $6 Back)](https://www.doctorofcredit.com/citi-offers-bjs-wholesale-club-5-back-up-to-6-back/)
+append_entries: 1
+Finish: 2025-12-05 17:12:48.511214
+Wrote digest feed: docs/doctorofcredit-digest.xml
