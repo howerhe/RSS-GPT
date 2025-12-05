@@ -3059,3 +3059,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-05 06:19:38.560014
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 07:14:50.506222
+Existing_entries: 226
+Fetching from https://www.solidot.org/index.rss
+Append: [俄罗斯屏蔽苹果 FaceTime 和游戏平台 Roblox](https://www.solidot.org/story?sid=82973)
+Append: [Netflix 接近收购 HBO](https://www.solidot.org/story?sid=82972)
+append_entries: 2
+Finish: 2025-12-05 07:14:52.273841
+Wrote digest feed: docs/solidot-digest.xml
