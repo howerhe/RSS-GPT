@@ -3579,3 +3579,22 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-04 23:12:01.116115
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 00:58:10.474439
+Existing_entries: 298
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 421
+Summarized using glm-4.5-air
+Append: [OKX Airdrop: Free Crypto When You Hold $1,000+](https://www.doctorofcredit.com/okx-airdrop-free-crypto-when-you-hold-1000/)
+Token length: 1775
+Summarized using glm-4.5-air
+Append: [Chase Offers: Get 10% Back on Southwest Ticket Purchases (Max $40)](https://www.doctorofcredit.com/chase-offers-get-5-10-back-on-southwest-ticket-purchases-max-15-30/)
+Summarization failed, append the original article
+error: 400 Client Error: Bad Request for url: https://open.bigmodel.cn/api/paas/v4/chat/completions
+Append: [Topcashback: 110% Back On Various VPN Services](https://www.doctorofcredit.com/topcashback-100-back-on-private-internet-access-plans-vpn-1-2-3-years/)
+Token length: 1993
+Summarized using glm-4.5-air
+Append: [Citi AAdvantage Executive 100,000 Mile Offer](https://www.doctorofcredit.com/citi-aadvantage-executive-100000-mile-offer/)
+append_entries: 4
+Finish: 2025-12-05 00:58:25.754479
+Wrote digest feed: docs/doctorofcredit-digest.xml
