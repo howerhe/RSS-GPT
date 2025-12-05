@@ -3092,3 +3092,10 @@ Append: [天文学家观测到至今最大的宇宙旋转结构](https://www.sol
 append_entries: 1
 Finish: 2025-12-05 10:13:44.516606
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 11:11:59.696937
+Existing_entries: 231
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-05 11:12:01.534258
+Wrote digest feed: docs/solidot-digest.xml
