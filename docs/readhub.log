@@ -6484,3 +6484,14 @@ Append: [腾讯混元 2.0 上线 推理能力与效率业界领先](https://read
 append_entries: 10
 Finish: 2025-12-05 15:13:35.923391
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 16:15:30.476368
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [挪威拟从德国再购两艘潜艇](https://readhub.cn/topic/8oqcfMyKqcW)
+Append: [最新实验结果未能支持验证惰性中微子存在](https://readhub.cn/topic/8opxsdjuJni)
+Append: [我国科研团队攻克大尺寸钙钛矿光伏电池量产难题](https://readhub.cn/topic/8oqBSsjqAK8)
+Append: [总产值达 200 亿元，中国首个商业航天产业基地成形起势](https://readhub.cn/topic/8oq4JlmovbH)
+append_entries: 4
+Finish: 2025-12-05 16:15:31.926061
+Wrote digest feed: docs/readhub-digest.xml
