@@ -3742,3 +3742,13 @@ Append: [Klarna Launches Premium & Max Memberships](https://www.doctorofcredit.c
 append_entries: 1
 Finish: 2025-12-05 19:10:54.459627
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 20:14:19.777323
+Existing_entries: 308
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 578
+Summarized using glm-4.5-air
+Append: [IHG: 10%-15% Off Award Stays](https://www.doctorofcredit.com/ihg-10-15-off-award-stays/)
+append_entries: 1
+Finish: 2025-12-05 20:14:28.326527
+Wrote digest feed: docs/doctorofcredit-digest.xml
