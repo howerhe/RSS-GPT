@@ -3084,3 +3084,11 @@ Append: [斯巴鲁车主抱怨驾车过程中弹出全屏广告](https://www.sol
 append_entries: 2
 Finish: 2025-12-05 09:13:43.341848
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 10:13:43.057213
+Existing_entries: 230
+Fetching from https://www.solidot.org/index.rss
+Append: [天文学家观测到至今最大的宇宙旋转结构](https://www.solidot.org/story?sid=82976)
+append_entries: 1
+Finish: 2025-12-05 10:13:44.516606
+Wrote digest feed: docs/solidot-digest.xml
