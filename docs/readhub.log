@@ -6266,3 +6266,13 @@ Append: [今年前 10 个月 我国农产品出口近 6000 亿元](https://readh
 append_entries: 10
 Finish: 2025-12-05 04:22:13.807317
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 05:13:16.621798
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [新东方员工发长文控诉加班遭秒删，杭州新东方回应](https://readhub.cn/topic/8ooUQe7I8hc)
+Append: [陈震偷税追缴并罚共计 247.48 万元](https://readhub.cn/topic/8opq1kk7gjQ)
+Append: [C909 飞机已交付 174 架 占国内支线客机 60% 以上](https://readhub.cn/topic/8opq0nVLsib)
+append_entries: 3
+Finish: 2025-12-05 05:13:18.062786
+Wrote digest feed: docs/readhub-digest.xml
