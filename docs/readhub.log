@@ -6276,3 +6276,23 @@ Append: [C909 飞机已交付 174 架 占国内支线客机 60% 以上](https://
 append_entries: 3
 Finish: 2025-12-05 05:13:18.062786
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-05 06:19:39.583038
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [A 股开盘：三大指数涨跌不一，创业板指涨 0.55%，CPO 概念股走强](https://readhub.cn/topic/8opd8q8U3Hv)
+Append: [可控核聚变概念表现活跃，永鼎股份涨停](https://readhub.cn/topic/8opgjvrybaA)
+Append: [机构：第三季度企业级 SSD 价量齐升，产业营收季增 28%](https://readhub.cn/topic/8opv4j4OEUq)
+Append: [理想汽车累计交付突破 150 万辆](https://readhub.cn/topic/8opl5cAhYUf)
+Append: [创业板指涨超 1%，深证成指涨近 1%](https://readhub.cn/topic/8opv64rSn5x)
+Append: [京东 Joybuy 将于明年正式登陆欧洲](https://readhub.cn/topic/8ooGM80rv8b)
+Append: [遇见小面香港上市公开发售部分获 426 倍认购](https://readhub.cn/topic/8oogcAUliVE)
+Append: [保险股午后持续拉升，中国平安涨超 4%](https://readhub.cn/topic/8ophPiY2msT)
+Append: [特斯拉 FSD 更新：允许车主在自动驾驶模式下发短信](https://readhub.cn/topic/8opaLep5zLm)
+Append: [乐道发布全国换电站电池翻倍计划，将于明年 1 月完成增投](https://readhub.cn/topic/8ophYJgz30W)
+Append: [外卖新规聚焦「幽灵外卖」「爆单」等问题，淘宝闪购、美团、京东回应](https://readhub.cn/topic/8opkHGJBQU2)
+Append: [上海海铁联运业务量突破 100 万标箱，同比增长近两成](https://readhub.cn/topic/8opotb5XEDU)
+Append: [港股百度午后直线拉升涨超 7%](https://readhub.cn/topic/8oprVDDxAJs)
+append_entries: 13
+Finish: 2025-12-05 06:19:40.948615
+Wrote digest feed: docs/readhub-digest.xml
