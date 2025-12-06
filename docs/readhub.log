@@ -6718,3 +6718,13 @@ Append: [因王冠展柜遭破坏 英国伦敦塔暂时关闭](https://readhub.c
 append_entries: 1
 Finish: 2025-12-06 13:20:34.915385
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 14:10:23.621048
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [切尔诺贝利核电站保护罩受损，维修已启动](https://readhub.cn/topic/8os7WFlghMC)
+Append: [深圳机场国际及地区客运航点达 60 个](https://readhub.cn/topic/8os6saHhnB9)
+Append: [福建省在深远海新能源装备领域实现关键技术突破](https://readhub.cn/topic/8os64uBUZi6)
+append_entries: 3
+Finish: 2025-12-06 14:10:25.103668
+Wrote digest feed: docs/readhub-digest.xml

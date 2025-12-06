@@ -3885,3 +3885,13 @@ Append: [[PA, OH, IN, KY, or WV only] First Commonwealth Bank $300-$500 Business
 append_entries: 1
 Finish: 2025-12-06 13:20:56.430736
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 14:10:39.783784
+Existing_entries: 316
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1823
+Summarized using glm-4.5-air
+Append: [[MA, Southern NH only] Metro Credit Union $400 Checking Bonus](https://www.doctorofcredit.com/ma-only-metro-credit-union-300-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-06 14:10:46.898779
+Wrote digest feed: docs/doctorofcredit-digest.xml
