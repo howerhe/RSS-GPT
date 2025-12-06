@@ -3319,3 +3319,10 @@ Append: [三成英国医生在会诊时使用 AI 工具](https://www.solidot.org
 append_entries: 3
 Finish: 2025-12-06 18:15:49.055115
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 19:08:51.213145
+Existing_entries: 241
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-06 19:08:52.879561
+Wrote digest feed: docs/solidot-digest.xml

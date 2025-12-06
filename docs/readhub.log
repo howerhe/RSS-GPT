@@ -6766,3 +6766,12 @@ Append: [今年前 11 个月访港旅客约 4500 万人次，超越 2024 年总�
 append_entries: 6
 Finish: 2025-12-06 18:15:51.860176
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 19:08:54.023212
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [派拉蒙质疑华纳兄弟探索出售程序，指管理层或偏好奈飞出价](https://readhub.cn/topic/8opfzkcAMs4)
+Append: [俞敏洪回应员工写信吐槽加班：已要求调查，有问题会立刻纠正](https://readhub.cn/topic/8orPwr1nTGm)
+append_entries: 2
+Finish: 2025-12-06 19:08:55.584666
+Wrote digest feed: docs/readhub-digest.xml
