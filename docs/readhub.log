@@ -6796,3 +6796,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-06 22:11:17.646611
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 23:11:10.472671
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [马斯克否认「SpaceX 拟通过股份出售寻求 8000 亿美元估值」的传闻](https://readhub.cn/topic/8oseNNZWEb4)
+Append: [以军空袭加沙地带北部造成 3 人死亡](https://readhub.cn/topic/8orueMxXLFq)
+append_entries: 2
+Finish: 2025-12-06 23:11:12.045322
+Wrote digest feed: docs/readhub-digest.xml
