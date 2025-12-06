@@ -6634,3 +6634,15 @@ Append: [中能电气拟现金购三公司股权及超 3 亿债权 预计构成�
 append_entries: 4
 Finish: 2025-12-06 06:17:08.676417
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 07:11:25.024478
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [苹果北京第六家 Apple Store 今日开业，落户大兴荟聚购物中心](https://readhub.cn/topic/8opl2tSRWAY)
+Append: [中金财富 200 亿元小公募债项目获上交所受理](https://readhub.cn/topic/8orcmhvzq9W)
+Append: [中国工商银行董事长廖林会见法国巴黎银行董事长乐明瀚](https://readhub.cn/topic/8orbMVVizET)
+Append: [马斯克 SpaceX 杀入运营商赛道，从太空直接向手机投射 5G 网络](https://readhub.cn/topic/8orFCogn8Ou)
+Append: [Meta 将「凤凰」MR 眼镜发布时间推迟至 2027 年](https://readhub.cn/topic/8orPAZHtmMg)
+append_entries: 5
+Finish: 2025-12-06 07:11:26.212970
+Wrote digest feed: docs/readhub-digest.xml
