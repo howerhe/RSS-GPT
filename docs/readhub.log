@@ -6737,3 +6737,11 @@ Append: [全球首台中国品牌量产 TCR 赛车领克 03+ TCR 明天开售](h
 append_entries: 2
 Finish: 2025-12-06 15:10:57.877343
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 16:13:37.848417
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [中国成功研制首台套 110 千瓦级热耦合海水直接电解制氢系统装置](https://readhub.cn/topic/8osAMojpVmL)
+append_entries: 1
+Finish: 2025-12-06 16:13:39.209317
+Wrote digest feed: docs/readhub-digest.xml

@@ -3905,3 +3905,13 @@ Append: [TD Bank $300 Checking & $200 Savings [CT, DC, DE, FL, MD, ME, MA, NC, N
 append_entries: 1
 Finish: 2025-12-06 15:11:18.361594
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 16:13:53.981868
+Existing_entries: 318
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 516
+Summarized using glm-4.5-air
+Append: [American Express To Lower Transfer Rate To Cathay Pacific To 5:4 (From 1:1)](https://www.doctorofcredit.com/american-express-to-lower-transfer-rate-to-cathay-pacific-to-54-from-11/)
+append_entries: 1
+Finish: 2025-12-06 16:14:03.289620
+Wrote digest feed: docs/doctorofcredit-digest.xml
