@@ -6699,3 +6699,14 @@ Append: [哥伦比亚称飞往委内瑞拉航班受到网络攻击](https://read
 append_entries: 2
 Finish: 2025-12-06 11:09:16.112536
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 12:21:31.395761
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [消息人士：微软与博通洽谈定制芯片合作](https://readhub.cn/topic/8orGe45DaHx)
+Append: [深圳辟谣：网传「318 号函」系伪造，已报警](https://readhub.cn/topic/8oryDTCfW0D)
+Append: [国际原子能机构总干事：扎波罗热核电站失去外部电力供应](https://readhub.cn/topic/8os0Pai3F5Q)
+Append: [加沙地带媒体办公室：加沙燃气供应严重不足](https://readhub.cn/topic/8orzbsljHKs)
+append_entries: 4
+Finish: 2025-12-06 12:21:32.849545
+Wrote digest feed: docs/readhub-digest.xml
