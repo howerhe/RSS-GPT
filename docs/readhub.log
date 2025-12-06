@@ -6612,3 +6612,14 @@ Append: [中信证券：库存拐点已至 年内 LME 铜价有望加速迈向 1
 append_entries: 3
 Finish: 2025-12-06 04:14:13.658350
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 05:12:00.331288
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [好莱坞编剧称：收购华纳兄弟的交易「必须被阻止」](https://readhub.cn/topic/8oqy82v2UDI)
+Append: [特朗普签署法律 撤销阿拉斯加国家石油储备区钻探限制](https://readhub.cn/topic/8orUtpEE5WA)
+Append: [香港特区政府抽取受灾楼宇混凝土芯并开展棚网采样检测](https://readhub.cn/topic/8orUDqKGufv)
+Append: [分析师：大量铜被运往美国 全球铜库存或很快告急](https://readhub.cn/topic/8orKtTNpAV0)
+append_entries: 4
+Finish: 2025-12-06 05:12:02.004953
+Wrote digest feed: docs/readhub-digest.xml
