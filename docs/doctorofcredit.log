@@ -3791,3 +3791,10 @@ Append: [Amazon: $20 Credit When You Spend $100+ On Select Items](https://www.do
 append_entries: 1
 Finish: 2025-12-05 23:12:23.656484
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 00:55:24.806581
+Existing_entries: 315
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-06 00:55:25.076835
+Wrote digest feed: docs/doctorofcredit-digest.xml

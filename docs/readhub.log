@@ -6558,3 +6558,18 @@ Append: [现货金价在美国 PCE 数据发布后短暂扩大涨幅，本周跌
 append_entries: 4
 Finish: 2025-12-05 23:12:04.193698
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 00:55:09.358761
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [iPod 之父自荐接替库克掌舵苹果](https://readhub.cn/topic/8orDjr483Xr)
+Append: [摩尔线程市值冲上 2800 亿，创始人财富暴涨](https://readhub.cn/topic/8oqJNhZuK1z)
+Append: [全市场费率普降，年内 500 余只 ETF 托管费率「探底」](https://readhub.cn/topic/8orCJsN8Dic)
+Append: [年内百余只新股首发上市「两创板」占比超四成](https://readhub.cn/topic/8orBaKFPXl7)
+Append: [重组整合提速 国资布局优化「大动作」频现](https://readhub.cn/topic/8orABJqkrFk)
+Append: [国内首款自适应水凝胶仿生吸盘研发成功](https://readhub.cn/topic/8or81yNQLmi)
+Append: [中指研究院：中西部整体开盘量降低，个盘去化表现良好](https://readhub.cn/topic/8or9RrZVwOK)
+Append: [OpenAI 最快将于下周二发布 GPT-5.2](https://readhub.cn/topic/8or5CVi56vt)
+append_entries: 8
+Finish: 2025-12-06 00:55:10.784184
+Wrote digest feed: docs/readhub-digest.xml
