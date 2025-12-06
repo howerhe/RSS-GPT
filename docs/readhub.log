@@ -6602,3 +6602,13 @@ Append: [委内瑞拉国际航线骤减六成 本土航司计划增开航班](ht
 append_entries: 6
 Finish: 2025-12-06 03:38:10.865749
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 04:14:12.387256
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [长城基金副总经理车君因到龄退休离任](https://readhub.cn/topic/8orS7tcxHUO)
+Append: [赛神医药完成 5300 万美元融资，加速神经退行性疾病创新疗法研发](https://readhub.cn/topic/8oqCwPBCfRA)
+Append: [中信证券：库存拐点已至 年内 LME 铜价有望加速迈向 12000 美元 / 吨](https://readhub.cn/topic/8orKtr8AWBx)
+append_entries: 3
+Finish: 2025-12-06 04:14:13.658350
+Wrote digest feed: docs/readhub-digest.xml
