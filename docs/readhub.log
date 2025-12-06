@@ -6710,3 +6710,11 @@ Append: [加沙地带媒体办公室：加沙燃气供应严重不足](https://r
 append_entries: 4
 Finish: 2025-12-06 12:21:32.849545
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 13:20:33.508969
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [因王冠展柜遭破坏 英国伦敦塔暂时关闭](https://readhub.cn/topic/8os13XjBpRz)
+append_entries: 1
+Finish: 2025-12-06 13:20:34.915385
+Wrote digest feed: docs/readhub-digest.xml
