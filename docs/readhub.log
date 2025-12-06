@@ -6646,3 +6646,21 @@ Append: [Meta 将「凤凰」MR 眼镜发布时间推迟至 2027 年](https://re
 append_entries: 5
 Finish: 2025-12-06 07:11:26.212970
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 08:15:18.858296
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [浙金中心祥源系产品到期无法兑付](https://readhub.cn/topic/8orUvdYGoj9)
+Append: [《网络数据安全风险评估办法（征求意见稿）》公开征求意见](https://readhub.cn/topic/8orjvA90iMi)
+Append: [上汽奥迪 AUDI E7X 纯电 SUV 申报图公布，无缘经典四圈车标](https://readhub.cn/topic/8oqSaAg5wdd)
+Append: [化债落地、管理层调整，碧桂园开启「二次创业」](https://readhub.cn/topic/8opdpHOuEwc)
+Append: [微软批准 CEO 纳德拉 9650 万美元薪酬包](https://readhub.cn/topic/8or3kj0uT0i)
+Append: [证监会主席吴清：证券公司要提供有利于长期投资、价值投资的产品](https://readhub.cn/topic/8orhl49AT4s)
+Append: [证监会主席吴清：适度拓宽券商资本空间与杠杆上限 从价格竞争转向价值竞争](https://readhub.cn/topic/8orhktACm25)
+Append: [A 股投资者总数已超过 2.4 亿](https://readhub.cn/topic/8orh5aaTAic)
+Append: [抖音生活服务启动「洗浴季」活动](https://readhub.cn/topic/8oq03YlZawE)
+Append: [食材供应链转向精细化 2025 年我国食材消费市场规模有望突破 10 万亿元](https://readhub.cn/topic/8orfcdHg0wr)
+Append: [吴清出席中国证券业协会第八次会员大会：深化市场改革 证券业肩负四大使命](https://readhub.cn/topic/8orfbWmO5fH)
+append_entries: 11
+Finish: 2025-12-06 08:15:20.442825
+Wrote digest feed: docs/readhub-digest.xml
