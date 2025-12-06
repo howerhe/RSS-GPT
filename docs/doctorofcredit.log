@@ -3895,3 +3895,13 @@ Append: [[MA, Southern NH only] Metro Credit Union $400 Checking Bonus](https://
 append_entries: 1
 Finish: 2025-12-06 14:10:46.898779
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 15:11:10.777474
+Existing_entries: 317
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4492
+Summarized using glm-4.5-air
+Append: [TD Bank $300 Checking & $200 Savings [CT, DC, DE, FL, MD, ME, MA, NC, NH, NJ, NY, PA, RI, SC, VT, & VA]](https://www.doctorofcredit.com/targeted-td-bank-300-checking-200-savings-bonus/)
+append_entries: 1
+Finish: 2025-12-06 15:11:18.361594
+Wrote digest feed: docs/doctorofcredit-digest.xml

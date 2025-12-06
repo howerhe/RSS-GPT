@@ -6728,3 +6728,12 @@ Append: [福建省在深远海新能源装备领域实现关键技术突破](htt
 append_entries: 3
 Finish: 2025-12-06 14:10:25.103668
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 15:10:55.822245
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [中国科学院东莞材料科学与技术研究所成立](https://readhub.cn/topic/8orr6PRvk7g)
+Append: [全球首台中国品牌量产 TCR 赛车领克 03+ TCR 明天开售](https://readhub.cn/topic/8oqDYdw7QYh)
+append_entries: 2
+Finish: 2025-12-06 15:10:57.877343
+Wrote digest feed: docs/readhub-digest.xml
