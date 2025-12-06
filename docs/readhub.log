@@ -6775,3 +6775,10 @@ Append: [俞敏洪回应员工写信吐槽加班：已要求调查，有问题�
 append_entries: 2
 Finish: 2025-12-06 19:08:55.584666
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 20:12:44.999458
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-06 20:12:46.453347
+Wrote digest feed: docs/readhub-digest.xml
