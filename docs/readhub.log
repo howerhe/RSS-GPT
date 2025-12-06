@@ -6745,3 +6745,11 @@ Append: [中国成功研制首台套 110 千瓦级热耦合海水直接电解制
 append_entries: 1
 Finish: 2025-12-06 16:13:39.209317
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 17:09:59.791656
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [飞行员不够排班，印度最大航司取消数千架次航班](https://readhub.cn/topic/8osB82uO9lx)
+append_entries: 1
+Finish: 2025-12-06 17:10:01.118125
+Wrote digest feed: docs/readhub-digest.xml

@@ -3915,3 +3915,13 @@ Append: [American Express To Lower Transfer Rate To Cathay Pacific To 5:4 (From 
 append_entries: 1
 Finish: 2025-12-06 16:14:03.289620
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 17:10:15.806639
+Existing_entries: 319
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1322
+Summarized using glm-4.5-air
+Append: [[WY & NE In Branch Only] Meridian Trust Federal Credit Union 4% APY On Balances Up To $15,000](https://www.doctorofcredit.com/wy-ne-branch-meridian-trust-federal-credit-union-4-apy-balances-15000/)
+append_entries: 1
+Finish: 2025-12-06 17:10:31.828784
+Wrote digest feed: docs/doctorofcredit-digest.xml
