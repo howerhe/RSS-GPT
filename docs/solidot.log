@@ -3309,3 +3309,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-06 17:09:58.647596
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 18:15:47.234219
+Existing_entries: 238
+Fetching from https://www.solidot.org/index.rss
+Append: [Linus Torvalds 为 Windows 蓝屏死机辩护](https://www.solidot.org/story?sid=82986)
+Append: [家猫在唐朝前后抵达中国](https://www.solidot.org/story?sid=82985)
+Append: [三成英国医生在会诊时使用 AI 工具](https://www.solidot.org/story?sid=82984)
+append_entries: 3
+Finish: 2025-12-06 18:15:49.055115
+Wrote digest feed: docs/solidot-digest.xml

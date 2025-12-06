@@ -6753,3 +6753,16 @@ Append: [飞行员不够排班，印度最大航司取消数千架次航班](htt
 append_entries: 1
 Finish: 2025-12-06 17:10:01.118125
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 18:15:50.189299
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [大湾区大学正式成立](https://readhub.cn/topic/8orUDp0WRDK)
+Append: [传哈啰无人驾驶网约车撞伤两名路人，客服回应正配合相关部门调查](https://readhub.cn/topic/8ornYIHxj3l)
+Append: [阿里系 App 封禁「豆包手机」：淘宝、闲鱼等无法登录](https://readhub.cn/topic/8orRKIvyKd2)
+Append: [大众汽车集团拟未来五年投资 1600 亿欧元](https://readhub.cn/topic/8ornWXbrhO7)
+Append: [《疯狂动物城 2》周边部分品类销量飙升 670%](https://readhub.cn/topic/8osB7wGnnAO)
+Append: [今年前 11 个月访港旅客约 4500 万人次，超越 2024 年总数](https://readhub.cn/topic/8os0S5GvALn)
+append_entries: 6
+Finish: 2025-12-06 18:15:51.860176
+Wrote digest feed: docs/readhub-digest.xml

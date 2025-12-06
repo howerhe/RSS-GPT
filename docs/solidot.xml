@@ -4,6 +4,42 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>Linus Torvalds 为 Windows 蓝屏死机辩护</title>
+<link>https://www.solidot.org/story?sid=82986</link>
+<guid>https://www.solidot.org/story?sid=82986</guid>
+<content:encoded><![CDATA[
+
+Linus Sebastian 采访了 Linus Torvalds，期间谈及了 Torvalds 对 ECC 内存的偏好，Torvalds 在回答中评论了 Windows 著名的蓝屏死机（BSOD）。Torvalds 称很大一部分 BSOD 实际上并非是软件 bug，而是硬件不可靠导致的。而超频也会额外增加系统的不稳定性。他认为使用 ECC 内存能提高系统可靠性，让用户更信任机器。如果没有 ECC，内存迟早会出问题。微软 BSOD 的背后往往是硬件问题而不是软件 bug。他还顺便评论了下马斯克（Elon Musk）对程序员的管理方式。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 06 Dec 2025 23:21:24 +0800</pubDate>
+<pubDate>Sat, 06 Dec 2025 23:21:24 +0800</pubDate>
+</item>
+<item>
+<title>家猫在唐朝前后抵达中国</title>
+<link>https://www.solidot.org/story?sid=82985</link>
+<guid>https://www.solidot.org/story?sid=82985</guid>
+<content:encoded><![CDATA[
+
+根据发表在《Cell Genomics》的一项遗传分析，今天的家猫（Felis catus）是在唐朝前后抵达中国。此前中国出现的捕鼠动物是豹猫（Prionailurus bengalensis）。现代家猫起源于近东的非洲野猫，经过驯化后传播至全球。中国最早的猫科动物考古记录来自距今五千多年的陕西泉护村遗址，一具猫类遗骸显示其与人类关系密切，曾被认为可能是家猫，但后被确认为体型与家猫相近的本土猫科动物豹猫。因此家猫何时以及如何传入中国的问题一直悬而未解。为解答这一问题，北大博士后韩雨和同事采集和分析了来自人居环境、时间跨度超过五千年的 22 份小型猫科动物骨骼样本，涵盖了中国已知大部分的古代猫类遗存。通过古 DNA 技术获得了全部 22 份线粒体基因组和 7 份全基因组。其中 7 份为豹猫样本，年代从 5400 年前新石器时代晚期的仰韶文化延续至 1800 年前的东汉末年，揭示了豹猫与人类持续 3500 多年的密切关系。研究中 14 份样本鉴定为家猫，均来自唐代及其后的时期。中国迄今最早的家猫遗骸出土于陕西靖边唐朝统万城遗址，碳14测年为公元 706 至 883 年，距今约 1200 年。基因组表型复原显示，该猫为雄性，毛色可能为纯白或白斑狸花，短毛、长尾，且不携带现代家猫常见的遗传缺陷。结合文献记载与考古图像，家猫传入中国的时间应早于出土遗存的年代，可能在公元 6—7 世纪唐代前后。基因组分析进一步确定了家猫传入中国的路线。中国唐代家猫与哈萨克斯坦占肯特遗址出土的同时期家猫，以及近东黎凡特地区的非洲野猫和家猫遗传关系紧密。这三地恰位于陆上丝绸之路的重要枢纽，表明家猫很可能随商旅往来，经由丝绸之路自地中海东岸途经中亚传入中国。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 06 Dec 2025 22:56:23 +0800</pubDate>
+<pubDate>Sat, 06 Dec 2025 22:56:23 +0800</pubDate>
+</item>
+<item>
+<title>三成英国医生在会诊时使用 AI 工具</title>
+<link>https://www.solidot.org/story?sid=82984</link>
+<guid>https://www.solidot.org/story?sid=82984</guid>
+<content:encoded><![CDATA[
+
+根据 Nuffield Trust 智库的一项研究，三成英国全科医生在会诊时使用 AI 工具如 ChatGPT，由于 AI 工具不可避免存在幻觉，使用这些工具可能会导致医生犯错和面临诉讼。研究调查了 2108 名家庭医生，598 人（28%）的人表示已在使用 AI 工具，男性医生（33%）使用 AI 的比例高于女性医生（25%），富裕地区医生使用 AI 的比例远高于贫困地区。报告指出，无论是否使用 AI，绝大多数全科医生都担心诊所可能会面临“职业责任和医疗法律问题”、“临床错误风险”以及“患者隐私和数据安全”问题。调查还发现，使用 AI 工具的医生将节省下来的时间用于休息而不是接诊更多患者。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 06 Dec 2025 21:59:31 +0800</pubDate>
+<pubDate>Sat, 06 Dec 2025 21:59:31 +0800</pubDate>
+</item>
 
 <item>
 <title>论文抄袭率更高的人更可能进入政府部门且晋升更快</title>

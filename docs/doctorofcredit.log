@@ -3925,3 +3925,16 @@ Append: [[WY & NE In Branch Only] Meridian Trust Federal Credit Union 4% APY On 
 append_entries: 1
 Finish: 2025-12-06 17:10:31.828784
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-06 18:16:06.184360
+Existing_entries: 320
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3720
+Summarized using glm-4.5-air
+Append: [[CA only] California Bank & Trust $500 Business Checking Bonus](https://www.doctorofcredit.com/ca-only-california-bank-trust-250-business-checking-bonus/)
+Token length: 5411
+Summarized using glm-4.5-air
+Append: [[Targeted, YMMV] Bank of America $1,000/$1,500 Business Checking Bonus with $20k/$50k Deposit (Available Online)](https://www.doctorofcredit.com/targeted-ymmv-bank-of-america-1000-business-checking-bonus-with-30000-deposit-available-online/)
+append_entries: 2
+Finish: 2025-12-06 18:16:21.052005
+Wrote digest feed: docs/doctorofcredit-digest.xml
