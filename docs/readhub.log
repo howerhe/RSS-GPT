@@ -6834,3 +6834,14 @@ Append: [2025 医保药品目录公布：新增药品 114 种 50 种为 1 类创
 append_entries: 10
 Finish: 2025-12-07 03:20:28.814548
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 04:26:48.929169
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [两部门：积极推动商保创新药目录纳入商业健康保险保障范围](https://readhub.cn/topic/8ot7fEpGXbA)
+Append: [水利测雨雷达系统在三峡工程完成部署](https://readhub.cn/topic/8ot6DSL9RdQ)
+Append: [两款新流感药物成功进入医保目录](https://readhub.cn/topic/8ot3Ms5Wwlb)
+Append: [影片《疯狂动物城 2》票房突破 29 亿](https://readhub.cn/topic/8ot3Q5kLlFg)
+append_entries: 4
+Finish: 2025-12-07 04:26:50.253367
+Wrote digest feed: docs/readhub-digest.xml
