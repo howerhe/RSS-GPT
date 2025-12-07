@@ -4119,3 +4119,13 @@ Append: [American Red Cross: Get $15 Amazon eGiftcard For Donating Blood (12/8-1
 append_entries: 2
 Finish: 2025-12-07 18:16:19.551118
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 19:09:13.279921
+Existing_entries: 331
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3188
+Summarized using glm-4.5-air
+Append: [$50 Giftcard Bonus for Opening a 529 Plan with ScholarShare529](https://www.doctorofcredit.com/50-bonus-for-opening-529-plan-with-scholarshare-and-virginia529/)
+append_entries: 1
+Finish: 2025-12-07 19:09:18.274333
+Wrote digest feed: docs/doctorofcredit-digest.xml
