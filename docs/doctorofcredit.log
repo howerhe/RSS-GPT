@@ -4106,3 +4106,16 @@ Append: [Crypto.com Stocks: 2%-3% Transfer Bonus (Two Year Hold Period)](https:/
 append_entries: 1
 Finish: 2025-12-07 17:10:05.851884
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 18:16:12.004766
+Existing_entries: 329
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2469
+Summarized using glm-4.5-air
+Append: [[IL only] Streator Onized Credit Union (SOCU) $100 Checking Bonus](https://www.doctorofcredit.com/il-only-streator-onized-credit-union-socu-100-checking-bonus/)
+Token length: 633
+Summarized using glm-4.5-air
+Append: [American Red Cross: Get $15 Amazon eGiftcard For Donating Blood (12/8-12/18)](https://www.doctorofcredit.com/american-red-cross-get-15-amazon-egiftcard-for-donating-blood-12-8-12-18/)
+append_entries: 2
+Finish: 2025-12-07 18:16:19.551118
+Wrote digest feed: docs/doctorofcredit-digest.xml
