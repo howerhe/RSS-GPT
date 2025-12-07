@@ -6817,3 +6817,20 @@ Append: [印度一夜店发生火灾，造成至少 23 人死亡](https://readhu
 append_entries: 5
 Finish: 2025-12-07 01:03:02.275072
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 03:20:27.523587
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [即日起，北京开展高层建筑重大火灾风险隐患排查整治](https://readhub.cn/topic/8osznE48IKt)
+Append: [11 月末，我国外汇储备规模为 33464 亿美元](https://readhub.cn/topic/8osz4O7ajZH)
+Append: [中国央行连续第 13 个月增持黄金](https://readhub.cn/topic/8osz4QeqVd4)
+Append: [国家药监局：今年我国批准创新药数量已创历史新高](https://readhub.cn/topic/8osz4Pxz4zJ)
+Append: [航行警告：南海海域有火箭残骸坠落](https://readhub.cn/topic/8osrDh7V9Op)
+Append: [广西「十五五」规划建议：高标准建设中国 — 东盟国家人工智能应用合作中心](https://readhub.cn/topic/8osxgdbq3au)
+Append: [国家医保局：医保基金为协议期内的谈判药支出超过 4600 亿元](https://readhub.cn/topic/8osxek3v0y1)
+Append: [广西「十五五」规划建议发布：大力发展向海经济](https://readhub.cn/topic/8osxgQZQT99)
+Append: [《福建省民营经济促进条例》公布 明年 1 月 1 日起施行](https://readhub.cn/topic/8oswFV6tVgV)
+Append: [2025 医保药品目录公布：新增药品 114 种 50 种为 1 类创新药](https://readhub.cn/topic/8osu9U2DMQ6)
+append_entries: 10
+Finish: 2025-12-07 03:20:28.814548
+Wrote digest feed: docs/readhub-digest.xml
