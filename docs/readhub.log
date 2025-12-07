@@ -6961,3 +6961,11 @@ Append: [两部门：加强医保支付范围管理](https://readhub.cn/topic/8o
 append_entries: 7
 Finish: 2025-12-07 13:19:42.023933
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 14:10:42.376108
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [祥源集团回应金融产品逾期兑付：三家上市公司无影响，不承担债务、也不提供担保](https://readhub.cn/topic/8otcNnSyrzz)
+append_entries: 1
+Finish: 2025-12-07 14:10:43.917431
+Wrote digest feed: docs/readhub-digest.xml

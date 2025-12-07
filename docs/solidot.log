@@ -3438,3 +3438,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-07 13:19:38.965464
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 14:10:39.503893
+Existing_entries: 241
+Fetching from https://www.solidot.org/index.rss
+Append: [反 AI 活动人士失踪两周，警方警告他可能携带武器且危险](https://www.solidot.org/story?sid=82987)
+append_entries: 1
+Finish: 2025-12-07 14:10:41.210819
+Wrote digest feed: docs/solidot-digest.xml
