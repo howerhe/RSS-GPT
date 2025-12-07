@@ -6867,3 +6867,11 @@ Append: [黄仁勋在美国盛赞华为：史上最强科技公司之一 值得�
 append_entries: 6
 Finish: 2025-12-07 06:17:03.494666
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 07:11:42.306925
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [工信部召开务虚会，研究谋划「十五五」及开局之年工作](https://readhub.cn/topic/8otINAGdWMf)
+append_entries: 1
+Finish: 2025-12-07 07:11:43.864139
+Wrote digest feed: docs/readhub-digest.xml
