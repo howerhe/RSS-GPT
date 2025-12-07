@@ -6979,3 +6979,10 @@ Append: [碧桂园服务启动组织升级，聚焦服务质量与未来增长](
 append_entries: 3
 Finish: 2025-12-07 15:10:50.238496
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 16:13:01.857482
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-07 16:13:03.404032
+Wrote digest feed: docs/readhub-digest.xml

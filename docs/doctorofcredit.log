@@ -4080,3 +4080,19 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-07 15:11:05.640406
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 16:13:18.675622
+Existing_entries: 325
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2934
+Summarized using glm-4.5-air
+Append: [SkyOne Federal Credit Union Up To $50,000 Business Bonus (1% On Deposits + 3% APY)](https://www.doctorofcredit.com/skyone-federal-credit-union-up-to-50000-business-bonus-1-on-deposits-3-apy/)
+Token length: 1165
+Summarized using glm-4.5-air
+Append: [Capital One Shopping: 15% Back at BestBuy.com](https://www.doctorofcredit.com/capital-one-shopping-15-back-at-bestbuy-com/)
+Token length: 732
+Summarized using glm-4.5-air
+Append: [AmEx Offers: Get 10% Back On Home Depot, Up To $25 Back](https://www.doctorofcredit.com/amex-wells-usbank-offers-get-10-back-on-home-depot-up-to-25-back/)
+append_entries: 3
+Finish: 2025-12-07 16:13:31.469740
+Wrote digest feed: docs/doctorofcredit-digest.xml
