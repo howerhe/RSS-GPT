@@ -7028,3 +7028,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-07 22:11:17.738674
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 23:11:07.751864
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [调查：美联储 12 月降息 25 个基点的概率为 86.2%](https://readhub.cn/topic/8ospvCJ2EoC)
+Append: [多地发行专项债投向政府投资基金](https://readhub.cn/topic/8ouIZoVYb5X)
+Append: [长城魏牌回应「蓝山车型仪表装饰板出现局部裂纹」](https://readhub.cn/topic/8otQx8ieh2c)
+append_entries: 3
+Finish: 2025-12-07 23:11:09.262155
+Wrote digest feed: docs/readhub-digest.xml

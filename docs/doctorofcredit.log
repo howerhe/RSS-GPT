@@ -4150,3 +4150,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-07 22:11:33.824103
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 23:11:25.272225
+Existing_entries: 332
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 342
+Summarized using glm-4.5-air
+Append: [Dollar General: Save 15% On Giftcards For Starbucks, Mcdonald’s & More (12/12 Only)](https://www.doctorofcredit.com/dollar-general-save-15-on-giftcards-for-starbucks-mcdonalds-more-12-12-only/)
+append_entries: 1
+Finish: 2025-12-07 23:11:29.839597
+Wrote digest feed: docs/doctorofcredit-digest.xml
