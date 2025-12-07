@@ -3446,3 +3446,10 @@ Append: [反 AI 活动人士失踪两周，警方警告他可能携带武器且�
 append_entries: 1
 Finish: 2025-12-07 14:10:41.210819
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 15:10:45.806528
+Existing_entries: 242
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-07 15:10:47.377876
+Wrote digest feed: docs/solidot-digest.xml

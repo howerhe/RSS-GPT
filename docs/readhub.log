@@ -6969,3 +6969,13 @@ Append: [祥源集团回应金融产品逾期兑付：三家上市公司无影�
 append_entries: 1
 Finish: 2025-12-07 14:10:43.917431
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 15:10:48.581714
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [俄副总理：准备迎接无限量印度工人](https://readhub.cn/topic/8otHhgWrrvs)
+Append: [新疆和田地区于田县发生 3.3 级地震](https://readhub.cn/topic/8orhnjSWXkm)
+Append: [碧桂园服务启动组织升级，聚焦服务质量与未来增长](https://readhub.cn/topic/8otb5chn18V)
+append_entries: 3
+Finish: 2025-12-07 15:10:50.238496
+Wrote digest feed: docs/readhub-digest.xml
