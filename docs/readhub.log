@@ -7007,3 +7007,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-07 19:08:57.787179
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 20:12:48.846764
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-07 20:12:50.379786
+Wrote digest feed: docs/readhub-digest.xml
