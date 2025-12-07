@@ -4096,3 +4096,13 @@ Append: [AmEx Offers: Get 10% Back On Home Depot, Up To $25 Back](https://www.do
 append_entries: 3
 Finish: 2025-12-07 16:13:31.469740
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 17:10:00.671156
+Existing_entries: 328
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 489
+Summarized using glm-4.5-air
+Append: [Crypto.com Stocks: 2%-3% Transfer Bonus (Two Year Hold Period)](https://www.doctorofcredit.com/crypto-com-stocks-2-3-transfer-bonus-two-year-hold-period/)
+append_entries: 1
+Finish: 2025-12-07 17:10:05.851884
+Wrote digest feed: docs/doctorofcredit-digest.xml
