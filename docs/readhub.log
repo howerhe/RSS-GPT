@@ -6845,3 +6845,12 @@ Append: [影片《疯狂动物城 2》票房突破 29 亿](https://readhub.cn/to
 append_entries: 4
 Finish: 2025-12-07 04:26:50.253367
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 05:11:24.884299
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [两款阿尔茨海默病治疗药物进入首版商保创新药目录](https://readhub.cn/topic/8ot491UX5oa)
+Append: [加快发展新质生产力 上海自动驾驶测试道路总里程超 5200 公里](https://readhub.cn/topic/8ot9nYhb7F0)
+append_entries: 2
+Finish: 2025-12-07 05:11:26.530541
+Wrote digest feed: docs/readhub-digest.xml
