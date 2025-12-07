@@ -6924,3 +6924,13 @@ Append: [交建股份：公司不承担任何兑付及担保义务 生产经营�
 append_entries: 2
 Finish: 2025-12-07 10:11:22.255716
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 11:09:42.209221
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [泽连斯基：本周俄向乌发射超 1600 架无人机](https://readhub.cn/topic/8otYu9NUzYm)
+Append: [伦敦希思罗机场多人遭袭击受伤](https://readhub.cn/topic/8otYu7RQfXT)
+Append: [康诺亚康悦达 ® 纳入国家基本医疗保险药品目录](https://readhub.cn/topic/8otBIlh1SOR)
+append_entries: 3
+Finish: 2025-12-07 11:09:43.972747
+Wrote digest feed: docs/readhub-digest.xml
