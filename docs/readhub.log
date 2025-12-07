@@ -7014,3 +7014,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-07 20:12:50.379786
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-07 21:09:52.413097
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-07 21:09:53.882575
+Wrote digest feed: docs/readhub-digest.xml
