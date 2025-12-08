@@ -3586,3 +3586,10 @@ Append: [Calibre 最新更新加入 AI，不满的用户创建了移除 AI 的�
 append_entries: 3
 Finish: 2025-12-08 10:14:58.457261
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 11:11:53.599519
+Existing_entries: 249
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-08 11:11:55.218238
+Wrote digest feed: docs/solidot-digest.xml
