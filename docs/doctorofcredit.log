@@ -4325,3 +4325,16 @@ Append: [Kroger.com: 5% Off Most Giftcards – Stacks With Other Deals (Lowe’s
 append_entries: 1
 Finish: 2025-12-08 21:11:49.812915
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 22:12:28.186749
+Existing_entries: 339
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 313
+Summarized using glm-4.5-air
+Append: [Amazon: $25 Off When You Buy $100+ In Selected Toys](https://www.doctorofcredit.com/amazon-25-off-when-you-buy-100-in-selected-toys/)
+Token length: 649
+Summarized using glm-4.5-air
+Append: [[YMMV] Capital One Travel: $200 Off Premier Or Lifestyle Collection Vacation Rental Booking](https://www.doctorofcredit.com/ymmv-capital-one-travel-200-off-premier-or-lifestyle-collection-vacation-rental-booking/)
+append_entries: 2
+Finish: 2025-12-08 22:12:35.665571
+Wrote digest feed: docs/doctorofcredit-digest.xml
