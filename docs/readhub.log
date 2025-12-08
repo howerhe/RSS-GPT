@@ -7171,3 +7171,13 @@ Append: [港股华虹半导体、中芯国际涨超 4%](https://readhub.cn/topic
 append_entries: 13
 Finish: 2025-12-08 06:21:48.590200
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 07:17:43.178413
+Existing_entries: 1013
+Fetching from https://readhub.cn/rss
+Append: [汇顶科技为三星首款三折叠屏手机触控方案供应商](https://readhub.cn/topic/8outgdsqosB)
+Append: [微软发布轻量级实时 TTS 模型 VibeVoice-Realtime-0.5B](https://readhub.cn/topic/8ouejXwHo8c)
+Append: [万达商管 4 亿美元债寻求展期两年 下月初召开债券持有人会议](https://readhub.cn/topic/8ouvrPTmPn8)
+append_entries: 3
+Finish: 2025-12-08 07:17:44.562218
+Wrote digest feed: docs/readhub-digest.xml
