@@ -4257,3 +4257,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-08 13:29:47.876364
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 14:13:47.069665
+Existing_entries: 335
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 559
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: 100k American Airlines Offer, Free Subway & More](https://www.doctorofcredit.com/best-posts-last-week-100k-american-airlines-offer-free-subway-more/)
+append_entries: 1
+Finish: 2025-12-08 14:13:51.386690
+Wrote digest feed: docs/doctorofcredit-digest.xml

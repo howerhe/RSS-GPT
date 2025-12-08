@@ -7328,3 +7328,15 @@ Append: [欧盟：Meta 承诺根据《数字市场法案》为欧盟用户提供
 append_entries: 16
 Finish: 2025-12-08 13:29:31.746816
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 14:13:28.712385
+Existing_entries: 1016
+Fetching from https://readhub.cn/rss
+Append: [派拉蒙提出每股 30 美元现金收购华纳兄弟探索，企业价值达 1084 亿美元](https://readhub.cn/topic/8ovTSEEsr0l)
+Append: [美国天然气跌 3.88%，报 4.066 美元 / 百万英热](https://readhub.cn/topic/8ovNiMDBX17)
+Append: [苏豪时尚：拟与间接控股股东进行资产置换 预计构成重大资产重组](https://readhub.cn/topic/8ovSlzejXeu)
+Append: [波音敲定对精神航空系统公司的收购，实施重大供应链重组](https://readhub.cn/topic/8ovRzxy1Un0)
+Append: [京基智农：拟 1 亿元-2 亿元回购股份，回购价格不超过 23.7 元 / 股](https://readhub.cn/topic/8ovPtFuojWS)
+append_entries: 5
+Finish: 2025-12-08 14:13:30.835443
+Wrote digest feed: docs/readhub-digest.xml
