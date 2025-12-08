@@ -4277,3 +4277,10 @@ Append: [Hilton Confirms New Invite Only Program ‘The Honors Society’](https
 append_entries: 1
 Finish: 2025-12-08 15:14:36.377885
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 16:16:51.985277
+Existing_entries: 337
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-08 16:16:52.341584
+Wrote digest feed: docs/doctorofcredit-digest.xml

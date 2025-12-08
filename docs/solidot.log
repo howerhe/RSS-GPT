@@ -3624,3 +3624,10 @@ Append: [常用抗抑郁药显著降低男性家暴率](https://www.solidot.org/
 append_entries: 3
 Finish: 2025-12-08 15:14:13.199502
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 16:16:31.311749
+Existing_entries: 252
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-08 16:16:33.069863
+Wrote digest feed: docs/solidot-digest.xml
