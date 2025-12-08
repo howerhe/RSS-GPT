@@ -3516,3 +3516,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-08 00:58:21.718571
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 02:48:58.267766
+Existing_entries: 242
+Fetching from https://www.solidot.org/index.rss
+Append: [切尔诺贝利防护罩在俄罗斯无人机袭击后失去防辐射泄漏能力](https://www.solidot.org/story?sid=82990)
+Append: [德国 Schleswig-Holstein 州已取消近八成的微软软件许可证](https://www.solidot.org/story?sid=82989)
+Append: [Jolla 新 Linux 手机开放预购](https://www.solidot.org/story?sid=82988)
+append_entries: 3
+Finish: 2025-12-08 02:49:00.089861
+Wrote digest feed: docs/solidot-digest.xml

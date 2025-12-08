@@ -4170,3 +4170,10 @@ Append: [[OH Only] BMI Federal Credit Union $300 Checking Bonus – Direct Depos
 append_entries: 1
 Finish: 2025-12-08 00:58:44.658323
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 02:49:18.506206
+Existing_entries: 334
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-08 02:49:18.791860
+Wrote digest feed: docs/doctorofcredit-digest.xml
