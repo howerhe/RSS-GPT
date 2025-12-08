@@ -3526,3 +3526,10 @@ Append: [Jolla 新 Linux 手机开放预购](https://www.solidot.org/story?sid=8
 append_entries: 3
 Finish: 2025-12-08 02:49:00.089861
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 03:51:37.154524
+Existing_entries: 245
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-08 03:51:39.103106
+Wrote digest feed: docs/solidot-digest.xml
