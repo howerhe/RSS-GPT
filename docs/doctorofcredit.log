@@ -4315,3 +4315,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-08 20:14:27.264477
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 21:11:44.639467
+Existing_entries: 338
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2177
+Summarized using glm-4.5-air
+Append: [Kroger.com: 5% Off Most Giftcards – Stacks With Other Deals (Lowe’s, Uber and More)(FESTIVE5)](https://www.doctorofcredit.com/kroger-com-5-off-most-giftcards-stacks-with-other-deals-lowes-uber-and-morefestive5/)
+append_entries: 1
+Finish: 2025-12-08 21:11:49.812915
+Wrote digest feed: docs/doctorofcredit-digest.xml

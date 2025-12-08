@@ -7404,3 +7404,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-08 20:14:10.456507
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 21:11:25.517106
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美股大型科技股盘前涨跌不一，特斯拉跌超 1%](https://readhub.cn/topic/8ovNzIe59nw)
+Append: [美国将为受关税政策影响农民提供 120 亿美元救助](https://readhub.cn/topic/8ovr266eIYv)
+append_entries: 2
+Finish: 2025-12-08 21:11:28.225138
+Wrote digest feed: docs/readhub-digest.xml
