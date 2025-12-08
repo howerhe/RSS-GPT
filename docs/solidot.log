@@ -3614,3 +3614,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-08 14:13:27.470473
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 15:14:06.872247
+Existing_entries: 249
+Fetching from https://www.solidot.org/index.rss
+Append: [欧盟对 X 罚款 1.2 亿欧元，X 封杀欧盟广告账户](https://www.solidot.org/story?sid=82997)
+Append: [JavaScript 诞生三十年](https://www.solidot.org/story?sid=82996)
+Append: [常用抗抑郁药显著降低男性家暴率](https://www.solidot.org/story?sid=82995)
+append_entries: 3
+Finish: 2025-12-08 15:14:13.199502
+Wrote digest feed: docs/solidot-digest.xml
