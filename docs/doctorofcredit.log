@@ -4160,3 +4160,13 @@ Append: [Dollar General: Save 15% On Giftcards For Starbucks, Mcdonald’s & Mor
 append_entries: 1
 Finish: 2025-12-07 23:11:29.839597
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 00:58:39.828794
+Existing_entries: 333
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3147
+Summarized using glm-4.5-air
+Append: [[OH Only] BMI Federal Credit Union $300 Checking Bonus – Direct Deposit Not Required](https://www.doctorofcredit.com/oh-only-bmi-federal-credit-union-150-checking-bonus-direct-deposit-not-required/)
+append_entries: 1
+Finish: 2025-12-08 00:58:44.658323
+Wrote digest feed: docs/doctorofcredit-digest.xml
