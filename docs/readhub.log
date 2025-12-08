@@ -7388,3 +7388,12 @@ Append: [谷歌将于 2026 年在 Gemini 提供广告服务](https://readhub.cn/
 append_entries: 4
 Finish: 2025-12-08 18:19:18.307841
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 19:10:45.668127
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [谷歌：首款人工智能眼镜将于 2026 年问世](https://readhub.cn/topic/8ovlItTXymt)
+Append: [WTI 原油跌 1%，报 59.478 美元 / 桶](https://readhub.cn/topic/8ovETxjFiob)
+append_entries: 2
+Finish: 2025-12-08 19:10:47.213409
+Wrote digest feed: docs/readhub-digest.xml

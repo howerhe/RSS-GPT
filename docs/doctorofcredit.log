@@ -4301,3 +4301,10 @@ Append: [[YMMV] American Express Delta Offers – Up To 125,000 Miles No Lifetim
 append_entries: 1
 Finish: 2025-12-08 18:19:38.564768
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 19:11:03.509788
+Existing_entries: 338
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-08 19:11:03.917906
+Wrote digest feed: docs/doctorofcredit-digest.xml
