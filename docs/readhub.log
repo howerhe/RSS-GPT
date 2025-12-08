@@ -7369,3 +7369,11 @@ Append: [波罗的海干散货指数跌 1.21%，至 2694 点](https://readhub.cn
 append_entries: 6
 Finish: 2025-12-08 16:16:35.876992
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 17:13:24.280447
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [日本东部近海发生强震，预计海啸不会对我国造成影响](https://readhub.cn/topic/8ovXmzoxNdZ)
+append_entries: 1
+Finish: 2025-12-08 17:13:25.733178
+Wrote digest feed: docs/readhub-digest.xml
