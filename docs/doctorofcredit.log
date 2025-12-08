@@ -4291,3 +4291,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-08 17:13:42.629080
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 18:19:34.806884
+Existing_entries: 337
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 5789
+Summarized using glm-4.5-air
+Append: [[YMMV] American Express Delta Offers – Up To 125,000 Miles No Lifetime Language](https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/)
+append_entries: 1
+Finish: 2025-12-08 18:19:38.564768
+Wrote digest feed: docs/doctorofcredit-digest.xml

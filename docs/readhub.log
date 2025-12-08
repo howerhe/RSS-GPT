@@ -7377,3 +7377,14 @@ Append: [日本东部近海发生强震，预计海啸不会对我国造成影�
 append_entries: 1
 Finish: 2025-12-08 17:13:25.733178
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-08 18:19:16.836763
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [新纪元能源与谷歌宣布合作，开发多个数据中心](https://readhub.cn/topic/8ovKsqwc8DY)
+Append: [抖音副总裁李亮：AI 手机助手本质是「机主」授权，与入侵、黑客、隐私无关](https://readhub.cn/topic/8ovKuvH0W9y)
+Append: [苹果芯片主管告诉员工他「近期」不会离职](https://readhub.cn/topic/8ovcEFHcu1I)
+Append: [谷歌将于 2026 年在 Gemini 提供广告服务](https://readhub.cn/topic/8ovh1aRNngG)
+append_entries: 4
+Finish: 2025-12-08 18:19:18.307841
+Wrote digest feed: docs/readhub-digest.xml
