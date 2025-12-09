@@ -7780,3 +7780,13 @@ Append: [EIA 短期能源展望报告：预计 2025 年 WTI 原油价格为 65.3
 append_entries: 1
 Finish: 2025-12-09 18:16:41.905447
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 19:09:41.093773
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [ChatGPT 周活跃用户数接近 9 亿](https://readhub.cn/topic/8oxCbgqnNT3)
+Append: [OpenAI 与 Linux 基金会共同创立 Agentic AI 基金会](https://readhub.cn/topic/8oxLBdXWz0d)
+Append: [谷歌云：推出由 Gemini 驱动的编码智能体 AlphaEvolve](https://readhub.cn/topic/8oxRdYrGeNz)
+append_entries: 3
+Finish: 2025-12-09 19:09:42.271760
+Wrote digest feed: docs/readhub-digest.xml
