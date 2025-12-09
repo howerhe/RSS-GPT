@@ -4364,3 +4364,10 @@ Append: [[YMMV] Walmart: Save $10 Off $50 With Promo Code HOLIDAY10 (Grocery Pic
 append_entries: 2
 Finish: 2025-12-09 00:58:02.144333
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 02:46:23.250491
+Existing_entries: 345
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-09 02:46:23.598590
+Wrote digest feed: docs/doctorofcredit-digest.xml

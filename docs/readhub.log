@@ -7459,3 +7459,12 @@ Append: [美联储 12 月降息 25 个基点的概率为 89.4%](https://readhub.
 append_entries: 19
 Finish: 2025-12-09 00:57:36.091960
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 02:46:05.948318
+Existing_entries: 1019
+Fetching from https://readhub.cn/rss
+Fetch error: 503
+Fetch failed from https://readhub.cn/rss
+append_entries: 0
+error when rendering xml, skip docs/readhub
+error building digest: 'NoneType' object has no attribute 'feed'
