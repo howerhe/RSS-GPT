@@ -4509,3 +4509,16 @@ Append: [Breeze Airways: 40% Off Base Price With Promo Code TWIST](https://www.d
 append_entries: 2
 Finish: 2025-12-09 20:13:43.595920
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 21:11:15.881502
+Existing_entries: 349
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1505
+Summarized using glm-4.5-air
+Append: [Rakuten: Get $50/5k For Signing Up With Coinbase & Making $100 In Trades](https://www.doctorofcredit.com/rakuten-get-40-4k-for-signing-up-with-coinbase-making-100-in-trades/)
+Token length: 1186
+Summarized using glm-4.5-air
+Append: [[YMMV] American Express Blue Business Plus 75,000 Points Signup Bonus (No Lifetime Language)](https://www.doctorofcredit.com/ymmv-american-express-blue-business-plus-75000-points-signup-bonus-no-lifetime-language/)
+append_entries: 2
+Finish: 2025-12-09 21:11:25.538494
+Wrote digest feed: docs/doctorofcredit-digest.xml
