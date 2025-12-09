@@ -7772,3 +7772,11 @@ Append: [美国 CFTC：批准衍生品交易使用比特币、以太坊等作为
 append_entries: 1
 Finish: 2025-12-09 17:14:14.646821
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 18:16:40.660314
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [EIA 短期能源展望报告：预计 2025 年 WTI 原油价格为 65.32 美元 / 桶](https://readhub.cn/topic/8oxNM8djqSr)
+append_entries: 1
+Finish: 2025-12-09 18:16:41.905447
+Wrote digest feed: docs/readhub-digest.xml
