@@ -7790,3 +7790,12 @@ Append: [谷歌云：推出由 Gemini 驱动的编码智能体 AlphaEvolve](http
 append_entries: 3
 Finish: 2025-12-09 19:09:42.271760
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 20:13:15.238611
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [《阿凡达 3》中国首映](https://readhub.cn/topic/8ov7O9evc2f)
+Append: [身份安全公司 Saviynt 完成 7 亿美元融资，估值近 30 亿美元](https://readhub.cn/topic/8oxByGHbb3g)
+append_entries: 2
+Finish: 2025-12-09 20:13:16.509388
+Wrote digest feed: docs/readhub-digest.xml

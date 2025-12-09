@@ -4496,3 +4496,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-09 19:09:59.890481
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 20:13:33.651557
+Existing_entries: 347
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3992
+Summarized using glm-4.5-air
+Append: [Chase Southwest Personal Cards: 85,000 Points Signup Bonus (Via Public & Referral Links)](https://www.doctorofcredit.com/chase-southwest-personal-cards-85000-points-signup-bonus-via-referral-link/)
+Token length: 306
+Summarized using glm-4.5-air
+Append: [Breeze Airways: 40% Off Base Price With Promo Code TWIST](https://www.doctorofcredit.com/breeze-airways-40-off-base-price-with-promo-code-twist/)
+append_entries: 2
+Finish: 2025-12-09 20:13:43.595920
+Wrote digest feed: docs/doctorofcredit-digest.xml
