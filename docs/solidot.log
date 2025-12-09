@@ -3787,3 +3787,19 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-09 15:14:54.384175
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 16:16:47.339033
+Existing_entries: 254
+Fetching from https://www.solidot.org/index.rss
+Append: [癌症率激增引发癌症过早发现的争论](https://www.solidot.org/story?sid=83008)
+Append: [加密货币帮助犯罪分子洗钱和逃避制裁](https://www.solidot.org/story?sid=83007)
+Append: [RMS 谈 ChatGPT](https://www.solidot.org/story?sid=83006)
+Append: [欧盟对 Google AI 展开反垄断调查](https://www.solidot.org/story?sid=83005)
+Append: [睡眠不足与预期寿命减少相关](https://www.solidot.org/story?sid=83004)
+Append: [Google 计划明年推出集成 Gemini 的 AI 眼镜](https://www.solidot.org/story?sid=83003)
+Append: [联想准备推出水平扩展屏幕的卷曲游戏本](https://www.solidot.org/story?sid=83002)
+Append: [美国允许英伟达向中国出售 H200 芯片，但需要上缴 25% 营收](https://www.solidot.org/story?sid=83001)
+Append: [Firefox 146 释出](https://www.solidot.org/story?sid=83000)
+append_entries: 9
+Finish: 2025-12-09 16:16:49.191373
+Wrote digest feed: docs/solidot-digest.xml

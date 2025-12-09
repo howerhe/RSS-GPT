@@ -7754,3 +7754,13 @@ Append: [祥源系关联金融产品部分逾期兑付，旗下三家上市公�
 append_entries: 9
 Finish: 2025-12-09 15:14:58.337545
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 16:16:50.538320
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [波兰总理：欧盟委员会已批准援建该国首座核电站](https://readhub.cn/topic/8owyJtk96db)
+Append: [沪银期货续创历史新高](https://readhub.cn/topic/8oxE7AKerPG)
+Append: [英伟达美股盘前涨近 2%](https://readhub.cn/topic/8owmKVZOclQ)
+append_entries: 3
+Finish: 2025-12-09 16:16:52.518742
+Wrote digest feed: docs/readhub-digest.xml

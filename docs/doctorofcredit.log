@@ -4465,3 +4465,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-09 15:15:15.867144
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 16:17:09.766194
+Existing_entries: 346
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1254
+Summarized using glm-4.5-air
+Append: [Hy-Vee: Purchase $150+ Visa Giftcards & Get $10 Off Instantly](https://www.doctorofcredit.com/hy-vee-purchase-150-visa-giftcards-get-10-off-instantly-11-16-11-23/)
+append_entries: 1
+Finish: 2025-12-09 16:17:16.806165
+Wrote digest feed: docs/doctorofcredit-digest.xml
