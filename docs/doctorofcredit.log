@@ -4351,3 +4351,16 @@ Append: [Cardless Qatar Cards: Up To 100,000 Miles Bonus](https://www.doctorofcr
 append_entries: 2
 Finish: 2025-12-08 23:12:29.031105
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 00:57:52.389911
+Existing_entries: 343
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 864
+Summarized using glm-4.5-air
+Append: [Walgreens: 5 Free 4″x6″ Glossy Photo Prints With Promo Code 5FREEPRINTS](https://www.doctorofcredit.com/walgreens-10-free-4x6-prints-with-promo-code-flashfree/)
+Token length: 573
+Summarized using glm-4.5-air
+Append: [[YMMV] Walmart: Save $10 Off $50 With Promo Code HOLIDAY10 (Grocery Pickup/Delivery)](https://www.doctorofcredit.com/ymmv-walmart-save-10-off-50-with-promo-code-holiday10-grocery-pickup-delivery/)
+append_entries: 2
+Finish: 2025-12-09 00:58:02.144333
+Wrote digest feed: docs/doctorofcredit-digest.xml
