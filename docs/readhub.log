@@ -7815,3 +7815,14 @@ Append: [多家航司宣布延长暂停飞往委内瑞拉航班](https://readhub
 append_entries: 1
 Finish: 2025-12-09 22:12:59.047282
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 23:12:29.059856
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [欧股主要指数收盘涨跌不一](https://readhub.cn/topic/8oxJlsSiC1E)
+Append: [SK 海力士正考虑在纽交所发行以其库存股为基础的 ADR](https://readhub.cn/topic/8owyJgpgHpc)
+Append: [WTI 1 月原油期货收跌 1.07%，报 58.25 美元 / 桶](https://readhub.cn/topic/8oxVHnHsq38)
+Append: [离岸人民币兑美元较周一纽约尾盘涨 107 点，报 7.0610 元](https://readhub.cn/topic/8oxVHcfLSHP)
+append_entries: 4
+Finish: 2025-12-09 23:12:30.573464
+Wrote digest feed: docs/readhub-digest.xml
