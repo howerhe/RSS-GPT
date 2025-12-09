@@ -7468,3 +7468,30 @@ Fetch failed from https://readhub.cn/rss
 append_entries: 0
 error when rendering xml, skip docs/readhub
 error building digest: 'NoneType' object has no attribute 'feed'
+------------------------------------------------------
+Started: 2025-12-09 03:46:37.897066
+Existing_entries: 1019
+Fetching from https://readhub.cn/rss
+Append: [印度 Nifty 50 指数跌 0.36%](https://readhub.cn/topic/8oul84OcE2C)
+Append: [A 股三大指数午间休盘涨跌不一，通信设备板块领涨](https://readhub.cn/topic/8owOgIG2kyf)
+Append: [原中国华融国际控股有限公司总经理白天辉被执行死刑](https://readhub.cn/topic/8owOg8Sslka)
+Append: [乐天市场推出首个自有品牌，主要提供日用品](https://readhub.cn/topic/8oudPMzIwqd)
+Append: [超六成主动权益基金过去三年跑输业绩比较基准 多家公募加紧「内查」](https://readhub.cn/topic/8owLmoyMMVm)
+Append: [银河通用拟赴港上市，最快可明年一月交表](https://readhub.cn/topic/8owNvzByqLX)
+Append: [广东：将出台现代化海洋牧场设施设备险实施方案](https://readhub.cn/topic/8owNBW5QbSW)
+Append: [河北沧州杀妻案一审宣判：丈夫金昊被判死刑，其母被判 2 年 2 个月](https://readhub.cn/topic/8owIJqQqFju)
+Append: [澳洲联储决议前瞻：市场对收紧政策倾向保持警惕](https://readhub.cn/topic/8owMVm7y98x)
+Append: [甲骨文创始人告诉特朗普奈飞交易将损害竞争](https://readhub.cn/topic/8owG4EGyhGw)
+Append: [Anthropic 推出 Claude Code 与 Slack 无缝集成，提升开发效率](https://readhub.cn/topic/8owEdACWG75)
+Append: [广州首届工匠节启幕，市民现场体验 SHEIN 技能培训与废纺新生](https://readhub.cn/topic/8owGmR6Z5qF)
+Append: [鸿蒙智行「五界」齐聚 宣布全面深化战略合作](https://readhub.cn/topic/8owNAfUoMJL)
+Append: [涉及钢筋、水泥等产品 市场监管总局发布工业产品生产许可证实施细则通则](https://readhub.cn/topic/8owMYRDPsRw)
+Append: [杭州六小龙之一的群核科技发布空间智能开放平台](https://readhub.cn/topic/8owLlT4l1uz)
+Append: [通用 AI 助手灵光正式上线网页版，开启多端生态](https://readhub.cn/topic/8owIvDOCfdQ)
+Append: [必和必拓：与全球基础设施合作伙伴公司 (GIP) 达成具有约束力的协议](https://readhub.cn/topic/8owG4Fs2hfU)
+Append: [英特尔与塔塔电子签署备忘录，探索实现印度所需芯片制造与封测本地化](https://readhub.cn/topic/8ovMLx4fumv)
+Append: [明天可能出现地磁暴 我国高纬度地区或将出现极光](https://readhub.cn/topic/8ovOWlLer1c)
+Append: [英伟达获准对华出售 H200 芯片 需向美政府缴纳 25% 分成](https://readhub.cn/topic/8ow4ZZ5fJta)
+append_entries: 20
+Finish: 2025-12-09 03:46:39.736917
+Wrote digest feed: docs/readhub-digest.xml

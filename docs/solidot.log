@@ -3694,3 +3694,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-09 02:46:04.675897
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 03:46:34.849160
+Existing_entries: 252
+Fetching from https://www.solidot.org/index.rss
+Append: [派拉蒙对华纳发起敌意收购](https://www.solidot.org/story?sid=82999)
+Append: [减少吸烟并不能消除心血管疾病风险](https://www.solidot.org/story?sid=82998)
+append_entries: 2
+Finish: 2025-12-09 03:46:36.606349
+Wrote digest feed: docs/solidot-digest.xml
