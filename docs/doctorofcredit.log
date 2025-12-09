@@ -4458,3 +4458,10 @@ Append: [T-Life (T-Mobile Tuesday): Free T-Mobile Blanket & More](https://www.do
 append_entries: 1
 Finish: 2025-12-09 14:14:51.952245
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 15:15:15.522171
+Existing_entries: 346
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-09 15:15:15.867144
+Wrote digest feed: docs/doctorofcredit-digest.xml
