@@ -3803,3 +3803,10 @@ Append: [Firefox 146 释出](https://www.solidot.org/story?sid=83000)
 append_entries: 9
 Finish: 2025-12-09 16:16:49.191373
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 17:14:09.901318
+Existing_entries: 263
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-09 17:14:11.853871
+Wrote digest feed: docs/solidot-digest.xml

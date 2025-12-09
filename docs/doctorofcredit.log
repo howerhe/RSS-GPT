@@ -4475,3 +4475,10 @@ Append: [Hy-Vee: Purchase $150+ Visa Giftcards & Get $10 Off Instantly](https://
 append_entries: 1
 Finish: 2025-12-09 16:17:16.806165
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 17:14:31.749722
+Existing_entries: 347
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-09 17:14:32.209257
+Wrote digest feed: docs/doctorofcredit-digest.xml

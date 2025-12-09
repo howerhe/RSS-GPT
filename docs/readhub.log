@@ -7764,3 +7764,11 @@ Append: [英伟达美股盘前涨近 2%](https://readhub.cn/topic/8owmKVZOclQ)
 append_entries: 3
 Finish: 2025-12-09 16:16:52.518742
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 17:14:13.185307
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [美国 CFTC：批准衍生品交易使用比特币、以太坊等作为抵押品](https://readhub.cn/topic/8owcwgChha6)
+append_entries: 1
+Finish: 2025-12-09 17:14:14.646821
+Wrote digest feed: docs/readhub-digest.xml
