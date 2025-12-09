@@ -4522,3 +4522,10 @@ Append: [[YMMV] American Express Blue Business Plus 75,000 Points Signup Bonus (
 append_entries: 2
 Finish: 2025-12-09 21:11:25.538494
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 22:13:16.238223
+Existing_entries: 351
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-09 22:13:16.555682
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -7807,3 +7807,11 @@ Append: [据悉 SpaceX 拟以 1.5 万亿美元估值进行 IPO](https://readhub.
 append_entries: 1
 Finish: 2025-12-09 21:10:58.965773
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 22:12:57.485181
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [多家航司宣布延长暂停飞往委内瑞拉航班](https://readhub.cn/topic/8oxNMdcr0nY)
+append_entries: 1
+Finish: 2025-12-09 22:12:59.047282
+Wrote digest feed: docs/readhub-digest.xml
