@@ -7724,3 +7724,17 @@ Append: [中国移动：中国移动通信集团持有比例被动减少至 68.9
 append_entries: 20
 Finish: 2025-12-09 13:30:42.286726
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 14:14:27.310274
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [中科曙光：拟每 10 股派现金红利 0.7 元（含税）](https://readhub.cn/topic/8ox6uPvJADl)
+Append: [Meta 可能在明年初推出新 AI 大模型 Avocado](https://readhub.cn/topic/8ox6uRSxz3W)
+Append: [诺和诺德完成对生物制药公司 Akero 的收购](https://readhub.cn/topic/8ox7gv8aKvi)
+Append: [小米米家电动剃须刀 Pro 公布：IPX8 级防水、90 天续航](https://readhub.cn/topic/8owsfjX9opM)
+Append: [海光信息：终止与中科曙光的重大资产重组](https://readhub.cn/topic/8ox6CK0cfSW)
+Append: [ADP 周度就业报告：私人部门雇主平均每周增加 4750 个就业岗位](https://readhub.cn/topic/8ox4kZwfNHc)
+Append: [微软未来四年将在印投入 175 亿美元，用于人工智能和云计算领域](https://readhub.cn/topic/8ox4nyNfvy5)
+append_entries: 7
+Finish: 2025-12-09 14:14:29.316025
+Wrote digest feed: docs/readhub-digest.xml

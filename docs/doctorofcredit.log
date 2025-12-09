@@ -4448,3 +4448,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-09 13:30:59.445676
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 14:14:46.143123
+Existing_entries: 345
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 490
+Summarized using glm-4.5-air
+Append: [T-Life (T-Mobile Tuesday): Free T-Mobile Blanket & More](https://www.doctorofcredit.com/t-life-t-mobile-tuesday-free-t-mobile-blanket-more/)
+append_entries: 1
+Finish: 2025-12-09 14:14:51.952245
+Wrote digest feed: docs/doctorofcredit-digest.xml
