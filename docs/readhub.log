@@ -7511,3 +7511,20 @@ Append: [加密货币交易所 HashKey 计划通过香港 IPO 筹资至多 2.15 
 append_entries: 9
 Finish: 2025-12-09 04:21:20.404480
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-09 05:13:11.388127
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [摩尔线程：即将发布新一代 GPU 架构](https://readhub.cn/topic/8owVjbWSCXk)
+Append: [欧洲前 10 月纯电动车销量突破 200 万辆 同比激增 26%](https://readhub.cn/topic/8owGQxuxpZw)
+Append: [*ST 岩石：公司不存在控股股东进行股权转让等重大事项](https://readhub.cn/topic/8owRRznJpFW)
+Append: [美初创公司申请重新注册使用「推特」商标，称马斯克已弃用](https://readhub.cn/topic/8ow9abmI8XW)
+Append: [轻舟货运飞船首次亮相 中国空间站将迎来「商业化货运」](https://readhub.cn/topic/8owL1to4dfb)
+Append: [全球首辆：阿维塔 12 汽车抵达南极，正式开启科考之旅](https://readhub.cn/topic/8owFJGXS0Ck)
+Append: [国家能源局：今年原油产量有望达到 2.15 亿吨](https://readhub.cn/topic/8owOcfS1KzN)
+Append: [海南自贸港国际中转「换单」首单业务落地](https://readhub.cn/topic/8owS0KqE8Qw)
+Append: [内存价格飙升 消息称 AMD B650 主板重启增产计划](https://readhub.cn/topic/8owQ249w2W4)
+Append: [我国成功发射遥感四十七号卫星，用于国土普查、城市规划等领域](https://readhub.cn/topic/8owRTuOoCvP)
+append_entries: 10
+Finish: 2025-12-09 05:13:12.709959
+Wrote digest feed: docs/readhub-digest.xml
