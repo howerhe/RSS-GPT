@@ -3960,3 +3960,10 @@ Append: [当视频编解码器赢得艾美奖](https://www.solidot.org/story?sid
 append_entries: 9
 Finish: 2025-12-10 14:15:39.923054
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 15:15:34.257657
+Existing_entries: 273
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-10 15:15:36.003084
+Wrote digest feed: docs/solidot-digest.xml
