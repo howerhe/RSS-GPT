@@ -8211,3 +8211,17 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-10 19:11:48.008542
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 20:14:45.473530
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美联储本月将进行 400 亿美元净资产购买](https://readhub.cn/topic/8oz859IFdEc)
+Append: [阿里云 CTO、通义实验室负责人周靖人成为阿里合伙人](https://readhub.cn/topic/8oyLQAhU3UR)
+Append: [理想自动驾驶负责人郎咸朋回应宇树王兴兴对 VLA 质疑：空谈架构不如看疗效](https://readhub.cn/topic/8oyMrXRmID7)
+Append: [OpenAI 即将推出新一代图像生成模型](https://readhub.cn/topic/8oyGRic84lV)
+Append: [摩根大通：美联储投票决定好于预期](https://readhub.cn/topic/8oz8nlLIbxI)
+Append: [SpaceX 在出售部分股权的过程中推介数据中心](https://readhub.cn/topic/8oyyf1ON1P6)
+Append: [美联储宣布降息 25 个基点](https://readhub.cn/topic/8oz813PTmAf)
+append_entries: 7
+Finish: 2025-12-10 20:14:46.804387
+Wrote digest feed: docs/readhub-digest.xml

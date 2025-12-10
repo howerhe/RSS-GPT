@@ -4687,3 +4687,19 @@ Append: [Amazon: Save on Giftcards For inKind and many more](https://www.doctoro
 append_entries: 1
 Finish: 2025-12-10 19:12:15.869575
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 20:15:04.945970
+Existing_entries: 357
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 315
+Summarized using glm-4.5-air
+Append: [Wyndham Cardholders: Free Giftbox](https://www.doctorofcredit.com/wyndham-cardholders-free-giftbox/)
+Token length: 341
+Summarized using glm-4.5-air
+Append: [SoFi Launches New Charge Card: ‘SoFi Smart Card’ With Unlimited 5% Back On Grocery Stores ($10/mo SoFi Plus)](https://www.doctorofcredit.com/sofi-launches-new-credit-card-sofi-smart-card-with-unlimited-5-back-on-grocery-stores-10-mo-sofi-plus/)
+Token length: 626
+Summarized using glm-4.5-air
+Append: [SoFi Plus Now Costs $10/month (Removes Free Option)](https://www.doctorofcredit.com/sofi-plus-now-costs-10-month-adds-5-grocery-earn/)
+append_entries: 3
+Finish: 2025-12-10 20:15:18.984825
+Wrote digest feed: docs/doctorofcredit-digest.xml
