@@ -4677,3 +4677,13 @@ Append: [PSA: Walmart+ $49 Membership Renewals Appear To Be An Error (Plus, Disc
 append_entries: 1
 Finish: 2025-12-10 18:20:06.641156
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 19:12:06.207118
+Existing_entries: 356
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 730
+Summarized using glm-4.5-air
+Append: [Amazon: Save on Giftcards For inKind and many more](https://www.doctorofcredit.com/amazon-save-on-giftcards-for-inkind-and-many-more/)
+append_entries: 1
+Finish: 2025-12-10 19:12:15.869575
+Wrote digest feed: docs/doctorofcredit-digest.xml

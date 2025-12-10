@@ -8204,3 +8204,10 @@ Append: [摩根士丹利：美债收益率目前偏低，美联储后续降息�
 append_entries: 2
 Finish: 2025-12-10 18:19:43.348574
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 19:11:46.591756
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-10 19:11:48.008542
+Wrote digest feed: docs/readhub-digest.xml
