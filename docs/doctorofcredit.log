@@ -4667,3 +4667,13 @@ Append: [TheGiftCardShop.com: 100% Off $300+ Visa & Mastercard Purchase Fees (HO
 append_entries: 1
 Finish: 2025-12-10 17:15:54.942597
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 18:20:01.582634
+Existing_entries: 355
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2427
+Summarized using glm-4.5-air
+Append: [PSA: Walmart+ $49 Membership Renewals Appear To Be An Error (Plus, Discount Ideas)](https://www.doctorofcredit.com/psa-walmart-49-membership-renewals-appear-to-be-an-error-plus-discount-ideas/)
+append_entries: 1
+Finish: 2025-12-10 18:20:06.641156
+Wrote digest feed: docs/doctorofcredit-digest.xml

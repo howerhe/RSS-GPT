@@ -8195,3 +8195,12 @@ Append: [双预警齐发 全国开启「速冻」模式 局地降温可达 16℃
 append_entries: 2
 Finish: 2025-12-10 17:15:29.471159
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 18:19:41.858953
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [消息人士：乌在黑海海域击沉一艘俄「影子舰队」油轮](https://readhub.cn/topic/8oz05xdRO5D)
+Append: [摩根士丹利：美债收益率目前偏低，美联储后续降息幅度或低于市场预期](https://readhub.cn/topic/8oyegkQHeBK)
+append_entries: 2
+Finish: 2025-12-10 18:19:43.348574
+Wrote digest feed: docs/readhub-digest.xml
