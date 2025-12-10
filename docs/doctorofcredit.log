@@ -4657,3 +4657,13 @@ Append: [Whataburger: Free Burger](https://www.doctorofcredit.com/whataburger-fr
 append_entries: 2
 Finish: 2025-12-10 16:19:01.629800
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 17:15:47.511232
+Existing_entries: 354
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 366
+Summarized using glm-4.5-air
+Append: [TheGiftCardShop.com: 100% Off $300+ Visa & Mastercard Purchase Fees (HOLIDAY25)](https://www.doctorofcredit.com/thegiftcardshop-com-100-off-200-visa-mastercard-purchase-fees/)
+append_entries: 1
+Finish: 2025-12-10 17:15:54.942597
+Wrote digest feed: docs/doctorofcredit-digest.xml

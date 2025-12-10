@@ -8186,3 +8186,12 @@ Append: [三木集团：拟出售资产暨关联交易 交易价格为 2410.68 �
 append_entries: 2
 Finish: 2025-12-10 16:18:34.639588
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 17:15:27.982613
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [法意西希四国主权债收益率冲高回落](https://readhub.cn/topic/8oyaNeUdaas)
+Append: [双预警齐发 全国开启「速冻」模式 局地降温可达 16℃](https://readhub.cn/topic/8oyZjSIoL9L)
+append_entries: 2
+Finish: 2025-12-10 17:15:29.471159
+Wrote digest feed: docs/readhub-digest.xml
