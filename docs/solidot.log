@@ -3859,3 +3859,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-10 00:59:06.630477
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 02:51:26.288749
+Existing_entries: 263
+Fetching from https://www.solidot.org/index.rss
+Append: [Microsoft Excel 诞生 40 年](https://www.solidot.org/story?sid=83009)
+append_entries: 1
+Finish: 2025-12-10 02:51:27.882997
+Wrote digest feed: docs/solidot-digest.xml
