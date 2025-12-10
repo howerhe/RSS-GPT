@@ -4016,3 +4016,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-10 22:13:12.753517
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 23:10:22.808714
+Existing_entries: 273
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-10 23:10:24.646056
+Wrote digest feed: docs/solidot-digest.xml

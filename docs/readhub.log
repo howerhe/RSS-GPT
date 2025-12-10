@@ -8239,3 +8239,15 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-10 22:13:15.616077
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 23:10:26.072057
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [小米澎湃 OS 全球版性能追平中国版 海外用户无需再刷机](https://readhub.cn/topic/8oyqsOhgsTs)
+Append: [SpaceX 若以 $1.5 万亿美元估值上市马斯克财富将翻倍](https://readhub.cn/topic/8oytm1ClnfN)
+Append: [美国明年起对尼加拉瓜所有未纳入现有贸易协定进口商品征收关税](https://readhub.cn/topic/8ozN0FnIFZs)
+Append: [阿联酋央行宣布降息 25 个基点](https://readhub.cn/topic/8ozN0CXl3E2)
+Append: [美国拟强制免签旅客提交五年社媒记录](https://readhub.cn/topic/8oyVS8TFxVG)
+append_entries: 5
+Finish: 2025-12-10 23:10:27.568093
+Wrote digest feed: docs/readhub-digest.xml
