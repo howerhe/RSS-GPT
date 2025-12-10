@@ -4,6 +4,114 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>美国国务院恢复 Times New Roman 字体</title>
+<link>https://www.solidot.org/story?sid=83018</link>
+<guid>https://www.solidot.org/story?sid=83018</guid>
+<content:encoded><![CDATA[
+
+2023 年，拜登的国务卿布林肯（Antony Blinken）通知所有大使馆淘汰 Times New Roman 字体改用 Calibri 字体。Times New Roman 是诞生于 1930 年代的衬线字体，而 Calibri 是诞生于 2004 年的无衬线字体。改变字体不是出于美学而是出于可访问性的考虑，因为无衬线字体更容易阅读，尤其是在屏幕上。它对于使用光学字符识别和文本语音工具的人也更方便。在现任总统特朗普治下，美国很多政策在后退，最新的倒退就是恢复 Times New Roman 字体。特朗普的国务卿卢比奥（Marco Rubio）通知大使馆弃用 Calibri 字体，声称此举是浪费资源的 DEIA（代表多元化、公平和包容性），而恢复使用 Times New Roman 字体有助于恢复国务院书面工作的得体性和专业性。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 21:35:03 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 21:35:03 +0800</pubDate>
+</item>
+<item>
+<title>韦伯发现至今最遥远的超新星</title>
+<link>https://www.solidot.org/story?sid=83017</link>
+<guid>https://www.solidot.org/story?sid=83017</guid>
+<content:encoded><![CDATA[
+
+天文学家利用韦伯望远镜追踪今年 3 月由多项望远镜侦测到的伽玛射线暴 GRB 250314A，确认它就是一颗在宇宙诞生后约 7.3 亿年爆炸的超新星所发出的伽玛射线暴，这是目前天文学家成功观测到、爆炸时间最早的超新星事件，将超新星观测年代推前至宇宙 7.3 亿年时，超越先前约 18 亿年的纪录。韦伯的近红外影像让研究团队不但辨认出这颗大质量恒星崩塌后爆炸的余辉，还首次观测到那个极为遥远、在影像中仅呈现微弱红色斑点的宿主星系。这项成果显示，我们已能藉由伽玛射线暴与超新星的余辉，一颗一颗找出宇宙仅有现今约百分之五年龄时就已形成的恒星与星系，为探索早期宇宙开启崭新视野。相比现代超新星，这颗遥远超新星的光学与红外特性都十分相似，令天文学家颇为意外。一般预期宇宙前十亿年的恒星金属量更低、质量更大、寿命更短，且处在宇宙仍相当不透明的再游离时期，因此爆炸型态或光谱应可能有所不同；然而至少在这个案例中，早期宇宙的超新星与今日恒星系统中观测到的十分接近。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 21:14:30 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 21:14:30 +0800</pubDate>
+</item>
+<item>
+<title>罕见病有了治疗方法</title>
+<link>https://www.solidot.org/story?sid=83016</link>
+<guid>https://www.solidot.org/story?sid=83016</guid>
+<content:encoded><![CDATA[
+
+十年前发现的 CRISPR 基因编辑技术开始逐渐应用于治疗疾病。2023 年科学家将 CRISPR 用于治疗镰状细胞贫血症。全球大约有 800 万镰状细胞贫血症患者，他们大多携带相同的基因突变。但罕见病的治疗与镰状细胞贫血症不同，它们需要面对不同的基因突变，没有企业会为只有 50 个人携带相同的突变而去研究疗法。但 CRISPR 正逐渐改变这一状况。如果一类或几类罕见病可以使用一个 CRISPR 平台，然后微调模块为每位患者定制疗法，那么罕见病将能更快更经济的治疗。一位名叫 KJ Muldoon 的婴儿患有罕见的遗传病尿素循环障碍，患者通常五成几率活过婴儿期。今年二月，六个月大的 Muldoon 接受了 CRISPR 定制疗法治疗去修复特定的基因突变，如今他已是健康的一岁男孩。他的治疗证明定制基因编辑疗法是有效的，可以相对快速安全地投入使用。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 21:07:34 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 21:07:34 +0800</pubDate>
+</item>
+<item>
+<title>Let's Encrypt 的十年</title>
+<link>https://www.solidot.org/story?sid=83015</link>
+<guid>https://www.solidot.org/story?sid=83015</guid>
+<content:encoded><![CDATA[
+
+Let's Encrypt 项目回顾了过去的十年。该项目旨在让每一个网站都启用 HTTPS 加密，它颁发的免费证书用于加密设备与互联网之间的连接，确保无人能拦截及窃取传输数据。目前全球有数以百万计的网站依赖 Let’s Encrypt 作为安全保障。Let’s Encrypt 如今已是全球最大的证书签发 CA 机构。它于 2014 年 11 月宣布成立，2015 年 9 月 14 日签发了首张证书；2016 年 3 月签发了第一百万张证书；2017 年 6 月签发了第一亿张证书；2020 年 2 月签发了第十亿张证书。2018 年 9 月实现单日签发一百万张证书，2025 年 9 月实现单日签发一千万张证书。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 19:39:54 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 19:39:54 +0800</pubDate>
+</item>
+<item>
+<title>Rust 语言在 Linux 内核不再是实验性的</title>
+<link>https://www.solidot.org/story?sid=83014</link>
+<guid>https://www.solidot.org/story?sid=83014</guid>
+<content:encoded><![CDATA[
+
+Linux 内核年度维护者峰会讨论了 Rust 语言实验性相关的主题，与会者一致认为，Rust 不再是实验性的，它现在是内核的核心组成部分，将会长期存在。因此 Rust 的实验性标签将会被移除。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 17:02:14 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 17:02:14 +0800</pubDate>
+</item>
+<item>
+<title>苹果在 AI 上进展缓慢在市场变动下成为优势</title>
+<link>https://www.solidot.org/story?sid=83013</link>
+<guid>https://www.solidot.org/story?sid=83013</guid>
+<content:encoded><![CDATA[
+
+与微软、Google、亚马逊和 Meta 等科技巨头不同，苹果在 AI 热下非常保守，没有将 AI 视为天要塌下来需要立即采取行动的事情。今年初，由于 AI 战略匮乏，苹果饱受批评，反映在市值上就是股价大跌。2025 年上半年，苹果在七大科技巨头中表现倒数第二，股价下跌了 18%。但随着对 AI 巨额投资的质疑，情况发生了逆转，苹果股价飙升 35%，此前的宠儿 Meta 和微软则股价暴跌，英伟达的表现也不如苹果。标普 500 指数同期上涨 10%，科技股为主的纳斯达克 100 指数上涨了 13%。目前苹果的市值达到 4.1 万亿美元，超过了微软，正逼近英伟达。财富管理公司认为苹果的股票从某种程度上是反 AI 的。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 16:41:04 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 16:41:04 +0800</pubDate>
+</item>
+<item>
+<title>澳大利亚禁止青少年使用社媒禁令正式生效</title>
+<link>https://www.solidot.org/story?sid=83012</link>
+<guid>https://www.solidot.org/story?sid=83012</guid>
+<content:encoded><![CDATA[
+
+澳大利亚禁止 16 岁以下青少年使用社媒的禁令正式生效。12 岁悉尼女孩 Paloma 在接受采访时对禁令表达了悲伤之情，称她通过 Snapchat 和 TikTok 等应用结识了来自不同国家的朋友，表示自己认识的每个人都对禁令感到生气，称通过禁止使用社交媒体政府剥夺了他们的一部分权利。15 岁少年 Noah Jones 和 Macy Neyland 在一家权利团体的支持下向澳大利亚最高法院提起诉讼，认为禁令剥夺了他们自由交流的权利。澳大利亚电信部长 Anika Wells 表示不会屈服，不会被法律战吓到，“我们将代表澳大利亚的父母坚定立场。”
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 16:03:56 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 16:03:56 +0800</pubDate>
+</item>
+<item>
+<title>2025 年将是有记录以来第二或第三热的年份</title>
+<link>https://www.solidot.org/story?sid=83011</link>
+<guid>https://www.solidot.org/story?sid=83011</guid>
+<content:encoded><![CDATA[
+
+欧盟哥白尼气候变化服务中心（C3S）周二发表报告，今年预计将是有记录以来第二或第三热的年份，可能仅次于 2024 年，与 2023 年并列第二。报告称，2025 年 11 月是有记录以来第三温暖的 11 月，比最暖的 11 月（2023 年）低 0.20°C，比第二暖的 11 月（2024 年）低 0.08°C。11 月全球气温比工业化前水平高 1.54°C，2023-2025 年三年平均气温有望首次超过 1.5°C。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 15:40:10 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:40:10 +0800</pubDate>
+</item>
+<item>
+<title>当视频编解码器赢得艾美奖</title>
+<link>https://www.solidot.org/story?sid=83010</link>
+<guid>https://www.solidot.org/story?sid=83010</guid>
+<content:encoded><![CDATA[
+
+2025 年的技术工程艾美奖授予了 AV1 编解码器，以表彰其对全球视频内容传输的影响。在 2010 年代中期，视频编解码器是 Web 的隐形税，建立在封闭的授权系统基础之上，费用昂贵且难以预测。当时的大部分网络视频使用 H.264 编解码器，开源浏览器如 Firefox 依赖于思科的 OpenH.264 模块免于支付授权费。随着网络视频需求的增长，亟需新一代编解码器去实现更快更可靠的高质量串流。为避免生态系统的分裂，Mozilla 等在 2015  年联合成立了 Alliance for Open Media(AOM)合作开发下一代视频编解码器 AV1，AV1 融合了 Google 的 VP9、Mozilla 的 Daala 和思科的 Thor 技术。AV1 于 2018 年发布，下一代 AV2 也即将发布。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 15:05:29 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:05:29 +0800</pubDate>
+</item>
 
 <item>
 <title>Microsoft Excel 诞生 40 年</title>
