@@ -4557,3 +4557,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-10 03:52:24.578111
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 04:26:34.185267
+Existing_entries: 351
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 237
+Summarized using glm-4.5-air
+Append: [Purchase $300 Delta Giftcard & Get $25 Uber Giftcard](https://www.doctorofcredit.com/purchase-300-delta-giftcard-get-25-uber-giftcard/)
+append_entries: 1
+Finish: 2025-12-10 04:26:41.179378
+Wrote digest feed: docs/doctorofcredit-digest.xml
