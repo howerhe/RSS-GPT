@@ -8225,3 +8225,10 @@ Append: [美联储宣布降息 25 个基点](https://readhub.cn/topic/8oz813PTmA
 append_entries: 7
 Finish: 2025-12-10 20:14:46.804387
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 21:13:42.560653
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-10 21:13:44.028325
+Wrote digest feed: docs/readhub-digest.xml

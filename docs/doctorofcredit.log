@@ -4703,3 +4703,16 @@ Append: [SoFi Plus Now Costs $10/month (Removes Free Option)](https://www.doctor
 append_entries: 3
 Finish: 2025-12-10 20:15:18.984825
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 21:14:02.200135
+Existing_entries: 360
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2066
+Summarized using glm-4.5-air
+Append: [[YMMV] Best Buy: $5/$10 Rewards Certificate](https://www.doctorofcredit.com/ymmv-best-buy-10-rewards-certificate-2/)
+Token length: 301
+Summarized using glm-4.5-air
+Append: [Amazon: $10 Off $30 On Select Grocery Items](https://www.doctorofcredit.com/amazon-10-off-30-on-select-grocery-items-3/)
+append_entries: 2
+Finish: 2025-12-10 21:14:12.767577
+Wrote digest feed: docs/doctorofcredit-digest.xml
