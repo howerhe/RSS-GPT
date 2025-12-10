@@ -8177,3 +8177,12 @@ Append: [海南机场收购美兰空港控股权交易先决条件已达成，�
 append_entries: 10
 Finish: 2025-12-10 15:15:39.124194
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-10 16:18:33.181202
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [2025 年度中国生命科学十大进展公布](https://readhub.cn/topic/8owth4VK0QN)
+Append: [三木集团：拟出售资产暨关联交易 交易价格为 2410.68 万元](https://readhub.cn/topic/8oycWoUuvHS)
+append_entries: 2
+Finish: 2025-12-10 16:18:34.639588
+Wrote digest feed: docs/readhub-digest.xml
