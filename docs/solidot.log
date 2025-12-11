@@ -4040,3 +4040,10 @@ Append: [科技巨头是新苏维埃](https://www.solidot.org/story?sid=83019)
 append_entries: 3
 Finish: 2025-12-11 02:53:49.492490
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 03:54:00.537244
+Existing_entries: 276
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-11 03:54:02.190290
+Wrote digest feed: docs/solidot-digest.xml
