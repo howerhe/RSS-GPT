@@ -8628,3 +8628,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-11 17:19:25.338671
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 18:17:52.939329
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [OpenAI 即将发布 GPT-5.2 模型，优化编程与逻辑推理能力](https://readhub.cn/topic/8p057TXyTUg)
+Append: [泽连斯基：乌方仍坚持先实现俄乌停火再签署相关协议](https://readhub.cn/topic/8p0cJqelUoR)
+append_entries: 2
+Finish: 2025-12-11 18:17:54.815609
+Wrote digest feed: docs/readhub-digest.xml

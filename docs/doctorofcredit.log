@@ -4864,3 +4864,13 @@ Append: [IHG Q1 2026 Promotion: Earn Double Points From Second Stay](https://www
 append_entries: 1
 Finish: 2025-12-11 17:19:50.739991
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 18:18:13.434244
+Existing_entries: 367
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1372
+Summarized using glm-4.5-air
+Append: [Robinhood 2.5% Crypto Transfer Bonus](https://www.doctorofcredit.com/robinhood-2-5-crypto-transfer-bonus/)
+append_entries: 1
+Finish: 2025-12-11 18:18:19.976804
+Wrote digest feed: docs/doctorofcredit-digest.xml
