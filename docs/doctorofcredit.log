@@ -4907,3 +4907,10 @@ Append: [JetBlue Lounge At JFK Terminal 5 To Open December 18](https://www.docto
 append_entries: 3
 Finish: 2025-12-11 21:14:49.527041
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 22:12:58.652232
+Existing_entries: 372
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-11 22:12:59.208541
+Wrote digest feed: docs/doctorofcredit-digest.xml

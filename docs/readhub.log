@@ -8667,3 +8667,10 @@ Append: [苹果在 Epic 反垄断案中推翻部分法院命令](https://readhub
 append_entries: 1
 Finish: 2025-12-11 21:14:07.463441
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 22:12:37.841143
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-11 22:12:39.683905
+Wrote digest feed: docs/readhub-digest.xml
