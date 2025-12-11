@@ -8674,3 +8674,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-11 22:12:39.683905
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 23:12:29.764681
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [特斯拉 11 月美国销量跌至近四年低点，廉价车型未能扭转颓势](https://readhub.cn/topic/8p0vVH75kAB)
+Append: [美股三大指数收盘涨跌不一，大型科技股多数下跌](https://readhub.cn/topic/8p0vWB8sjzk)
+Append: [博通 Q4 业绩超预期：AI 芯片销售将翻倍 净利飙升 97%](https://readhub.cn/topic/8p10YIVXWh4)
+append_entries: 3
+Finish: 2025-12-11 23:12:31.037200
+Wrote digest feed: docs/readhub-digest.xml
