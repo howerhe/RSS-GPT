@@ -8621,3 +8621,10 @@ Append: [美国上周 EIA 天然气库存减少 1770 亿立方英尺](https://re
 append_entries: 5
 Finish: 2025-12-11 16:18:57.839316
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 17:19:23.797640
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-11 17:19:25.338671
+Wrote digest feed: docs/readhub-digest.xml
