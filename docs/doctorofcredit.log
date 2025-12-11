@@ -4800,3 +4800,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-11 10:15:05.076071
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 11:12:20.324175
+Existing_entries: 362
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 656
+Summarized using glm-4.5-air
+Append: [Free Wine From Last Bottle Wines Via Referral (Starts 12/11)](https://www.doctorofcredit.com/free-wine-from-last-bottle-wines-via-referral-starts-12-11/)
+append_entries: 1
+Finish: 2025-12-11 11:12:31.743132
+Wrote digest feed: docs/doctorofcredit-digest.xml
