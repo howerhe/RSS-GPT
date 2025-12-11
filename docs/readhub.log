@@ -8637,3 +8637,16 @@ Append: [泽连斯基：乌方仍坚持先实现俄乌停火再签署相关协�
 append_entries: 2
 Finish: 2025-12-11 18:17:54.815609
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 19:13:52.120978
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [SpaceX 估值 1.5 万亿美元 IPO 规模可能创纪录](https://readhub.cn/topic/8ozRJJHMVtf)
+Append: [优联智能完成 500 万美元天使轮融资](https://readhub.cn/topic/8ozcOOYdm7L)
+Append: [王兴兴：具身智能拐点可能就在未来一两年内发生](https://readhub.cn/topic/8p0LjJLR4Vj)
+Append: [《时代》周刊年度人物致敬 AI 缔造者：马斯克、黄仁勋、李飞飞在列](https://readhub.cn/topic/8p0SqTRasU0)
+Append: [OpenAI CEO Altman：对我们「即将推出的芯片」感到兴奋](https://readhub.cn/topic/8p0a5rHdVqr)
+Append: [微软承诺创造「与人类利益相符」的超级智能](https://readhub.cn/topic/8p0f3v8Yf8R)
+append_entries: 6
+Finish: 2025-12-11 19:13:53.724389
+Wrote digest feed: docs/readhub-digest.xml

@@ -4874,3 +4874,13 @@ Append: [Robinhood 2.5% Crypto Transfer Bonus](https://www.doctorofcredit.com/ro
 append_entries: 1
 Finish: 2025-12-11 18:18:19.976804
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 19:14:12.686128
+Existing_entries: 368
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1875
+Summarized using glm-4.5-air
+Append: [Costco Membership $40/$60 Shop Card Deal (NEWMBR25)](https://www.doctorofcredit.com/groupon-costco-membership-40-60-shop-card-deal/)
+append_entries: 1
+Finish: 2025-12-11 19:14:21.066082
+Wrote digest feed: docs/doctorofcredit-digest.xml
