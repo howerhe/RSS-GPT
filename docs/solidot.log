@@ -4075,3 +4075,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-11 07:18:20.435077
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 08:19:12.260425
+Existing_entries: 276
+Fetching from https://www.solidot.org/index.rss
+Append: [印度提议对 AI 公司用版权作品训练模型收取费用](https://www.solidot.org/story?sid=83025)
+Append: [英伟达为其 AI 芯片构建地理位置验证技术](https://www.solidot.org/story?sid=83023)
+Append: [ChatGPT 是苹果美国 2025 年下载量最高的免费应用](https://www.solidot.org/story?sid=83022)
+append_entries: 3
+Finish: 2025-12-11 08:19:14.043168
+Wrote digest feed: docs/solidot-digest.xml

@@ -4,6 +4,42 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>印度提议对 AI 公司用版权作品训练模型收取费用</title>
+<link>https://www.solidot.org/story?sid=83025</link>
+<guid>https://www.solidot.org/story?sid=83025</guid>
+<content:encoded><![CDATA[
+
+印度工业和内部贸易促进部发表了一项提议框架，允许 AI 公司使用所有受版权保护的作品训练模型，但需向一个由版权所有者组织组成的新收款机构支付版税，版税随后将分配给创作者。该提案认为这种“强制性一揽子许可”将降低 AI 公司的合规成本，同时确保作家、音乐家、艺术家等版权所有者在其作品被用于训练商业模型时获得补偿。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 11 Dec 2025 15:02:40 +0800</pubDate>
+<pubDate>Thu, 11 Dec 2025 15:02:40 +0800</pubDate>
+</item>
+<item>
+<title>英伟达为其 AI 芯片构建地理位置验证技术</title>
+<link>https://www.solidot.org/story?sid=83023</link>
+<guid>https://www.solidot.org/story?sid=83023</guid>
+<content:encoded><![CDATA[
+
+英伟达开发出了一种地理位置验证技术去判断 AI 芯片运行时所处的区域位置。它已经在内部演示了该功能，但尚未正式发布。该功能将作为可选的软件工具提供给客户安装。该技术利用了英伟达 GPU 的机密计算能力，通过与英伟达服务器通信的时间延迟估算芯片的地理位置。该技术将首先应用于最新一代的基于 Blackwell 架构的 AI 芯片，英伟达还在考虑将其应用于上一代的 Hopper 架构和 Ampere 架构芯片。该技术有助于解决美国政府对先进 AI 芯片走私到中国的担忧。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 11 Dec 2025 14:24:12 +0800</pubDate>
+<pubDate>Thu, 11 Dec 2025 14:24:12 +0800</pubDate>
+</item>
+<item>
+<title>ChatGPT 是苹果美国 2025 年下载量最高的免费应用</title>
+<link>https://www.solidot.org/story?sid=83022</link>
+<guid>https://www.solidot.org/story?sid=83022</guid>
+<content:encoded><![CDATA[
+
+苹果周三发布了最受欢迎应用和游戏年度榜单。在美国市场，OpenAI 的 ChatGPT 应用位居 2025 年免费应用（不包括游戏）下载量榜首。紧随其后的是 Threads、Google、TikTok、WhatsApp、Instagram、YouTube、Google Maps、Gmail 和 Google 的 Gemini。ChatGPT 去年排名第四，榜首是拼多多的跨境购物应用 Temu。ChatGPT 应用于 2023 年 5 月在 iPhone 上发布，虽然表现不凡，但在 2023 年它未能进入前十。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 11 Dec 2025 14:08:20 +0800</pubDate>
+<pubDate>Thu, 11 Dec 2025 14:08:20 +0800</pubDate>
+</item>
 
 <item>
 <title>Notepad++ 遭流量劫持，更新程序被植入恶意程序</title>
