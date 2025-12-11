@@ -8659,3 +8659,11 @@ Append: [OPEC：2026 年全球石油市场将实现供需平衡](https://readhub
 append_entries: 2
 Finish: 2025-12-11 20:15:21.528165
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 21:14:04.326131
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [苹果在 Epic 反垄断案中推翻部分法院命令](https://readhub.cn/topic/8p0kkgLnUIN)
+append_entries: 1
+Finish: 2025-12-11 21:14:07.463441
+Wrote digest feed: docs/readhub-digest.xml
