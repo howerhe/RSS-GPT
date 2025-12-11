@@ -8609,3 +8609,15 @@ Append: [抖音电商九大扶持政策累计为商家节省近 290 亿元](http
 append_entries: 14
 Finish: 2025-12-11 15:14:43.623908
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 16:18:56.516849
+Existing_entries: 1014
+Fetching from https://readhub.cn/rss
+Append: [霍华德・马克斯警告：美联储进一步降息没有多大好处](https://readhub.cn/topic/8p0a5D4YcQ4)
+Append: [中微子 — 原子核相互作用首获观测](https://readhub.cn/topic/8ozVa4tOvJt)
+Append: [赫哲族伊玛堪成功转入人类非物质文化遗产代表作名录](https://readhub.cn/topic/8ozvKGmAMYg)
+Append: [瑞银：DRAM 短缺料至 2027 年 DDR Q4 料涨价 35%](https://readhub.cn/topic/8oztGtwzLUS)
+Append: [美国上周 EIA 天然气库存减少 1770 亿立方英尺](https://readhub.cn/topic/8p0YZzdJaFW)
+append_entries: 5
+Finish: 2025-12-11 16:18:57.839316
+Wrote digest feed: docs/readhub-digest.xml
