@@ -8650,3 +8650,12 @@ Append: [微软承诺创造「与人类利益相符」的超级智能](https://r
 append_entries: 6
 Finish: 2025-12-11 19:13:53.724389
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 20:15:19.832306
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [美国财政部计划增加特朗普时期对企业的税收优惠](https://readhub.cn/topic/8p0oOGBUTbd)
+Append: [OPEC：2026 年全球石油市场将实现供需平衡](https://readhub.cn/topic/8p0Nqt8mzym)
+append_entries: 2
+Finish: 2025-12-11 20:15:21.528165
+Wrote digest feed: docs/readhub-digest.xml
