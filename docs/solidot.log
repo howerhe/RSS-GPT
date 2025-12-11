@@ -4092,3 +4092,12 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-11 09:18:01.757341
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 10:14:41.241222
+Existing_entries: 279
+Fetching from https://www.solidot.org/index.rss
+Append: [校园供餐能略微提升学生学习成绩](https://www.solidot.org/story?sid=83028)
+Append: [Operation Bluebird 想使用 Twitter 的名字推出新社交网络](https://www.solidot.org/story?sid=83027)
+append_entries: 2
+Finish: 2025-12-11 10:14:43.122524
+Wrote digest feed: docs/solidot-digest.xml
