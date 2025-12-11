@@ -8332,3 +8332,20 @@ Append: [沪深两市成交额突破 1 万亿，较昨日此时放量近 100 亿
 append_entries: 20
 Finish: 2025-12-11 03:54:04.760574
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 04:28:35.656838
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [野村：韩国 Kospi 指数明年上半年料触及 5000 点 受 AI 资本支出激增推动](https://readhub.cn/topic/8ozhgXq273O)
+Append: [元思生肽完成 A 轮及 A + 轮近亿美元融资](https://readhub.cn/topic/8ozYSf5U5aL)
+Append: [法巴：巨头停产旧型号 美光、Sandisk 直接受益全球抢货潮](https://readhub.cn/topic/8ozgz8a0Iv5)
+Append: [哈啰出行 Robotaxi 发生伤人事故 自动驾驶业务暂停运营](https://readhub.cn/topic/8ozgNXQPmfJ)
+Append: [阅文全年累计产出超 120 部短剧](https://readhub.cn/topic/8ozhWQxCwgz)
+Append: [腾讯 QQ 群聊消息支持元宝 AI 总结功能](https://readhub.cn/topic/8ozeyHbk62A)
+Append: [江苏「十四五」地区生产总值连跨三个万亿元台阶](https://readhub.cn/topic/8oyWrhwnCxn)
+Append: [科望医药发布双抗癌症新药 I 期临床试验数据](https://readhub.cn/topic/8oyTcowfUpM)
+Append: [和黄医药 / 阿斯利康「赛沃替尼」新适应症拟纳入优先审评](https://readhub.cn/topic/8oySlimOWMR)
+Append: [单芯片实现大脑与 AI 高速无线连接](https://readhub.cn/topic/8ozPqfJYzXz)
+append_entries: 10
+Finish: 2025-12-11 04:28:37.050095
+Wrote digest feed: docs/readhub-digest.xml
