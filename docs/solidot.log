@@ -4030,3 +4030,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-11 00:59:35.666196
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-11 02:53:47.827109
+Existing_entries: 273
+Fetching from https://www.solidot.org/index.rss
+Append: [Notepad++ 遭流量劫持，更新程序被植入恶意程序](https://www.solidot.org/story?sid=83021)
+Append: [GoFundMe 报告称有更多的人在 2025 年众筹生活必需品](https://www.solidot.org/story?sid=83020)
+Append: [科技巨头是新苏维埃](https://www.solidot.org/story?sid=83019)
+append_entries: 3
+Finish: 2025-12-11 02:53:49.492490
+Wrote digest feed: docs/solidot-digest.xml

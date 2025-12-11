@@ -4,6 +4,42 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>Notepad++ 遭流量劫持，更新程序被植入恶意程序</title>
+<link>https://www.solidot.org/story?sid=83021</link>
+<guid>https://www.solidot.org/story?sid=83021</guid>
+<content:encoded><![CDATA[
+
+Notepad++ 发布安全警告，它遭遇了流量劫持，部分地区的更新程序被植入恶意程序。调查发现，Notepad++ 更新程序 WinGUp 的流量被劫持到恶意服务器，下载恶意可执行文件。更新程序使用版本检查功能查询 URL“https://notepad-plus-plus.org/update/getDownloadUrl.php”并评估返回的 XML 文件。更新程序使用 XML 文件中列出的 Download-URL，将文件保存到 %TEMP% 文件夹并执行。任何能拦截和篡改此流量的攻击者都可以更改 Download-URL。Notepad++ v8.8.7 前它使用了自签名证书，允许攻击者创建篡改后的更新并将其推送给受害者。从 v8.8.7 开始 Notepad++ 使用了来自 GlobalSign 签发的合法证书进行签名。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 11 Dec 2025 00:50:56 +0800</pubDate>
+<pubDate>Thu, 11 Dec 2025 00:50:56 +0800</pubDate>
+</item>
+<item>
+<title>GoFundMe 报告称有更多的人在 2025 年众筹生活必需品</title>
+<link>https://www.solidot.org/story?sid=83020</link>
+<guid>https://www.solidot.org/story?sid=83020</guid>
+<content:encoded><![CDATA[
+
+众筹平台 GoFundMe 发表年度报告《Year in Help》，称有更多的人在 2025 年众筹房租和食品等生活必需品。报告称房租、水电费和食品杂货等基本开支的筹款活动数量增长了 20%，“每月账单（Monthly bills）”是增长速度第二快的众筹类别，仅次于对非营利组织的捐助。生活必需品众筹增长的英语国家包括了美国、加拿大、英国和澳大利亚。GoFundMe CEO Tim Cadogan 称，在美国政府停摆期间，随着每月福利 SNAP 的中断，食品相关的众筹活动增加了近六倍。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 23:59:45 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 23:59:45 +0800</pubDate>
+</item>
+<item>
+<title>科技巨头是新苏维埃</title>
+<link>https://www.solidot.org/story?sid=83019</link>
+<guid>https://www.solidot.org/story?sid=83019</guid>
+<content:encoded><![CDATA[
+
+希腊前财长、经济学家 Yanis Varoufakis 认为今天的科技巨头是新时代的苏维埃，推行基于算法的计划经济。Palantir 联合创始人 Peter Thiel 宣称失败者才要竞争。他的意思是赢家不仅仅是通过消灭竞争对手去垄断市，它们还会不断扩张直至摧毁市场本身，复活苏联的国家计划经济。苏联的国家计划经济之所以失败，是因为它缺乏科技巨头最强大的武器：云资本——以算法、数据中心和光纤构成的集成网络。一位年长的托洛茨基主义者认为苏联以社会主义的名义创造了一种工业封建主义，而今天的科技巨头以资本主义和自由市场的名义创造了一种科技封建主义。随着科技巨头的云资本不断积累并集中到越来越少的人手中，各国政府愈来愈依赖科技巨头。通过在租用的云基础设施上构建核心功能，各国政府实际上是从亚马逊 AWS、微软和 Google 等公司回租其运作能力。这种依赖催生了一种科技封建权力维度。云资本用源自苏联时代的计划工具取代了市场，在此过程中它杀死了资本主义。
+<p></p>
+]]></content:encoded>
+<pubDate>Wed, 10 Dec 2025 23:42:53 +0800</pubDate>
+<pubDate>Wed, 10 Dec 2025 23:42:53 +0800</pubDate>
+</item>
 
 <item>
 <title>美国国务院恢复 Times New Roman 字体</title>
