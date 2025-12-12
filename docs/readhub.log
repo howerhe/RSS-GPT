@@ -9064,3 +9064,11 @@ Append: [稳定币巨头 Tether 拟募资 200 亿美元后探索股权代币化]
 append_entries: 2
 Finish: 2025-12-12 21:11:49.850544
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 22:12:27.278098
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [甲骨文 3000 亿美元豪赌：AI 泡沫的「震中」，市场的「晴雨表」](https://readhub.cn/topic/8p26Q6dnUtt)
+append_entries: 1
+Finish: 2025-12-12 22:12:28.560170
+Wrote digest feed: docs/readhub-digest.xml
