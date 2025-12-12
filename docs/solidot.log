@@ -4199,3 +4199,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-12 00:59:00.542457
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 02:52:07.253305
+Existing_entries: 281
+Fetching from https://www.solidot.org/index.rss
+Append: [美国可能要求入境游客提供五年社交媒体记录](https://www.solidot.org/story?sid=83034)
+Append: [HDMI Forum 继续阻挠 Linux 上的 HDMI 2.1 实现](https://www.solidot.org/story?sid=83033)
+Append: [在俄罗斯发射台事故之后 NASA 提前发射 Dragon 货运飞船](https://www.solidot.org/story?sid=83032)
+Append: [NASA 与火星探测器 MAVEN 失去联络](https://www.solidot.org/story?sid=83031)
+append_entries: 4
+Finish: 2025-12-12 02:52:09.247119
+Wrote digest feed: docs/solidot-digest.xml
