@@ -4210,3 +4210,10 @@ Append: [NASA 与火星探测器 MAVEN 失去联络](https://www.solidot.org/sto
 append_entries: 4
 Finish: 2025-12-12 02:52:09.247119
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 03:53:49.015716
+Existing_entries: 285
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-12 03:53:50.572248
+Wrote digest feed: docs/solidot-digest.xml
