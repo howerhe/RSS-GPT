@@ -9016,3 +9016,11 @@ Append: [水利部：构建现代化水旱灾害防御体系 加快建设现代�
 append_entries: 9
 Finish: 2025-12-12 15:14:14.187595
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 16:15:01.289663
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [德国人口到 2070 年或降至不足 7500 万](https://readhub.cn/topic/8p24upcIXqt)
+append_entries: 1
+Finish: 2025-12-12 16:15:02.699630
+Wrote digest feed: docs/readhub-digest.xml

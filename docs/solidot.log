@@ -4309,3 +4309,10 @@ Append: [迪士尼与 Open AI 展开合作](https://www.solidot.org/story?sid=83
 append_entries: 3
 Finish: 2025-12-12 15:14:10.946022
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 16:14:57.876534
+Existing_entries: 293
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-12 16:14:59.714362
+Wrote digest feed: docs/solidot-digest.xml
