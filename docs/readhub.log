@@ -9072,3 +9072,11 @@ Append: [甲骨文 3000 亿美元豪赌：AI 泡沫的「震中」，市场的�
 append_entries: 1
 Finish: 2025-12-12 22:12:28.560170
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 23:12:29.837445
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [原油：油价在震荡交易中小幅走低 WTI 跌至 5 月以来最低点](https://readhub.cn/topic/8p2Tyk63lV1)
+append_entries: 1
+Finish: 2025-12-12 23:12:31.596026
+Wrote digest feed: docs/readhub-digest.xml
