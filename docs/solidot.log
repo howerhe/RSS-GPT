@@ -4245,3 +4245,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-12 07:16:32.139407
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 08:18:41.818448
+Existing_entries: 285
+Fetching from https://www.solidot.org/index.rss
+Append: [Do Kwon 被判 15 年](https://www.solidot.org/story?sid=83035)
+append_entries: 1
+Finish: 2025-12-12 08:18:43.436735
+Wrote digest feed: docs/solidot-digest.xml
