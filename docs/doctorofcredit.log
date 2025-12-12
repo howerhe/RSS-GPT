@@ -5012,3 +5012,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-12 13:30:03.090214
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 14:13:38.615704
+Existing_entries: 372
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 454
+Summarized using glm-4.5-air
+Append: [Chase Freedom Unlimited $300 Bonus](https://www.doctorofcredit.com/chase-freedom-unlimited-300-bonus/)
+append_entries: 1
+Finish: 2025-12-12 14:13:47.437493
+Wrote digest feed: docs/doctorofcredit-digest.xml
