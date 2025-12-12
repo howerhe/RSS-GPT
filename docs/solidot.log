@@ -4271,3 +4271,10 @@ Append: [日本年度汉字“熊”](https://www.solidot.org/story?sid=83040)
 append_entries: 1
 Finish: 2025-12-12 10:14:11.295543
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 11:12:32.862040
+Existing_entries: 290
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-12 11:12:34.545323
+Wrote digest feed: docs/solidot-digest.xml
