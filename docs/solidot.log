@@ -4253,3 +4253,13 @@ Append: [Do Kwon 被判 15 年](https://www.solidot.org/story?sid=83035)
 append_entries: 1
 Finish: 2025-12-12 08:18:43.436735
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 09:17:23.883234
+Existing_entries: 286
+Fetching from https://www.solidot.org/index.rss
+Append: [教授用秘密摄像头发现博士生破坏另一位博士生的电脑](https://www.solidot.org/story?sid=83039)
+Append: [思科股价超过互联网泡沫期间创下的峰值记录](https://www.solidot.org/story?sid=83038)
+Append: [Pop!_OS 24.04 LTS 释出](https://www.solidot.org/story?sid=83037)
+append_entries: 3
+Finish: 2025-12-12 09:17:26.281693
+Wrote digest feed: docs/solidot-digest.xml
