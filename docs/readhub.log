@@ -9041,3 +9041,10 @@ Append: [俄罗斯央行：欧盟动用俄资产的计划是非法的](https://r
 append_entries: 2
 Finish: 2025-12-12 18:19:22.431136
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 19:11:19.779654
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-12 19:11:21.404819
+Wrote digest feed: docs/readhub-digest.xml

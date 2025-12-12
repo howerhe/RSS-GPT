@@ -5050,3 +5050,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-12 18:19:42.384875
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 19:11:41.028044
+Existing_entries: 373
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1774
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save On Giftcards For Lowe’s, IKEA, Starbucks, Visa, Petsmart, Wayfair and many more](https://www.doctorofcredit.com/giftcards-com-save-on-giftcards-for-lowes-ikea-starbucks-visa-petsmart-wayfair-and-many-more/)
+append_entries: 1
+Finish: 2025-12-12 19:11:47.182443
+Wrote digest feed: docs/doctorofcredit-digest.xml
