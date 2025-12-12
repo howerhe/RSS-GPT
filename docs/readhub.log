@@ -9055,3 +9055,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-12 20:13:57.835378
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 21:11:48.124020
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [甲骨文部分面向 OpenAI 的数据中心推迟至 2028 年竣工](https://readhub.cn/topic/8p2F2l6syB9)
+Append: [稳定币巨头 Tether 拟募资 200 亿美元后探索股权代币化](https://readhub.cn/topic/8p1vgoVQyrn)
+append_entries: 2
+Finish: 2025-12-12 21:11:49.850544
+Wrote digest feed: docs/readhub-digest.xml
