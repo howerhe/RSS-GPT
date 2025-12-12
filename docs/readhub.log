@@ -9024,3 +9024,11 @@ Append: [德国人口到 2070 年或降至不足 7500 万](https://readhub.cn/to
 append_entries: 1
 Finish: 2025-12-12 16:15:02.699630
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 17:12:15.915287
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [华映科技：终审胜诉，获赔 30.29 亿元](https://readhub.cn/topic/8p20ckRQE9F)
+append_entries: 1
+Finish: 2025-12-12 17:12:17.194118
+Wrote digest feed: docs/readhub-digest.xml
