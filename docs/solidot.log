@@ -4263,3 +4263,11 @@ Append: [Pop!_OS 24.04 LTS 释出](https://www.solidot.org/story?sid=83037)
 append_entries: 3
 Finish: 2025-12-12 09:17:26.281693
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 10:14:09.759363
+Existing_entries: 289
+Fetching from https://www.solidot.org/index.rss
+Append: [日本年度汉字“熊”](https://www.solidot.org/story?sid=83040)
+append_entries: 1
+Finish: 2025-12-12 10:14:11.295543
+Wrote digest feed: docs/solidot-digest.xml
