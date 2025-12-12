@@ -5060,3 +5060,19 @@ Append: [Giftcards.com: Save On Giftcards For Lowe’s, IKEA, Starbucks, Visa, P
 append_entries: 1
 Finish: 2025-12-12 19:11:47.182443
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 20:14:17.888008
+Existing_entries: 374
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 872
+Summarized using glm-4.5-air
+Append: [Chase Ritz-Carlton To Restrict Guest Lounge Access From 2026](https://www.doctorofcredit.com/chase-ritz-carlton-to-restrict-guest-lounge-access-from-2026/)
+Token length: 19247
+Summarized using glm-4.5-air
+Append: [Best Current Credit Card Sign Up Bonuses & Offers For December, 2025](https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/)
+Token length: 395
+Summarized using glm-4.5-air
+Append: [Citi Dividend Q1 2026 Categories 5%: Amazon & Streaming](https://www.doctorofcredit.com/citi-dividend-q1-2026-categories-5-amazon-streaming/)
+append_entries: 3
+Finish: 2025-12-12 20:14:38.930561
+Wrote digest feed: docs/doctorofcredit-digest.xml
