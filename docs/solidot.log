@@ -4299,3 +4299,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-12 14:13:15.905362
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-12 15:14:09.135232
+Existing_entries: 290
+Fetching from https://www.solidot.org/index.rss
+Append: [瑞士考虑将人口上限设置在 1000 万](https://www.solidot.org/story?sid=83043)
+Append: [2024 年自由软件奖宣布](https://www.solidot.org/story?sid=83042)
+Append: [迪士尼与 Open AI 展开合作](https://www.solidot.org/story?sid=83041)
+append_entries: 3
+Finish: 2025-12-12 15:14:10.946022
+Wrote digest feed: docs/solidot-digest.xml
