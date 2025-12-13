@@ -4456,3 +4456,18 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-13 13:21:30.916964
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 14:11:06.427958
+Existing_entries: 293
+Fetching from https://www.solidot.org/index.rss
+Append: [中国卫星与一颗 Starlink 卫星差点相撞](https://www.solidot.org/story?sid=83051)
+Append: [中国在近九成的关键技术领域处于领先地位](https://www.solidot.org/story?sid=83050)
+Append: [美国汽车联盟敦促政府阻止中国汽车厂商在美建厂](https://www.solidot.org/story?sid=83049)
+Append: [俄罗斯勒索软件组织用明文储存主密钥](https://www.solidot.org/story?sid=83048)
+Append: [好莱坞导演骗取 Netflix 1100 万美元投资加密货币和购买豪车](https://www.solidot.org/story?sid=83047)
+Append: [科学家绘制全球 97% 建筑物的 3D 地图](https://www.solidot.org/story?sid=83046)
+Append: [Reddit 指控澳大利亚禁止儿童使用社媒法侵犯自由](https://www.solidot.org/story?sid=83045)
+Append: [蟒蛇在一千万年前就体型巨大](https://www.solidot.org/story?sid=83044)
+append_entries: 8
+Finish: 2025-12-13 14:11:08.349668
+Wrote digest feed: docs/solidot-digest.xml

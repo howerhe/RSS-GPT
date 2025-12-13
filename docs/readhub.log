@@ -9242,3 +9242,13 @@ Append: [俄称扎波罗热核电站已重新接入外部电源](https://readhub
 append_entries: 3
 Finish: 2025-12-13 13:21:33.943677
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 14:11:09.930538
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [长城汽车：全面审视井持续强化内部价格合规管理体系建设](https://readhub.cn/topic/8p3lG9Bg7Y6)
+Append: [知情人士回应豆包手机被曝被约谈：消息不实](https://readhub.cn/topic/8p3lG4thyfd)
+Append: [上海浦东：针对新注册 AI 一人创业公司 提供最高 30 万元的免费算力](https://readhub.cn/topic/8p3jpJfaUwL)
+append_entries: 3
+Finish: 2025-12-13 14:11:11.612484
+Wrote digest feed: docs/readhub-digest.xml

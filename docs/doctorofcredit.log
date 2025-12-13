@@ -5191,3 +5191,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-13 13:21:54.914314
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 14:11:32.261125
+Existing_entries: 378
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2441
+Summarized using glm-4.5-air
+Append: [[AL, FL, GA, IL, IN, KY, MI, NC, OH, TN, WV, SC] Fifth Third $400 Checking Bonus](https://www.doctorofcredit.com/fifth-third-200-checking-bonus-fl-ga-il-ky-mi-nc-oh-tn-wv/)
+append_entries: 1
+Finish: 2025-12-13 14:11:39.675283
+Wrote digest feed: docs/doctorofcredit-digest.xml
