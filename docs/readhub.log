@@ -9151,3 +9151,14 @@ Append: [十四五期间我国基本医保参保率稳定在 95% 基金总支出
 append_entries: 14
 Finish: 2025-12-13 04:18:02.775520
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 05:12:40.020848
+Existing_entries: 1014
+Fetching from https://readhub.cn/rss
+Append: [国家发展改革委：雄安常住人口已达到 140 万左右](https://readhub.cn/topic/8p38hu69apO)
+Append: [越南首都深陷重度雾霾 政府敦促工厂减产](https://readhub.cn/topic/8p37DONzNxy)
+Append: [国家发展改革委：从明年开始有力有效管控高耗能高排放项目](https://readhub.cn/topic/8p37DPbUgZ9)
+Append: [《疯狂动物城 2》票房突破 33 亿](https://readhub.cn/topic/8p1qc2yx22g)
+append_entries: 4
+Finish: 2025-12-13 05:12:44.203578
+Wrote digest feed: docs/readhub-digest.xml
