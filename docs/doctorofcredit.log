@@ -5104,3 +5104,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-13 00:56:20.507101
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 02:30:06.757572
+Existing_entries: 377
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1797
+Summarized using glm-4.5-air
+Append: [Mesa Credit Cards To Be Closed Immediately](https://www.doctorofcredit.com/mesa-credit-cards-to-be-closed-immediately-points-cannot-be-redeemed-currently/)
+append_entries: 1
+Finish: 2025-12-13 02:30:15.590392
+Wrote digest feed: docs/doctorofcredit-digest.xml

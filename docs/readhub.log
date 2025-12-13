@@ -9097,3 +9097,19 @@ Append: [叙利亚南部一婚礼现场发生爆炸致 33 人受伤](https://rea
 append_entries: 10
 Finish: 2025-12-13 00:55:59.943839
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 02:29:45.023128
+Existing_entries: 1010
+Fetching from https://readhub.cn/rss
+Append: [2025 年电力行业网络与信息安全联席会议全体会议在京召开](https://readhub.cn/topic/8p2wXk4wq0i)
+Append: [快舟十一号遥八运载火箭发射成功](https://readhub.cn/topic/8p2wVodnSfE)
+Append: [摩尔线程回应「闲置募集资金现金管理」：不影响募投项目实施 实际现金管理金额将明显小于上限](https://readhub.cn/topic/8p2v54PYXFh)
+Append: [浙江进一步加强生猪及生猪产品调运管理](https://readhub.cn/topic/8p1sBsSSnaB)
+Append: [SpaceX 敲定内部股票交易 估值约达 8000 亿美元](https://readhub.cn/topic/8p2pPB1I3Ls)
+Append: [山东全面支持住房「以旧换新」](https://readhub.cn/topic/8p2rYm9OhhL)
+Append: [法庭文件披露马斯克起诉苹果和 OpenAI 深层原因](https://readhub.cn/topic/8p2SbqOGTnd)
+Append: [中国驻美大使谢锋会见美国超威半导体公司董事会主席兼首席执行官苏姿丰](https://readhub.cn/topic/8p2sC9MEuNH)
+Append: [纳斯达克：6 家公司即将被纳入纳斯达克 100 指数](https://readhub.cn/topic/8p2sCAcrnPA)
+append_entries: 9
+Finish: 2025-12-13 02:29:46.551176
+Wrote digest feed: docs/readhub-digest.xml
