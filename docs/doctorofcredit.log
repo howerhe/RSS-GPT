@@ -5211,3 +5211,13 @@ Append: [[KY, MN & OH] Ashland Credit Union $100 Checking Bonus](https://www.doc
 append_entries: 1
 Finish: 2025-12-13 15:12:08.715522
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 16:14:20.238756
+Existing_entries: 380
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 4122
+Summarized using glm-4.5-air
+Append: [[PA, NJ Only] Penn Community Bank $400 Checking Bonus, Direct Deposit Not Required](https://www.doctorofcredit.com/pa-only-penn-community-bank-350-checking-bonus-50-savings-direct-deposit-not-required/)
+append_entries: 1
+Finish: 2025-12-13 16:14:27.262371
+Wrote digest feed: docs/doctorofcredit-digest.xml
