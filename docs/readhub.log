@@ -9201,3 +9201,11 @@ Append: [应对老年护理刚需，四部门发布《老年护理服务能力�
 append_entries: 1
 Finish: 2025-12-13 09:11:53.502787
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 10:11:55.567036
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [马斯克或成全球首位万亿美元富豪 SpaceX 或明年上市](https://readhub.cn/topic/8p1XJhcjFDJ)
+append_entries: 1
+Finish: 2025-12-13 10:11:57.059236
+Wrote digest feed: docs/readhub-digest.xml
