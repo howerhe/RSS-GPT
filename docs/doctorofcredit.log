@@ -5221,3 +5221,13 @@ Append: [[PA, NJ Only] Penn Community Bank $400 Checking Bonus, Direct Deposit N
 append_entries: 1
 Finish: 2025-12-13 16:14:27.262371
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 17:10:48.513161
+Existing_entries: 381
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3810
+Summarized using glm-4.5-air
+Append: [[Expired – New Monthly Fee] [TX, OK, AR, LA, MS, Military] AFFCU $200 Checking Bonus (Soarion Credit Union)](https://www.doctorofcredit.com/tx-ok-ar-la-ms-military-affcu-200-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-13 17:10:58.709104
+Wrote digest feed: docs/doctorofcredit-digest.xml
