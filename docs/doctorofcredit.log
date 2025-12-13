@@ -5201,3 +5201,13 @@ Append: [[AL, FL, GA, IL, IN, KY, MI, NC, OH, TN, WV, SC] Fifth Third $400 Check
 append_entries: 1
 Finish: 2025-12-13 14:11:39.675283
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 15:11:56.969527
+Existing_entries: 379
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2569
+Summarized using glm-4.5-air
+Append: [[KY, MN & OH] Ashland Credit Union $100 Checking Bonus](https://www.doctorofcredit.com/ky-mn-oh-ashland-credit-union-100-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-13 15:12:08.715522
+Wrote digest feed: docs/doctorofcredit-digest.xml

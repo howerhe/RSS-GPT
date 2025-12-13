@@ -9252,3 +9252,10 @@ Append: [上海浦东：针对新注册 AI 一人创业公司 提供最高 30 �
 append_entries: 3
 Finish: 2025-12-13 14:11:11.612484
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 15:11:34.923058
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-13 15:11:36.335731
+Wrote digest feed: docs/readhub-digest.xml

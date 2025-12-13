@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>中国卫星与一颗 Starlink 卫星差点相撞</title>
 <link>https://www.solidot.org/story?sid=83051</link>
 <guid>https://www.solidot.org/story?sid=83051</guid>
 <content:encoded><![CDATA[
-
 12 月 10 日中科宇航力箭一号遥十一运载火箭在东风发射场成功将 9 颗卫星送入轨道。力箭一号共搭载了阿联酋813 卫星、吉星高分07B01星、吉星高分07C01星、吉星高分07D01星、东坡15号卫星、驭星二号09星、逸仙-A星、SPNEX卫星、Slippers2Sat 卫星 9 颗卫星。SpaceX 周五披露其中一颗卫星与 Starlink 卫星 STARLINK-6079（56120）差点相撞，双方仅相距 200 米。Starlink 工程副总裁 Michael Nicolls 对这次发射没有提前与在轨卫星进行协调表示了不满。中科宇航表示正在调查这起事件。主要是因为 SpaceX，目前轨道上的卫星越来越多，2020 年轨道上正常运行的卫星不到 3400 颗，如今数量超过了 13000 颗，大部分是 SpaceX 的 Starlink 宽带卫星——数量多达 9300 颗，SpaceX 仅今年就发射了逾 3000 颗。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Dec 2025 20:58:41 +0800</pubDate>
 <pubDate>Sat, 13 Dec 2025 20:58:41 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@
 <link>https://www.solidot.org/story?sid=83050</link>
 <guid>https://www.solidot.org/story?sid=83050</guid>
 <content:encoded><![CDATA[
-
 根据智库澳洲战略政策研究所（Australian Strategic Policy Institute，ASPI）的报告，中国在近九成的关键技术领域处于领先地位。ASPI 评估了 74 项当前和新兴技术领域的研究，中国在核能、合成生物学、小型卫星等 66 项技术的研究上排名第一，美国在量子计算和地球工程等 8 项技术的研究上排名第一。结果显示中美的技术优势出现了显著的反转：21 世纪初美国在九成的技术领域位居第一，而中国则在不到 5% 的领域有优势。ASPI 分析了包含逾 900 万份出版物的数据库，根据过去五年引用次数前 10% 的论文署名作者的国别进行排名。苏州西交利物浦大学政治经济学 Steven Hai 认为这一分析不应被解读为美国实力的坍陷。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Dec 2025 20:39:39 +0800</pubDate>
 <pubDate>Sat, 13 Dec 2025 20:39:39 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +30,9 @@
 <link>https://www.solidot.org/story?sid=83049</link>
 <guid>https://www.solidot.org/story?sid=83049</guid>
 <content:encoded><![CDATA[
-
 由通用汽车、福特、丰田、大众、现代、斯特兰蒂斯等主要汽车厂商组成的产业联盟敦促美国政府阻止中国汽车厂商和电池制造商在美建厂，称中国对美国汽车行业构成了“明确而现实的威胁”。汽车产业联盟呼吁国会议员维持禁止从中国进口 IT 技术及服务的禁令——该禁令事实上禁止从中国厂商进口汽车。该组织称，美国汽车制造商和电池生产商在国内的投资，无论规模多大，都无法抵消中国通过补贴支持企业在全球长期过度供应的影响。这种过度供应可能导致倾销，国会和特朗普政府必须防止这种情况在美国市场发生。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Dec 2025 17:56:48 +0800</pubDate>
 <pubDate>Sat, 13 Dec 2025 17:56:48 +0800</pubDate>
 </item>
 <item>
@@ -45,11 +40,9 @@
 <link>https://www.solidot.org/story?sid=83048</link>
 <guid>https://www.solidot.org/story?sid=83048</guid>
 <content:encoded><![CDATA[
-
 亲俄罗斯黑客组织 Cyber​​Volk 在沉寂数月之后推出了基于 Telegram 的勒索软件即服务 CyberVolk 2.x(aka VolkLocker)。基于 Telegram 的服务降低了准入门槛，但好消息是开发者在测试程序时失误，导致主密钥硬编码在可执行文件中。这意味着受害者无需支付赎金就能解密被加密的文件。VolkLocker 不会动态生成加密密钥，硬编码的主密钥以明文写入 %TEMP% 文件夹。勒索软件被发现使用 AES-256-GCM(Galois/Counter Mode)对文件进行加密。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Dec 2025 17:18:20 +0800</pubDate>
 <pubDate>Sat, 13 Dec 2025 17:18:20 +0800</pubDate>
 </item>
 <item>
@@ -57,11 +50,9 @@
 <link>https://www.solidot.org/story?sid=83047</link>
 <guid>https://www.solidot.org/story?sid=83047</guid>
 <content:encoded><![CDATA[
-
 好莱坞导演 Carl Rinsch 以执导广告知名，他的首部电影处女作是 2013 年上映的《四十七浪人》，主演包括了基努·里维斯和真田广之。这部电影投资 1.75 亿美元但票房只有 1.5 亿美元，是当年亏损金额最高的电影之一，Rinsch 之后回归执导广告。他与其妻子策划了一部以有机智能为主题的科幻剧集，其创意受到了流媒体公司的青睐，Netflix 获得了版权，同意投资 6120 万美元制作名为《Conquest》的剧集。但《Conquest》的制作过程并不顺利，Netflix 在 2021 年放弃了这部剧集。Rinsch 被控挪用了 1100 万美元，将这些资金转移到个人证券账户，且在两个月内因证券投资亏损逾半。他之后开始投机购买加密货币狗币（Dogecoin），2021 年 5 月套现，获利 2300 万美元，显著改善了个人财务状况。他随后花费 240 万美元购买了五辆劳斯莱斯和一辆法拉利，花 330 万美元购买了家具和古董，38.7 万美元购买了一块瑞士手表。Netflix 已经勾销了 5500 万美元坏账，没有追回任何款项。本周纽约南区法院陪审团裁定这位 48 岁的导演七项罪名成立，他将面临最高 90 年监禁，其判决将于 2026 年 4 月 17 日宣布。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Dec 2025 16:03:36 +0800</pubDate>
 <pubDate>Sat, 13 Dec 2025 16:03:36 +0800</pubDate>
 </item>
 <item>
@@ -69,11 +60,9 @@
 <link>https://www.solidot.org/story?sid=83046</link>
 <guid>https://www.solidot.org/story?sid=83046</guid>
 <content:encoded><![CDATA[
-
 科学家绘制了全球 97% 建筑物的 3D 地图。地图 GlobalBuildingAtlas 发布在 GitHub 上，采用 MIT 许可证带公地条款限制（禁止商业出售）。数据集涵盖了 27.5 亿栋建筑物，以 3 米× 3 米的空间分辨率绘制了每栋建筑物的轮廓和高度，该地图可用于灾害风险评估、气候建模和城市规划。研究人员利用深度学习工具，基于 2019 年拍摄的约 80 万张卫星影像，创建了 3D 地图。研究发现，亚洲建筑物数量几乎占全球所有已测绘建筑物的一半，约 12.2 亿栋。亚洲建筑物总体积也位居全球之首，达到 1.27 万亿立方米，这一结果反映了中国、印度和东南亚地区快速城市化和密集的都市区。非洲建筑物数量位居第二，达 5.4 亿栋，但其总体积仅为 1170 亿立方米，以小型低层建筑为主。芬兰人均建筑物体积是希腊的六倍，尼日尔的人均建筑物体积为世界平均水平的 1/27。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Dec 2025 23:19:19 +0800</pubDate>
 <pubDate>Fri, 12 Dec 2025 23:19:19 +0800</pubDate>
 </item>
 <item>
@@ -81,11 +70,9 @@
 <link>https://www.solidot.org/story?sid=83045</link>
 <guid>https://www.solidot.org/story?sid=83045</guid>
 <content:encoded><![CDATA[
-
 Reddit 周五就澳大利亚禁止 16 岁以下青少年使用社交媒体的法律提起诉讼。澳大利亚的这项法律堪称全球首例，已于周三生效，总部位于美国的 Reddit 也在被禁的名单上。Reddit 向澳大利亚高等法院提出对该案复审要求，认为自己作为讨论论坛，不应写入被禁止的社交媒体名单上。在提交给法院的诉讼文件中，Reddit 质疑该法律的合法性，称其“侵犯了政治表达的自由”。Reddit 表示，它同意应该保护16岁以下的青少年儿童。但该法律强势介入，加上可能不安全的验证程序，会使年龄较大的青少年和年轻成年人，失去参与同龄人活动的能力，包括政治讨论。这份声明中还称，“与其他受该法律约束的平台不同，Reddit 绝大多数用户都是成年人，我们不会针对 18 岁以下的儿童进行营销或投放广告。”“简而言之，16 岁以下的用户并非 Reddit 的主要市场群体，我们也无意让他们成为主要市场群体。”
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Dec 2025 22:39:47 +0800</pubDate>
 <pubDate>Fri, 12 Dec 2025 22:39:47 +0800</pubDate>
 </item>
 <item>
@@ -93,14 +80,11 @@ Reddit 周五就澳大利亚禁止 16 岁以下青少年使用社交媒体的法
 <link>https://www.solidot.org/story?sid=83044</link>
 <guid>https://www.solidot.org/story?sid=83044</guid>
 <content:encoded><![CDATA[
-
 剑桥大学领导的研究团队根据委内瑞拉发现的距今 1240 万年的化石重建了古代水蟒（anacondas），发现这种热带蛇类体长达 5.2 米。1240 万年到 530 万年前的中新世中晚期，由于更温暖的全球气温，广阔的湿地和丰富的食物，很多动物体型远大于其现代近亲。中新世巨型动物如 12 米长的凯门鳄（Purussaurus），3.2 米长的巨型淡水龟（Stupendemys）都已经灭绝，但水蟒作为一种巨型动物仍然存活了下来。研究团队测量了 183 块水蟒脊椎骨化石，它们来自至少 32 条蟒蛇。结果显示古代水蟒体长约为 4-5 米，与现代的水蟒差不多。研究人员认为这展现了蟒蛇超强的适应能力。
 <p></p>
 ]]></content:encoded>
 <pubDate>Fri, 12 Dec 2025 22:25:01 +0800</pubDate>
-<pubDate>Fri, 12 Dec 2025 22:25:01 +0800</pubDate>
 </item>
-
 <item>
 <title>瑞士考虑将人口上限设置在 1000 万</title>
 <link>https://www.solidot.org/story?sid=83043</link>
