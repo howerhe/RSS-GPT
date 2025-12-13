@@ -9311,3 +9311,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-13 22:11:26.317640
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 23:11:39.221800
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-13 23:11:46.885565
+Wrote digest feed: docs/readhub-digest.xml
