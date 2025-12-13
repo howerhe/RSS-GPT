@@ -9273,3 +9273,10 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-13 17:10:28.093577
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 18:15:58.478357
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-13 18:16:00.146206
+Wrote digest feed: docs/readhub-digest.xml
