@@ -9184,3 +9184,12 @@ Append: [2025 年我国电影票房突破 500 亿元](https://readhub.cn/topic/8
 append_entries: 4
 Finish: 2025-12-13 07:10:56.453930
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 08:15:20.030319
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [特朗普拟放宽大麻管制 大麻类股应声上涨](https://readhub.cn/topic/8p276aoSyAD)
+Append: [专家：鼓励收购存量商品房用于保障房](https://readhub.cn/topic/8p3HHeL5rYL)
+append_entries: 2
+Finish: 2025-12-13 08:15:21.328452
+Wrote digest feed: docs/readhub-digest.xml
