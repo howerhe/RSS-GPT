@@ -9304,3 +9304,10 @@ Append: [欧盟拟放宽 2035 年燃油车禁令，欧洲汽车业获关键喘�
 append_entries: 1
 Finish: 2025-12-13 21:10:09.471857
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 22:11:24.662855
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-13 22:11:26.317640
+Wrote digest feed: docs/readhub-digest.xml

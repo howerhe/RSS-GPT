@@ -4520,3 +4520,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-13 21:10:05.662435
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 22:11:20.112515
+Existing_entries: 301
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-13 22:11:23.043480
+Wrote digest feed: docs/solidot-digest.xml
