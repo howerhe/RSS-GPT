@@ -9080,3 +9080,20 @@ Append: [原油：油价在震荡交易中小幅走低 WTI 跌至 5 月以来最
 append_entries: 1
 Finish: 2025-12-12 23:12:31.596026
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 00:55:58.262255
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [俄称对乌发动大规模攻击，乌称袭击俄炼油厂等目标](https://readhub.cn/topic/8p2qmQ6OTOW)
+Append: [遭美扣押的委内瑞拉油轮正驶往美国休斯敦](https://readhub.cn/topic/8p2q4LIy675)
+Append: [苹果 macOS 26.2 Tahoe 正式发布，新增多项实用功能](https://readhub.cn/topic/8p2l7efOklE)
+Append: [报道：英特尔将以约 16 亿美元收购芯片公司 SambaNova](https://readhub.cn/topic/8p2jdCTng2z)
+Append: [《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布](https://readhub.cn/topic/8p2nuSTUCt8)
+Append: [AI 担忧加剧，美股三大指数全线收跌，博通跌超 11%](https://readhub.cn/topic/8p2fLLPBt3L)
+Append: [苹果 iOS/iPadOS 26.2 正式版发布：增强音乐、播客和游戏体验](https://readhub.cn/topic/8p2l5w4joOc)
+Append: [中央气象台 12 月 13 日 06 时继续发布寒潮蓝色预警](https://readhub.cn/topic/8p1qn8M2Ufs)
+Append: [李家超：委任陆启康法官等三人组成独立委员会 审视大埔火灾成因等](https://readhub.cn/topic/8p1dmJhMmVk)
+Append: [叙利亚南部一婚礼现场发生爆炸致 33 人受伤](https://readhub.cn/topic/8p2kM6ecb0O)
+append_entries: 10
+Finish: 2025-12-13 00:55:59.943839
+Wrote digest feed: docs/readhub-digest.xml
