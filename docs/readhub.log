@@ -9209,3 +9209,14 @@ Append: [马斯克或成全球首位万亿美元富豪 SpaceX 或明年上市](h
 append_entries: 1
 Finish: 2025-12-13 10:11:57.059236
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 11:10:16.518059
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [我国科研人员突破海水制氢提镁联产技术](https://readhub.cn/topic/8p3VVlrhntK)
+Append: [印度批准库存过剩的发电厂出口煤炭](https://readhub.cn/topic/8p3WFAWhbzr)
+Append: [美国流感活动水平上升 已有约 290 万例感染](https://readhub.cn/topic/8p3WFDAUA37)
+Append: [奥动新能源冲刺港交所：中国最大的独立第三方换电解决方案提供商](https://readhub.cn/topic/8p29wrEikUA)
+append_entries: 4
+Finish: 2025-12-13 11:10:18.012490
+Wrote digest feed: docs/readhub-digest.xml
