@@ -9232,3 +9232,13 @@ Append: [国家发改委肖渭明：全面实施「人工智能 +」行动 完�
 append_entries: 5
 Finish: 2025-12-13 12:22:00.823949
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 13:21:32.501528
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [加紧清理拖欠企业账款 ，国家发改委明确时间表](https://readhub.cn/topic/8p3fZmZa2F2)
+Append: [奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设](https://readhub.cn/topic/8p3bvvvIO8j)
+Append: [俄称扎波罗热核电站已重新接入外部电源](https://readhub.cn/topic/8p3ckop5yk1)
+append_entries: 3
+Finish: 2025-12-13 13:21:33.943677
+Wrote digest feed: docs/readhub-digest.xml
