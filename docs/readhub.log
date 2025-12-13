@@ -9173,3 +9173,14 @@ Append: [国家医保局：鼓励商业健康保险机构扩大对创新药的�
 append_entries: 4
 Finish: 2025-12-13 06:18:09.027354
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 07:10:55.022293
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [迪迩五号・中国科技城号发射成功 率先实现小型货运飞船商业化运营](https://readhub.cn/topic/8p34SQlBo6m)
+Append: [《疯狂动物城 2》全球票房突破 10 亿美元](https://readhub.cn/topic/8p2JHPgm3h4)
+Append: [徕芬客服回应发布会撞景《周处除三害》：与电影无关，系品牌常用设计风格](https://readhub.cn/topic/8p1x6skB30N)
+Append: [2025 年我国电影票房突破 500 亿元](https://readhub.cn/topic/8p2tjnSnE8s)
+append_entries: 4
+Finish: 2025-12-13 07:10:56.453930
+Wrote digest feed: docs/readhub-digest.xml
