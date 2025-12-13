@@ -9296,3 +9296,11 @@ Append: [豆包手机助手：使用系统原生截屏接口，无法截屏银�
 append_entries: 2
 Finish: 2025-12-13 20:12:38.907683
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 21:10:07.276696
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [欧盟拟放宽 2035 年燃油车禁令，欧洲汽车业获关键喘息期](https://readhub.cn/topic/8p3VVdxUYFr)
+append_entries: 1
+Finish: 2025-12-13 21:10:09.471857
+Wrote digest feed: docs/readhub-digest.xml
