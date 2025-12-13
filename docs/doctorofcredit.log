@@ -5245,3 +5245,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-13 19:09:23.352563
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 20:12:59.993513
+Existing_entries: 382
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 286
+Summarized using glm-4.5-air
+Append: [[Approved] First Tech Federal Credit Union & Digital Credit Union (DCU) To Merge](https://www.doctorofcredit.com/first-tech-federal-credit-union-digital-credit-union-dcu-to-merge/)
+append_entries: 1
+Finish: 2025-12-13 20:13:03.512677
+Wrote digest feed: docs/doctorofcredit-digest.xml

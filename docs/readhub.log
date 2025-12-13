@@ -9287,3 +9287,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-13 19:09:01.941485
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 20:12:37.430220
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [茅台经销渠道：年内计划外配额停发，明年非标产品减量](https://readhub.cn/topic/8p3BXsFpsO5)
+Append: [豆包手机助手：使用系统原生截屏接口，无法截屏银行键盘等受保护内容](https://readhub.cn/topic/8p3iMFV1241)
+append_entries: 2
+Finish: 2025-12-13 20:12:38.907683
+Wrote digest feed: docs/readhub-digest.xml

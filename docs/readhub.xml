@@ -4,6 +4,28 @@
 <title>Readhub</title>
 <link>https://readhub.cn</link>
 
+<item>
+<title>茅台经销渠道：年内计划外配额停发，明年非标产品减量</title>
+<link>https://readhub.cn/topic/8p3BXsFpsO5</link>
+<guid>https://readhub.cn/topic/8p3BXsFpsO5</guid>
+<content:encoded><![CDATA[
+
+多个渠道人士称，茅台各省区经销商联谊会近日开会讨论明年经销渠道战略，2026 年或聚焦茅台 1935、飞天茅台、精品茅台三大核心单品，锚定不同价格带。茅台生肖酒等非标产品或减量，将市场化运作、以需定供。停止投放未完成的 2025 年计划外茅台配额以稳市场。12 月 13 日茅台酒批价 1520 元 / 瓶左右，较昨日涨 15-30 元 / 瓶。
+]]></content:encoded>
+<pubDate>Sat, 13 Dec 2025 19:23:20 GMT</pubDate>
+<pubDate>Sat, 13 Dec 2025 19:23:20 GMT</pubDate>
+</item>
+<item>
+<title>豆包手机助手：使用系统原生截屏接口，无法截屏银行键盘等受保护内容</title>
+<link>https://readhub.cn/topic/8p3iMFV1241</link>
+<guid>https://readhub.cn/topic/8p3iMFV1241</guid>
+<content:encoded><![CDATA[
+
+豆包手机助手发布技术说明，称其使用系统原生截屏接口，无法截屏银行键盘等受保护内容。针对发布视频中对其技术实现方式的错误解读，豆包解释：使用 READ_FRAME_BUFFER 权限是为获取虚拟屏中应用截图给大模型推理，无法读取三方应用 Secure 内容。使用 CAPTURE_SECURE_VIDEO_OUTPUT 权限是为让受保护内容正常展示，投影后仍无法截屏。其操作手机功能原理是截屏上传云端分析，每步操作间隔约 3 秒，因大模型参数大需云端处理，国内多家同类产品也如此。豆包强调仅在用户指令时截屏，不截 Secure 标记页面，截屏完成任务后不存云端，重视隐私安全，欢迎各界提意见。
+]]></content:encoded>
+<pubDate>Sat, 13 Dec 2025 19:21:47 GMT</pubDate>
+<pubDate>Sat, 13 Dec 2025 19:21:47 GMT</pubDate>
+</item>
 
 <item>
 <title>长城汽车：全面审视井持续强化内部价格合规管理体系建设</title>
