@@ -9113,3 +9113,20 @@ Append: [纳斯达克：6 家公司即将被纳入纳斯达克 100 指数](https
 append_entries: 9
 Finish: 2025-12-13 02:29:46.551176
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 03:44:16.151868
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [Epic CEO 斯威尼再怼苹果，反对 App Store 外链内购抽成](https://readhub.cn/topic/8p2nv70R1QL)
+Append: [中国经济年会：优化「两新」政策实施 给予地方更多自主空间](https://readhub.cn/topic/8p32wDsvVSc)
+Append: [上海浦东：未来 3 年 新增 1000 家人工智能企业](https://readhub.cn/topic/8p32FkOYGax)
+Append: [甲骨文：与 OpenAI 的合作安排「没有延迟」](https://readhub.cn/topic/8p2Oueqfnk2)
+Append: [全球最大、最领先的吉利全球全域安全中心正式发布](https://readhub.cn/topic/8p28UwNiuyj)
+Append: [中国经济年会：做好新形势下经济工作要做到「五个必须」](https://readhub.cn/topic/8p2xHS0OhTR)
+Append: [中国经济年会：重点领域风险化解取得积极进展](https://readhub.cn/topic/8p2yeDn7vvS)
+Append: [广州期货交易所：对部分客户采取限制开仓监管措施](https://readhub.cn/topic/8p2yeIXCMgJ)
+Append: [深圳将建全国首个机器人友好示范城区](https://readhub.cn/topic/8p2xxdAVeeu)
+Append: [中国经济年会：今年我国经济总量预计达 140 万亿元左右](https://readhub.cn/topic/8p2xxglcMtd)
+append_entries: 10
+Finish: 2025-12-13 03:44:17.693509
+Wrote digest feed: docs/readhub-digest.xml
