@@ -4421,3 +4421,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-13 08:15:18.456894
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-13 09:11:48.597528
+Existing_entries: 293
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-13 09:11:50.380122
+Wrote digest feed: docs/solidot-digest.xml
