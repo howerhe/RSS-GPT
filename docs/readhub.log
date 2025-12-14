@@ -9418,3 +9418,14 @@ Append: [古鳌科技：实际控制人变更为徐迎辉](https://readhub.cn/to
 append_entries: 5
 Finish: 2025-12-14 09:12:19.264437
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 10:12:39.110075
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [国家税务总局：持续深化违规招商引资涉税问题专项治理](https://readhub.cn/topic/8p593vmjhlm)
+Append: [中信证券：AI 训练、推理需求贡献驱动力 持续看好一线云厂商 2026 年投资机遇](https://readhub.cn/topic/8p567nF6QIL)
+Append: [九安医疗：美国子公司四联检、三联检产品获 FDA 上市前通知](https://readhub.cn/topic/8p53H8vhj2r)
+Append: [崔东树：2025 年新能源商用车走势较去年明显走强](https://readhub.cn/topic/8p53yTOFuqh)
+append_entries: 4
+Finish: 2025-12-14 10:12:40.856357
+Wrote digest feed: docs/readhub-digest.xml
