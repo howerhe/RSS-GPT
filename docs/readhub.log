@@ -9513,3 +9513,10 @@ Append: [受冰雪天气影响 美国数千架次航班延误或取消](https://
 append_entries: 1
 Finish: 2025-12-14 20:13:08.388421
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 21:10:55.461708
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-14 21:10:56.778820
+Wrote digest feed: docs/readhub-digest.xml

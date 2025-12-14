@@ -5430,3 +5430,13 @@ Append: [Office Depot/Max Stores: Buy $300 In Mastercard Giftcards & Get $15 Ins
 append_entries: 3
 Finish: 2025-12-14 20:13:49.709486
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 21:11:18.248602
+Existing_entries: 390
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2014
+Summarized using glm-4.5-air
+Append: [[Payouts Posting] MGM Class Settlement ($20-$75 Payment)](https://www.doctorofcredit.com/mgm-class-settlement-20-75-payment/)
+append_entries: 1
+Finish: 2025-12-14 21:11:22.832062
+Wrote digest feed: docs/doctorofcredit-digest.xml
