@@ -5447,3 +5447,19 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-14 22:11:59.990250
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 23:11:46.259715
+Existing_entries: 391
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 276
+Summarized using glm-4.5-air
+Append: [Ben & Jerry’s: Free Bars (12/17 Only)](https://www.doctorofcredit.com/ben-jerrys-free-bars-12-17-only/)
+Token length: 1122
+Summarized using glm-4.5-air
+Append: [CVS: Free 8×10 Photo Print With Promo Code JLETITSNOW (Free In Store Pick Up)](https://www.doctorofcredit.com/cvs-free-8x10-photo-print-with-promo-code-cupid-free-in-store-pick-up/)
+Token length: 590
+Summarized using glm-4.5-air
+Append: [[YMMV] American Airlines: 100 Miles For Registering For Hotel/Car Rental Promo (Up To 3k For Participating)](https://www.doctorofcredit.com/american-airlines-100-miles-for-registering-for-hotel-car-rental-promo-up-to-3k-for-participating/)
+append_entries: 3
+Finish: 2025-12-14 23:11:58.647417
+Wrote digest feed: docs/doctorofcredit-digest.xml

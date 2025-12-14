@@ -9527,3 +9527,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-14 22:11:38.274728
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 23:11:25.904652
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [粤车南下今起预约出行](https://readhub.cn/topic/8p5zrd6OC2j)
+Append: [报道：SpaceX 启动华尔街投行竞标 为潜在 IPO 甄选承销商](https://readhub.cn/topic/8p5xjt6KNfO)
+append_entries: 2
+Finish: 2025-12-14 23:11:27.175192
+Wrote digest feed: docs/readhub-digest.xml
