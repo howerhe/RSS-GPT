@@ -4629,3 +4629,10 @@ Append: [长期饮用能量饮料导致一名男子中风](https://www.solidot.o
 append_entries: 4
 Finish: 2025-12-14 14:11:10.561300
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 15:11:41.264446
+Existing_entries: 305
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-14 15:11:42.743871
+Wrote digest feed: docs/solidot-digest.xml
