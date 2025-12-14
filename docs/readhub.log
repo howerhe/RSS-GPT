@@ -9363,3 +9363,13 @@ Append: [谷歌翻译引入 Gemini 技术，支持耳机实时翻译](https://re
 append_entries: 5
 Finish: 2025-12-14 04:29:37.545127
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 05:13:14.081324
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [松延动力、慧辰股份达成 1000 台人形机器人签约](https://readhub.cn/topic/8p4f5epvctD)
+Append: [陈茂波：财政预算案公众咨询即将展开](https://readhub.cn/topic/8p4mpwAZAvG)
+Append: [航行警告：南海有火箭残骸掉落 禁止驶入](https://readhub.cn/topic/8p4m8ATetiJ)
+append_entries: 3
+Finish: 2025-12-14 05:13:15.685750
+Wrote digest feed: docs/readhub-digest.xml
