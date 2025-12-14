@@ -9491,3 +9491,10 @@ Append: [辽宁方大集团与上海交通大学医学院签署战略合作协�
 append_entries: 1
 Finish: 2025-12-14 17:10:26.173642
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 18:17:06.213646
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-14 18:17:07.768307
+Wrote digest feed: docs/readhub-digest.xml

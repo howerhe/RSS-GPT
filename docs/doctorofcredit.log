@@ -5394,3 +5394,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-14 17:10:47.834075
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 18:17:29.007217
+Existing_entries: 385
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 379
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save 10% On Giftcards For Starbucks, Chipotle & More Restaurants When You Buy 3](https://www.doctorofcredit.com/giftcards-com-save-10-on-giftcards-for-starbucks-chipotle-more-restaurants-when-you-buy-3/)
+append_entries: 1
+Finish: 2025-12-14 18:17:40.940647
+Wrote digest feed: docs/doctorofcredit-digest.xml
