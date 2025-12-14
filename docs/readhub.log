@@ -9436,3 +9436,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-14 11:10:34.938678
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 12:21:59.715427
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [广州广合科技股份有限公司向港交所提交上市申请书](https://readhub.cn/topic/8p5Gr5FEZnC)
+Append: [长飞光纤：子公司拟参与设立投资基金](https://readhub.cn/topic/8p594xht9qn)
+append_entries: 2
+Finish: 2025-12-14 12:22:02.410451
+Wrote digest feed: docs/readhub-digest.xml
