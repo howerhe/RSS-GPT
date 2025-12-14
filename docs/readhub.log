@@ -9373,3 +9373,13 @@ Append: [航行警告：南海有火箭残骸掉落 禁止驶入](https://readhu
 append_entries: 3
 Finish: 2025-12-14 05:13:15.685750
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 06:17:49.818233
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [《疯狂动物城 2》总票房破 35 亿](https://readhub.cn/topic/8p4sXel5m1a)
+Append: [美国华盛顿州多地遭遇洪灾 未来可能面临更严重灾情](https://readhub.cn/topic/8p4qRumJoCB)
+Append: [购房贴息讨论升温，多地实践已显效](https://readhub.cn/topic/8p4jNpOKcb3)
+append_entries: 3
+Finish: 2025-12-14 06:17:51.402434
+Wrote digest feed: docs/readhub-digest.xml
