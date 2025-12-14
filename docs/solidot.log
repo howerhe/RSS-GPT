@@ -4618,3 +4618,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-14 13:21:40.650446
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 14:11:08.871957
+Existing_entries: 301
+Fetching from https://www.solidot.org/index.rss
+Append: [天文学家拍摄到类星战塔图因的系外行星](https://www.solidot.org/story?sid=83055)
+Append: [全球电动汽车销量今年至今增长 21%](https://www.solidot.org/story?sid=83054)
+Append: [Linux 6.19-rc1 释出，龙芯为内核加入 32 位架构 LoongArch32 支持](https://www.solidot.org/story?sid=83053)
+Append: [长期饮用能量饮料导致一名男子中风](https://www.solidot.org/story?sid=83052)
+append_entries: 4
+Finish: 2025-12-14 14:11:10.561300
+Wrote digest feed: docs/solidot-digest.xml

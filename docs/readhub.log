@@ -9454,3 +9454,12 @@ Append: [派格生物医药：拟折让 10% 配售新 H 股，净筹约 2.96 亿
 append_entries: 2
 Finish: 2025-12-14 13:21:43.707801
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 14:11:11.979210
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [Figure AI 三年录用率仅 0.24% 低于哈佛](https://readhub.cn/topic/8p4iXuf3YWG)
+Append: [集邦咨询：2025 年 Q3 全球 OLED 显示器出货量 64.4 万台，同比增 65%](https://readhub.cn/topic/8p4kxvV55sW)
+append_entries: 2
+Finish: 2025-12-14 14:11:13.590124
+Wrote digest feed: docs/readhub-digest.xml

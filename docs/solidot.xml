@@ -4,6 +4,54 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>天文学家拍摄到类星战塔图因的系外行星</title>
+<link>https://www.solidot.org/story?sid=83055</link>
+<guid>https://www.solidot.org/story?sid=83055</guid>
+<content:encoded><![CDATA[
+
+天文学家成功直接拍摄到一颗如《星球大战》中塔图因星球般绕行双星运转的系外行星。能拍到太阳系外的行星本就极为罕见，而能拍到一颗同时绕行两颗恒星的行星，更是少之又少。令人惊讶的是，这颗名为 HD 143811 AB b的系外行星距离其双母恒星约 64AU，是目前已知以直接成像方式发现、且绕行双星系统的行星中，距离母恒星最近的一颗，其轨道半径比过去同类型行星小了约六倍。这颗新行星 HD 143811 AB b 其实隐藏在多年以前的观测资料中。其质量约为木星的 6 倍，年龄约为 1,300 万年，温度高于太阳系内任何行星。 HD 143811 这个系统的结构同样引人注目：两颗恒星彼此紧密环绕（0.18 AU），每 18 天完成一次公转；而行星则以轨道半长轴约 64AU、330 年的周期，绕着这对恒星运行，与冥王星绕行太阳的时间尺度相近。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 14 Dec 2025 22:00:11 +0800</pubDate>
+<pubDate>Sun, 14 Dec 2025 22:00:11 +0800</pubDate>
+</item>
+<item>
+<title>全球电动汽车销量今年至今增长 21%</title>
+<link>https://www.solidot.org/story?sid=83054</link>
+<guid>https://www.solidot.org/story?sid=83054</guid>
+<content:encoded><![CDATA[
+
+Benchmark Mineral Intelligence 报告，2025 年 11 月全球电动汽车销量 200 万辆，今年迄今全球电动汽车销量 1850 万辆，比 2024 年同期增长 21%。欧洲 11 月的电动汽车销量增幅最高，同比增长 36%，其中纯电增长 35%，插电混动 39%，今年至今电动汽车总销量 380 万辆，比 2024 年同期增长 33%。北美因电动汽车减税政策于 9 月 30 日结束而销量下滑，今年至今电动汽车销量比 2024 年同期下降 1%。中国电动汽车销量仍然远超世界其它地区，今年至今销量增长 19% 达 1160 万辆，比亚迪 11 月电动汽车出口量创 131,935 辆的纪录，今年在欧洲销量达到 20 万辆，东南亚销量翻一番，南美销量增长逾 50%。除中国、欧洲和北美外，其它地区今年的电动汽车销量比 2024 年同期增长 48% 达到 150 万辆。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 14 Dec 2025 21:47:28 +0800</pubDate>
+<pubDate>Sun, 14 Dec 2025 21:47:28 +0800</pubDate>
+</item>
+<item>
+<title>Linux 6.19-rc1 释出，龙芯为内核加入 32 位架构 LoongArch32 支持</title>
+<link>https://www.solidot.org/story?sid=83053</link>
+<guid>https://www.solidot.org/story?sid=83053</guid>
+<content:encoded><![CDATA[
+
+Linus Torvalds 通常在周日释出新版内核的 RC 版本，而美国时间的周日是北京时间的周一。Torvalds 生活在北美，因此他通常是在北京时间的周一发布新内核 RC 版本。然而本周 Torvalds 在日本参加 Linux Plumbers 大会和 Linux 内核维护者峰会，而日本的周日相当于美国的周六，他在当地时间的周日释出 Linux 6.19-rc1。Torvalds 表示这可能会让那些习惯于最后一刻递交 pull request 的人措手不及。Linux 6.19 包含了驱动、子系统和架构更新，其中一个更新是龙芯加入了 32 位架构 LoongArch32 支持。大部分 CPU 架构都从 32 位过渡到 64 位，而龙芯则反其道而行之，从 64 位过渡到 32 位。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 14 Dec 2025 21:00:24 +0800</pubDate>
+<pubDate>Sun, 14 Dec 2025 21:00:24 +0800</pubDate>
+</item>
+<item>
+<title>长期饮用能量饮料导致一名男子中风</title>
+<link>https://www.solidot.org/story?sid=83052</link>
+<guid>https://www.solidot.org/story?sid=83052</guid>
+<content:encoded><![CDATA[
+
+《BMJ Case Reports》期刊本周报告了一起不同寻常的病例：一名男子因长期饮用能量饮料而中风。这名 50 多岁的男子因突发左侧身体完全麻木和共济失调（Ataxia）而送医，他的血压高达 254/150 mm Hg——正常人血压为 120/80。他不吸烟、不喝酒、也不滥用任何药物，身体健康，所有常规检查结果都正常。但脑部扫描显示了动脉痉挛的证据，这与高血压强相关。MRI 扫描显示丘脑有组织坏死。他接受了中风康复治疗，三天后出院时血压降至 170/80 mm Hg，虽然很高但不再危急。该男子在接下来三个月定期复诊，发现血压再次上升，一度因高血压再次住院。医生开始询问他的生活信息，他披露平均每天要喝八罐高效能量饮料。一罐能量饮料标明含有 160 毫克咖啡因，咖啡因是能升高血压的兴奋剂。一杯普通咖啡约含有 90 毫克咖啡因，八罐能量饮料共有 1280 毫克咖啡因，意味着相当于喝 14 杯咖啡。医生指出能量饮料的其它成分也可能具有兴奋剂作用。此前的研究发现连续饮用能量饮料会对血压上升产生累积效应。医生在了解之后建议他停止饮用能量饮料。他照做了，一周后血压就恢复到正常水平，八年之后血压仍然正常。
+<p></p>
+]]></content:encoded>
+<pubDate>Sat, 13 Dec 2025 21:57:36 +0800</pubDate>
+<pubDate>Sat, 13 Dec 2025 21:57:36 +0800</pubDate>
+</item>
 
 <item>
 <title>中国卫星与一颗 Starlink 卫星差点相撞</title>
