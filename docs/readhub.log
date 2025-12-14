@@ -9483,3 +9483,11 @@ Append: [佐力药业：拟 3.56 亿元收购未来医药多种微量元素注�
 append_entries: 1
 Finish: 2025-12-14 16:13:41.468739
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 17:10:24.809985
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [辽宁方大集团与上海交通大学医学院签署战略合作协议并捐资设立方大基金](https://readhub.cn/topic/8p5RcgrXkHf)
+append_entries: 1
+Finish: 2025-12-14 17:10:26.173642
+Wrote digest feed: docs/readhub-digest.xml

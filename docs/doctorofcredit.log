@@ -5387,3 +5387,10 @@ Append: [(Update: Reversal) Chase Withholding 24% IRS Taxes For Business Bank Ac
 append_entries: 1
 Finish: 2025-12-14 16:14:12.570978
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 17:10:47.476110
+Existing_entries: 385
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-14 17:10:47.834075
+Wrote digest feed: docs/doctorofcredit-digest.xml
