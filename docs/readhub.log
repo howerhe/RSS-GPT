@@ -9475,3 +9475,11 @@ Append: [小米春节前新品曝光，含骁龙 8E5 影像旗舰、全智能表
 append_entries: 5
 Finish: 2025-12-14 15:11:45.666092
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 16:13:40.253219
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [佐力药业：拟 3.56 亿元收购未来医药多种微量元素注射液资产组](https://readhub.cn/topic/8p52cZQV1ID)
+append_entries: 1
+Finish: 2025-12-14 16:13:41.468739
+Wrote digest feed: docs/readhub-digest.xml
