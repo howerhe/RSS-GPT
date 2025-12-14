@@ -9429,3 +9429,10 @@ Append: [崔东树：2025 年新能源商用车走势较去年明显走强](http
 append_entries: 4
 Finish: 2025-12-14 10:12:40.856357
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 11:10:33.867730
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-14 11:10:34.938678
+Wrote digest feed: docs/readhub-digest.xml
