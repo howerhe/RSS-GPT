@@ -9505,3 +9505,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-14 19:09:19.427286
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 20:13:06.757047
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [受冰雪天气影响 美国数千架次航班延误或取消](https://readhub.cn/topic/8p5d5S3OzTW)
+append_entries: 1
+Finish: 2025-12-14 20:13:08.388421
+Wrote digest feed: docs/readhub-digest.xml

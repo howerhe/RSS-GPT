@@ -5414,3 +5414,19 @@ Append: [(12/19 Only) Dollar General: 20% Off Uber Giftcards and more](https://w
 append_entries: 1
 Finish: 2025-12-14 19:09:47.452740
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-14 20:13:29.981932
+Existing_entries: 387
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 556
+Summarized using glm-4.5-air
+Append: [Amazon: Apple 2025 Macbook Air M4 From $724 After $25 Amazon Credit (Lowest Price Ever)](https://www.doctorofcredit.com/amazon-apple-2025-macbook-air-m4-from-724-after-25-amazon-credit-lowest-price-ever/)
+Token length: 805
+Summarized using glm-4.5-air
+Append: [Chase Freedom/Flex Q1 2026 Categories For 5%: Dining, Norwegian, Heart Association (Potential 7x On Dining)](https://www.doctorofcredit.com/chase-freedom-flex-q1-2026-categories-for-5-dining-norwegian-heart-association-potential-7x-on-dining/)
+Token length: 1627
+Summarized using glm-4.5-air
+Append: [Office Depot/Max Stores: Buy $300 In Mastercard Giftcards & Get $15 Instant Discount (12/14-12/20)](https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-mastercard-giftcards-get-15-instant-discount-2-13-2-19/)
+append_entries: 3
+Finish: 2025-12-14 20:13:49.709486
+Wrote digest feed: docs/doctorofcredit-digest.xml
