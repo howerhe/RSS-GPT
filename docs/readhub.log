@@ -9880,3 +9880,10 @@ Append: [赛诺菲与 Dren Bio 扩大合作，将共同开发下一代 B 细胞�
 append_entries: 4
 Finish: 2025-12-15 17:18:33.593291
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 18:19:41.906675
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-15 18:19:43.678835
+Wrote digest feed: docs/readhub-digest.xml
