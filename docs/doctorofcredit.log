@@ -5608,3 +5608,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-15 20:14:56.121247
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 21:13:02.700968
+Existing_entries: 398
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 519
+Summarized using glm-4.5-air
+Append: [Amazon: $100 Visa eGiftcard For $100 (Limit 1)](https://www.doctorofcredit.com/amazon-100-visa-egiftcard-for-100-limit-1/)
+append_entries: 1
+Finish: 2025-12-15 21:13:09.732936
+Wrote digest feed: docs/doctorofcredit-digest.xml

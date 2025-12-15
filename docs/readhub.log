@@ -9904,3 +9904,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-15 20:14:33.816602
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 21:12:41.165308
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美国政府拟招聘 1000 名 AI 工程师担任联邦官员](https://readhub.cn/topic/8p77tqOyswp)
+append_entries: 1
+Finish: 2025-12-15 21:12:43.222770
+Wrote digest feed: docs/readhub-digest.xml
