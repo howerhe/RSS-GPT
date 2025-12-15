@@ -5480,3 +5480,10 @@ Append: [Publix: $10 off $100 Visa/Mastercard Gift Card](https://www.doctorofcre
 append_entries: 1
 Finish: 2025-12-15 03:23:39.883015
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 04:33:04.762740
+Existing_entries: 395
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-15 04:33:04.933017
+Wrote digest feed: docs/doctorofcredit-digest.xml
