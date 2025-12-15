@@ -5625,3 +5625,25 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-15 22:13:15.369003
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 23:13:07.681503
+Existing_entries: 399
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 427
+Summarized using glm-4.5-air
+Append: [Adidas.com: $100 eGiftcard For $75, Limit 1](https://www.doctorofcredit.com/adidas-com-100-egiftcard-for-75-limit-1/)
+Token length: 260
+Summarized using glm-4.5-air
+Append: [eBay: 20% Off Select Last Minute Gifts With Promo Code HOLIDAYRUSH](https://www.doctorofcredit.com/ebay-20-off-select-last-minute-gifts-with-promo-code-holidayrush/)
+Token length: 621
+Summarized using glm-4.5-air
+Append: [[Starts 12/16] Starbucks: Purchase $25 eGiftcard, Get $5 Bonus Giftcard](https://www.doctorofcredit.com/starts-12-16-starbucks-purchase-25-egiftcard-get-5-bonus-giftcard/)
+Token length: 4907
+Summarized using glm-4.5-air
+Append: [(Update) Chase Sapphire Reserve ‘Points Boost’: Removes 1.5% Travel Redemption, Adds Boost Feature For 2% On Select Travel](https://www.doctorofcredit.com/chase-sapphire-reserve-points-boost-removes-1-5-travel-redemption-adds-boost-feature-for-2-on-select-travel/)
+Token length: 559
+Summarized using glm-4.5-air
+Append: [American Express Requiring SSN For Authorized Users](https://www.doctorofcredit.com/american-express-requiring-ssn-for-authorized-users/)
+append_entries: 5
+Finish: 2025-12-15 23:13:43.317234
+Wrote digest feed: docs/doctorofcredit-digest.xml
