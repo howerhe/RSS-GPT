@@ -9887,3 +9887,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-15 18:19:43.678835
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 19:13:56.154671
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [土耳其击落一架在黑海失控并接近其领空的无人机](https://readhub.cn/topic/8p7NbwMQpMk)
+Append: [国内商品期货夜盘开盘多数上涨，沪银涨 1.59%](https://readhub.cn/topic/8p70sKFg4KL)
+Append: [高盛上调 2026 年铜价预期 因关税风险下降](https://readhub.cn/topic/8p7MtqxXOvs)
+append_entries: 3
+Finish: 2025-12-15 19:13:57.781962
+Wrote digest feed: docs/readhub-digest.xml
