@@ -9897,3 +9897,10 @@ Append: [高盛上调 2026 年铜价预期 因关税风险下降](https://readhu
 append_entries: 3
 Finish: 2025-12-15 19:13:57.781962
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 20:14:32.566343
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-15 20:14:33.816602
+Wrote digest feed: docs/readhub-digest.xml
