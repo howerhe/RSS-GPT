@@ -5463,3 +5463,10 @@ Append: [[YMMV] American Airlines: 100 Miles For Registering For Hotel/Car Renta
 append_entries: 3
 Finish: 2025-12-14 23:11:58.647417
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 01:01:55.307843
+Existing_entries: 394
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-15 01:01:55.507345
+Wrote digest feed: docs/doctorofcredit-digest.xml
