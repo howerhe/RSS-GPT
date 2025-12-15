@@ -9869,3 +9869,14 @@ Append: [波罗的海干散货指数跌 0.54%](https://readhub.cn/topic/8p71SzMa
 append_entries: 5
 Finish: 2025-12-15 16:18:33.417229
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 17:18:32.020621
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [报道：贝莱德丧失荷兰养老基金 PME 59 亿美元委托管理业务](https://readhub.cn/topic/8p7HzUNxlgu)
+Append: [vivo S50 系列售价 2999 元起](https://readhub.cn/topic/8p6td1LucQo)
+Append: [特斯拉正测试无人驾驶 Robotaxi](https://readhub.cn/topic/8p6yeyaghXu)
+Append: [赛诺菲与 Dren Bio 扩大合作，将共同开发下一代 B 细胞耗竭疗法](https://readhub.cn/topic/8p72BOnKa0y)
+append_entries: 4
+Finish: 2025-12-15 17:18:33.593291
+Wrote digest feed: docs/readhub-digest.xml
