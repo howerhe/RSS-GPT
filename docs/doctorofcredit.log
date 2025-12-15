@@ -5543,3 +5543,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-15 12:27:48.721189
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 13:35:29.014565
+Existing_entries: 395
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 7704
+Summarized using glm-4.5-air
+Append: [Q1 2026 5% Quarterly Categories: Activate, Offers & Suggestions (Freedom/Flex, Discover, Dividend, Cash+ & More)](https://www.doctorofcredit.com/q1-2026-5-quarterly-categories-activate-offers-suggestions-freedom-flex-discover-dividend-cash-more/)
+append_entries: 1
+Finish: 2025-12-15 13:35:35.568023
+Wrote digest feed: docs/doctorofcredit-digest.xml
