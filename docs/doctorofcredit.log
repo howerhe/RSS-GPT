@@ -5566,3 +5566,10 @@ Append: [Best Posts Last Week: Up To 50% Off Amazon, Mesa Closing All Cards Down
 append_entries: 2
 Finish: 2025-12-15 14:17:50.178256
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 15:17:42.222075
+Existing_entries: 398
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-15 15:17:42.446762
+Wrote digest feed: docs/doctorofcredit-digest.xml

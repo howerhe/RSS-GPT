@@ -4786,3 +4786,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-15 14:17:05.485227
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 15:17:17.129324
+Existing_entries: 308
+Fetching from https://www.solidot.org/index.rss
+Append: [内存 SSD 之后机械硬盘也涨价](https://www.solidot.org/story?sid=83063)
+Append: [GNOME Shell 扩展禁止使用 AI 生成](https://www.solidot.org/story?sid=83062)
+Append: [《时代》今年的年度人物是 AI 缔造者](https://www.solidot.org/story?sid=83061)
+Append: [丹麦计划严格限制 15 岁以下青少年使用社交媒体](https://www.solidot.org/story?sid=83060)
+append_entries: 4
+Finish: 2025-12-15 15:17:19.012013
+Wrote digest feed: docs/solidot-digest.xml
