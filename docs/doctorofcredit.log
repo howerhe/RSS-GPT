@@ -5553,3 +5553,16 @@ Append: [Q1 2026 5% Quarterly Categories: Activate, Offers & Suggestions (Freedo
 append_entries: 1
 Finish: 2025-12-15 13:35:35.568023
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 14:17:30.033745
+Existing_entries: 396
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2282
+Summarized using glm-4.5-air
+Append: [Amazon: Save On Giftcards For Lowe’s, Lyft, Grubhub, Hotels.com, Choice, inKind, Chewy & Dozens More](https://www.doctorofcredit.com/amazon-save-on-giftcards-for-lowes-lyft-grubhub-hotels-com-chewy-many-more/)
+Token length: 550
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: Up To 50% Off Amazon, Mesa Closing All Cards Down & More](https://www.doctorofcredit.com/best-posts-last-week-up-to-50-off-amazon-mesa-closing-all-cards-down-more/)
+append_entries: 2
+Finish: 2025-12-15 14:17:50.178256
+Wrote digest feed: docs/doctorofcredit-digest.xml
