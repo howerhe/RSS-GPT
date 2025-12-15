@@ -4744,3 +4744,10 @@ Append: [LG TV webOS 更新加入 Copilot AI 且不可卸载](https://www.solido
 append_entries: 3
 Finish: 2025-12-15 08:20:19.827077
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 09:23:04.128347
+Existing_entries: 308
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-15 09:23:05.821195
+Wrote digest feed: docs/solidot-digest.xml
