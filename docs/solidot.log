@@ -4797,3 +4797,10 @@ Append: [丹麦计划严格限制 15 岁以下青少年使用社交媒体](https
 append_entries: 4
 Finish: 2025-12-15 15:17:19.012013
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 16:18:28.644403
+Existing_entries: 312
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-15 16:18:30.314327
+Wrote digest feed: docs/solidot-digest.xml

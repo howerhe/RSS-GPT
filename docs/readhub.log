@@ -9857,3 +9857,15 @@ Append: [2025 年我国年度全社会用电量预计首超 10 万亿千瓦时](
 append_entries: 13
 Finish: 2025-12-15 15:17:22.525874
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-15 16:18:32.101521
+Existing_entries: 1013
+Fetching from https://readhub.cn/rss
+Append: [长安汽车取得 L3 级自动驾驶车型产品准入许可](https://readhub.cn/topic/8p72BenOdcV)
+Append: [金字火腿：郭波辞任公司总裁职务，郑虎接任](https://readhub.cn/topic/8p6hWzb587j)
+Append: [比亚迪天神之眼辅助驾驶车型保有量超 230 万，每天生成数据超 1.5 亿公里](https://readhub.cn/topic/8p6fN6Pk847)
+Append: [委内瑞拉国家石油公司称遭遇网络攻击](https://readhub.cn/topic/8p7Al6URsSn)
+Append: [波罗的海干散货指数跌 0.54%](https://readhub.cn/topic/8p71SzMa5V0)
+append_entries: 5
+Finish: 2025-12-15 16:18:33.417229
+Wrote digest feed: docs/readhub-digest.xml
