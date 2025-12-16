@@ -5811,3 +5811,16 @@ Append: [Smoothie King: Free 12 oz Apple Cinnamon Cheer (12/16 Only)](https://ww
 append_entries: 1
 Finish: 2025-12-16 20:15:28.187170
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 21:13:51.174379
+Existing_entries: 412
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 734
+Summarized using glm-4.5-air
+Append: [[Targeted] IHG: Purchase 120,000 Points & Get Diamond Status](https://www.doctorofcredit.com/targeted-ihg-purchase-120000-points-get-diamond-status/)
+Token length: 319
+Summarized using glm-4.5-air
+Append: [Paramount+ Premium (No Ads) 99¢ Per Month For 2 Months With Code rm2kn3](https://www.doctorofcredit.com/paramount-premium-no-ads-99%c2%a2-per-month-for-2-months-with-code-rm2kn3/)
+append_entries: 2
+Finish: 2025-12-16 21:14:05.276094
+Wrote digest feed: docs/doctorofcredit-digest.xml
