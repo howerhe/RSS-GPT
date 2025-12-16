@@ -10289,3 +10289,13 @@ Append: [豆包手机：首批货源已售罄，此前行业内传闻的备货�
 append_entries: 6
 Finish: 2025-12-16 16:17:07.783585
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 17:17:34.468679
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [英债收益率于美国非农就业报告发布后冲高回落](https://readhub.cn/topic/8p8jJQllfs9)
+Append: [苹果计划到 2027 年秋季将其 iPhone 产品线从五款扩展至七款](https://readhub.cn/topic/8p8tSVhsUtx)
+Append: [闲鱼平台用户运营负责人被开除且永不录用](https://readhub.cn/topic/8p8h8V2fm6g)
+append_entries: 3
+Finish: 2025-12-16 17:17:35.573806
+Wrote digest feed: docs/readhub-digest.xml

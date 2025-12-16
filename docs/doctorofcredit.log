@@ -5777,3 +5777,13 @@ Append: [Google Play Class Action Settlement (‘Parens Patriae’)($630 Million
 append_entries: 1
 Finish: 2025-12-16 16:17:39.511615
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 17:17:58.885940
+Existing_entries: 410
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1284
+Summarized using glm-4.5-air
+Append: [Staples.com: Save On Giftcards For Lowe’s, Choice, Hulu and more](https://www.doctorofcredit.com/staples-com-save-on-giftcards-for-lowes-choice-hulu-and-more/)
+append_entries: 1
+Finish: 2025-12-16 17:18:04.148191
+Wrote digest feed: docs/doctorofcredit-digest.xml
