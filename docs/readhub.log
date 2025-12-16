@@ -10299,3 +10299,13 @@ Append: [闲鱼平台用户运营负责人被开除且永不录用](https://read
 append_entries: 3
 Finish: 2025-12-16 17:17:35.573806
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 18:19:50.554533
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [OpenAI 聘请前英国财相领导「星际之门」全球扩张计划](https://readhub.cn/topic/8p8zhDJThnl)
+Append: [美银调查：股票和大宗商品配置比例升至 2022 年 2 月以来最高水平](https://readhub.cn/topic/8p8YX7uT9pN)
+Append: [大摩：特斯拉 Robotaxi 车队 2026 年有望增至 1000 辆](https://readhub.cn/topic/8p8yFKb2Xp8)
+append_entries: 3
+Finish: 2025-12-16 18:19:51.972744
+Wrote digest feed: docs/readhub-digest.xml
