@@ -5647,3 +5647,16 @@ Append: [American Express Requiring SSN For Authorized Users](https://www.doctor
 append_entries: 5
 Finish: 2025-12-15 23:13:43.317234
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 01:00:18.370004
+Existing_entries: 404
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 424
+Summarized using glm-4.5-air
+Append: [American Airlines: Download Button & Get 1,000 Miles For Spending $25](https://www.doctorofcredit.com/american-airlines-download-button-get-1000-miles-for-spending-25/)
+Token length: 974
+Summarized using glm-4.5-air
+Append: [U.S. Bank To End Smartly Shopping Deals Program](https://www.doctorofcredit.com/u-s-bank-to-end-smartly-shopping-deals-program/)
+append_entries: 2
+Finish: 2025-12-16 01:00:32.301018
+Wrote digest feed: docs/doctorofcredit-digest.xml
