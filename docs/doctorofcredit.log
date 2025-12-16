@@ -5767,3 +5767,13 @@ Append: [[YMMV] Costco.com: $50 Off $500+](https://www.doctorofcredit.com/ymmv-c
 append_entries: 1
 Finish: 2025-12-16 15:16:01.951095
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 16:17:30.976305
+Existing_entries: 409
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1365
+Summarized using glm-4.5-air
+Append: [Google Play Class Action Settlement (‘Parens Patriae’)($630 Million)](https://www.doctorofcredit.com/google-play-class-action-settlement-parens-patriae630-million/)
+append_entries: 1
+Finish: 2025-12-16 16:17:39.511615
+Wrote digest feed: docs/doctorofcredit-digest.xml
