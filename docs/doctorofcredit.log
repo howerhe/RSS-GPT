@@ -5757,3 +5757,13 @@ Append: [T-Life (T-Mobile Tuesday): $5 Atom Tickets To Spongebob Movie](https://
 append_entries: 1
 Finish: 2025-12-16 14:16:46.853793
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 15:15:55.907864
+Existing_entries: 408
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 972
+Summarized using glm-4.5-air
+Append: [[YMMV] Costco.com: $50 Off $500+](https://www.doctorofcredit.com/ymmv-costco-com-50-off-500/)
+append_entries: 1
+Finish: 2025-12-16 15:16:01.951095
+Wrote digest feed: docs/doctorofcredit-digest.xml
