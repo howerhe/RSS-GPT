@@ -5670,3 +5670,10 @@ Append: [Amazon: $100 Walgreens For $85, $50 Chipotle With $7.50 Amazon Credit](
 append_entries: 1
 Finish: 2025-12-16 02:54:17.922816
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 03:54:55.312310
+Existing_entries: 407
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-16 03:54:55.546689
+Wrote digest feed: docs/doctorofcredit-digest.xml

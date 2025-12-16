@@ -4871,3 +4871,10 @@ Append: [中印等国 IT 业入门级工作大幅减少](https://www.solidot.org
 append_entries: 4
 Finish: 2025-12-16 02:53:32.284792
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 03:54:27.453902
+Existing_entries: 316
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-16 03:54:29.320655
+Wrote digest feed: docs/solidot-digest.xml
