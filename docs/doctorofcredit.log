@@ -5824,3 +5824,10 @@ Append: [Paramount+ Premium (No Ads) 99¢ Per Month For 2 Months With Code rm2kn
 append_entries: 2
 Finish: 2025-12-16 21:14:05.276094
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 22:13:17.852067
+Existing_entries: 414
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-16 22:13:18.119361
+Wrote digest feed: docs/doctorofcredit-digest.xml

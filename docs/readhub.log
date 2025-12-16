@@ -10332,3 +10332,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-16 21:13:27.942316
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 22:12:53.539071
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美股收盘：三大股指涨跌不一 特斯拉创新高](https://readhub.cn/topic/8p9E44nA8OS)
+Append: [澳大利亚两大银行预计澳洲联储将于 2 月启动加息](https://readhub.cn/topic/8p7ysxWqCif)
+append_entries: 2
+Finish: 2025-12-16 22:12:54.896678
+Wrote digest feed: docs/readhub-digest.xml
