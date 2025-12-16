@@ -10341,3 +10341,14 @@ Append: [澳大利亚两大银行预计澳洲联储将于 2 月启动加息](htt
 append_entries: 2
 Finish: 2025-12-16 22:12:54.896678
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 23:12:03.506447
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [欧洲应用开发商呼吁欧盟对苹果收费行为采取行动](https://readhub.cn/topic/8p8IFyahQFm)
+Append: [上期所原油期货夜盘收跌 2.24%](https://readhub.cn/topic/8p93KT0Deng)
+Append: [WTI 原油期货价格收跌 2.73%](https://readhub.cn/topic/8p9FP2rJh3Q)
+Append: [报道：巴西国油据悉批准收购英国石油 BP 巴西太阳能子公司股权](https://readhub.cn/topic/8p93ypIE19e)
+append_entries: 4
+Finish: 2025-12-16 23:12:04.889803
+Wrote digest feed: docs/readhub-digest.xml
