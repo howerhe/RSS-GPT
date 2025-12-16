@@ -5801,3 +5801,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-16 19:14:27.273282
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 20:15:24.014678
+Existing_entries: 411
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 146
+Summarized using glm-4.5-air
+Append: [Smoothie King: Free 12 oz Apple Cinnamon Cheer (12/16 Only)](https://www.doctorofcredit.com/smoothie-king-free-12-oz-apple-cinnamon-cheer-12-16-only/)
+append_entries: 1
+Finish: 2025-12-16 20:15:28.187170
+Wrote digest feed: docs/doctorofcredit-digest.xml
