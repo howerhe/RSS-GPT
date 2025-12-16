@@ -5660,3 +5660,13 @@ Append: [U.S. Bank To End Smartly Shopping Deals Program](https://www.doctorofcr
 append_entries: 2
 Finish: 2025-12-16 01:00:32.301018
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 02:53:57.857865
+Existing_entries: 406
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 220
+Summarized using glm-4.5-air
+Append: [Amazon: $100 Walgreens For $85, $50 Chipotle With $7.50 Amazon Credit](https://www.doctorofcredit.com/amazon-100-walgreens-for-85-50-chipotle-with-7-50-amazon-credit/)
+append_entries: 1
+Finish: 2025-12-16 02:54:17.922816
+Wrote digest feed: docs/doctorofcredit-digest.xml

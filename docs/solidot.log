@@ -4860,3 +4860,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-16 00:59:52.679141
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-16 02:53:30.294542
+Existing_entries: 312
+Fetching from https://www.solidot.org/index.rss
+Append: [美国 Z 世代再次青睐实体媒介](https://www.solidot.org/story?sid=83067)
+Append: [火星对地球气候有显著影响](https://www.solidot.org/story?sid=83066)
+Append: [科学家发现决定黄瓜雌性的关键基因](https://www.solidot.org/story?sid=83065)
+Append: [中印等国 IT 业入门级工作大幅减少](https://www.solidot.org/story?sid=83064)
+append_entries: 4
+Finish: 2025-12-16 02:53:32.284792
+Wrote digest feed: docs/solidot-digest.xml
