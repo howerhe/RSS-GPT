@@ -6005,3 +6005,13 @@ Append: [Rove Miles: Up To 5,000 Free Points For Mesa Cardholders](https://www.d
 append_entries: 2
 Finish: 2025-12-17 20:15:38.342274
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 21:13:28.374669
+Existing_entries: 423
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1359
+Summarized using glm-4.5-air
+Append: [Staples: 100% Back In Points On Crayola Purchases Up To $50](https://www.doctorofcredit.com/staples-100-back-in-points-on-crayola-purchases-up-to-50/)
+append_entries: 1
+Finish: 2025-12-17 21:13:43.607743
+Wrote digest feed: docs/doctorofcredit-digest.xml
