@@ -10728,3 +10728,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-17 18:19:52.483223
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 19:14:03.742104
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [内塔尼亚胡批准以色列埃及天然气协议](https://readhub.cn/topic/8pAiCGYv1Yn)
+append_entries: 1
+Finish: 2025-12-17 19:14:05.595099
+Wrote digest feed: docs/readhub-digest.xml
