@@ -6015,3 +6015,10 @@ Append: [Staples: 100% Back In Points On Crayola Purchases Up To $50](https://ww
 append_entries: 1
 Finish: 2025-12-17 21:13:43.607743
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 22:12:58.776096
+Existing_entries: 424
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-17 22:12:58.992695
+Wrote digest feed: docs/doctorofcredit-digest.xml

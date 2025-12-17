@@ -10755,3 +10755,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-17 21:13:03.991894
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 22:12:32.920228
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美光第一财季调整后营收 136.4 亿美元，分析师预期 129.5 亿美元](https://readhub.cn/topic/8pAsxp2DlrY)
+append_entries: 1
+Finish: 2025-12-17 22:12:34.290275
+Wrote digest feed: docs/readhub-digest.xml
