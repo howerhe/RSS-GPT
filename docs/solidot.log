@@ -5049,3 +5049,10 @@ Append: [缺水的阿拉伯半岛遭遇洪灾](https://www.solidot.org/story?sid
 append_entries: 10
 Finish: 2025-12-17 03:50:26.036682
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 04:25:46.687176
+Existing_entries: 326
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-17 04:25:48.604985
+Wrote digest feed: docs/solidot-digest.xml
