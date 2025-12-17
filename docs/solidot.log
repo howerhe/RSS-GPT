@@ -5123,3 +5123,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-17 13:28:40.612072
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 14:14:26.719647
+Existing_entries: 330
+Fetching from https://www.solidot.org/index.rss
+Append: [欧盟软化 2035 年内燃机汽车禁令](https://www.solidot.org/story?sid=83085)
+Append: [四成 fMRI 信号与实际大脑活动不一致](https://www.solidot.org/story?sid=83084)
+Append: [苹果和 Google 释出紧急更新修复 0day](https://www.solidot.org/story?sid=83083)
+Append: [多家中国火箭公司尝试复制 SpaceX 的 Starship 火箭](https://www.solidot.org/story?sid=83082)
+append_entries: 4
+Finish: 2025-12-17 14:14:28.534321
+Wrote digest feed: docs/solidot-digest.xml
