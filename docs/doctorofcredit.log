@@ -5968,3 +5968,13 @@ Append: [Preferred Hotels: Sign Up For Text & E-mail Alerts & Get 250 Points](ht
 append_entries: 1
 Finish: 2025-12-17 16:17:56.519118
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 17:17:53.241692
+Existing_entries: 420
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 635
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save On Disney, Starbucks, Delta, Chipotle, IKEA, Grubhub, IKEA, DoorDash and more (12/17-12/25)](https://www.doctorofcredit.com/giftcards-com-save-on-disney-starbucks-delta-chipotle-ikea-grubhub-ikea-doordash-and-more-12-17-12-25/)
+append_entries: 1
+Finish: 2025-12-17 17:18:12.894398
+Wrote digest feed: docs/doctorofcredit-digest.xml

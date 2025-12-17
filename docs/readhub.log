@@ -10712,3 +10712,12 @@ Append: [谷歌正与 Meta 合作，扩大对 AI 芯片的软件支持](https://
 append_entries: 7
 Finish: 2025-12-17 16:17:25.347861
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 17:17:28.308750
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [AI 芯片初创公司 Mythic 融资 1.25 亿美元，旨在挑战英伟达](https://readhub.cn/topic/8pANQaYXQy5)
+Append: [海南自贸港 12 月 18 日起可办理「一线」「二线」报关业务](https://readhub.cn/topic/8pAXbMi9X5K)
+append_entries: 2
+Finish: 2025-12-17 17:17:29.532494
+Wrote digest feed: docs/readhub-digest.xml
