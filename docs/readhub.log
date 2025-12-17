@@ -10698,3 +10698,17 @@ Append: [美股大型科技股盘前多数上涨，亚马逊涨超 1%](https://r
 append_entries: 7
 Finish: 2025-12-17 15:14:46.204553
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 16:17:23.211198
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [惠丰钻石：拟投 10 亿建 CVD 金刚石项目](https://readhub.cn/topic/8pA7pr1VS31)
+Append: [山西累计建成智能化煤矿 369 座](https://readhub.cn/topic/8pAFYVVR2p1)
+Append: [突破多项关键技术 我国首艘国产航母山东舰已形成完整作战能力](https://readhub.cn/topic/8p9kqJlYH8W)
+Append: [比特币向上升破 90000 美元，日内涨 3.13%](https://readhub.cn/topic/8pATqOM2Iv1)
+Append: [委国家石油公司：原油和石油产品出口业务正常开展](https://readhub.cn/topic/8pAVK3osBNP)
+Append: [上海算力领域三项团体标准正式发布](https://readhub.cn/topic/8pAUaB0hnjq)
+Append: [谷歌正与 Meta 合作，扩大对 AI 芯片的软件支持](https://readhub.cn/topic/8pATHptitlL)
+append_entries: 7
+Finish: 2025-12-17 16:17:25.347861
+Wrote digest feed: docs/readhub-digest.xml

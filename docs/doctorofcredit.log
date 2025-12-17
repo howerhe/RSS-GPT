@@ -5958,3 +5958,13 @@ Append: [(Update: $200 Bonus) Rakuten American Express Card With Extra Earnings 
 append_entries: 3
 Finish: 2025-12-17 15:15:36.076280
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 16:17:49.530656
+Existing_entries: 419
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 308
+Summarized using glm-4.5-air
+Append: [Preferred Hotels: Sign Up For Text & E-mail Alerts & Get 250 Points](https://www.doctorofcredit.com/preferred-hotels-sign-up-for-text-e-mail-alerts-get-250-points/)
+append_entries: 1
+Finish: 2025-12-17 16:17:56.519118
+Wrote digest feed: docs/doctorofcredit-digest.xml
