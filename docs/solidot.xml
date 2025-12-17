@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>欧盟软化 2035 年内燃机汽车禁令</title>
 <link>https://www.solidot.org/story?sid=83085</link>
 <guid>https://www.solidot.org/story?sid=83085</guid>
 <content:encoded><![CDATA[
-
 欧盟放宽其原定于 2035 年实施的内燃机汽车禁令，允许少量低排放汽车继续销售。欧盟原计划到 2035 年新车的排放量必须为零，或比 2021 年的水平降低 100%。现在放宽为降低 90%，为插电混动汽车留出了空间——此类汽车配备电动机和内燃机，无需寻找充电站即可利用内燃机为电池充电。欧盟官员表示此举不会影响欧盟 27 个成员国在 2050 年实现经济碳中和的目标。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Dec 2025 21:15:38 +0800</pubDate>
 <pubDate>Wed, 17 Dec 2025 21:15:38 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@
 <link>https://www.solidot.org/story?sid=83084</link>
 <guid>https://www.solidot.org/story?sid=83084</guid>
 <content:encoded><![CDATA[
-
 功能磁共振成像（fMRI）过去三十年被广泛用于大脑研究，但根据发表在《Nature Neuroscience》上的一项研究，fMRI 信号存在大量的噪音，四成 fMRI 信号与实际大脑活动不一致。研究人员发现，40% 的案例中 fMRI 信号增强与脑活动减弱相关。在脑活动增强的区域，fMRI 信号反而减弱。研究结果表明，磁共振成像（MRI）测量的氧含量与神经元活动之间不存在普遍有效的耦合。这项发现从根本上挑战了以往对 fMRI 数据与神经元活动之间关系的解读方式。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Dec 2025 20:44:20 +0800</pubDate>
 <pubDate>Wed, 17 Dec 2025 20:44:20 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +30,9 @@
 <link>https://www.solidot.org/story?sid=83083</link>
 <guid>https://www.solidot.org/story?sid=83083</guid>
 <content:encoded><![CDATA[
-
 苹果和 Google 最近都释出了紧急更新去修复正被利用的 0day。苹果向 iPhone、iPad 和 Mac 释出更新修复两个 WebKit bug，苹果表示漏洞可能被用于对特定目标发动复杂攻击，它没有披露细节。Google 释出 Chrome 更新修复了多个安全漏洞，其中包括正被利用 0day CVE-2025-14174，该 bug 属于越界内存访问漏洞。两家公司都没有透露细节，但看起来是相关的，Google 将 CVE-2025-14174 的发现归功于苹果的安全工程团队和 Google 的安全团队 Threat Analysis Group。目前看来该 0day 是被间谍软件利用。苹果 2025 年至今修复了 9 个 0day，Google 今年至今修复了 8 个 Chrome 0day。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Dec 2025 18:16:54 +0800</pubDate>
 <pubDate>Wed, 17 Dec 2025 18:16:54 +0800</pubDate>
 </item>
 <item>
@@ -45,14 +40,11 @@
 <link>https://www.solidot.org/story?sid=83082</link>
 <guid>https://www.solidot.org/story?sid=83082</guid>
 <content:encoded><![CDATA[
-
 蓝箭航天本月初执行了朱雀三号火箭的首飞任务，火箭发射成功但回收失败。朱雀三号的外形模仿了 SpaceX 的  Falcon 9 火箭。SpaceX 正在开发它的新一代重型火箭 Starship，因此越来越多的中国火箭初创公司也在开发外形类似 Starship 的火箭，当然不太可能第一步就开发重型火箭，它们开发的是 Starship 的缩小版本。名叫上海大航跃迁的火箭公司宣布正在开发中大型可重复使用运载火箭，使用了类似 Starship 的用两根金属筷子夹住火箭的回收技术；北京宇石空间也表示在研发甲烷燃料火箭，使用类似夹火箭回收技术，它对于模仿 SpaceX 的火箭毫不掩饰，称其技术方案与马斯克的 SpaceX 公司完全一致；北京领航星箭公司将其正在研发的火箭命名为星舰一号。这些火箭初创企业能否成功研制出缩小版 Starship 还是未知之数。
 <p></p>
 ]]></content:encoded>
 <pubDate>Wed, 17 Dec 2025 17:17:09 +0800</pubDate>
-<pubDate>Wed, 17 Dec 2025 17:17:09 +0800</pubDate>
 </item>
-
 <item>
 <title>德州起诉五大 TV 制造商未经同意监视用户</title>
 <link>https://www.solidot.org/story?sid=83081</link>

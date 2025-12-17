@@ -5134,3 +5134,10 @@ Append: [多家中国火箭公司尝试复制 SpaceX 的 Starship 火箭](https:
 append_entries: 4
 Finish: 2025-12-17 14:14:28.534321
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 15:14:40.591638
+Existing_entries: 334
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-17 15:14:42.540492
+Wrote digest feed: docs/solidot-digest.xml

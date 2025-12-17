@@ -5942,3 +5942,19 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-17 14:14:56.149924
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 15:15:10.539368
+Existing_entries: 416
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1984
+Summarized using glm-4.5-air
+Append: [[YMMV – AL, CO, CT, ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA] Keybank $800 Checking Bonus](https://www.doctorofcredit.com/co-green-valley-ranch-branch-only-keybank-800-checking-bonus/)
+Token length: 256
+Summarized using glm-4.5-air
+Append: [Bilt Adds Spirit Airlines As Transfer Partner](https://www.doctorofcredit.com/bilt-adds-spirit-airlines-as-transfer-partner/)
+Token length: 1671
+Summarized using glm-4.5-air
+Append: [(Update: $200 Bonus) Rakuten American Express Card With Extra Earnings On Rakuten Shopping & Dining](https://www.doctorofcredit.com/new-card-review-rakuten-american-express-card-with-extra-earnings-on-rakuten-shopping-dining/)
+append_entries: 3
+Finish: 2025-12-17 15:15:36.076280
+Wrote digest feed: docs/doctorofcredit-digest.xml
