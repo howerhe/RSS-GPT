@@ -5084,3 +5084,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-17 08:18:54.478112
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 09:19:33.303594
+Existing_entries: 326
+Fetching from https://www.solidot.org/index.rss
+Append: [德州起诉五大 TV 制造商未经同意监视用户](https://www.solidot.org/story?sid=83081)
+Append: [2025 年是有记录以来英国阳光最充足的年份](https://www.solidot.org/story?sid=83080)
+Append: [Mozilla 任命了新 CEO Anthony Enzor-DeMeo](https://www.solidot.org/story?sid=83079)
+Append: [酷澎信息泄露事件嫌疑人在离职后仍有内部系统访问权限](https://www.solidot.org/story?sid=83078)
+append_entries: 4
+Finish: 2025-12-17 09:19:35.248169
+Wrote digest feed: docs/solidot-digest.xml
