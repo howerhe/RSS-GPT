@@ -5032,3 +5032,20 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-17 02:45:17.847738
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 03:50:24.323390
+Existing_entries: 316
+Fetching from https://www.solidot.org/index.rss
+Append: [冰川消失预计将加剧](https://www.solidot.org/story?sid=83077)
+Append: [女性童年暴露于城市环境影响成年后行为](https://www.solidot.org/story?sid=83076)
+Append: [美国的部分帕金森病与饮用水污染相关](https://www.solidot.org/story?sid=83075)
+Append: [微软终于淘汰过时加密算法 RC4](https://www.solidot.org/story?sid=83074)
+Append: [React Server 高危漏洞正被黑客组织利用](https://www.solidot.org/story?sid=83073)
+Append: [Cloudflare 报告称半数网络中断事故是政府干预导致的](https://www.solidot.org/story?sid=83072)
+Append: [俄罗斯封禁 Roblox 引发儿童和民众抗议](https://www.solidot.org/story?sid=83071)
+Append: [韦氏词典的年度单词是 slop](https://www.solidot.org/story?sid=83070)
+Append: [Google Search 主页加入“+”按钮](https://www.solidot.org/story?sid=83069)
+Append: [缺水的阿拉伯半岛遭遇洪灾](https://www.solidot.org/story?sid=83068)
+append_entries: 10
+Finish: 2025-12-17 03:50:26.036682
+Wrote digest feed: docs/solidot-digest.xml

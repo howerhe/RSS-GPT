@@ -4,6 +4,127 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>冰川消失预计将加剧</title>
+<link>https://www.solidot.org/story?sid=83077</link>
+<guid>https://www.solidot.org/story?sid=83077</guid>
+<content:encoded><![CDATA[
+
+研究人员预测，全球每年消失的冰川数量将急剧上升，到本世纪中叶达到 2000-4000 座，具体取决于相较于工业化前水平的升温程度。研究者指出，如限制变暖在 1.5℃，到 2100 年，将比变暖 2.7℃ 的场景下冰川存续数量翻倍，并防止在 4.0℃ 升温下冰川近乎完全消失的局面。全球冰川正在急速消退，这一趋势与海平面上升有关。但单个冰川的消失也蕴含着文化、精神和经济影响。冰川在一些社区中有着文化和精神含义，每年吸引数百万游客，也是下游地区的重要水源。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 23:49:30 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 23:49:30 +0800</pubDate>
+</item>
+<item>
+<title>女性童年暴露于城市环境影响成年后行为</title>
+<link>https://www.solidot.org/story?sid=83076</link>
+<guid>https://www.solidot.org/story?sid=83076</guid>
+<content:encoded><![CDATA[
+
+天津医科大学的研究人员分析了中国人影像遗传学研究中 2950 名 18-30 岁中国女性的数据，探索在生命早期城市化生活、初潮年龄（青春期标志）和成人大脑与人格特征间的关系。通过使用卫星衍生指标衡量城市建成面积、夜间光照强度等城市化特点，他们发现，早期生活暴露于城市化程度较高，与初潮年龄更早有关；而较早的初潮年龄与内侧前额叶皮质体积缩小相关，同时在问卷测评中的宜人性和奖励依赖性也较低。他们还发现，家庭社会经济地位较高与初潮年龄较早有关，这也与较低宜人性和奖励依赖性相关。研究人员表示还需要进一步对男性个体的研究来确定城市化对男性的潜在影响。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 21:59:29 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 21:59:29 +0800</pubDate>
+</item>
+<item>
+<title>美国的部分帕金森病与饮用水污染相关</title>
+<link>https://www.solidot.org/story?sid=83075</link>
+<guid>https://www.solidot.org/story?sid=83075</guid>
+<content:encoded><![CDATA[
+
+帕金森病的研究几十年来主要集中在遗传学，但至少在美国，越来越多的证据表明帕金森病与饮用水污染相关。流行病学家 Sam Goldman 对比了位于北卡罗来纳州 Lejeune 营和加利福尼亚州 Pendleton 营的海军陆战队员，其中 Lejeune 营的供水系统被三氯乙烯（TCE）污染约 35 年，Pendleton 营的供水系统较干净。研究发现， Lejeune 营接触过 TCE 的海军陆战队员患帕金森病的几率高 70%。最新研究表明，只有 10% 到 15% 的帕金森病能完全用遗传学来解释。过去 30 年美国帕金森病发病率翻了一番——这与遗传性疾病的特征并不相符。美国环保署于 2024 年 12 月采取行动禁用三氯乙烯 (TCE)。特朗普政府于 1 月作为取消监管行动的一部分推迟了该禁令。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 21:27:52 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 21:27:52 +0800</pubDate>
+</item>
+<item>
+<title>微软终于淘汰过时加密算法 RC4</title>
+<link>https://www.solidot.org/story?sid=83074</link>
+<guid>https://www.solidot.org/story?sid=83074</guid>
+<content:encoded><![CDATA[
+
+微软终于准备淘汰过时且已知存在弱点的加密算法 RC4。RC4 代表 Rivist Cipher 4，由 RSA 加密算法作者之一的 Ronald Linn Rivest 在 1987 年设计。RC4 最初没有公开发表，属于商业机密，但 1994 年被泄露在 Cypherpunks 邮件列表上，安全研究人员很快演示了对 RC4 的攻击。尽管存在已知弱点，RC4 仍然被 SSL 和  TLS 等安全协议广泛使用，直到十年前才被淘汰。微软表示，到 2026 年中期，Windows Server 2008 及更高版本中 Kerberos Key Distribution Center(KDC)域控制器默认设置将禁用 RC4，仅允许使用 AES-SHA1 加密。除非管理员额外配置，否则 RC4 身份验证将不再有效。微软表示，过去十年一直在稳步推进对 RC4 算法的弃用，但这项工作并不容易。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 20:52:17 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 20:52:17 +0800</pubDate>
+</item>
+<item>
+<title>React Server 高危漏洞正被黑客组织利用</title>
+<link>https://www.solidot.org/story?sid=83073</link>
+<guid>https://www.solidot.org/story?sid=83073</guid>
+<content:encoded><![CDATA[
+
+本月初安全研究人员披露了编号为 CVE-2025-55182、危险等级 10/10 的 React Server 高危漏洞，该漏洞利用的成功率几乎能达到 100%，攻击者可以远程执行代码。在漏洞披露几个小时内，中国、伊朗、朝鲜的黑客组织以及网络犯罪组织就开始大规模利用该漏洞远程执行代码、部署后门和挖掘加密货币。亚马逊的安全团队称，中国黑客组织 Earth Lamia 和 Jackpot Panda 在利用该漏洞。Palo Alto Networks 的 Unit 42 称受害者超过 50 个。地下黑客论坛有大量关于 CVE-2025-55182 的讨论，有分享扫描工具链接、概念验证攻击代码(PoC) 以及相关工具的经验帖。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 18:58:06 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 18:58:06 +0800</pubDate>
+</item>
+<item>
+<title>Cloudflare 报告称半数网络中断事故是政府干预导致的</title>
+<link>https://www.solidot.org/story?sid=83072</link>
+<guid>https://www.solidot.org/story?sid=83072</guid>
+<content:encoded><![CDATA[
+
+Cloudflare 发布了年度报告《2025 Year in Review》。报告称全球互联网流量增长 19%；最流行的互联网服务仍然是 Gooogle、Facebook 和苹果；最流行的社交网络是 Facebook、Instagram、TikTok、Snapchat、LinkedIn，X / Twitter 排名第六；最流行的新闻服务是 Globo、ESPN、BBC、NY Times 和 CNN；SpaceX Starlink 卫星互联网流量增长 2.3 倍；52% 的 TLS 1.3 流量使用了后量子加密；AI 机器人流量最主要目的是训练；最流行的 Workers AI 模型是 @cf/meta/llama-3-8b-instruct；Workers AI 最流行的任务是文本生成；AI 机器人占了 HTTP 请求的 4.2%，Google 机器人占 4.5%，非 AI 机器人占 47.9%，人类占 43.5%；移动流量 iOS 占 35% Android 占 65%；21% 的流量使用 HTTP/3，HTTP/2 占 50%；主流网站有 37% 使用 Google Analytics；Go 是最流行的 API 客户端语言；Google 搜索引擎桌面份额占 79.5%，总份额占 89.5%，百度占总搜索份额的 1.4%；在桌面浏览器市场，Chrome 占 67.9%，Edge 14.4%，Firefox 6.7%，Safari 6.2%，Opera 2.2%；在包括移动和桌面的浏览器市场，Chrome 占 66.2%，Safari 15.4%，Edge 7.4%，Firefox 3.7%，Samsung Internet 2.3%；2025 年共发生了 174 起重大的互联网中断事故，83 起是政府导致的，中国共发生了一起：2025 年 8 月 20 日北京时间约 00:34 至 01:48 期间，HTTPS 访问短暂受限。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 17:59:32 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 17:59:32 +0800</pubDate>
+</item>
+<item>
+<title>俄罗斯封禁 Roblox 引发儿童和民众抗议</title>
+<link>https://www.solidot.org/story?sid=83071</link>
+<guid>https://www.solidot.org/story?sid=83071</guid>
+<content:encoded><![CDATA[
+
+本月初俄罗斯宣布屏蔽苹果 FaceTime 和游戏平台 Roblox，声称 FaceTime 被用于犯罪活动，而 Roblox 则被指控传播极端主义材料和 LGBT 宣传。然而对儿童游戏平台 Roblox 的封禁在俄罗斯引发了罕见的抗议，尤其是来自儿童的投诉。普京的新闻秘书 Dmitry Peskov 证实克里姆林宫收到了大量儿童对禁令的投诉。亲克里姆林宫的 Yekaterina Mizulina 透露收到了 6.3 万封 8-16 岁儿童的投诉信件，半数儿童表示由于禁令考虑离开俄罗斯。Roblox 在 2023 年是俄罗斯下载量最高的游戏，它在儿童中间非常受欢迎，约四成玩家是 13 岁或以下的儿童。上周日数十名民众在西伯利亚城市 Tomsk 举行了罕见的游行示威，抗议当局对 Roblox 的封禁。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 16:03:07 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 16:03:07 +0800</pubDate>
+</item>
+<item>
+<title>韦氏词典的年度单词是 slop</title>
+<link>https://www.solidot.org/story?sid=83070</link>
+<guid>https://www.solidot.org/story?sid=83070</guid>
+<content:encoded><![CDATA[
+
+韦氏词典（Merriam-Webster）的 2025 年度单词是 slop，反映了公众对互联网上泛滥成灾的低质量 AI 生成内容的感知和厌倦。韦氏词典总裁 Greg Barlow 表示这个单词非常形象，是 AI 这一变革性技术的一部分，人们对
+其既着迷，又恼火，甚至有点荒谬感。“slop”一词最早出现于 18 世纪，原意是指软泥，后其含义逐渐扩展指代毫无价值的东西。如今其定义扩展为“通常通过 AI 大量生成的低质量数字内容”。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 15:48:42 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 15:48:42 +0800</pubDate>
+</item>
+<item>
+<title>Google Search 主页加入“+”按钮</title>
+<link>https://www.solidot.org/story?sid=83069</link>
+<guid>https://www.solidot.org/story?sid=83069</guid>
+<content:encoded><![CDATA[
+
+类似微软 Google 也在把 AI 功能甩在用户面前：搜索结果页第一个快捷键就是“AI Mode”。现在 Google 又在搜索主页 google.com 添加了一个“+”按钮，让用户可以上传图像和文件。这两项功能并非新功能，旨在突出用户可以通过 Google 完成不同任务，而不仅仅是搜索信息。这些功能可以与 AI Mode 和 AI Overviews 配合使用。该功能目前仅通过桌面 Web 版提供，尚未在移动版本上提供。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 15:17:10 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 15:17:10 +0800</pubDate>
+</item>
+<item>
+<title>缺水的阿拉伯半岛遭遇洪灾</title>
+<link>https://www.solidot.org/story?sid=83068</link>
+<guid>https://www.solidot.org/story?sid=83068</guid>
+<content:encoded><![CDATA[
+
+阿拉伯半岛是全世界最干旱的地区之一，但最近几年暴风雨频发甚至引发了洪灾。去年四月一场暴雨的降雨量在阿联酋创 75 年以来的最高记录，迪拜地铁和迪拜机场都被淹没。这场暴雨也给沿海的阿曼带来了灾难。全球大气数据显示，阿拉伯半岛正经历着剧烈的大气变化，向阿曼北部沿海输送的水分是全球平均水平的 1.5 倍以上，导致了该地区的极端降雨。1881-2007 年的 126 年间，仅有六场飓风级风暴袭击阿曼或逼近该国百公里内。而过去 15 年至少四场飓风级风暴登陆阿曼。阿曼苏丹卡布斯大学（Sultan Qaboos University）分析了 8000 场暴风雨在 69 个雨量站的数据，发现一半的降雨量都集中在 24 小时暴雨的前 90 分钟内。强降雨超过了沙漠的吸水能力，引发洪灾，冲刷干涸的河床，而很多居民区就建在河床之上。阿曼应对之法是建造水坝，而阿联酋正在建造一条耗资 80 亿美元的地下雨水排放网络。
+<p></p>
+]]></content:encoded>
+<pubDate>Tue, 16 Dec 2025 14:53:50 +0800</pubDate>
+<pubDate>Tue, 16 Dec 2025 14:53:50 +0800</pubDate>
+</item>
 
 <item>
 <title>美国 Z 世代再次青睐实体媒介</title>
