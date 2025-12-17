@@ -10763,3 +10763,19 @@ Append: [美光第一财季调整后营收 136.4 亿美元，分析师预期 129
 append_entries: 1
 Finish: 2025-12-17 22:12:34.290275
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 23:12:32.675035
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [委内瑞拉最大炼油厂重新启动生产](https://readhub.cn/topic/8pAlkbmsmRZ)
+Append: [美股三大指数集体收跌，特斯拉跌超 4%](https://readhub.cn/topic/8pAsvndmGII)
+Append: [欧股主要指数收盘涨跌不一](https://readhub.cn/topic/8pAaJ9hBxO7)
+Append: [制造市场恐慌、虚假房源引流，抖音、小红书等互联网平台被约谈](https://readhub.cn/topic/8pARke0GpWK)
+Append: [中央气象台 12 月 18 日 06 时继续发布大雾黄色预警](https://readhub.cn/topic/8pAyb7BTZeI)
+Append: [美国原油期货收盘反弹 1.2%，纽约天然气涨超 3.5%](https://readhub.cn/topic/8pAvk7HznUT)
+Append: [受美封锁油轮影响 委内瑞拉石油储存空间告急](https://readhub.cn/topic/8pAyb7IHwlr)
+Append: [因半导体短缺，本田中国及日本工厂将暂停生产或减产](https://readhub.cn/topic/8pAOwDjbKAJ)
+Append: [营收指引远超预期，美光科技乘 AI 东风业绩「狂飙」](https://readhub.cn/topic/8pAtb0TYsVP)
+append_entries: 9
+Finish: 2025-12-17 23:12:34.176220
+Wrote digest feed: docs/readhub-digest.xml
