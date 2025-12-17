@@ -10736,3 +10736,15 @@ Append: [内塔尼亚胡批准以色列埃及天然气协议](https://readhub.cn
 append_entries: 1
 Finish: 2025-12-17 19:14:05.595099
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 20:14:52.609338
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [杉川首次回应收购 iRobot：将保留原有品牌 中国业务同步推进](https://readhub.cn/topic/8pAH07dBtTy)
+Append: [Waymo 拟募资超 150 亿美元，估值接近 1000 亿美元](https://readhub.cn/topic/8p9LAr9pO3I)
+Append: [南京博物院回应仇英名作现身拍卖市场](https://readhub.cn/topic/8pALJ4RP02v)
+Append: [谷歌在旗下产品中发布更高效的新版 Gemini 3 AI 模型](https://readhub.cn/topic/8pAYPjosYSG)
+Append: [美封锁委内瑞拉油轮，国际油价上涨近 2%](https://readhub.cn/topic/8pATu74EGgY)
+append_entries: 5
+Finish: 2025-12-17 20:14:55.261553
+Wrote digest feed: docs/readhub-digest.xml
