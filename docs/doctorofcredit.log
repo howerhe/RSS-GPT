@@ -5928,3 +5928,10 @@ Append: [Breeze Airways: 40% Off Base Price With Promo Code CHILLOUT](https://ww
 append_entries: 1
 Finish: 2025-12-17 12:26:08.172536
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-17 13:29:09.293333
+Existing_entries: 416
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-17 13:29:09.599340
+Wrote digest feed: docs/doctorofcredit-digest.xml
