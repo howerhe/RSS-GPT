@@ -11146,3 +11146,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-18 19:13:03.268572
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 20:13:37.911499
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [甲骨文与 OpenAI 为数据中心获取电力供应的请求获美国密歇根州批准](https://readhub.cn/topic/8pCQfbyoofh)
+Append: [埃森哲第一财季营收 187 亿美元超预期](https://readhub.cn/topic/8pBtoyWeCQV)
+Append: [国盾量子董事长吕品意外去世](https://readhub.cn/topic/8pC3rovv2sR)
+Append: [OpenAI 推出 GPT-5.2-Codex](https://readhub.cn/topic/8pCN6Y7ZehJ)
+append_entries: 4
+Finish: 2025-12-18 20:13:39.398438
+Wrote digest feed: docs/readhub-digest.xml
