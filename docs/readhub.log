@@ -10885,3 +10885,20 @@ Append: [中国气象局：到 2035 年建成自主可控、国际先进的地�
 append_entries: 18
 Finish: 2025-12-18 04:27:00.153733
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 05:16:00.468149
+Existing_entries: 1018
+Fetching from https://readhub.cn/rss
+Append: [蔚来能源与中安能源首批共建 50 座充换电站投入运营](https://readhub.cn/topic/8pBQSQCOOqC)
+Append: [派杰投资上调美光科技目标价至 275 美元](https://readhub.cn/topic/8pBMy3bIHzs)
+Append: [湖南：优化算力高效供给 联动运营商、重点企业加大算力设施投入](https://readhub.cn/topic/8pBRGFtHFp9)
+Append: [中国光伏行业协会：主产业链环节盈利能力逐渐改善 企业亏损持续收窄](https://readhub.cn/topic/8pBK2qE87cv)
+Append: [消息称谷歌联手 Meta 推进「TorchTPU」计划 挑战英伟达 AI 芯片霸主地位](https://readhub.cn/topic/8pBAm4n5idq)
+Append: [2026 年元旦火车票今日开售](https://readhub.cn/topic/8pAuMI7qfMG)
+Append: [香港交易所建议优化每手买卖单位框架，提升市场效率和参与度](https://readhub.cn/topic/8pBP5OfmEwH)
+Append: [英国英格兰地区住院医生再次进行为期 5 天罢工](https://readhub.cn/topic/8pA2jdsbZzm)
+Append: [Adobe 遭集体诉讼，被指使用盗版书籍训练 AI 模型](https://readhub.cn/topic/8pBBVOpgGGm)
+Append: [小米澎湃 OS 3 上线圣诞限定水印 相机直出节日氛围](https://readhub.cn/topic/8pAXbUn9XfF)
+append_entries: 10
+Finish: 2025-12-18 05:16:01.998342
+Wrote digest feed: docs/readhub-digest.xml
