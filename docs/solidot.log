@@ -5213,3 +5213,10 @@ Append: [锻炼什么时候都不晚](https://www.solidot.org/story?sid=83086)
 append_entries: 2
 Finish: 2025-12-18 02:46:33.823501
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 03:51:28.875079
+Existing_entries: 336
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-18 03:51:31.200105
+Wrote digest feed: docs/solidot-digest.xml
