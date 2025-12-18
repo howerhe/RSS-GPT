@@ -6188,3 +6188,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-18 21:12:14.011811
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 22:12:46.199066
+Existing_entries: 428
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 804
+Summarized using glm-4.5-air
+Append: [[YMMV] PayPal: 20% Back On Digital Gaming Merchants (Up To $45)](https://www.doctorofcredit.com/ymmv-paypal-20-back-on-digital-gaming-merchants-up-to-45/)
+append_entries: 1
+Finish: 2025-12-18 22:12:53.201413
+Wrote digest feed: docs/doctorofcredit-digest.xml

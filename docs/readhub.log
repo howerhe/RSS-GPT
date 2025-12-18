@@ -11164,3 +11164,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-18 21:11:51.745512
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 22:12:19.486137
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [苹果宣布：大幅降低日本「苹果税」，专家：中国被区别对待，抽成比例高于美欧日韩](https://readhub.cn/topic/8pC6KTQpShS)
+Append: [日本美债持有规模升至 1.2 万亿美元](https://readhub.cn/topic/8pCYTfsMylF)
+append_entries: 2
+Finish: 2025-12-18 22:12:21.022853
+Wrote digest feed: docs/readhub-digest.xml
