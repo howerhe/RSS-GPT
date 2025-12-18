@@ -5272,3 +5272,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-18 10:14:13.784911
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 11:12:24.454853
+Existing_entries: 339
+Fetching from https://www.solidot.org/index.rss
+Append: [丹麦政府测试迁移到 Linux 操作系统](https://www.solidot.org/story?sid=83095)
+Append: [iRobot 会继续在美国保存用户数据](https://www.solidot.org/story?sid=83094)
+Append: [索尼和腾讯就抄袭《地平线》达成和解，游戏下架](https://www.solidot.org/story?sid=83093)
+Append: [厨房里的塑料材料](https://www.solidot.org/story?sid=83092)
+append_entries: 4
+Finish: 2025-12-18 11:12:26.020934
+Wrote digest feed: docs/solidot-digest.xml
