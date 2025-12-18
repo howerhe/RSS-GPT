@@ -6167,3 +6167,10 @@ Append: [(12/19 Only) Dollar General: Save 20% on Uber, Darden, Bath & Body, Buf
 append_entries: 1
 Finish: 2025-12-18 18:19:53.832675
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 19:13:28.824090
+Existing_entries: 428
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-18 19:13:29.011064
+Wrote digest feed: docs/doctorofcredit-digest.xml

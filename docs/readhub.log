@@ -11139,3 +11139,10 @@ Append: [不锈钢夜盘收涨 2.9%，沪镍、沪锡至多涨超 1.5%](https://
 append_entries: 2
 Finish: 2025-12-18 18:19:22.305211
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 19:13:01.647074
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-18 19:13:03.268572
+Wrote digest feed: docs/readhub-digest.xml
