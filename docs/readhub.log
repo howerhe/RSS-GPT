@@ -11130,3 +11130,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-18 17:16:55.715737
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 18:19:20.981244
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [微软、谷歌等 24 家公司加入美国人工智能「创世纪计划」](https://readhub.cn/topic/8pCHMAo1dbk)
+Append: [不锈钢夜盘收涨 2.9%，沪镍、沪锡至多涨超 1.5%](https://readhub.cn/topic/8pCGkejVrko)
+append_entries: 2
+Finish: 2025-12-18 18:19:22.305211
+Wrote digest feed: docs/readhub-digest.xml

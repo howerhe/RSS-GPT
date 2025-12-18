@@ -6157,3 +6157,13 @@ Append: [(Update) Maximizing The $300 Dining Credit With Chase Sapphire Reserve 
 append_entries: 2
 Finish: 2025-12-18 17:17:32.813291
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 18:19:47.609758
+Existing_entries: 427
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 322
+Summarized using glm-4.5-air
+Append: [(12/19 Only) Dollar General: Save 20% on Uber, Darden, Bath & Body, Buffalo Wild Wings](https://www.doctorofcredit.com/12-19-only-dollar-general-save-20-on-uber-darden-bath-body-buffalo-wild-wings/)
+append_entries: 1
+Finish: 2025-12-18 18:19:53.832675
+Wrote digest feed: docs/doctorofcredit-digest.xml
