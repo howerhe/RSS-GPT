@@ -11123,3 +11123,10 @@ Append: [摩根大通：新兴市场债券的辉煌走势尚未结束](https://r
 append_entries: 1
 Finish: 2025-12-18 16:17:52.586468
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 17:16:54.168303
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-18 17:16:55.715737
+Wrote digest feed: docs/readhub-digest.xml

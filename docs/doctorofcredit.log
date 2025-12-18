@@ -6144,3 +6144,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-18 16:18:17.626115
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 17:17:20.437409
+Existing_entries: 425
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 470
+Summarized using glm-4.5-air
+Append: [inKind Referral Bonus Increased To $50/$25](https://www.doctorofcredit.com/inkind-referral-bonus-increased-to-50-25/)
+Token length: 7539
+Summarized using glm-4.5-air
+Append: [(Update) Maximizing The $300 Dining Credit With Chase Sapphire Reserve Exclusive Tables](https://www.doctorofcredit.com/maximizing-the-300-dining-credit-with-chase-sapphire-reserve-exclusive-tables/)
+append_entries: 2
+Finish: 2025-12-18 17:17:32.813291
+Wrote digest feed: docs/doctorofcredit-digest.xml
