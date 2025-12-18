@@ -11115,3 +11115,11 @@ Append: [瑞银计划于 1 月中旬开始新一轮裁员](https://readhub.cn/to
 append_entries: 7
 Finish: 2025-12-18 15:14:39.916670
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 16:17:51.068615
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [摩根大通：新兴市场债券的辉煌走势尚未结束](https://readhub.cn/topic/8pC5zurv3CQ)
+append_entries: 1
+Finish: 2025-12-18 16:17:52.586468
+Wrote digest feed: docs/readhub-digest.xml
