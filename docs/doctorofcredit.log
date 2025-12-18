@@ -6127,3 +6127,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-18 14:15:44.779651
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 15:15:04.734015
+Existing_entries: 424
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 218
+Summarized using glm-4.5-air
+Append: [Recap: Turkish Devaluation, United Changes & More](https://www.doctorofcredit.com/recap-turkish-devaluation-united-changes-more/)
+append_entries: 1
+Finish: 2025-12-18 15:15:09.311298
+Wrote digest feed: docs/doctorofcredit-digest.xml
