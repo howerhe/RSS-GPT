@@ -5248,3 +5248,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-18 07:15:54.462491
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 08:18:23.775459
+Existing_entries: 336
+Fetching from https://www.solidot.org/index.rss
+Append: [2025 年 Steam 用户 14% 的游戏时间是花在新游戏上](https://www.solidot.org/story?sid=83091)
+Append: [在向 MAGA 捐赠了逾 200 万美元后美参议院确认 Jared Isaacman 的 NASA 局长任命](https://www.solidot.org/story?sid=83090)
+Append: [Coursera 以 9.3 亿美元收购 Udemy](https://www.solidot.org/story?sid=83088)
+append_entries: 3
+Finish: 2025-12-18 08:18:25.523136
+Wrote digest feed: docs/solidot-digest.xml
