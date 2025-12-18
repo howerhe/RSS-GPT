@@ -5360,3 +5360,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-18 22:12:17.427176
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 23:12:44.071748
+Existing_entries: 343
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-18 23:12:45.792539
+Wrote digest feed: docs/solidot-digest.xml

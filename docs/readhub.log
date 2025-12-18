@@ -11173,3 +11173,14 @@ Append: [日本美债持有规模升至 1.2 万亿美元](https://readhub.cn/top
 append_entries: 2
 Finish: 2025-12-18 22:12:21.022853
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 23:12:47.848594
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [美联储明年 1 月维持利率不变的概率为 73.4%](https://readhub.cn/topic/8pCcmbA3f4T)
+Append: [中央气象台 12 月 19 日 06 时继续发布暴雪蓝色预警](https://readhub.cn/topic/8pCcAdMFWMt)
+Append: [韩国手机入网强制「刷脸」：防诈骗利器还是隐私噩梦](https://readhub.cn/topic/8pC3qTguLsp)
+Append: [美股三大指数集体收涨 大型科技股普涨](https://readhub.cn/topic/8pCXpKjbw3F)
+append_entries: 4
+Finish: 2025-12-18 23:12:49.219209
+Wrote digest feed: docs/readhub-digest.xml

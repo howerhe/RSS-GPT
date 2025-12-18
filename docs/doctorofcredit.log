@@ -6198,3 +6198,13 @@ Append: [[YMMV] PayPal: 20% Back On Digital Gaming Merchants (Up To $45)](https:
 append_entries: 1
 Finish: 2025-12-18 22:12:53.201413
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 23:13:14.646565
+Existing_entries: 429
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1182
+Summarized using glm-4.5-air
+Append: [Rakuten: Get $45/4,500 With Gobble Meal Subscription](https://www.doctorofcredit.com/rakuten-get-30-3000-with-gobble-meal-subscription/)
+append_entries: 1
+Finish: 2025-12-18 23:13:22.023388
+Wrote digest feed: docs/doctorofcredit-digest.xml
