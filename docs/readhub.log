@@ -11157,3 +11157,10 @@ Append: [OpenAI 推出 GPT-5.2-Codex](https://readhub.cn/topic/8pCN6Y7ZehJ)
 append_entries: 4
 Finish: 2025-12-18 20:13:39.398438
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-18 21:11:50.371061
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-18 21:11:51.745512
+Wrote digest feed: docs/readhub-digest.xml
