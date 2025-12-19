@@ -11505,3 +11505,21 @@ Append: [消息称理想汽车零部件集群并入新部门，原负责人离�
 append_entries: 9
 Finish: 2025-12-19 14:13:47.402392
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 15:13:56.414508
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [谷歌云宣布扩大与网络安全公司 Palo Alto Networks 的合作关系](https://readhub.cn/topic/8pDf6hdPKWB)
+Append: [美光 FY2026 Q1 营收 136.43 亿美元，环比增长超 20%](https://readhub.cn/topic/8pBBnFw6j6W)
+Append: [比特币升破 87000 美元，日内涨 1.6%](https://readhub.cn/topic/8pCyCxaGG1p)
+Append: [申联生物：联营公司获得艾滋病单抗发明专利](https://readhub.cn/topic/8pDhFS2fMh8)
+Append: [联邦快递股价下跌 5.7%，势创 4 月以来最大跌幅](https://readhub.cn/topic/8pDlYTNK9we)
+Append: [纳斯达克中国金龙指数涨 1%](https://readhub.cn/topic/8pC6g1WR7GJ)
+Append: [我国科学家实现新一代光计算芯片研究新突破](https://readhub.cn/topic/8pDkuUjhZWh)
+Append: [智谱披露 IPO 招股书，宣布冲刺「全球大模型第一股」](https://readhub.cn/topic/8pDi0y9MOLR)
+Append: [民航局：加强飞机适航状态管控](https://readhub.cn/topic/8pDkpUBy4fn)
+Append: [岚图 L3 级自动驾驶完成 11 万公里实测，加速推进量产准入](https://readhub.cn/topic/8pDjQ1ZMKzC)
+Append: [比亚迪正式进入伊拉克市场 推出插电混动皮卡 BYD SHARK 6](https://readhub.cn/topic/8pBe52DyQRJ)
+append_entries: 11
+Finish: 2025-12-19 15:13:58.015735
+Wrote digest feed: docs/readhub-digest.xml
