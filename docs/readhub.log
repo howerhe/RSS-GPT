@@ -11523,3 +11523,13 @@ Append: [比亚迪正式进入伊拉克市场 推出插电混动皮卡 BYD SHARK
 append_entries: 11
 Finish: 2025-12-19 15:13:58.015735
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 16:15:24.392581
+Existing_entries: 1011
+Fetching from https://readhub.cn/rss
+Append: [我国首套全国产化船舶交通管理系统落地大连，主动识别风险](https://readhub.cn/topic/8pDPUjrwWXv)
+Append: [消息称字节跳动今年利润将创纪录：约 500 亿美元](https://readhub.cn/topic/8pDnhV1ZYF3)
+Append: [联合国贸发会议：2033 年人工智能将成最具主导性前沿技术](https://readhub.cn/topic/8pDpq7tKF9r)
+append_entries: 3
+Finish: 2025-12-19 16:15:26.022007
+Wrote digest feed: docs/readhub-digest.xml
