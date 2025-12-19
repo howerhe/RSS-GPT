@@ -11264,3 +11264,16 @@ Append: [高盛预计 2026 年全球股市继续上涨 但回报不及今年](ht
 append_entries: 20
 Finish: 2025-12-19 03:54:00.430999
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 04:27:37.368228
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [国有资产法草案拟初审：规定国有资产报告、监督制度](https://readhub.cn/topic/8pD1owUBDRo)
+Append: [日本 10 年期国债收益率升至 2%](https://readhub.cn/topic/8pD1opYi7e6)
+Append: [微信 AI 助手元宝新增待办事项提醒功能](https://readhub.cn/topic/8pCndXSUAlx)
+Append: [顺丰中东与阿曼 Asyad 签署合作协议](https://readhub.cn/topic/8pBtSixrFos)
+Append: [楚天科技：「楚天转债」即将停止转股](https://readhub.cn/topic/8pD1oS37uig)
+Append: [《科学》杂志评出 2025 年度十大突破](https://readhub.cn/topic/8pCkk4gsS4M)
+append_entries: 6
+Finish: 2025-12-19 04:27:38.841113
+Wrote digest feed: docs/readhub-digest.xml
