@@ -6271,3 +6271,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-19 09:16:52.172576
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 10:14:20.956856
+Existing_entries: 430
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-19 10:14:21.218139
+Wrote digest feed: docs/doctorofcredit-digest.xml
