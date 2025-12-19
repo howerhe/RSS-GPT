@@ -11560,3 +11560,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-19 19:10:52.297439
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 20:13:57.926107
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美媒：至少七家制药公司即将宣布降价措施，以换取关税减免](https://readhub.cn/topic/8pDxl98LkWv)
+append_entries: 1
+Finish: 2025-12-19 20:13:59.322324
+Wrote digest feed: docs/readhub-digest.xml
