@@ -6208,3 +6208,10 @@ Append: [Rakuten: Get $45/4,500 With Gobble Meal Subscription](https://www.docto
 append_entries: 1
 Finish: 2025-12-18 23:13:22.023388
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 00:59:47.984512
+Existing_entries: 430
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-19 00:59:48.232053
+Wrote digest feed: docs/doctorofcredit-digest.xml
