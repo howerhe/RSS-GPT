@@ -11576,3 +11576,11 @@ Append: [美联储就为部分金融机构设立有限「支付账户」征求�
 append_entries: 1
 Finish: 2025-12-19 21:12:08.501127
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 22:12:55.286700
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美元指数本周涨 0.2%](https://readhub.cn/topic/8pE9sMTpVgV)
+append_entries: 1
+Finish: 2025-12-19 22:12:56.656594
+Wrote digest feed: docs/readhub-digest.xml
