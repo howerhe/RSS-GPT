@@ -11533,3 +11533,13 @@ Append: [联合国贸发会议：2033 年人工智能将成最具主导性前沿
 append_entries: 3
 Finish: 2025-12-19 16:15:26.022007
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 17:12:27.046097
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [上交所终止对节卡股份科创板 IPO 的审核](https://readhub.cn/topic/8pDSyM6SrT2)
+Append: [拼多多联席董事长陈磊回应「黎明突袭」调查传言：Temu 用 3 年走完拼多多 10 年路 合规是底线](https://readhub.cn/topic/8pDL82Q2KRK)
+Append: [美光科技大涨近 8%，创历史新高](https://readhub.cn/topic/8pDPQN2uqC0)
+append_entries: 3
+Finish: 2025-12-19 17:12:28.549135
+Wrote digest feed: docs/readhub-digest.xml
