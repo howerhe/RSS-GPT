@@ -6334,3 +6334,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-19 18:18:50.226414
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 19:11:17.868306
+Existing_entries: 430
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 244
+Summarized using glm-4.5-air
+Append: [Amazon: $100 DoorDash eGiftcard For $85](https://www.doctorofcredit.com/amazon-100-doordash-egiftcard-for-85/)
+append_entries: 1
+Finish: 2025-12-19 19:11:21.083946
+Wrote digest feed: docs/doctorofcredit-digest.xml
