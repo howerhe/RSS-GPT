@@ -5409,3 +5409,16 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-19 06:20:07.961115
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 07:15:43.840112
+Existing_entries: 343
+Fetching from https://www.solidot.org/index.rss
+Append: [字节跳动签署出售 TikTok 美国业务的协议](https://www.solidot.org/story?sid=83101)
+Append: [中国研制出极紫外光刻机](https://www.solidot.org/story?sid=83100)
+Append: [ACM 所有出版物开放获取](https://www.solidot.org/story?sid=83099)
+Append: [伊朗的水危机](https://www.solidot.org/story?sid=83098)
+Append: [奥斯卡奖直播从 2029 年起从 ABC 切换到 YouTube](https://www.solidot.org/story?sid=83097)
+Append: [德国法庭裁决亚马逊不能强迫客户观看 Prime Video 广告](https://www.solidot.org/story?sid=83096)
+append_entries: 6
+Finish: 2025-12-19 07:15:45.529668
+Wrote digest feed: docs/solidot-digest.xml
