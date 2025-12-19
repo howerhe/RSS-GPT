@@ -11584,3 +11584,11 @@ Append: [美元指数本周涨 0.2%](https://readhub.cn/topic/8pE9sMTpVgV)
 append_entries: 1
 Finish: 2025-12-19 22:12:56.656594
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 23:12:40.300392
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美股三大指数集体收涨 大型科技股普涨](https://readhub.cn/topic/8pECnjgzeQs)
+append_entries: 1
+Finish: 2025-12-19 23:12:41.574993
+Wrote digest feed: docs/readhub-digest.xml
