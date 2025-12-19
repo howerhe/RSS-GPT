@@ -11568,3 +11568,11 @@ Append: [美媒：至少七家制药公司即将宣布降价措施，以换取�
 append_entries: 1
 Finish: 2025-12-19 20:13:59.322324
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 21:12:07.197434
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美联储就为部分金融机构设立有限「支付账户」征求意见](https://readhub.cn/topic/8pDnhamwX0J)
+append_entries: 1
+Finish: 2025-12-19 21:12:08.501127
+Wrote digest feed: docs/readhub-digest.xml
