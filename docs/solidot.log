@@ -5422,3 +5422,10 @@ Append: [德国法庭裁决亚马逊不能强迫客户观看 Prime Video 广告]
 append_entries: 6
 Finish: 2025-12-19 07:15:45.529668
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-19 08:18:18.149686
+Existing_entries: 349
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-19 08:18:19.971869
+Wrote digest feed: docs/solidot-digest.xml
