@@ -11746,3 +11746,15 @@ Append: [今日头条 2025 创作者大会发布优质内容扶持计划](https:
 append_entries: 2
 Finish: 2025-12-20 14:11:30.076406
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 15:11:41.405713
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [轿车高速狂飙近 500 公里无法减速 业内人士发声](https://readhub.cn/topic/8pF2FJ9gGZh)
+Append: [长安汽车：获得首块 L3 级自动驾驶专用正式号牌](https://readhub.cn/topic/8pFQRAxWvKq)
+Append: [长安汽车获得首块 L3 级自动驾驶专用正式号牌](https://readhub.cn/topic/8pDRZPpYkov)
+Append: [蓝色起源公司在推迟后将送首位轮椅使用者进入太空](https://readhub.cn/topic/8pF9I424a0e)
+Append: [香港大埔宏福苑援助基金增至 40 亿港元](https://readhub.cn/topic/8pFNl3e3MOV)
+append_entries: 5
+Finish: 2025-12-20 15:11:42.713474
+Wrote digest feed: docs/readhub-digest.xml

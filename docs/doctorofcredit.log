@@ -6473,3 +6473,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-20 14:11:57.306234
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 15:12:09.537556
+Existing_entries: 432
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 603
+Summarized using glm-4.5-air
+Append: [Fidelity: Free TurboTax Premier For Some](https://www.doctorofcredit.com/fidelity-free-turbotax-premiere-for-some/)
+append_entries: 1
+Finish: 2025-12-20 15:12:14.807739
+Wrote digest feed: docs/doctorofcredit-digest.xml
