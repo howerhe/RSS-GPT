@@ -6530,3 +6530,13 @@ Append: [[YMMV] Ace Hardware: Download App, Get $10 Bonus Coupon](https://www.do
 append_entries: 1
 Finish: 2025-12-20 20:13:20.281895
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 21:10:38.954204
+Existing_entries: 437
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1961
+Summarized using glm-4.5-air
+Append: [[NY, In Branch] Walden Savings Bank $250-$1,000 Business Checking Bonus](https://www.doctorofcredit.com/ny-in-branch-walden-savings-bank-250-1000-business-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-20 21:10:44.493611
+Wrote digest feed: docs/doctorofcredit-digest.xml
