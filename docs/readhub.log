@@ -11636,3 +11636,16 @@ Append: [摩尔线程新 GPU 架构可支持十万卡规模集群](https://readh
 append_entries: 8
 Finish: 2025-12-20 03:44:18.480780
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 04:18:21.912208
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+Append: [全球首台商用超临界二氧化碳发电机组成功商运](https://readhub.cn/topic/8pEghfpNwtr)
+Append: [印尼苏门答腊岛洪灾和山体滑坡已致 1071 人死亡](https://readhub.cn/topic/8pEgoU38jdF)
+Append: [礼来小分子抗癌药公布新临床成果，聚焦乳腺癌治疗突破](https://readhub.cn/topic/8pDIzdndKCx)
+Append: [世贸成员授权欧盟反制美国](https://readhub.cn/topic/8pEGGqOKwyt)
+Append: [科幻电影《阿凡达 3》今日上映，豆瓣开分 7.6 为系列最低](https://readhub.cn/topic/8pDYfgCf5jO)
+Append: [软银据悉正推动其支付应用运营商 PayPay 上市](https://readhub.cn/topic/8pEOB3CRHVb)
+append_entries: 6
+Finish: 2025-12-20 04:18:23.225521
+Wrote digest feed: docs/readhub-digest.xml
