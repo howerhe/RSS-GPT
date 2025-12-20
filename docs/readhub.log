@@ -11737,3 +11737,12 @@ Append: [包钢集团与中国二十二冶集团签署战略合作协议](https:
 append_entries: 3
 Finish: 2025-12-20 13:21:33.327865
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 14:11:28.517666
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [我国成功发射通信技术试验卫星二十三号](https://readhub.cn/topic/8pFKhfD3iKN)
+Append: [今日头条 2025 创作者大会发布优质内容扶持计划](https://readhub.cn/topic/8pFDiW0ZtT1)
+append_entries: 2
+Finish: 2025-12-20 14:11:30.076406
+Wrote digest feed: docs/readhub-digest.xml
