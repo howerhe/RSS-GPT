@@ -11727,3 +11727,13 @@ Append: [官方通报「南极磷虾油」事件：已成立联合调查组开�
 append_entries: 1
 Finish: 2025-12-20 12:21:51.442306
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 13:21:31.727490
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [日本根室半岛近海海域发生 5.2 级地震](https://readhub.cn/topic/8pFIZc7tnnY)
+Append: [加沙地带卫生部门：本轮冲突已致加沙超 24 万人死伤](https://readhub.cn/topic/8pFFiFDUUWC)
+Append: [包钢集团与中国二十二冶集团签署战略合作协议](https://readhub.cn/topic/8pFHrKb4xmk)
+append_entries: 3
+Finish: 2025-12-20 13:21:33.327865
+Wrote digest feed: docs/readhub-digest.xml
