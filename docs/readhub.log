@@ -11679,3 +11679,15 @@ Append: [中国长安新能源汽车年销量超 100 万辆](https://readhub.cn/
 append_entries: 1
 Finish: 2025-12-20 07:11:35.735494
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 08:16:02.192769
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [上海市消保委：希望北京同仁堂集团能将各项整改举措落实到位](https://readhub.cn/topic/8pEtg9W8yWC)
+Append: [巴黎法院驳回法国政府要求希音暂停运营三个月诉求](https://readhub.cn/topic/8pEx91xqzTG)
+Append: [国家矿山安全监察局印发《金属非金属矿山智能化建设指南》](https://readhub.cn/topic/8pEx6x0r9pe)
+Append: [爱泼斯坦案新文件公布，克林顿被「大量提及」](https://readhub.cn/topic/8pEwRKbTF2K)
+Append: [逾 60 家海内外企业机构签约进驻河套香港园区](https://readhub.cn/topic/8pEtfQ3UAtS)
+append_entries: 5
+Finish: 2025-12-20 08:16:03.586527
+Wrote digest feed: docs/readhub-digest.xml
