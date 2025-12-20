@@ -11664,3 +11664,10 @@ Append: [上海电气与中交集团升级全面战略合作](https://readhub.cn
 append_entries: 8
 Finish: 2025-12-20 05:12:31.702923
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 06:19:39.895702
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-20 06:19:41.209787
+Wrote digest feed: docs/readhub-digest.xml
