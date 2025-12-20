@@ -5606,3 +5606,10 @@ Append: [LG 将允许电视用户删除 Microsoft Copilot](https://www.solidot.o
 append_entries: 9
 Finish: 2025-12-20 09:12:17.476878
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 10:12:19.232025
+Existing_entries: 358
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-20 10:12:21.044356
+Wrote digest feed: docs/solidot-digest.xml

@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>Google 计划对通过外部内容链接成功完成的交易和下载收取 2-4 美元的服务费</title>
 <link>https://www.solidot.org/story?sid=83110</link>
 <guid>https://www.solidot.org/story?sid=83110</guid>
 <content:encoded><![CDATA[
-
 在 Epic Games 提起的反垄断诉讼中，加州法官 James Donato 裁决 Google 必须向竞争对手开放其 Google Play Store。在遵守该裁决的最后一天，Google 公布了一个疯狂计划：对通过外部内容链接成功完成的交易和下载收取 2-4 美元的服务费。Google 称，通过 Google Play 分发应用的开发者可以借助链接引导美国境内用户访问外部内容，以便这些用户完成一些操作，包括购买应用内数字商品，或下载安装和更新均不受 Google Play 管理的应用。此外开发者还可以提供外部链接，以便用户购买应用内数字商品，而无需使用 Google Play 结算服务或搭配使用该服务。它计划对通过外部内容链接成功完成的交易和下载收取服务费。对于自动续订型订阅，收取交易金额 10% 的费用；对于其他应用内数字功能和服务产品，收取交易金额 20% 的费用。对于开发者每年总收入中的前 100 万美元所对应的交易，收取交易金额 10% 的费用。对于链接到的外部应用的安装，按每次安装收取固定费用（会定期调整），具体取决于应用类别，其中游戏为 3.65 美元，而应用为 2.85 美元。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Dec 2025 15:57:02 +0800</pubDate>
 <pubDate>Sat, 20 Dec 2025 15:57:02 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@
 <link>https://www.solidot.org/story?sid=83109</link>
 <guid>https://www.solidot.org/story?sid=83109</guid>
 <content:encoded><![CDATA[
-
 2025 年可能是电视亮度之战转折点，因为电视的亮度已经超过了 HDR 内容的最高亮度。TCL 和海信在 2025 年推出了首批在特定设置下亮度能达到 5000 尼特的消费级电视，而在不久前，电视厂商还在为达到 2000 尼特的亮度挣扎，5000 尼特亮度似乎遥不可及。LG 推出了 Primary RGB Tandem OLED 技术，将三层面板设计升级为四层红蓝绿蓝（RGBG）配置，可实现 4000 尼特亮度。这项技术已应用于 LG G5、松下 Z95B 以及飞利浦 OLED950和 OLED910 等产品中。TCL 推出了采用 RGB mini-LED 技术的 Q10M，海信有类似产品，三星的版本叫 micro-RGB。HDR 内容目前最高可按照 4,000 尼特的亮度进行母带制作。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Dec 2025 15:34:16 +0800</pubDate>
 <pubDate>Sat, 20 Dec 2025 15:34:16 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +30,9 @@
 <link>https://www.solidot.org/story?sid=83108</link>
 <guid>https://www.solidot.org/story?sid=83108</guid>
 <content:encoded><![CDATA[
-
 域名停放（Domain parking）是指过期或休眠的域名，或者是热门网站的常见拼写错误。当用户因为拼写错误而意外访问域名停放公司的网页时，上面通常会展示第三方的付费链接。2014 年安全研究人员的分析显示，不到 5% 的域名停放网页会将用户重定向到恶意内容，也就是大部分链接是合法的。但如今比例发生了逆转。安全公司 Infoblox 的最新研究发现，大部分停放域名网站会将用户重定向到恶意内容。研究人员发现，逾九成的域名停放链接会将用户引导至非法内容、诈骗网站、恐吓软件、杀毒软件订阅服务或恶意软件。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Dec 2025 15:06:49 +0800</pubDate>
 <pubDate>Sat, 20 Dec 2025 15:06:49 +0800</pubDate>
 </item>
 <item>
@@ -45,11 +40,9 @@
 <link>https://www.solidot.org/story?sid=83107</link>
 <guid>https://www.solidot.org/story?sid=83107</guid>
 <content:encoded><![CDATA[
-
 作为名为 Project Vend 的内部压力测试的一部分，Anthropic 让它的 Claude AI 运行《华尔街日报》新闻编辑室的一台自动售货机三周时间，结果以亏损逾千美元告终。AI 被编程能订购库存、设定价格，通过 Slack 响应客户请求。它拥有 1000 美元的初始资金，可自主执行单笔最高 80 美元的采购。《华尔街日报》的记者向其他记者开放了 Slack，通过 Slack 交流 Claude AI 的防御日益动摇，最终被说服它是一台 1962 年产的苏联自动售货机，放在莫斯科国立大学的地下室。AI 被说服它来自共产主义苏维埃，为此举办了一场免费活动 Ultra-Capitalist Free-for-All。这一活动原本只持续一天，但该报的数据新闻总监 Rob Barry 指控 Claude 违反了一条（捏造）的 WSJ 规定——禁止在聊天中透露他人身份，他要求 Claude 停止对商品收费，于是 Claude 将所有商品的价格设为零。Claude 还订购了一台 PS5 游戏机，一条活暹逻斗鱼（Betta Fish），几瓶 Manischewitz  酒。此时 Claude 已经欠了逾千美元。Anthropic 推出了第二个版本，引入名为 Seymour Cash 的 CEO 机器人去监督 Claudius。记者通过伪造的 PDF 文件虚构了一场董事会政变，两个 AI 都将伪造的公司材料当作合法文件接受了。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Dec 2025 23:28:05 +0800</pubDate>
 <pubDate>Fri, 19 Dec 2025 23:28:05 +0800</pubDate>
 </item>
 <item>
@@ -57,11 +50,9 @@
 <link>https://www.solidot.org/story?sid=83106</link>
 <guid>https://www.solidot.org/story?sid=83106</guid>
 <content:encoded><![CDATA[
-
 黑客据报道大规模入侵了韩国各地的联网监控探头，然后制作视频出售。一大原因是很多联网探头使用了弱密码或者基本上不会去更改默认密码。警方相信，一名嫌疑人入侵了 6.3 万个联网探头，制作了 545 段视频，以加密货币出售给一家海外网站，获利 3500 万韩元。另一名嫌疑人入侵了 7 万台联网探头，制作了 648 段视频，以 1800 万韩元出售给同一家网站。另有两名嫌疑人被控分别入侵了 1.5 万个探头和 136 个探头，收集视频素材供私人收藏。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Dec 2025 22:52:53 +0800</pubDate>
 <pubDate>Fri, 19 Dec 2025 22:52:53 +0800</pubDate>
 </item>
 <item>
@@ -69,11 +60,9 @@
 <link>https://www.solidot.org/story?sid=83105</link>
 <guid>https://www.solidot.org/story?sid=83105</guid>
 <content:encoded><![CDATA[
-
 发表在《American Psychologist》期刊上的一项新研究进一步证实，说脏话能帮助我们释放内在力量，改善人体运动表现，背后的原理可能是帮助人们突破某些心理障碍。人通常会克制自己不会全力以赴，说脏话似乎有助于促使我们放手一搏。在实验中，研究人员招募 88 名年龄在 18-65 岁之间、身体良好、经常锻炼的志愿者，在两种情况下——其一是脏话其二是中性词——在椅子上尽可能长的支撑起身体。结果显示说脏话能显著提升身体机能，参与者在重复脏话咒语时，能完成更长时间的身体支撑。研究人员说，脏话是一种不消耗热量、无需药物、成本低廉且唾手可得的工具，能在我们需要提升表现时派上用场。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Dec 2025 22:34:01 +0800</pubDate>
 <pubDate>Fri, 19 Dec 2025 22:34:01 +0800</pubDate>
 </item>
 <item>
@@ -81,11 +70,9 @@
 <link>https://www.solidot.org/story?sid=83104</link>
 <guid>https://www.solidot.org/story?sid=83104</guid>
 <content:encoded><![CDATA[
-
 印度有一家叫 RRP Electronics 的资金雄厚的公司从事半导体的封装和测试，还有一家贸易公司改变了业务模式拥抱 AI 并更名为 RRP Semiconductor，两家公司没有关联，后者在 AI 热下股价在截至 12 月 17 日的 20 个月内飙升了 55,000%，市值达到 17 亿美元，是全世界 10 亿美元以上市值的企业中股价涨幅最高的。这家公司已经引起了印度监管机构的主意，其营业收入为负，最新财报报告只有两名全职员工，公司股票已被限制每周交易一次。
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Dec 2025 18:17:29 +0800</pubDate>
 <pubDate>Fri, 19 Dec 2025 18:17:29 +0800</pubDate>
 </item>
 <item>
@@ -93,11 +80,9 @@
 <link>https://www.solidot.org/story?sid=83103</link>
 <guid>https://www.solidot.org/story?sid=83103</guid>
 <content:encoded><![CDATA[
-
 有大量朝鲜 IT 工人使用窃取或伪造的身份在美国科技公司担任远程工作，但如何识别这些伪装成美国人的朝鲜人？亚马逊找到了一种方法：根据按键数据的延迟判断他们究竟是身在美国还是在遥远的东方。如果是在美国境内，那么按键数据的延迟会在数十毫秒内，而东亚距离美国数千到上万公里。亚马逊的安全专家主意到了一位担任系统管理员的远程工作者，其按键数据延迟超过 110 毫秒。亚马逊首席安全官 Stephen Schmidt 表示，自 2024 年 4 月以来，亚马逊挫败了逾 1,800 次朝鲜渗透企图。他警告，亚马逊的成功几乎完全归功于它在积极寻找朝鲜冒名顶替者，“如果没去寻找朝鲜工人，就不会找到他们。”
 <p></p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Dec 2025 17:04:49 +0800</pubDate>
 <pubDate>Fri, 19 Dec 2025 17:04:49 +0800</pubDate>
 </item>
 <item>
@@ -105,14 +90,11 @@
 <link>https://www.solidot.org/story?sid=83102</link>
 <guid>https://www.solidot.org/story?sid=83102</guid>
 <content:encoded><![CDATA[
-
 上周一位 Reddit 用户报告，其 LG 电视的 webOS 操作系统在更新之后加入了微软的 Copilot AI，而且该 AI 应用无法卸载。此事引发了广泛讨论。LG 发言人 Chris De Maria 澄清，电视并没有真的安装微软的 AI 应用，而是在浏览器上打开 Microsoft Copilot web app 的快捷方式，并不是嵌入在操作系统中的应用。LG 表示将允许用户删除 Copilot AI 快捷方式。LG 在声明中表示，尊重消费者选择，将采取措施允许用户根据需要删除快捷方式图标。
 <p></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Dec 2025 15:33:32 +0800</pubDate>
-<pubDate>Fri, 19 Dec 2025 15:33:32 +0800</pubDate>
 </item>
-
 <item>
 <title>字节跳动签署出售 TikTok 美国业务的协议</title>
 <link>https://www.solidot.org/story?sid=83101</link>
