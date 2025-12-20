@@ -11671,3 +11671,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-20 06:19:41.209787
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 07:11:34.672917
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [中国长安新能源汽车年销量超 100 万辆](https://readhub.cn/topic/8pEYGcXJJFK)
+append_entries: 1
+Finish: 2025-12-20 07:11:35.735494
+Wrote digest feed: docs/readhub-digest.xml
