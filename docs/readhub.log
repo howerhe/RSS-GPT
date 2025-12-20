@@ -11592,3 +11592,20 @@ Append: [美股三大指数集体收涨 大型科技股普涨](https://readhub.c
 append_entries: 1
 Finish: 2025-12-19 23:12:41.574993
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 00:55:51.017749
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [马斯克上诉获胜，恢复 2018 年 560 亿美元的特斯拉薪酬协议](https://readhub.cn/topic/8pEEuUNhMsA)
+Append: [公募大手笔分红，全年逼近 2300 亿元](https://readhub.cn/topic/8pEOs3tJXf4)
+Append: [下周解禁市值近 1900 亿元](https://readhub.cn/topic/8pEQzhy4Pkm)
+Append: [红杉中国收购「小脏鞋」Golden Goose，成控股股东](https://readhub.cn/topic/8pDzx2letUW)
+Append: [报道：软银加速筹集资金，力争在年底前履行对 OpenAI 225 亿美元的注资承诺](https://readhub.cn/topic/8pEO7l8GklP)
+Append: [22.98 万起 江铃福特智趣烈马上市：增程纯电双动力](https://readhub.cn/topic/8pDSwh06GDn)
+Append: [全球首次：上海交大实现新一代光计算芯片突破，理论算力提升 7 个数量级](https://readhub.cn/topic/8pDpp3lM8eD)
+Append: [俄称对乌实施多次集群打击](https://readhub.cn/topic/8pELJL7DBcv)
+Append: [谷歌大举回聘离职员工补强 AI 团队](https://readhub.cn/topic/8pEIOdyegDG)
+Append: [美 FTC 批准英伟达 50 亿美元投资英特尔](https://readhub.cn/topic/8pE5XiAVzdq)
+append_entries: 10
+Finish: 2025-12-20 00:55:52.508973
+Wrote digest feed: docs/readhub-digest.xml
