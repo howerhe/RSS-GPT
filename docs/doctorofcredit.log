@@ -6513,3 +6513,10 @@ Append: [[NY, MA, RI, and CT Only, In Branch only] Webster Bank $300 Checking Bo
 append_entries: 1
 Finish: 2025-12-20 18:16:27.750673
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 19:09:49.352354
+Existing_entries: 436
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-20 19:09:49.690173
+Wrote digest feed: docs/doctorofcredit-digest.xml

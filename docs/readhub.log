@@ -11781,3 +11781,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-20 18:15:56.166310
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 19:09:20.813704
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [中国成为《疯狂动物城 2》全球最大票仓，全球票房突破 10 亿美元](https://readhub.cn/topic/8pCx4qY2Lis)
+Append: [罗永浩质疑大金中央空调售后：7 台内机每年维护成本约 1.5 万元](https://readhub.cn/topic/8pDeSFSePzm)
+Append: [顺丰控股：11 月营收 271.73 亿元 同比增长 7.85%](https://readhub.cn/topic/8pDTgNwWMT1)
+Append: [华杉称要把华与华建成世界第一，罗永浩回应：忽悠不读书的乡镇老板还可以](https://readhub.cn/topic/8pF77VLKCZG)
+append_entries: 4
+Finish: 2025-12-20 19:09:22.350795
+Wrote digest feed: docs/readhub-digest.xml
