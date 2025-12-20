@@ -11719,3 +11719,11 @@ Append: [浙江：加快推动人工智能创新发展高地建设 全面实施�
 append_entries: 1
 Finish: 2025-12-20 11:10:07.559108
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 12:21:49.983043
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [官方通报「南极磷虾油」事件：已成立联合调查组开展调查](https://readhub.cn/topic/8pFEHvKFsRX)
+append_entries: 1
+Finish: 2025-12-20 12:21:51.442306
+Wrote digest feed: docs/readhub-digest.xml
