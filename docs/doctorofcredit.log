@@ -6403,3 +6403,10 @@ Append: [Best High Yield Savings Accounts  – up to 5.00% APY](https://www.doct
 append_entries: 1
 Finish: 2025-12-20 04:18:55.242722
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 05:12:58.431251
+Existing_entries: 432
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-20 05:12:58.782569
+Wrote digest feed: docs/doctorofcredit-digest.xml
