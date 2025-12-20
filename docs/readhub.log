@@ -11691,3 +11691,13 @@ Append: [逾 60 家海内外企业机构签约进驻河套香港园区](https://
 append_entries: 5
 Finish: 2025-12-20 08:16:03.586527
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 09:12:19.638217
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [图灵量子与摩尔线程联合研发 GPU 与量子处理器 (QPU) 协同的计算架构](https://readhub.cn/topic/8pF1QLhACQ2)
+Append: [智元江苏具身智能产业基地战略合作项目在无锡签约落地](https://readhub.cn/topic/8pF00nItspg)
+Append: [黑龙江 2026 年绿电外送成交规模创新高](https://readhub.cn/topic/8pEx6y2iu6B)
+append_entries: 3
+Finish: 2025-12-20 09:12:21.139027
+Wrote digest feed: docs/readhub-digest.xml
