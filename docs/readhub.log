@@ -11806,3 +11806,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-20 21:10:12.319846
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 22:11:22.566988
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [世贸报告：人工智能到 2040 年或推动全球贸易增长近四成](https://readhub.cn/topic/8pFrlgJtXeo)
+Append: [美司法部再公开两批爱泼斯坦案文件 超 550 页被涂黑](https://readhub.cn/topic/8pFpU1Kk1zw)
+append_entries: 2
+Finish: 2025-12-20 22:11:23.917895
+Wrote digest feed: docs/readhub-digest.xml
