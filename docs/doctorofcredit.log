@@ -6493,3 +6493,13 @@ Append: [[WA, OR, ID & In Branch] Columbia Bank $300 Business Checking Bonus](ht
 append_entries: 1
 Finish: 2025-12-20 16:15:10.770227
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 17:10:31.860074
+Existing_entries: 434
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2457
+Summarized using glm-4.5-air
+Append: [[MI, IN] OMNI Community Credit Union $200 Referral Checking Bonus](https://www.doctorofcredit.com/mi-omni-community-credit-union-200-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-20 17:10:37.275489
+Wrote digest feed: docs/doctorofcredit-digest.xml

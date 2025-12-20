@@ -11767,3 +11767,10 @@ Fetch failed from https://readhub.cn/rss
 append_entries: 0
 error when rendering xml, skip docs/readhub
 error when rendering digest xml (docs/readhub-digest.xml): 'None' has no attribute 'feed'
+------------------------------------------------------
+Started: 2025-12-20 17:10:03.379702
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-20 17:10:05.119925
+Wrote digest feed: docs/readhub-digest.xml
