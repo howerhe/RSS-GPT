@@ -11792,3 +11792,10 @@ Append: [华杉称要把华与华建成世界第一，罗永浩回应：忽悠�
 append_entries: 4
 Finish: 2025-12-20 19:09:22.350795
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 20:12:47.511183
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-20 20:12:48.867330
+Wrote digest feed: docs/readhub-digest.xml

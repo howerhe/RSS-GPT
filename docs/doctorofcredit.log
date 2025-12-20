@@ -6520,3 +6520,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-20 19:09:49.690173
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 20:13:16.162980
+Existing_entries: 436
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 777
+Summarized using glm-4.5-air
+Append: [[YMMV] Ace Hardware: Download App, Get $10 Bonus Coupon](https://www.doctorofcredit.com/ymmv-ace-hardware-download-app-get-10-bonus-coupon/)
+append_entries: 1
+Finish: 2025-12-20 20:13:20.281895
+Wrote digest feed: docs/doctorofcredit-digest.xml
