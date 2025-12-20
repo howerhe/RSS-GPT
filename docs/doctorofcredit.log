@@ -6483,3 +6483,13 @@ Append: [Fidelity: Free TurboTax Premier For Some](https://www.doctorofcredit.co
 append_entries: 1
 Finish: 2025-12-20 15:12:14.807739
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 16:15:04.111770
+Existing_entries: 433
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3917
+Summarized using glm-4.5-air
+Append: [[WA, OR, ID & In Branch] Columbia Bank $300 Business Checking Bonus](https://www.doctorofcredit.com/wa-or-id-in-branch-columbia-bank-300-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-20 16:15:10.770227
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -11758,3 +11758,12 @@ Append: [香港大埔宏福苑援助基金增至 40 亿港元](https://readhub.c
 append_entries: 5
 Finish: 2025-12-20 15:11:42.713474
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 16:14:06.063304
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Fetch error: HTTPSConnectionPool(host='readhub.cn', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://readhub.cn/rss
+append_entries: 0
+error when rendering xml, skip docs/readhub
+error when rendering digest xml (docs/readhub-digest.xml): 'None' has no attribute 'feed'
