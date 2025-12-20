@@ -11815,3 +11815,12 @@ Append: [美司法部再公开两批爱泼斯坦案文件 超 550 页被涂黑](
 append_entries: 2
 Finish: 2025-12-20 22:11:23.917895
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-20 23:11:42.838403
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [俄罗斯莫斯科州发生爆炸致一死两伤](https://readhub.cn/topic/8pFrlexsH9g)
+Append: [上市 15 天，摩尔线程剑指英伟达腹地](https://readhub.cn/topic/8pFI0XPqLHM)
+append_entries: 2
+Finish: 2025-12-20 23:11:44.175185
+Wrote digest feed: docs/readhub-digest.xml
