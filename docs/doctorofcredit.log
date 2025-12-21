@@ -6706,3 +6706,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-21 21:11:00.558858
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 22:12:37.344177
+Existing_entries: 442
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 641
+Summarized using glm-4.5-air
+Append: [Mygiftcardsplus: Save On Giftcards For Applebee’s, Red Robin & More](https://www.doctorofcredit.com/mygiftcardsplus-save-on-giftcards-for-applebees-red-robin-more/)
+Token length: 271
+Summarized using glm-4.5-air
+Append: [Amazon: Save $100 On Pixel 10 (128GB For $499, 256GB For $599)](https://www.doctorofcredit.com/amazon-save-100-on-pixel-10-128gb-for-499-256gb-for-599/)
+append_entries: 2
+Finish: 2025-12-21 22:12:46.035668
+Wrote digest feed: docs/doctorofcredit-digest.xml
