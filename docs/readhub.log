@@ -12000,3 +12000,11 @@ Append: [美国「星链」一颗卫星或爆炸失联](https://readhub.cn/topic
 append_entries: 1
 Finish: 2025-12-21 19:09:22.040913
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 20:13:26.599088
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [浙江即将举办城市足球联赛](https://readhub.cn/topic/8pGvNJvyQ7X)
+append_entries: 1
+Finish: 2025-12-21 20:13:28.212141
+Wrote digest feed: docs/readhub-digest.xml

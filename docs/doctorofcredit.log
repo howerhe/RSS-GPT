@@ -6692,3 +6692,10 @@ Append: [[PA only] Propell Credit Union $150 Checking Bonus](https://www.doctoro
 append_entries: 1
 Finish: 2025-12-21 19:09:54.511389
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 20:13:55.741492
+Existing_entries: 442
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-21 20:13:56.016487
+Wrote digest feed: docs/doctorofcredit-digest.xml
