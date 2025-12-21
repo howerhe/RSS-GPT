@@ -11937,3 +11937,11 @@ Append: [南华期货：全球发售 H 股约 1.08 亿股，所得款项净额�
 append_entries: 4
 Finish: 2025-12-21 11:10:31.110741
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 12:22:05.114891
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [MiniMax 通过港交所聆讯](https://readhub.cn/topic/8pGtAZIDX9y)
+append_entries: 1
+Finish: 2025-12-21 12:22:06.535451
+Wrote digest feed: docs/readhub-digest.xml
