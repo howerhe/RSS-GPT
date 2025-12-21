@@ -11985,3 +11985,10 @@ Append: [内部财务数据显示：OpenAI 人工智能运营效率持续提升]
 append_entries: 1
 Finish: 2025-12-21 17:10:22.365213
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 18:17:23.693700
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-21 18:17:25.429584
+Wrote digest feed: docs/readhub-digest.xml

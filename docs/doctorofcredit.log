@@ -6672,3 +6672,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-21 17:10:49.869824
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 18:17:49.643483
+Existing_entries: 440
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2752
+Summarized using glm-4.5-air
+Append: [[MN] SouthPoint Financial Credit Union $400 Checking Bonus](https://www.doctorofcredit.com/mn-southpoint-financial-credit-union-400-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-21 18:17:53.735851
+Wrote digest feed: docs/doctorofcredit-digest.xml
