@@ -6582,3 +6582,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-21 05:14:34.524974
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 06:19:20.856964
+Existing_entries: 438
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-21 06:19:21.151100
+Wrote digest feed: docs/doctorofcredit-digest.xml
