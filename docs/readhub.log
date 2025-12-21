@@ -11916,3 +11916,13 @@ Append: [亚虹医药：产品 APLD-2304 申报欧洲医疗器械注册获接收
 append_entries: 6
 Finish: 2025-12-21 09:12:26.039982
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 10:12:21.062255
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [2025 贺岁档总票房破 45 亿](https://readhub.cn/topic/8pGlMxwlvq6)
+Append: [美国旧金山停电致使 Waymo 自动驾驶出租车集体趴窝，官方宣布停运](https://readhub.cn/topic/8pGZKPuEVHX)
+Append: [三星将推出首款 AI 冰箱：搭载谷歌 Gemini 可识别食材、推荐菜谱](https://readhub.cn/topic/8pGXjkibTNl)
+append_entries: 3
+Finish: 2025-12-21 10:12:22.370853
+Wrote digest feed: docs/readhub-digest.xml
