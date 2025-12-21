@@ -11833,3 +11833,15 @@ Append: [我国海上最大油田年产油气突破 4000 万吨，创历史新�
 append_entries: 2
 Finish: 2025-12-21 01:03:26.613780
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 03:22:30.091914
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [国家人工智能应用中试基地（医疗）浙江开园](https://readhub.cn/topic/8pGFvWgkIhp)
+Append: [讨薪成功，马斯克成世界首位 7000 亿美元富豪](https://readhub.cn/topic/8pG1b6HdSL2)
+Append: [美飞行器成功发射，搭载「轮椅使用者」进入太空](https://readhub.cn/topic/8pG0uAA2s0N)
+Append: [海南三亚机场 2025 年旅客吞吐量创通航以来历史新高](https://readhub.cn/topic/8pGBbdxnSqw)
+Append: [比亚迪上线家庭充电桩共享服务，实现同社区车主「邻里互助」](https://readhub.cn/topic/8pEviiTJTgj)
+append_entries: 5
+Finish: 2025-12-21 03:22:31.648124
+Wrote digest feed: docs/readhub-digest.xml
