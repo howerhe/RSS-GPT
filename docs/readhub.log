@@ -12022,3 +12022,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-21 22:12:09.262715
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 23:11:48.776002
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [CME「美联储观察」：美联储明年 1 月维持利率不变的概率为 79%](https://readhub.cn/topic/8pHcDlnHnLk)
+Append: [菲律宾延长食糖进口禁令至 2026 年 12 月](https://readhub.cn/topic/8pHB4nua7OB)
+Append: [公牛集团回应「10 户中国家庭，7 户用公牛」宣传语争议](https://readhub.cn/topic/8pGyG1Zsww7)
+append_entries: 3
+Finish: 2025-12-21 23:11:50.447165
+Wrote digest feed: docs/readhub-digest.xml

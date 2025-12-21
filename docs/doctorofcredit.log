@@ -6719,3 +6719,16 @@ Append: [Amazon: Save $100 On Pixel 10 (128GB For $499, 256GB For $599)](https:/
 append_entries: 2
 Finish: 2025-12-21 22:12:46.035668
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 23:12:18.372969
+Existing_entries: 444
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1653
+Summarized using glm-4.5-air
+Append: [[IL] MSU Federal Credit Union $150 Checking Bonus, No Requirements](https://www.doctorofcredit.com/il-msu-federal-credit-union-150-checking-bonus-no-requirements/)
+Token length: 1351
+Summarized using glm-4.5-air
+Append: [Staples (In Store Only): 100% Back In Points On Battery Purchases Up To $40](https://www.doctorofcredit.com/staples-in-store-only-100-back-in-points-on-battery-purchases-up-to-40/)
+append_entries: 2
+Finish: 2025-12-21 23:12:29.165958
+Wrote digest feed: docs/doctorofcredit-digest.xml
