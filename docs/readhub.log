@@ -11992,3 +11992,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-21 18:17:25.429584
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 19:09:20.588858
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美国「星链」一颗卫星或爆炸失联](https://readhub.cn/topic/8pGiXJs4J5k)
+append_entries: 1
+Finish: 2025-12-21 19:09:22.040913
+Wrote digest feed: docs/readhub-digest.xml

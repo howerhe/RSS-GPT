@@ -6682,3 +6682,13 @@ Append: [[MN] SouthPoint Financial Credit Union $400 Checking Bonus](https://www
 append_entries: 1
 Finish: 2025-12-21 18:17:53.735851
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 19:09:50.113763
+Existing_entries: 441
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2249
+Summarized using glm-4.5-air
+Append: [[PA only] Propell Credit Union $150 Checking Bonus](https://www.doctorofcredit.com/pa-only-propell-credit-union-150-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-21 19:09:54.511389
+Wrote digest feed: docs/doctorofcredit-digest.xml
