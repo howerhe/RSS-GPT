@@ -11945,3 +11945,11 @@ Append: [MiniMax 通过港交所聆讯](https://readhub.cn/topic/8pGtAZIDX9y)
 append_entries: 1
 Finish: 2025-12-21 12:22:06.535451
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 13:22:14.144085
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [电影《疯狂动物城 2》内地票房破 38 亿](https://readhub.cn/topic/8pGeEv22pYj)
+append_entries: 1
+Finish: 2025-12-21 13:22:15.725863
+Wrote digest feed: docs/readhub-digest.xml
