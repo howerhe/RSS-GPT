@@ -6655,3 +6655,13 @@ Append: [[AR, OK] First National Bank of Fort Smith $200 Personal Checking & $25
 append_entries: 1
 Finish: 2025-12-21 15:12:09.323843
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 16:14:23.896434
+Existing_entries: 439
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1771
+Summarized using glm-4.5-air
+Append: [[NC, VA, In Branch only] Carter Bank $300 Checking Bonus](https://www.doctorofcredit.com/nc-va-in-branch-only-carter-bank-300-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-21 16:14:27.610705
+Wrote digest feed: docs/doctorofcredit-digest.xml

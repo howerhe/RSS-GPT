@@ -11970,3 +11970,10 @@ Append: [金石资源：拟 2.57 亿元购买诺亚氟化工 15.71% 股权](http
 append_entries: 1
 Finish: 2025-12-21 15:11:37.673466
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 16:13:54.768402
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-21 16:13:56.150694
+Wrote digest feed: docs/readhub-digest.xml
