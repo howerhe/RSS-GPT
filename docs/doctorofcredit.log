@@ -6665,3 +6665,10 @@ Append: [[NC, VA, In Branch only] Carter Bank $300 Checking Bonus](https://www.d
 append_entries: 1
 Finish: 2025-12-21 16:14:27.610705
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 17:10:49.580923
+Existing_entries: 440
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-21 17:10:49.869824
+Wrote digest feed: docs/doctorofcredit-digest.xml

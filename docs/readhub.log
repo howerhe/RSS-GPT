@@ -11977,3 +11977,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-21 16:13:56.150694
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 17:10:20.771542
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [内部财务数据显示：OpenAI 人工智能运营效率持续提升](https://readhub.cn/topic/8pHBld3IQMX)
+append_entries: 1
+Finish: 2025-12-21 17:10:22.365213
+Wrote digest feed: docs/readhub-digest.xml
