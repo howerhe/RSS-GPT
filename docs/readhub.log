@@ -11953,3 +11953,12 @@ Append: [电影《疯狂动物城 2》内地票房破 38 亿](https://readhub.cn
 append_entries: 1
 Finish: 2025-12-21 13:22:15.725863
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 14:11:27.726623
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [朱军红：深刻转型催生新机遇，上海钢联将与广大客户携手并进](https://readhub.cn/topic/8pGlRCqjZ9L)
+Append: [锡华科技：将于 12 月 23 日在上交所主板上市](https://readhub.cn/topic/8pGubGmQjcs)
+append_entries: 2
+Finish: 2025-12-21 14:11:29.345214
+Wrote digest feed: docs/readhub-digest.xml
