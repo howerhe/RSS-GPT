@@ -11876,3 +11876,16 @@ Append: [日本内阁府调查显示超七成受访者认为物价状况恶化](
 append_entries: 1
 Finish: 2025-12-21 06:18:53.783664
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 07:12:40.713654
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [孙正义四处奔走，只为筹资投向 OpenAI](https://readhub.cn/topic/8pGMWmDNvpt)
+Append: [新疆阿克苏地区库车市发生 3.6 级地震 震源深度 19 千米](https://readhub.cn/topic/8pFQTnE7kVw)
+Append: [小米手机相册编辑焕新版本月底升级，将上线保存原图、全局可逆编辑等呼声最高的功能](https://readhub.cn/topic/8pGM2unapPh)
+Append: [公募发力定增，浮盈近 110 亿元](https://readhub.cn/topic/8pGHQjjZpgw)
+Append: [印尼塞梅鲁火山喷发，处于三级警戒状态](https://readhub.cn/topic/8pGUu9gNUjT)
+Append: [家中自来水变蓝色，贵州播州区成立处置工作组](https://readhub.cn/topic/8pGFDnHTr8B)
+append_entries: 6
+Finish: 2025-12-21 07:12:42.393063
+Wrote digest feed: docs/readhub-digest.xml
