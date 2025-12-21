@@ -6645,3 +6645,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-21 14:11:56.711175
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 15:12:05.053972
+Existing_entries: 438
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3190
+Summarized using glm-4.5-air
+Append: [[AR, OK] First National Bank of Fort Smith $200 Personal Checking & $250 Business Checking Bonus](https://www.doctorofcredit.com/ar-ok-first-national-bank-of-fort-smith-200-personal-checking-250-business-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-21 15:12:09.323843
+Wrote digest feed: docs/doctorofcredit-digest.xml

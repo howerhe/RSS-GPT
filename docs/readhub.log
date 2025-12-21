@@ -11962,3 +11962,11 @@ Append: [锡华科技：将于 12 月 23 日在上交所主板上市](https://re
 append_entries: 2
 Finish: 2025-12-21 14:11:29.345214
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-21 15:11:36.164338
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [金石资源：拟 2.57 亿元购买诺亚氟化工 15.71% 股权](https://readhub.cn/topic/8pGh4qWoAVp)
+append_entries: 1
+Finish: 2025-12-21 15:11:37.673466
+Wrote digest feed: docs/readhub-digest.xml
