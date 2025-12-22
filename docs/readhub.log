@@ -12387,3 +12387,10 @@ Append: [谷歌母公司 Alphabet 将以 47.5 亿美元收购数据中心的能�
 append_entries: 8
 Finish: 2025-12-22 20:13:53.156428
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 21:11:37.326209
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-22 21:11:39.045422
+Wrote digest feed: docs/readhub-digest.xml

@@ -6889,3 +6889,10 @@ Append: [Staples.com: Save 15-20% On Select Happy eGiftcards](https://www.doctor
 append_entries: 1
 Finish: 2025-12-22 20:14:26.193739
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 21:12:07.573876
+Existing_entries: 454
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-22 21:12:07.898998
+Wrote digest feed: docs/doctorofcredit-digest.xml
