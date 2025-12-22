@@ -12357,3 +12357,11 @@ Append: [流媒体平台 Spotify 数据遭窃，约 300TB 音乐文件流出](ht
 append_entries: 1
 Finish: 2025-12-22 17:12:15.336534
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 18:18:49.985223
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美国财政部拍卖三个月期国债](https://readhub.cn/topic/8pIsnmLRMLK)
+append_entries: 1
+Finish: 2025-12-22 18:18:51.507368
+Wrote digest feed: docs/readhub-digest.xml
