@@ -6742,3 +6742,10 @@ Append: [Giftcards.com: Save On Southwest, IKEA, Stubhub, Ulta, PetSmart and mor
 append_entries: 1
 Finish: 2025-12-22 01:02:47.291389
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 03:25:52.240510
+Existing_entries: 447
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-22 03:25:52.418305
+Wrote digest feed: docs/doctorofcredit-digest.xml

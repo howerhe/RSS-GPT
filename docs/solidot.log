@@ -5865,3 +5865,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-22 01:02:10.813513
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 03:25:17.993477
+Existing_entries: 358
+Fetching from https://www.solidot.org/index.rss
+Append: [AI 公司对 AGI 的警告是为了掩盖对权力的争夺](https://www.solidot.org/story?sid=83113)
+Append: [可再生能源开始超越化石燃料](https://www.solidot.org/story?sid=83112)
+Append: [Google 起诉 SerpApi 抓取和出售其搜索数据](https://www.solidot.org/story?sid=83111)
+append_entries: 3
+Finish: 2025-12-22 03:25:19.920366
+Wrote digest feed: docs/solidot-digest.xml
