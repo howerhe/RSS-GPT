@@ -6879,3 +6879,13 @@ Append: [Target.com: Save 15% On Prepaid Phone Cards (Plus 5% REDcard)](https://
 append_entries: 1
 Finish: 2025-12-22 19:12:27.008137
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 20:14:21.800673
+Existing_entries: 453
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 490
+Summarized using glm-4.5-air
+Append: [Staples.com: Save 15-20% On Select Happy eGiftcards](https://www.doctorofcredit.com/staples-com-save-15-20-on-select-happy-egiftcards/)
+append_entries: 1
+Finish: 2025-12-22 20:14:26.193739
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -12372,3 +12372,18 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-22 19:11:53.110048
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 20:13:51.983470
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [快手：遭到黑灰产攻击，正在修复处理中，已报警](https://readhub.cn/topic/8pJ3WjeYbnq)
+Append: [美银 CEO：人工智能的经济效益正加速显现](https://readhub.cn/topic/8pJ1Ql8Gcs4)
+Append: [国际油价上涨，布油、WTI 原油均涨 2%](https://readhub.cn/topic/8pIYwI7hwHr)
+Append: [奈飞：签署了一项 200 亿美元的递延提取定期贷款协议](https://readhub.cn/topic/8pIVE1SYC8i)
+Append: [罗永浩「科技春晚」门票最高千元，开售两小时被抢光](https://readhub.cn/topic/8pI2gz1Nz4A)
+Append: [我国 5G 基站总数达 483 万个 5G 用户已逼近 12 亿户](https://readhub.cn/topic/8pIWHowzDFE)
+Append: [微信小店上线「诊断中心」，商家可自查搜索曝光与广告状态](https://readhub.cn/topic/8pIPBjn2Vvb)
+Append: [谷歌母公司 Alphabet 将以 47.5 亿美元收购数据中心的能源供应商 Intersect](https://readhub.cn/topic/8pIq5hxlDmO)
+append_entries: 8
+Finish: 2025-12-22 20:13:53.156428
+Wrote digest feed: docs/readhub-digest.xml
