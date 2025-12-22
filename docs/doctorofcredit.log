@@ -6839,3 +6839,16 @@ Append: [FNBO Adds 18 Month Rule](https://www.doctorofcredit.com/fnbo-adds-18-mo
 append_entries: 1
 Finish: 2025-12-22 15:14:19.399071
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 16:16:36.273254
+Existing_entries: 449
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 416
+Summarized using glm-4.5-air
+Append: [[YMMV] Youtube Premium: 40% Off Pixel 10 MSRP (From $479)](https://www.doctorofcredit.com/ymmv-youtube-premium-40-off-pixel-10-msrp-from-479/)
+Token length: 574
+Summarized using glm-4.5-air
+Append: [Reports Of $400 Retention Offers On The Chase Sapphire Reserve](https://www.doctorofcredit.com/reports-of-400-retention-offers-on-the-chase-sapphire-reserve/)
+append_entries: 2
+Finish: 2025-12-22 16:16:47.636333
+Wrote digest feed: docs/doctorofcredit-digest.xml

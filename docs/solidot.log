@@ -5959,3 +5959,18 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-22 15:13:42.541838
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 16:16:02.446777
+Existing_entries: 361
+Fetching from https://www.solidot.org/index.rss
+Append: [室内日光浴会加速皮肤老化](https://www.solidot.org/story?sid=83122)
+Append: [韦伯发现了氦碳构成大气层的系外行星](https://www.solidot.org/story?sid=83121)
+Append: [自然光可能有助于糖尿病患者控制血糖](https://www.solidot.org/story?sid=83120)
+Append: [订阅陷阱时代](https://www.solidot.org/story?sid=83119)
+Append: [FSF 警告任天堂新 DRM 允许它远程让游戏机变砖](https://www.solidot.org/story?sid=83118)
+Append: [苹果和 Google 建议持签证员工不要出国](https://www.solidot.org/story?sid=83117)
+Append: [旧金山断电交通信号中断导致 Waymo 无人出租车陷入困境](https://www.solidot.org/story?sid=83116)
+Append: [小鼠实验显示一种天然细菌具有抗癌功效](https://www.solidot.org/story?sid=83114)
+append_entries: 8
+Finish: 2025-12-22 16:16:04.192491
+Wrote digest feed: docs/solidot-digest.xml
