@@ -6732,3 +6732,13 @@ Append: [Staples (In Store Only): 100% Back In Points On Battery Purchases Up To
 append_entries: 2
 Finish: 2025-12-21 23:12:29.165958
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 01:02:42.921566
+Existing_entries: 446
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 409
+Summarized using glm-4.5-air
+Append: [Giftcards.com: Save On Southwest, IKEA, Stubhub, Ulta, PetSmart and more](https://www.doctorofcredit.com/giftcards-com-save-on-southwest-ikea-stubhub-ulta-petsmart-and-more/)
+append_entries: 1
+Finish: 2025-12-22 01:02:47.291389
+Wrote digest feed: docs/doctorofcredit-digest.xml
