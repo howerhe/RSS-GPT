@@ -6869,3 +6869,13 @@ Append: [Lowe’s: Get 20% Bonus On eGiftcard Purchase $100+ (Limit 1)](https://
 append_entries: 1
 Finish: 2025-12-22 18:19:24.823484
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 19:12:22.158352
+Existing_entries: 452
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 341
+Summarized using glm-4.5-air
+Append: [Target.com: Save 15% On Prepaid Phone Cards (Plus 5% REDcard)](https://www.doctorofcredit.com/target-com-save-15-on-prepaid-phone-cards-plus-5-redcard/)
+append_entries: 1
+Finish: 2025-12-22 19:12:27.008137
+Wrote digest feed: docs/doctorofcredit-digest.xml

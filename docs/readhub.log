@@ -12365,3 +12365,10 @@ Append: [美国财政部拍卖三个月期国债](https://readhub.cn/topic/8pIsn
 append_entries: 1
 Finish: 2025-12-22 18:18:51.507368
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 19:11:51.827118
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-22 19:11:53.110048
+Wrote digest feed: docs/readhub-digest.xml
