@@ -12394,3 +12394,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-22 21:11:39.045422
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 22:12:52.582880
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美股收盘：三大股指齐升 特朗普旗下公司跌超 10%](https://readhub.cn/topic/8pJBSG5TEHA)
+Append: [吉林发现大型金矿 资源量将突破 100 吨](https://readhub.cn/topic/8pIVOJA7UsZ)
+append_entries: 2
+Finish: 2025-12-22 22:12:54.095268
+Wrote digest feed: docs/readhub-digest.xml
