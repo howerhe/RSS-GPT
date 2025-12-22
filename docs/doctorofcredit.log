@@ -6819,3 +6819,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-22 13:29:28.616515
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 14:14:23.128934
+Existing_entries: 447
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 456
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: 40% Off Amazon, AmEx Requiring SSNs For AUs & More](https://www.doctorofcredit.com/best-posts-last-week-40-off-amazon-amex-requiring-ssns-for-aus-more/)
+append_entries: 1
+Finish: 2025-12-22 14:14:29.250238
+Wrote digest feed: docs/doctorofcredit-digest.xml

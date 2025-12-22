@@ -12305,3 +12305,20 @@ Append: [金盘科技：拟发行 16.72 亿元可转债 用于数据中心电源
 append_entries: 15
 Finish: 2025-12-22 13:28:59.529794
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 14:13:53.529374
+Existing_entries: 1015
+Fetching from https://readhub.cn/rss
+Append: [微软 CEO 纳德拉向负责人施压 要求加快 Copilot 改进](https://readhub.cn/topic/8pIi6EUCAXx)
+Append: [葛兰素史克新可来在中国获批用于治疗成人慢性阻塞性肺疾病](https://readhub.cn/topic/8pIIMCI3wYh)
+Append: [一品红：控股股东承诺无偿转让 Arthrosi 9.07% 股权净收益以支持公司发展](https://readhub.cn/topic/8pIJoSXDi2T)
+Append: [Waymo 自动驾驶出现史诗级丑闻 博主：特斯拉 FSD 实测不会卡死](https://readhub.cn/topic/8pHpNVxBx8C)
+Append: [*ST 东通：收到股票终止上市决定，预计最后交易日期为 2026 年 1 月 21 日](https://readhub.cn/topic/8pIfxBA3af0)
+Append: [Matrix Renewables 宣布与特斯拉共建英国独立电池储能项目](https://readhub.cn/topic/8pIfJS4xyF7)
+Append: [天普股份：中昊芯英要约收购期限届满 股票明起复牌](https://readhub.cn/topic/8pIfIktx0WU)
+Append: [日本财务大臣片山皋月：如有必要「可以放手」就日元采取大胆行动](https://readhub.cn/topic/8pIeWne0fYf)
+Append: [上交所向交建股份下发监管工作函](https://readhub.cn/topic/8pIdo13ogGN)
+Append: [小象超市全国首家线下店正式开业](https://readhub.cn/topic/8pHwkHwwuvd)
+append_entries: 10
+Finish: 2025-12-22 14:13:54.905358
+Wrote digest feed: docs/readhub-digest.xml
