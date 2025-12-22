@@ -12349,3 +12349,11 @@ Append: [华为发布全新小艺管家](https://readhub.cn/topic/8pIGvBA7aI0)
 append_entries: 6
 Finish: 2025-12-22 16:16:07.869427
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 17:12:13.708493
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [流媒体平台 Spotify 数据遭窃，约 300TB 音乐文件流出](https://readhub.cn/topic/8pHwvYKhfdo)
+append_entries: 1
+Finish: 2025-12-22 17:12:15.336534
+Wrote digest feed: docs/readhub-digest.xml

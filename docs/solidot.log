@@ -5974,3 +5974,10 @@ Append: [小鼠实验显示一种天然细菌具有抗癌功效](https://www.sol
 append_entries: 8
 Finish: 2025-12-22 16:16:04.192491
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 17:12:09.529806
+Existing_entries: 369
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-22 17:12:11.304879
+Wrote digest feed: docs/solidot-digest.xml
