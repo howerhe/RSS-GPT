@@ -6829,3 +6829,13 @@ Append: [Best Posts Last Week: 40% Off Amazon, AmEx Requiring SSNs For AUs & Mor
 append_entries: 1
 Finish: 2025-12-22 14:14:29.250238
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 15:14:14.905442
+Existing_entries: 448
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 458
+Summarized using glm-4.5-air
+Append: [FNBO Adds 18 Month Rule](https://www.doctorofcredit.com/fnbo-adds-18-month-rule/)
+append_entries: 1
+Finish: 2025-12-22 15:14:19.399071
+Wrote digest feed: docs/doctorofcredit-digest.xml
