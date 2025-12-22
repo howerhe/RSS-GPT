@@ -5875,3 +5875,10 @@ Append: [Google 起诉 SerpApi 抓取和出售其搜索数据](https://www.solid
 append_entries: 3
 Finish: 2025-12-22 03:25:19.920366
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-22 04:33:00.354454
+Existing_entries: 361
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-22 04:33:02.128159
+Wrote digest feed: docs/solidot-digest.xml
