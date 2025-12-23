@@ -12768,3 +12768,11 @@ Append: [欧洲股市收涨约 0.4%](https://readhub.cn/topic/8pKX5YPPkXi)
 append_entries: 1
 Finish: 2025-12-23 17:14:00.799245
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 18:19:13.694303
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [美国财政部拍卖六周期国债](https://readhub.cn/topic/8pKXiKZt5Az)
+append_entries: 1
+Finish: 2025-12-23 18:19:15.390030
+Wrote digest feed: docs/readhub-digest.xml
