@@ -6038,3 +6038,10 @@ Append: [二氧化碳浓度增加食物热量上升但营业密度下降](https:
 append_entries: 1
 Finish: 2025-12-23 02:54:42.372965
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 03:56:40.521420
+Existing_entries: 370
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-23 03:56:42.022571
+Wrote digest feed: docs/solidot-digest.xml
