@@ -12809,3 +12809,15 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-23 22:12:48.656277
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 23:12:06.303625
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [英伟达计划明年 2 月重新向中国出货 H200 但尚未获许可](https://readhub.cn/topic/8pJOxrTUKFU)
+Append: [离岸人民币兑美元较周一纽约尾盘涨 118 点](https://readhub.cn/topic/8pKw1xNJFh3)
+Append: [BAIRD：将 Meta 目标价下调至 815 美元](https://readhub.cn/topic/8pJoiMQmfOp)
+Append: [航行警告：南海部分海域进行火箭发射，禁止驶入](https://readhub.cn/topic/8pKI6GzMVsi)
+Append: [中长期英债收益率跌约 3 个基点，美国 GDP 等数据发布后冲高回落](https://readhub.cn/topic/8pKZFrNhCR5)
+append_entries: 5
+Finish: 2025-12-23 23:12:07.730786
+Wrote digest feed: docs/readhub-digest.xml
