@@ -7080,3 +7080,16 @@ Append: [Google Play App: Discounted Disney (10%) & Starbucks (15%) Giftcards](h
 append_entries: 3
 Finish: 2025-12-23 20:14:20.537711
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 21:12:57.210427
+Existing_entries: 464
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3265
+Summarized using glm-4.5-air
+Append: [[Targeted, VA, MD NC] Atlantic Union Bank $400 Checking Bonus](https://www.doctorofcredit.com/va-md-nc-atlantic-union-bank-250-checking-bonus/)
+Token length: 907
+Summarized using glm-4.5-air
+Append: [[YMMV] First Bank Shop Your Way Rewards: 500,000 Point Offer (Worth $500) + 100k?](https://www.doctorofcredit.com/ymmv-first-bank-shop-your-way-rewards-500000-point-offer-worth-500/)
+append_entries: 2
+Finish: 2025-12-23 21:13:08.881168
+Wrote digest feed: docs/doctorofcredit-digest.xml

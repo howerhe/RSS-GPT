@@ -12795,3 +12795,10 @@ Append: [南北游客双向奔赴 多家航司增投冰雪游航线运力](https
 append_entries: 1
 Finish: 2025-12-23 20:13:35.421710
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 21:12:26.644168
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-23 21:12:28.021416
+Wrote digest feed: docs/readhub-digest.xml
