@@ -6084,3 +6084,10 @@ Append: [韦伯望远镜发现流浪超大质量黑洞](https://www.solidot.org/
 append_entries: 4
 Finish: 2025-12-23 08:18:39.078175
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 09:17:34.341117
+Existing_entries: 374
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-23 09:17:36.289435
+Wrote digest feed: docs/solidot-digest.xml
