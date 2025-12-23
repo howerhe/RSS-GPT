@@ -6073,3 +6073,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-23 07:17:30.943875
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 08:18:37.348707
+Existing_entries: 370
+Fetching from https://www.solidot.org/index.rss
+Append: [微软计划到 2030 年用 Rust 代码替代所有 C 和 C++ 代码](https://www.solidot.org/story?sid=83127)
+Append: [记事本支持表格](https://www.solidot.org/story?sid=83126)
+Append: [EA 高管、《使命召唤》系列联合创始人 Vince Zampella 因车祸去世](https://www.solidot.org/story?sid=83125)
+Append: [韦伯望远镜发现流浪超大质量黑洞](https://www.solidot.org/story?sid=83124)
+append_entries: 4
+Finish: 2025-12-23 08:18:39.078175
+Wrote digest feed: docs/solidot-digest.xml
