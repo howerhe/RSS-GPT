@@ -12787,3 +12787,11 @@ Append: [美国天然气期货日内涨幅达 3%，现报 4.084 美元 / 百万�
 append_entries: 4
 Finish: 2025-12-23 19:12:27.681421
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 20:13:34.069879
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [南北游客双向奔赴 多家航司增投冰雪游航线运力](https://readhub.cn/topic/8pKPCvdS4Xw)
+append_entries: 1
+Finish: 2025-12-23 20:13:35.421710
+Wrote digest feed: docs/readhub-digest.xml

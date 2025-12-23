@@ -7064,3 +7064,19 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-23 19:12:57.152186
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 20:14:01.470828
+Existing_entries: 461
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 164
+Summarized using glm-4.5-air
+Append: [Fandango: We Bury The Dead One Free Ticket With Promo Code ZOMBIE](https://www.doctorofcredit.com/fandango-we-bury-the-dead-one-free-ticket-with-promo-code-zombie-1-1-1-4/)
+Token length: 1447
+Summarized using glm-4.5-air
+Append: [[Targeted] Amazon: Add American Express Card & Get $15 Off (Code AMEXQ4ABC15)](https://www.doctorofcredit.com/amazon-add-american-express-card-get-10-off-code-24amex10off/)
+Token length: 507
+Summarized using glm-4.5-air
+Append: [Google Play App: Discounted Disney (10%) & Starbucks (15%) Giftcards](https://www.doctorofcredit.com/google-play-app-discounted-disney-10-starbucks-15-giftcards/)
+append_entries: 3
+Finish: 2025-12-23 20:14:20.537711
+Wrote digest feed: docs/doctorofcredit-digest.xml
