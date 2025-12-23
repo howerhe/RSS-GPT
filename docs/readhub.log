@@ -12760,3 +12760,11 @@ Append: [美国发布 H-1B 签证新规 以高薪申请人为优先](https://rea
 append_entries: 4
 Finish: 2025-12-23 16:16:09.840712
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 17:13:59.614058
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [欧洲股市收涨约 0.4%](https://readhub.cn/topic/8pKX5YPPkXi)
+append_entries: 1
+Finish: 2025-12-23 17:14:00.799245
+Wrote digest feed: docs/readhub-digest.xml

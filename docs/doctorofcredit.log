@@ -7040,3 +7040,13 @@ Append: [[Existing Customers] Ameriprise $200-$300 Savings Bonus](https://www.do
 append_entries: 1
 Finish: 2025-12-23 16:16:45.475245
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 17:14:30.783316
+Existing_entries: 460
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 396
+Summarized using glm-4.5-air
+Append: [Chipotle: Get $50 eGiftcard & Get $10 Bonus eGift](https://www.doctorofcredit.com/chipotle-get-50-egiftcard-get-10-bonus-egift/)
+append_entries: 1
+Finish: 2025-12-23 17:14:34.450090
+Wrote digest feed: docs/doctorofcredit-digest.xml
