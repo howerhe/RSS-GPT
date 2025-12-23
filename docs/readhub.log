@@ -12716,3 +12716,19 @@ Append: [*ST 万方：变更为无控股股东、无实际控制人](https://rea
 append_entries: 16
 Finish: 2025-12-23 13:30:30.927106
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 14:13:21.830390
+Existing_entries: 1016
+Fetching from https://readhub.cn/rss
+Append: [Frontera Therapeutics 向港交所提交上市申请书](https://readhub.cn/topic/8pKMLbCtLkF)
+Append: [因逆变器内部螺栓存在松动隐患 丰田将在美召回超 5 万辆汽车](https://readhub.cn/topic/8pKMLX1jZzK)
+Append: [美国三季度 GDP 数据公布后，美元指数短线拉升](https://readhub.cn/topic/8pKKr1yRbrO)
+Append: [多晶硅交割价与现货巨大价差引热议，广期所回应](https://readhub.cn/topic/8pKLZ6h2nvb)
+Append: [摩尔线程发布图形显卡驱动 v320.130](https://readhub.cn/topic/8pKKqzui7KL)
+Append: [比亚迪 11 月欧洲销量同比猛增 235%，特斯拉下降超 34%](https://readhub.cn/topic/8pJkOdbWaT8)
+Append: [伊拉克电力部：伊朗已停止对伊拉克供应天然气](https://readhub.cn/topic/8pKI4B33K9B)
+Append: [加拿大 10 月 GDP 月率录得-0.3%](https://readhub.cn/topic/8pKKFbii0Jx)
+Append: [沪镍期货主力合约涨超 3%](https://readhub.cn/topic/8pKI83xfZib)
+append_entries: 9
+Finish: 2025-12-23 14:13:23.173582
+Wrote digest feed: docs/readhub-digest.xml
