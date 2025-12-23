@@ -6030,3 +6030,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-23 00:59:13.625256
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 02:54:40.746392
+Existing_entries: 369
+Fetching from https://www.solidot.org/index.rss
+Append: [二氧化碳浓度增加食物热量上升但营业密度下降](https://www.solidot.org/story?sid=83123)
+append_entries: 1
+Finish: 2025-12-23 02:54:42.372965
+Wrote digest feed: docs/solidot-digest.xml
