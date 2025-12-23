@@ -7030,3 +7030,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-23 15:14:19.541634
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 16:16:39.323542
+Existing_entries: 459
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1452
+Summarized using glm-4.5-air
+Append: [[Existing Customers] Ameriprise $200-$300 Savings Bonus](https://www.doctorofcredit.com/existing-customers-ameriprise-200-300-savings-bonus/)
+append_entries: 1
+Finish: 2025-12-23 16:16:45.475245
+Wrote digest feed: docs/doctorofcredit-digest.xml

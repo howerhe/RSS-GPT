@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>皮肤和内脏使用不同的方式感知冷</title>
 <link>https://www.solidot.org/story?sid=83130</link>
 <guid>https://www.solidot.org/story?sid=83130</guid>
 <content:encoded><![CDATA[
-
 人体不同部位对冷的感知存在差异。皮肤主要通过 TRPM8 离子通道感知低温，这种通道专门用于感知寒冷的环境条件；而在体内，诸如肺和胃等器官，主要依靠分子传感器 TRPA1 感知温度变化。这解释了为何体表和体内感受到的寒冷大不相同。你或许曾感受过，寒风吹过皮肤的冷和吸入冰冷空气或吞咽冷饮时的冷截然不同。这是因为每种组织类型通过激活各自的生物途径感知温度变化。研究结果表明，温度感知与身体各部位的特定生理功能紧密相关，内脏器官感知寒冷的分子机制与皮肤不同。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Dec 2025 22:31:30 +0800</pubDate>
 <pubDate>Tue, 23 Dec 2025 22:31:30 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@
 <link>https://www.solidot.org/story?sid=83129</link>
 <guid>https://www.solidot.org/story?sid=83129</guid>
 <content:encoded><![CDATA[
-
 此前专注于存档文本的影子图书馆“安娜的档案”发布了音乐串流服务 Spotify 的存档，容量 300TB，包含  2.56 亿首歌和 1.86 亿个 ISRC 码。安娜的档案称这是世界最大的公开音乐元数据库。Spotify 存档共有 8600 万个音乐文件，约占总播放量 99.6%，截止日期 2025 年 7 月。数据显示，逾七成的歌几乎没有几个人听过；流行度前三歌曲总播放量超过排名后 2000 万至 1 亿的歌曲的播放量总和。Spotify 将发布存档的人称为是反版权极端分子，表示正对此展开调查。存档者可能使用了公开的 Web API 抓取元数据和绕过 DRM 访问音频文件。Spotify 坚称这不是一次黑客入侵，用户数据没有受到影响。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Dec 2025 22:25:25 +0800</pubDate>
 <pubDate>Tue, 23 Dec 2025 22:25:25 +0800</pubDate>
 </item>
 <item>
@@ -33,14 +30,11 @@
 <link>https://www.solidot.org/story?sid=83128</link>
 <guid>https://www.solidot.org/story?sid=83128</guid>
 <content:encoded><![CDATA[
-
 无论你需要不需要，AI 都将进入到你的生活里，其中包括厨房。三星准备在其冰箱产品中集成 Google 的 Gemini AI，识别客户的饮食习惯。在下个月举行的 CES 2026 展会上，三星计划展示新款的 Bespoke AI Refrigerator 冰箱，内置摄像头，能在 Google Gemini 的帮助下自动识别食物，包括放在无标签容器的剩菜剩饭。AI 冰箱将不需要输入信息就能维持食物库存的更新，跟踪食物的加入和移除，并根据剩余食物提供建议。这将是 Google Gemini AI 首次集成到冰箱中，标志着生成式 AI 的应用范围已从手机和笔记本电脑推广到家用智能电器。
 <p></p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Dec 2025 18:32:00 +0800</pubDate>
-<pubDate>Tue, 23 Dec 2025 18:32:00 +0800</pubDate>
 </item>
-
 <item>
 <title>微软计划到 2030 年用 Rust 代码替代所有 C 和 C++ 代码</title>
 <link>https://www.solidot.org/story?sid=83127</link>

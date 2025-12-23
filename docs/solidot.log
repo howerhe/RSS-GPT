@@ -6136,3 +6136,10 @@ Append: [三星将为其冰箱集成 Google Gemini AI](https://www.solidot.org/s
 append_entries: 3
 Finish: 2025-12-23 15:13:49.346187
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-23 16:16:03.956699
+Existing_entries: 377
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-23 16:16:05.792961
+Wrote digest feed: docs/solidot-digest.xml
