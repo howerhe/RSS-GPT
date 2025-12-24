@@ -13096,3 +13096,13 @@ Append: [现货钯金失守 1800 美元 / 盎司](https://readhub.cn/topic/8pLfk
 append_entries: 11
 Finish: 2025-12-24 15:13:24.863151
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 16:15:39.185038
+Existing_entries: 1011
+Fetching from https://readhub.cn/rss
+Append: [科大讯飞 (002230.SZ)：拟推第二期员工持股计划](https://readhub.cn/topic/8pLscFhx2Eh)
+Append: [玲龙一号全球首堆完成非核冲转试验](https://readhub.cn/topic/8pM2auALWDS)
+Append: [标普 500 指数盘中创历史新高](https://readhub.cn/topic/8pM6sdEDHbL)
+append_entries: 3
+Finish: 2025-12-24 16:15:40.690877
+Wrote digest feed: docs/readhub-digest.xml

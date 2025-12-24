@@ -6291,3 +6291,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-24 15:13:20.599062
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 16:15:34.957408
+Existing_entries: 385
+Fetching from https://www.solidot.org/index.rss
+Append: [流媒体公司挑战 YouTube 对白天电视时间的支配](https://www.solidot.org/story?sid=83142)
+Append: [乌兹别克斯坦汽车牌监控系统被发现无密码联网](https://www.solidot.org/story?sid=83141)
+Append: [RTX 5090D 在 5K 分辨率下也力不从心](https://www.solidot.org/story?sid=83140)
+append_entries: 3
+Finish: 2025-12-24 16:15:36.679788
+Wrote digest feed: docs/solidot-digest.xml
