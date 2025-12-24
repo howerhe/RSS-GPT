@@ -7107,3 +7107,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-23 23:12:37.436220
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 00:59:44.767002
+Existing_entries: 466
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 524
+Summarized using glm-4.5-air
+Append: [AmExGiftCard.com: 100% Off Purchase Fees](https://www.doctorofcredit.com/amexgiftcard-com-100-off-purchase-shipping-fees-vanilla-egift-cards-with-promo-code-epic23/)
+append_entries: 1
+Finish: 2025-12-24 00:59:54.872993
+Wrote digest feed: docs/doctorofcredit-digest.xml
