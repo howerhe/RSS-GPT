@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>大模型真的加快了程序员的编程速度？</title>
 <link>https://www.solidot.org/story?sid=83134</link>
 <guid>https://www.solidot.org/story?sid=83134</guid>
 <content:encoded><![CDATA[
-
 MIT Technology Review 采访逾 30 名开发者、科技公司高管、分析师和研究人员后发现，基于大模型的 AI 工具是否加快程序员编程速度不是一个一锤定音的问题。随着一线程序员认识到大模型的局限性，他们对 AI 工具的狂热开始消退。众多研究表明，AI 工具所宣称的生产力提升可能只是一种假象。GitClear 的数据显示 2022 年以来工程师所写代码的持久性——数周内代码不会被删除或重写——提高约 10%，这一改进可能需要归功于 AI。但与此同时，代码的多项质量指标在快速下降。编程问答平台 Stack Overflow 的调查首次显示对 AI 工具的信任度和好感度显著下降。程序员普遍认同 AI 工具的优势在于生成“样板代码”，编写测试、修 bug 以及向新手解释不熟悉的代码。但对于经验丰富的程序员而言，此类任务只占工作量的一小部分，AI 工具对于解决复杂难题帮助不大。基于大模型的 AI 工具也不可避免存在幻觉，它们生成的代码看起来完美，因此很难发现错误。所以使用 AI 工具就像是玩老虎机，有的时候大有帮助，但其它情况可能完全不可靠。
 <p></p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Dec 2025 00:58:19 +0800</pubDate>
 <pubDate>Wed, 24 Dec 2025 00:58:19 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@ MIT Technology Review 采访逾 30 名开发者、科技公司高管、分析师
 <link>https://www.solidot.org/story?sid=83133</link>
 <guid>https://www.solidot.org/story?sid=83133</guid>
 <content:encoded><![CDATA[
-
 国家发展改革委、市场监管总局和国家网信办联合发布《互联网平台价格行为规则》，其中规定：平台经营者不得以排挤竞争对手或者独占市场为目的，以低于成本的价格销售商品或者提供服务，扰乱正常的生产经营秩序...；平台经营者不得在消费者不知情的情况下，基于支付意愿、支付能力、消费偏好、消费习惯等信息，运用数据和算法、平台规则等手段，对同一商品或者服务在同等交易条件下设置不同的价格或者收费标准；平台经营者不得利用平台规则、数据和算法等手段，相互串通，操纵市场价格，损害其他经营者、消费者合法权益；在突发事件发生期间，平台经营者、平台内经营者销售应急物资和重要民生商品，应当合理制定价格，不得在成本未明显增加时大幅度提高商品价格，或者成本虽有增加但商品价格上涨幅度明显高于成本增长幅度；未提高商品价格，但不合理大幅度提高运输费用或者收取其他不合理费用。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Dec 2025 23:35:06 +0800</pubDate>
 <pubDate>Tue, 23 Dec 2025 23:35:06 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +30,9 @@ MIT Technology Review 采访逾 30 名开发者、科技公司高管、分析师
 <link>https://www.solidot.org/story?sid=83132</link>
 <guid>https://www.solidot.org/story?sid=83132</guid>
 <content:encoded><![CDATA[
-
 日本政府自 2026 年度起的 5 年间将向国产 AI 开发提供 1 万亿日元（约合人民币 447 亿元）规模的支援。该资金将支援软银等十几家公司最快在明年春季设立的新公司。此举旨在官民协作致力于最尖端的基础模型研发，与在 AI 领域领先一步的美国和中国抗衡。政府还考虑对在生产第一线机器人上使用的 AI 也提供支援。新公司旗下将汇集软银和 AI 开发企业 Preferred Networks（东京）的技术人员等约 100 人。公司将在参加经济产业省的公募后，获得开发所需建设费等支援。新公司力争在作为基础模型性能指标的数值上实现国内最高水平。开发的基础模型将向日企开放并供其使用。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Dec 2025 23:20:34 +0800</pubDate>
 <pubDate>Tue, 23 Dec 2025 23:20:34 +0800</pubDate>
 </item>
 <item>
@@ -45,14 +40,11 @@ MIT Technology Review 采访逾 30 名开发者、科技公司高管、分析师
 <link>https://www.solidot.org/story?sid=83131</link>
 <guid>https://www.solidot.org/story?sid=83131</guid>
 <content:encoded><![CDATA[
-
 《连线》再次报道了活跃在 Telegram 上的中文加密货币暗网市场。今年早些时候在媒体报道之后，Telegram 封锁了当时最大的暗网市场好旺担保（Haowang Guarantee，aka 汇旺担保或 Huione Guarantee）和第二大市场新币担保。但几个月之后，根据加密货币追踪公司 Elliptic 的研究，目前最大的两个平台——土豆担保（Tudou Guarantee） 和新币担保（Xinbi Guarantee）——每月的洗钱规模仍然接近 20 亿美元。被称为杀猪盘的骗局通常在东南亚电诈园区进行，而电诈已发展成为全球最赚钱的网络犯罪形式。通过向电诈犯罪团伙出售洗钱服务和其它相关产品，土豆担保和新币担保的规模惊人。AlphaBay 曾是最大的暗网市场，是丝绸之路暗网市场鼎盛期的十倍，在其运营的两年半时间里交易额逾 10 亿美元。俄罗斯暗网市场 Hydra 在其运营的七年内交易额逾 50 亿美元。相比下，今年上半年被关闭的好旺担保在其运营的四年内交易额逾 270 亿美元。土豆担保与被关闭的好旺担保有关联，它取代了好旺担保的位置，目前每月交易额约 11 亿美元。新币担保在被打击后又重新上线，目前每月交易额约 8.5 亿美元。Telegram 拒绝对这些市场再次采取行动。
 <p></p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Dec 2025 23:12:27 +0800</pubDate>
-<pubDate>Tue, 23 Dec 2025 23:12:27 +0800</pubDate>
 </item>
-
 <item>
 <title>皮肤和内脏使用不同的方式感知冷</title>
 <link>https://www.solidot.org/story?sid=83130</link>

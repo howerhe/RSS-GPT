@@ -6210,3 +6210,10 @@ Append: [两大中文暗网市场每月涉嫌洗钱 20 亿美元](https://www.so
 append_entries: 4
 Finish: 2025-12-24 02:51:47.597769
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 03:53:56.355653
+Existing_entries: 381
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-24 03:53:58.184731
+Wrote digest feed: docs/solidot-digest.xml
