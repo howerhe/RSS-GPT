@@ -13130,3 +13130,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-24 20:13:36.471595
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 21:11:42.550355
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [江西铜业同意以 8.67 亿英镑现金收购索尔黄金](https://readhub.cn/topic/8pLzk0ABUBg)
+append_entries: 1
+Finish: 2025-12-24 21:11:43.733004
+Wrote digest feed: docs/readhub-digest.xml
