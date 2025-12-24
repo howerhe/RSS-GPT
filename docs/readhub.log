@@ -12890,3 +12890,16 @@ Append: [北京海淀土拍收官 海开 84.56 亿元斩获上地「巨无霸」
 append_entries: 11
 Finish: 2025-12-24 03:54:02.757966
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 04:29:24.485397
+Existing_entries: 1011
+Fetching from https://readhub.cn/rss
+Append: [字节推出形式化数学推理专用模型 Seed Prover 1.5](https://readhub.cn/topic/8pLKRuGjctk)
+Append: [长城哈弗将采用 Momenta 智驾方案，新车计划明年初上市](https://readhub.cn/topic/8pLAK7HpVMF)
+Append: [Newco 同宜医药 PDC 技术授权出海，创超 20 亿美元合作新高](https://readhub.cn/topic/8pJgEr4p5TT)
+Append: [东北等地迎剧烈降温 全国大部明起回归晴朗干燥格局](https://readhub.cn/topic/8pL617BFDCv)
+Append: [哈勃观测到罕见「宇宙撞击」](https://readhub.cn/topic/8pL0JIFrm01)
+Append: [机构：全球智能手表市场有望于 2025 年重回增长轨道](https://readhub.cn/topic/8pLJbBx3AyL)
+append_entries: 6
+Finish: 2025-12-24 04:29:26.007167
+Wrote digest feed: docs/readhub-digest.xml
