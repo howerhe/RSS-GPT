@@ -6259,3 +6259,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-24 09:17:18.616329
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 11:12:35.835582
+Existing_entries: 381
+Fetching from https://www.solidot.org/index.rss
+Append: [优秀人才很少在童年时展现天赋或接受高强度训练](https://www.solidot.org/story?sid=83138)
+Append: [三星将在 2026 年推出 6K 裸眼3D 游戏显示器](https://www.solidot.org/story?sid=83137)
+Append: [词典的辉煌一去不复返](https://www.solidot.org/story?sid=83136)
+Append: [欧洲公共机构缓慢摆脱对美国科技公司软件和云服务的依赖](https://www.solidot.org/story?sid=83135)
+append_entries: 4
+Finish: 2025-12-24 11:12:37.224144
+Wrote digest feed: docs/solidot-digest.xml
