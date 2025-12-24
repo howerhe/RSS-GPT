@@ -6199,3 +6199,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-24 00:59:11.547231
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 02:51:45.860966
+Existing_entries: 377
+Fetching from https://www.solidot.org/index.rss
+Append: [大模型真的加快了程序员的编程速度？](https://www.solidot.org/story?sid=83134)
+Append: [网信办等发布《互联网平台价格行为规则》限制利用算法操纵价格](https://www.solidot.org/story?sid=83133)
+Append: [日本资助企业万亿日元开发国产 AI](https://www.solidot.org/story?sid=83132)
+Append: [两大中文暗网市场每月涉嫌洗钱 20 亿美元](https://www.solidot.org/story?sid=83131)
+append_entries: 4
+Finish: 2025-12-24 02:51:47.597769
+Wrote digest feed: docs/solidot-digest.xml

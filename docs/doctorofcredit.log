@@ -7117,3 +7117,10 @@ Append: [AmExGiftCard.com: 100% Off Purchase Fees](https://www.doctorofcredit.co
 append_entries: 1
 Finish: 2025-12-24 00:59:54.872993
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 02:52:22.145265
+Existing_entries: 467
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-24 02:52:22.469517
+Wrote digest feed: docs/doctorofcredit-digest.xml
