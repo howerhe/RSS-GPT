@@ -7197,3 +7197,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-24 13:27:47.769409
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 15:13:54.173409
+Existing_entries: 468
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2274
+Summarized using glm-4.5-air
+Append: [[Closing Down] Opto: Invest $25,000+ & Get A $300 Bonus](https://www.doctorofcredit.com/opto-invest-3000-get-a-300-bonus/)
+Token length: 471
+Summarized using glm-4.5-air
+Append: [Lyft: Link Alaska Atmos & Get $15 Ride Credit](https://www.doctorofcredit.com/lyft-link-alaska-atmos-get-15-ride-credit/)
+append_entries: 2
+Finish: 2025-12-24 15:14:30.351342
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -13078,3 +13078,21 @@ Append: [东宏股份：拟 3000 万元-6000 万元回购公司股份](https://r
 append_entries: 12
 Finish: 2025-12-24 13:27:17.880161
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 15:13:23.063367
+Existing_entries: 1012
+Fetching from https://readhub.cn/rss
+Append: [大商所、郑商所夜盘收盘，乙二醇涨超 2%](https://readhub.cn/topic/8pM5VIpGyQR)
+Append: [德纳维制药美股盘前飙涨近 38%](https://readhub.cn/topic/8pLgSTJQSTq)
+Append: [Vbot 维他动力发布全球首款无需遥控的超能机器狗，开启消费级具身智能时代](https://readhub.cn/topic/8pJefmOqzIo)
+Append: [波罗的海干散货运价指数跌 0.64%](https://readhub.cn/topic/8pLxbkB7x51)
+Append: [券商首席分析师为上市公司写研报，收「好处费」18 万元被判刑](https://readhub.cn/topic/8pLbc7v6dlf)
+Append: [OpenAI 正考虑在 ChatGPT 投放广告](https://readhub.cn/topic/8pM1sWbyZ2A)
+Append: [广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量](https://readhub.cn/topic/8pM1C5WuKZs)
+Append: [金盾股份：股东高新投拟减持不超 1% 股份，方正证券拟减持不超 3% 股份](https://readhub.cn/topic/8pLp2iLH8sL)
+Append: [福布斯：2025 全球最佳雇主 Top 50，微软第一](https://readhub.cn/topic/8pLUCLC84dM)
+Append: [美国汽车安全机构调查特斯拉 Model 3 紧急车门释放情况](https://readhub.cn/topic/8pLrrk29pPX)
+Append: [现货钯金失守 1800 美元 / 盎司](https://readhub.cn/topic/8pLfkDBBH7N)
+append_entries: 11
+Finish: 2025-12-24 15:13:24.863151
+Wrote digest feed: docs/readhub-digest.xml
