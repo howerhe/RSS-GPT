@@ -13138,3 +13138,13 @@ Append: [江西铜业同意以 8.67 亿英镑现金收购索尔黄金](https://r
 append_entries: 1
 Finish: 2025-12-24 21:11:43.733004
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 23:12:20.515813
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [多家国际金融机构：明年金价有望冲击每盎司 5000 美元](https://readhub.cn/topic/8pM1C187oZq)
+Append: [红星冷链 (湖南) 股份有限公司通过港交所上市聆讯](https://readhub.cn/topic/8pLukW0JHvp)
+Append: [中央广播电视总台发布 2025 年度国内、国际十大科技新闻](https://readhub.cn/topic/8pLjdv6Wgqj)
+append_entries: 3
+Finish: 2025-12-24 23:12:21.754497
+Wrote digest feed: docs/readhub-digest.xml

@@ -7245,3 +7245,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-24 21:12:13.479024
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 23:12:51.526170
+Existing_entries: 470
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-24 23:12:51.729835
+Wrote digest feed: docs/doctorofcredit-digest.xml
