@@ -6301,3 +6301,10 @@ Append: [RTX 5090D 在 5K 分辨率下也力不从心](https://www.solidot.org/s
 append_entries: 3
 Finish: 2025-12-24 16:15:36.679788
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 17:10:55.496601
+Existing_entries: 388
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-24 17:10:57.311696
+Wrote digest feed: docs/solidot-digest.xml

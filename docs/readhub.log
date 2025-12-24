@@ -13106,3 +13106,13 @@ Append: [标普 500 指数盘中创历史新高](https://readhub.cn/topic/8pM6sd
 append_entries: 3
 Finish: 2025-12-24 16:15:40.690877
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 17:10:59.831901
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [A 股迎来「人形机器人第一股」：16.65 亿元并购，优必选成为锋龙股份控股股东](https://readhub.cn/topic/8pM1CFBpx24)
+Append: [阿维塔回应南极之旅争议：阿维塔 12 将在极地经历 16 个月测试](https://readhub.cn/topic/8pM2VM3ggo7)
+Append: [意大利竞争监管机构对 Meta 采取临时措施](https://readhub.cn/topic/8pLajD3EEFz)
+append_entries: 3
+Finish: 2025-12-24 17:11:01.339557
+Wrote digest feed: docs/readhub-digest.xml
