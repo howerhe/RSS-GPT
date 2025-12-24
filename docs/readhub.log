@@ -13116,3 +13116,10 @@ Append: [意大利竞争监管机构对 Meta 采取临时措施](https://readhub
 append_entries: 3
 Finish: 2025-12-24 17:11:01.339557
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 19:10:23.157712
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-24 19:10:24.218478
+Wrote digest feed: docs/readhub-digest.xml
