@@ -6270,3 +6270,10 @@ Append: [欧洲公共机构缓慢摆脱对美国科技公司软件和云服务�
 append_entries: 4
 Finish: 2025-12-24 11:12:37.224144
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-24 12:24:20.107704
+Existing_entries: 385
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-24 12:24:22.058191
+Wrote digest feed: docs/solidot-digest.xml
