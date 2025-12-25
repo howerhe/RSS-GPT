@@ -13148,3 +13148,16 @@ Append: [中央广播电视总台发布 2025 年度国内、国际十大科技�
 append_entries: 3
 Finish: 2025-12-24 23:12:21.754497
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 00:59:18.762300
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [日本上调 2025–26 财年 GDP 增长预期 消费与投资成主要动力](https://readhub.cn/topic/8pLmAfTdlml)
+Append: [春光科技：签订机器人产品采购合同并获得 4326.28 万元订单](https://readhub.cn/topic/8pLbYo5MwoC)
+Append: [澳柯玛：拟挂牌转让信息产业园公司 55% 股权](https://readhub.cn/topic/8pLeIgqDOsz)
+Append: [四方精创向港交所提交上市申请](https://readhub.cn/topic/8pLxb9ujHlr)
+Append: [阳光电源：部分董事、高级管理人员股份减持计划实施完成及提前终止](https://readhub.cn/topic/8pLrrLjT0yv)
+Append: [美多名作家起诉谷歌等 6 企业用版权书籍训练 AI](https://readhub.cn/topic/8pLfmUXQ3GU)
+append_entries: 6
+Finish: 2025-12-25 00:59:20.482199
+Wrote digest feed: docs/readhub-digest.xml
