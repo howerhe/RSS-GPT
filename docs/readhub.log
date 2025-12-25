@@ -13322,3 +13322,13 @@ Append: [三峡集团：浙江天台抽水蓄能电站首台机组并网发电](
 append_entries: 12
 Finish: 2025-12-25 12:24:07.894189
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 13:27:06.646763
+Existing_entries: 1012
+Fetching from https://readhub.cn/rss
+Append: [25999 元起，小米米家中央空调 Pro「双风轮」系列发布](https://readhub.cn/topic/8pNFf69PXFc)
+Append: [三星电子计划最早于 2027 年推出搭载自主研发 GPU 的应用处理器 (AP)](https://readhub.cn/topic/8pNPyrkwJFL)
+Append: [ST 泉为：因未遵守承诺增持公司股份，控股股东及实际控制人被证监会责令改正](https://readhub.cn/topic/8pNXaMdnzJf)
+append_entries: 3
+Finish: 2025-12-25 13:27:07.926739
+Wrote digest feed: docs/readhub-digest.xml
