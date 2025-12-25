@@ -13332,3 +13332,10 @@ Append: [ST 泉为：因未遵守承诺增持公司股份，控股股东及实�
 append_entries: 3
 Finish: 2025-12-25 13:27:07.926739
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 15:13:01.886487
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-25 15:13:03.430891
+Wrote digest feed: docs/readhub-digest.xml

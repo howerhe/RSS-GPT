@@ -6412,3 +6412,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-25 13:27:04.090047
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 15:12:57.677894
+Existing_entries: 394
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-25 15:12:59.302586
+Wrote digest feed: docs/solidot-digest.xml
