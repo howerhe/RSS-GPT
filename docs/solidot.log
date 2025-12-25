@@ -6372,3 +6372,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-25 07:15:38.840559
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 08:18:05.361176
+Existing_entries: 389
+Fetching from https://www.solidot.org/index.rss
+Append: [欧盟 2024 年使用的能量逾四分之一来自可再生能源](https://www.solidot.org/story?sid=83147)
+Append: [微软否认利用 AI 使用 Rust 重写所有 C/C++ 代码](https://www.solidot.org/story?sid=83146)
+Append: [Ruby 4.0.0 释出](https://www.solidot.org/story?sid=83145)
+Append: [英伟达计划春节前向中国发货 H200](https://www.solidot.org/story?sid=83144)
+append_entries: 4
+Finish: 2025-12-25 08:18:07.106527
+Wrote digest feed: docs/solidot-digest.xml
