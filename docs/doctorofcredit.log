@@ -7353,3 +7353,22 @@ Append: [Rakuten: Alliant Credit Union $200/20,000 Checking Bonus](https://www.d
 append_entries: 1
 Finish: 2025-12-25 19:10:34.185587
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 20:14:40.303855
+Existing_entries: 471
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1407
+Summarized using glm-4.5-air
+Append: [AirFrance/KLM: $50 Off With AFHOLIDAY5 or KLHOLIDAY5](https://www.doctorofcredit.com/airfrance-klm-50-off-with-afholiday5-or-klholiday5/)
+Token length: 466
+Summarized using glm-4.5-air
+Append: [Bestbuy.com: Buy $100 Apple eGift, Get Bonus $10 Best Buy eGift](https://www.doctorofcredit.com/bestbuy-com-buy-100-apple-egift-get-bonus-10-best-buy-egift/)
+Token length: 612
+Summarized using glm-4.5-air
+Append: [Amazon: Save On TurboTax from $48 (Save With No Rush Credits)](https://www.doctorofcredit.com/amazon-save-on-turbotax-from-48/)
+Token length: 392
+Summarized using glm-4.5-air
+Append: [Kroger.com: Save On eGiftcards For Uber, PetSmart, Choice, Google, Ulta and more](https://www.doctorofcredit.com/kroger-com-save-on-egiftcards-for-uber-petsmart-choice-google-ulta-and-more/)
+append_entries: 4
+Finish: 2025-12-25 20:15:01.416022
+Wrote digest feed: docs/doctorofcredit-digest.xml
