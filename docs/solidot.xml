@@ -5,15 +5,26 @@
 <link>https://www.solidot.org</link>
 
 <item>
+<title>俄罗斯计划十年内在月球上建造核电站</title>
+<link>https://www.solidot.org/story?sid=83148</link>
+<guid>https://www.solidot.org/story?sid=83148</guid>
+<content:encoded><![CDATA[
+
+最近发生多起发射事故的俄罗斯宇航局 Roscosmos 宣布计划到 2036 年在月球上建造一座核电站，已经与宇航公司 Lavochkin Association 签署了一份合同。Roscosmos 表示参与者还包括了国家原子能公司（Rosatom）和核能研究机构 Kurchatov Institute。Roscosmos 表示该电站将为俄罗斯的月球计划提供动力，包括月球车、天文台以及俄中联合国际月球研究站（Russian-Chinese International Lunar Research Station）的基础设施。
+<p></p>
+]]></content:encoded>
+<pubDate>Thu, 25 Dec 2025 16:01:51 +0800</pubDate>
+<pubDate>Thu, 25 Dec 2025 16:01:51 +0800</pubDate>
+</item>
+
+<item>
 <title>欧盟 2024 年使用的能量逾四分之一来自可再生能源</title>
 <link>https://www.solidot.org/story?sid=83147</link>
 <guid>https://www.solidot.org/story?sid=83147</guid>
 <content:encoded><![CDATA[
-
 欧盟 2024 年使用的能量有 25.2% 来自可再生能源，比 2023 年增加 0.7 个百分点，距离 20230 年可再生能源占比 42.5% 还差 17.3 个百分点，意味着要实现目标从 2025 年到 2030 年可再生能源占比每年要增长 2.9%。欧盟国家中，瑞典的可再生能源占比最高达到 62.8%。瑞典主要依赖固体生物质能、水力发电和风能。芬兰紧随其后占比 52.1%，同样依赖固体生物质能、风能和水力发电。丹麦第三占比 46.8%，大部分可再生能源来自固体生物质能、风能和沼气。比利时（14.3%）、卢森堡（14.7%）和爱尔兰（16.1%）的可再生能源占比最低。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Dec 2025 15:15:17 +0800</pubDate>
 <pubDate>Thu, 25 Dec 2025 15:15:17 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +32,9 @@
 <link>https://www.solidot.org/story?sid=83146</link>
 <guid>https://www.solidot.org/story?sid=83146</guid>
 <content:encoded><![CDATA[
-
 在微软杰出工程师 Galen Hunt 在 LinkedIn 上畅谈要在 AI 和算法的帮助下，到 2030 年用 Rust 语言重写所有 C 和 C++ 代码，目标是一名工程师一个月一百万行代码。这番话引发了一片哗然，以至于微软进行澄清，而 Galen Hunt 则修改了他的帖子。他在帖子里大量使用“我们（We）”这个词，因此在外界看来他是代表公司发言。微软高管 Frank X. Shaw 澄清，公司没有计划使用 AI 重写 Windows 11。而 Galen Hunt 也在帖子里澄清：微软没有采用 AI 使用 Rust 重写 Windows 11，表示读者过度解读了。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Dec 2025 14:28:05 +0800</pubDate>
 <pubDate>Thu, 25 Dec 2025 14:28:05 +0800</pubDate>
 </item>
 <item>
@@ -33,11 +42,9 @@
 <link>https://www.solidot.org/story?sid=83145</link>
 <guid>https://www.solidot.org/story?sid=83145</guid>
 <content:encoded><![CDATA[
-
 Ruby 语言在圣诞节释出了 v4.0.0。Ruby 语言一直习惯在圣诞节发布大更新。Ruby 4.0.0 的新特性包括：新实验性功能 Ruby Box——提供定义隔离；新的 JIT 编译器 ZJIT，它是作为 YJIT 的下一代开发的，但目前速度还不如 YJIT，不建议用于生产环境；改进并行执行机制 Ractor；语法方面的改变，等等。
 <p></p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Dec 2025 14:03:07 +0800</pubDate>
 <pubDate>Thu, 25 Dec 2025 14:03:07 +0800</pubDate>
 </item>
 <item>
@@ -45,14 +52,11 @@ Ruby 语言在圣诞节释出了 v4.0.0。Ruby 语言一直习惯在圣诞节发
 <link>https://www.solidot.org/story?sid=83144</link>
 <guid>https://www.solidot.org/story?sid=83144</guid>
 <content:encoded><![CDATA[
-
 在获得出口许可之后，英伟达通知中国客户计划春节前发货 H200。初始订单将使用现有库存完成，现有库存有 5,000-10,000 块 HGX 主板，总计提供 40,000 到 80,000 块 GPU。这意味着英伟达将优先供应性能更强的 SXM 版的 H200 显卡，比基于 PCIe 的 NVL 显卡更适合训练应用。根据英伟达与美国政府的协议，它将上缴 25% 的销售收入。英伟达同时通知客户，在中国政府批准之后才能确定发货时间。
 <p></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Dec 2025 13:50:18 +0800</pubDate>
-<pubDate>Thu, 25 Dec 2025 13:50:18 +0800</pubDate>
 </item>
-
 <item>
 <title>美国禁止五名欧洲人入境</title>
 <link>https://www.solidot.org/story?sid=83143</link>

@@ -6383,3 +6383,11 @@ Append: [英伟达计划春节前向中国发货 H200](https://www.solidot.org/s
 append_entries: 4
 Finish: 2025-12-25 08:18:07.106527
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 09:15:21.991757
+Existing_entries: 393
+Fetching from https://www.solidot.org/index.rss
+Append: [俄罗斯计划十年内在月球上建造核电站](https://www.solidot.org/story?sid=83148)
+append_entries: 1
+Finish: 2025-12-25 09:15:23.466450
+Wrote digest feed: docs/solidot-digest.xml
