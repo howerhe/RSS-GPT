@@ -6343,3 +6343,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-25 00:59:16.264149
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 03:56:35.705955
+Existing_entries: 388
+Fetching from https://www.solidot.org/index.rss
+Append: [美国禁止五名欧洲人入境](https://www.solidot.org/story?sid=83143)
+append_entries: 1
+Finish: 2025-12-25 03:56:37.859060
+Wrote digest feed: docs/solidot-digest.xml
