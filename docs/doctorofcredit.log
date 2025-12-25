@@ -7372,3 +7372,19 @@ Append: [Kroger.com: Save On eGiftcards For Uber, PetSmart, Choice, Google, Ulta
 append_entries: 4
 Finish: 2025-12-25 20:15:01.416022
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 21:12:25.442110
+Existing_entries: 475
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3174
+Summarized using glm-4.5-air
+Append: [Raisin/Savebetter + Topcashback: Up To $1,250 Savings Bonus With Up To $100,000 Deposit](https://www.doctorofcredit.com/raisin-up-to-200-savings-bonus-referral-savebetter/)
+Token length: 1215
+Summarized using glm-4.5-air
+Append: [Rakuten $50/5,000 Referral Bonus – Highest Ever (Valid through 12/31/25)](https://www.doctorofcredit.com/rakuten-50-5000-referral-bonus-highest-ever/)
+Token length: 317
+Summarized using glm-4.5-air
+Append: [Amazon Resale (Formerly Amazon Warehouse): 20% Off](https://www.doctorofcredit.com/amazon-resale-formerly-amazon-warehouse-20-off/)
+append_entries: 3
+Finish: 2025-12-25 21:12:39.390149
+Wrote digest feed: docs/doctorofcredit-digest.xml
