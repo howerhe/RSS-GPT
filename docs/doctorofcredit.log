@@ -7343,3 +7343,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-25 17:12:05.108122
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 19:10:28.867221
+Existing_entries: 470
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3872
+Summarized using glm-4.5-air
+Append: [Rakuten: Alliant Credit Union $200/20,000 Checking Bonus](https://www.doctorofcredit.com/rakuten-alliant-credit-union-100-10000-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-25 19:10:34.185587
+Wrote digest feed: docs/doctorofcredit-digest.xml
