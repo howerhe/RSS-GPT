@@ -13195,3 +13195,14 @@ Append: [国家电网 2025 年固定资产投资将超 6500 亿元 创历史新�
 append_entries: 9
 Finish: 2025-12-25 04:33:30.733908
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-25 05:16:54.394698
+Existing_entries: 1009
+Fetching from https://readhub.cn/rss
+Append: [专家分析：深圳上海或将跟进放宽住房限购新政](https://readhub.cn/topic/8pN242M8Chf)
+Append: [广州首个游戏电竞产业专项扶持政策发布](https://readhub.cn/topic/8pN3VF167qI)
+Append: [高市早苗：美国关税造成供应链的不确定性](https://readhub.cn/topic/8pMxnd4RUc6)
+Append: [11 月丰田集团全球汽车产量同比下降 5.5%](https://readhub.cn/topic/8pN23aB196O)
+append_entries: 4
+Finish: 2025-12-25 05:16:55.840220
+Wrote digest feed: docs/readhub-digest.xml
