@@ -7472,3 +7472,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-26 15:13:54.778383
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 16:15:04.315493
+Existing_entries: 478
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3339
+Summarized using glm-4.5-air
+Append: [[UT] Goldenwest Credit Union $250 Checking Bonus (Ages 13-25, No Direct Deposit Required)](https://www.doctorofcredit.com/ut-goldenwest-credit-union-250-checking-bonus-ages-13-25-no-direct-deposit-required/)
+append_entries: 1
+Finish: 2025-12-26 16:15:29.722786
+Wrote digest feed: docs/doctorofcredit-digest.xml
