@@ -13657,3 +13657,10 @@ Append: [日本将拨款 460 亿美元用于支持对美投资及核电发展](h
 append_entries: 1
 Finish: 2025-12-26 20:13:23.359322
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 21:11:32.816215
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-26 21:11:34.405246
+Wrote digest feed: docs/readhub-digest.xml

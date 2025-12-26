@@ -7512,3 +7512,13 @@ Append: [Shopback: Get 130% Back On PureVPN ($48 Moneymaker)](https://www.doctor
 append_entries: 2
 Finish: 2025-12-26 20:14:05.203892
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 21:12:04.421098
+Existing_entries: 482
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1788
+Summarized using glm-4.5-air
+Append: [Giftcards.com: 10-15% Off Various Giftcards](https://www.doctorofcredit.com/giftcards-com-10-15-off-various-giftcards/)
+append_entries: 1
+Finish: 2025-12-26 21:12:10.030435
+Wrote digest feed: docs/doctorofcredit-digest.xml
