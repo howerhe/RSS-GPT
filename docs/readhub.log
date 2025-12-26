@@ -13638,3 +13638,14 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-26 17:11:04.312011
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 19:09:50.548684
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [SC 原油主力合约日内跌超 2%](https://readhub.cn/topic/8pPTcGQBOmJ)
+Append: [国投瑞银白银基金 C 类份额将从下周一开始暂停申购](https://readhub.cn/topic/8pPajv6Tfmc)
+Append: [白俄罗斯国防部：已接收新一批俄苏-30SM2 战斗机](https://readhub.cn/topic/8pPQiPopwxR)
+Append: [沪银期货主力合约日内涨幅扩大至 3% 续创新高](https://readhub.cn/topic/8pPTcSRa2Lk)
+append_entries: 4
+Finish: 2025-12-26 19:09:52.128860
+Wrote digest feed: docs/readhub-digest.xml

@@ -7489,3 +7489,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-26 17:11:34.614923
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 19:10:22.238500
+Existing_entries: 479
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2219
+Summarized using glm-4.5-air
+Append: [[TX, San Antonio Only] Bank of Texas $400/$800 Checking Bonus](https://www.doctorofcredit.com/tx-the-woodlands-only-bank-of-texas-400-800-checking-bonus/)
+append_entries: 1
+Finish: 2025-12-26 19:10:29.041485
+Wrote digest feed: docs/doctorofcredit-digest.xml
