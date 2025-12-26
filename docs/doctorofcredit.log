@@ -7451,3 +7451,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-26 11:12:16.097462
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 12:24:27.846441
+Existing_entries: 478
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-26 12:24:28.120764
+Wrote digest feed: docs/doctorofcredit-digest.xml
