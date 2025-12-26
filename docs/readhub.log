@@ -13664,3 +13664,15 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-26 21:11:34.405246
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 23:12:14.373048
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [我国成功发射风云四号 03 星](https://readhub.cn/topic/8pPXtrGXBs0)
+Append: [牛马吊坠被指阴阳打工人，周大福客服回应](https://readhub.cn/topic/8pOiSW8sF3d)
+Append: [水井坊回应被收购传闻：媒体报道不属实](https://readhub.cn/topic/8pP8RgYxKnG)
+Append: [郑州之后又有多地门店经营异常，保时捷称 2026 年底中国门店将缩减至 80 家](https://readhub.cn/topic/8pP8F68YnID)
+Append: [优信宣布获 5000 万美元融资](https://readhub.cn/topic/8pP9ZIvvzu7)
+append_entries: 5
+Finish: 2025-12-26 23:12:16.498658
+Wrote digest feed: docs/readhub-digest.xml

@@ -7522,3 +7522,10 @@ Append: [Giftcards.com: 10-15% Off Various Giftcards](https://www.doctorofcredit
 append_entries: 1
 Finish: 2025-12-26 21:12:10.030435
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 23:12:46.759990
+Existing_entries: 483
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-26 23:12:47.060388
+Wrote digest feed: docs/doctorofcredit-digest.xml
