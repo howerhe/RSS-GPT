@@ -6468,3 +6468,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-26 00:59:44.701744
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 03:54:45.917995
+Existing_entries: 394
+Fetching from https://www.solidot.org/index.rss
+Append: [尼安德特人可能是被现代人类吸收了而不是灭绝了](https://www.solidot.org/story?sid=83151)
+Append: [两名古代人类都携带致癌病毒 HPV16](https://www.solidot.org/story?sid=83150)
+Append: [FSF 收到 90 万美元私人捐赠](https://www.solidot.org/story?sid=83149)
+append_entries: 3
+Finish: 2025-12-26 03:54:47.741971
+Wrote digest feed: docs/solidot-digest.xml
