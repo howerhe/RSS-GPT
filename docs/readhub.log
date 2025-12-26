@@ -13631,3 +13631,10 @@ Append: [淘宝闪购推出「燎原深耕计划」，加大服务商培育与 A
 append_entries: 7
 Finish: 2025-12-26 16:14:37.880188
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 17:11:02.769969
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-26 17:11:04.312011
+Wrote digest feed: docs/readhub-digest.xml

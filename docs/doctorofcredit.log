@@ -7482,3 +7482,10 @@ Append: [[UT] Goldenwest Credit Union $250 Checking Bonus (Ages 13-25, No Direct
 append_entries: 1
 Finish: 2025-12-26 16:15:29.722786
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 17:11:34.332715
+Existing_entries: 479
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-26 17:11:34.614923
+Wrote digest feed: docs/doctorofcredit-digest.xml
