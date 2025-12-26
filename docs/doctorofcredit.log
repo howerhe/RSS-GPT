@@ -7499,3 +7499,16 @@ Append: [[TX, San Antonio Only] Bank of Texas $400/$800 Checking Bonus](https://
 append_entries: 1
 Finish: 2025-12-26 19:10:29.041485
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 20:13:54.120588
+Existing_entries: 480
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1979
+Summarized using glm-4.5-air
+Append: [Robinhood HOOD Holidays: Giveaway & Freebies Each Day 12/26 – 12/31](https://www.doctorofcredit.com/robinhood-hood-holidays-giveaway-freebies-each-day-12-26-12-31/)
+Token length: 874
+Summarized using glm-4.5-air
+Append: [Shopback: Get 130% Back On PureVPN ($48 Moneymaker)](https://www.doctorofcredit.com/shopback-get-130-back-on-purevpn-48-moneymaker/)
+append_entries: 2
+Finish: 2025-12-26 20:14:05.203892
+Wrote digest feed: docs/doctorofcredit-digest.xml

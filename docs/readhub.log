@@ -13649,3 +13649,11 @@ Append: [沪银期货主力合约日内涨幅扩大至 3% 续创新高](https://
 append_entries: 4
 Finish: 2025-12-26 19:09:52.128860
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 20:13:21.727894
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [日本将拨款 460 亿美元用于支持对美投资及核电发展](https://readhub.cn/topic/8pPZGGYhAUr)
+append_entries: 1
+Finish: 2025-12-26 20:13:23.359322
+Wrote digest feed: docs/readhub-digest.xml
