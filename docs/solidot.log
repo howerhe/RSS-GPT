@@ -6478,3 +6478,10 @@ Append: [FSF 收到 90 万美元私人捐赠](https://www.solidot.org/story?sid=
 append_entries: 3
 Finish: 2025-12-26 03:54:47.741971
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-26 04:29:00.839392
+Existing_entries: 397
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-26 04:29:02.340214
+Wrote digest feed: docs/solidot-digest.xml
