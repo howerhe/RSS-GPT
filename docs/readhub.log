@@ -13835,3 +13835,13 @@ Append: [中国研发人工智能地震实时监测系统，将助力全球地�
 append_entries: 5
 Finish: 2025-12-27 15:11:42.382474
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 16:13:52.058478
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [滴滴回应「申请关爱公益救助得交钱」：涉嫌诈骗，切勿轻信](https://readhub.cn/topic/8pQhdjLJhEi)
+Append: [中国在建海拔最高双曲拱坝电站首批机组正式投产发电](https://readhub.cn/topic/8pQDJZ6wmoi)
+Append: [印尼苏门答腊岛附近海域发生 5.9 级地震](https://readhub.cn/topic/8pQ7ZUl7IQJ)
+append_entries: 3
+Finish: 2025-12-27 16:13:53.356332
+Wrote digest feed: docs/readhub-digest.xml
