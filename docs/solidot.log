@@ -6611,3 +6611,10 @@ Append: [Elementary OS 8.1 释出](https://www.solidot.org/story?sid=83152)
 append_entries: 7
 Finish: 2025-12-27 04:25:25.938559
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 05:14:05.471649
+Existing_entries: 404
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-27 05:14:07.222444
+Wrote digest feed: docs/solidot-digest.xml
