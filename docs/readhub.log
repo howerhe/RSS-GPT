@@ -13861,3 +13861,10 @@ Append: [美国法官裁定苹果公司智能手表可继续在美销售](https:
 append_entries: 2
 Finish: 2025-12-27 19:09:30.258003
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 20:13:57.008202
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-27 20:13:58.445046
+Wrote digest feed: docs/readhub-digest.xml
