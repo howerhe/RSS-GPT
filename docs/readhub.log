@@ -13852,3 +13852,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-27 17:10:42.568779
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 19:09:29.021390
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [巴菲特年底将卸任 CEO](https://readhub.cn/topic/8pQsjD0xkiT)
+Append: [美国法官裁定苹果公司智能手表可继续在美销售](https://readhub.cn/topic/8pQyT51oHVM)
+append_entries: 2
+Finish: 2025-12-27 19:09:30.258003
+Wrote digest feed: docs/readhub-digest.xml

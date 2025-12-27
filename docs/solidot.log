@@ -6681,3 +6681,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-27 17:10:38.363981
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 19:09:24.925212
+Existing_entries: 404
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-27 19:09:26.404814
+Wrote digest feed: docs/solidot-digest.xml
