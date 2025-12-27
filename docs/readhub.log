@@ -13875,3 +13875,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-27 21:10:36.242320
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 23:12:14.946335
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [冬季风暴侵袭美东北部 航班大面积延误 部分区域断电](https://readhub.cn/topic/8pRH7JAkn20)
+append_entries: 1
+Finish: 2025-12-27 23:12:16.193058
+Wrote digest feed: docs/readhub-digest.xml

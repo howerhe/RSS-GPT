@@ -7641,3 +7641,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-27 21:11:07.020399
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 23:12:46.957653
+Existing_entries: 483
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 523
+Summarized using glm-4.5-air
+Append: [[Targeted] Chime: Small Bonuses For Existing Users](https://www.doctorofcredit.com/targeted-chime-small-bonuses-for-existing-users/)
+Token length: 2801
+Summarized using glm-4.5-air
+Append: [Bilt Card 2.0 Will Include Earning Points On All Mortgage Payments (Card Transition Details, 5/24 & More)](https://www.doctorofcredit.com/bilt-card-2-0-will-include-earning-points-on-all-mortgage-payments-card-transition-details-5-24-more/)
+append_entries: 2
+Finish: 2025-12-27 23:12:55.126610
+Wrote digest feed: docs/doctorofcredit-digest.xml
