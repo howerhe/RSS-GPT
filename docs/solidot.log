@@ -6597,3 +6597,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-27 03:52:04.501421
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 04:25:24.243763
+Existing_entries: 397
+Fetching from https://www.solidot.org/index.rss
+Append: [MIT 科学家首次合成有抗癌潜力的天然分子](https://www.solidot.org/story?sid=83158)
+Append: [国防科大磁悬浮试验车时速达到 700 公里](https://www.solidot.org/story?sid=83157)
+Append: [Ozempic 悄悄重塑我们的购物习惯](https://www.solidot.org/story?sid=83156)
+Append: [比特币矿场转型 AI 数据中心](https://www.solidot.org/story?sid=83155)
+Append: [宇宙可能是不对称的](https://www.solidot.org/story?sid=83154)
+Append: [Vizio GPL 合格诉讼法官裁决 Vizio 无需提供安装修改软件所需的签名密钥](https://www.solidot.org/story?sid=83153)
+Append: [Elementary OS 8.1 释出](https://www.solidot.org/story?sid=83152)
+append_entries: 7
+Finish: 2025-12-27 04:25:25.938559
+Wrote digest feed: docs/solidot-digest.xml
