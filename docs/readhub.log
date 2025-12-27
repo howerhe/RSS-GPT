@@ -13845,3 +13845,10 @@ Append: [印尼苏门答腊岛附近海域发生 5.9 级地震](https://readhub.
 append_entries: 3
 Finish: 2025-12-27 16:13:53.356332
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 17:10:40.971265
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-27 17:10:42.568779
+Wrote digest feed: docs/readhub-digest.xml

@@ -7613,3 +7613,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-27 16:14:24.348376
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-27 17:11:13.278767
+Existing_entries: 483
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-27 17:11:13.512194
+Wrote digest feed: docs/doctorofcredit-digest.xml
