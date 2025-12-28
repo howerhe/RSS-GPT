@@ -7748,3 +7748,13 @@ Append: [Target Circle 360: $10 Rewards for Every $100 Spent (Limit 5)](https://
 append_entries: 1
 Finish: 2025-12-28 17:11:46.814856
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 19:10:14.737597
+Existing_entries: 486
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 854
+Summarized using glm-4.5-air
+Append: [Increased Shopping Portal Rates For Giftcards.com (5-8% On Home Depot, Airbnb & More)](https://www.doctorofcredit.com/increased-shopping-portal-rates-for-giftcards-com-5-8-on-home-depot-airbnb-more/)
+append_entries: 1
+Finish: 2025-12-28 19:10:19.804978
+Wrote digest feed: docs/doctorofcredit-digest.xml
