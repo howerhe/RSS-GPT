@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>Calibre 引入 AI “讨论”功能</title>
 <link>https://www.solidot.org/story?sid=83161</link>
 <guid>https://www.solidot.org/story?sid=83161</guid>
 <content:encoded><![CDATA[
-
 Calibre 本月初释出了受争议的更新，引入 AI“讨论”功能。该功能由 Amir Tehrani 于今年 8 月提出，Calibre 作者兼维护者 Kovid Goyal 欣然接受，首个包含 AI 功能的版本于 12 月初释出。他承诺 Calibre 绝对不会未经用户明确同意选择加入的情况下使用第三方 AI 服务。对于用户的反对，他强调不会移除。在更新之后用户会在“视图”菜单下看到 AI 功能“Discuss selected books with AI”。如果没有配置 GitHub AI 的访问令牌或 Google AI 的 API 密钥，或者通过 LM Studio 或 Ollama 本地运行模型，该功能实际上没什么用。对大多数用户而言，它就是几个没什么用的菜单项。对于用户对 AI 的强烈反对，Goyal 也提供了选择，他放出了 Calibre 的所有版本提供下载，用户可以从 0.6.x-8.x 选择任意一个版本使用。目前开源社区还不存在功能上能替代 Calibre 的电子书管理软件。Calibre 加入 AI 凸显出无论用户是否想要，AI 都在缓慢的渗透到我们的生活之中。
 <p></p>
 ]]></content:encoded>
-<pubDate>Sat, 27 Dec 2025 23:51:30 +0800</pubDate>
 <pubDate>Sat, 27 Dec 2025 23:51:30 +0800</pubDate>
 </item>
 <item>
@@ -21,15 +20,12 @@ Calibre 本月初释出了受争议的更新，引入 AI“讨论”功能。该
 <link>https://www.solidot.org/story?sid=83160</link>
 <guid>https://www.solidot.org/story?sid=83160</guid>
 <content:encoded><![CDATA[
-
 在 FFmpeg 开发者发出 DMCA 通知后，GitHub 下架了瑞芯（Rockchip）的开源媒体处理库 Media Process Platform。FFmpeg 是在 2024 年 2 月首次指控瑞芯违反了该开源项目使用的 LGPL 许可证。瑞芯拷贝了 FFmpeg 的源代码库，删除了原始作者声明，宣称自己拥有这些代码库的所有权，然后使用了不兼容于 LGPL 的 Apache
 许可证重新发布代码。FFmpeg 项目等待了差不多两年时间，但瑞芯的最后回应显示它无意解决问题。DMCA 通知要求删除侵权文件，或恢复正确的署名以及使用与 LGPL 兼容的许可证。
 <p></p>
 ]]></content:encoded>
 <pubDate>Sat, 27 Dec 2025 22:46:44 +0800</pubDate>
-<pubDate>Sat, 27 Dec 2025 22:46:44 +0800</pubDate>
 </item>
-
 <item>
 <title>MIT 科学家首次合成有抗癌潜力的天然分子</title>
 <link>https://www.solidot.org/story?sid=83158</link>

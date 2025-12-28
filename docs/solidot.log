@@ -6725,3 +6725,10 @@ Append: [在两年等待之后 FFmpeg 向瑞芯发出 DMCA 下架通知](https:/
 append_entries: 2
 Finish: 2025-12-28 03:30:30.598814
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 04:37:51.996291
+Existing_entries: 406
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-28 04:37:53.692677
+Wrote digest feed: docs/solidot-digest.xml
