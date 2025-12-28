@@ -7758,3 +7758,10 @@ Append: [Increased Shopping Portal Rates For Giftcards.com (5-8% On Home Depot, 
 append_entries: 1
 Finish: 2025-12-28 19:10:19.804978
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 20:14:37.555644
+Existing_entries: 487
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-28 20:14:37.792461
+Wrote digest feed: docs/doctorofcredit-digest.xml
