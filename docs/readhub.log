@@ -14074,3 +14074,10 @@ Append: [央企雄安总部项目集中开工](https://readhub.cn/topic/8pSCEOrP
 append_entries: 1
 Finish: 2025-12-28 20:14:06.557942
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 21:11:42.813441
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2025-12-28 21:11:44.430042
+Wrote digest feed: docs/readhub-digest.xml
