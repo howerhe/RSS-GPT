@@ -14081,3 +14081,13 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-28 21:11:44.430042
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 23:12:15.987630
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [叙利亚央行发行新货币 与现行货币兑换比为 1 比 100](https://readhub.cn/topic/8pT7N2XbxJ0)
+Append: [芝商所全线上调金属品种履约保证金](https://readhub.cn/topic/8pTAED7t6Og)
+Append: [我国首个年注碳百万吨油田在新疆诞生](https://readhub.cn/topic/8pTEUZme3gQ)
+append_entries: 3
+Finish: 2025-12-28 23:12:17.494637
+Wrote digest feed: docs/readhub-digest.xml

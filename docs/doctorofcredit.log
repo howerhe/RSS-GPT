@@ -7772,3 +7772,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-28 21:12:14.793331
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 23:12:44.355067
+Existing_entries: 487
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1498
+Summarized using glm-4.5-air
+Append: [Amazon: $15 Credit With $50 Household Essentials (Kleenex, Bounty, Tide, Kleenex, Cascade, Hefty, Charmin & More)](https://www.doctorofcredit.com/amazon-15-credit-with-50-household-essentials-stack-with-30-tide-coupon/)
+Token length: 1329
+Summarized using glm-4.5-air
+Append: [Delivery.com Moving Platforms, Redeem Loyalty Points Or Lose Them](https://www.doctorofcredit.com/delivery-com-moving-platforms-redeem-loyalty-points-or-lose-them/)
+append_entries: 2
+Finish: 2025-12-28 23:12:53.401679
+Wrote digest feed: docs/doctorofcredit-digest.xml
