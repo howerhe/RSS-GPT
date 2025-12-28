@@ -13883,3 +13883,16 @@ Append: [冬季风暴侵袭美东北部 航班大面积延误 部分区域断电
 append_entries: 1
 Finish: 2025-12-27 23:12:16.193058
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-28 01:06:34.257745
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [NASA 新局长：美国将在特朗普任内重返月球](https://readhub.cn/topic/8pQ4ihsd6p3)
+Append: [山西临汾：黄河古贤水利枢纽工程导流洞顺利贯通](https://readhub.cn/topic/8pRjbwAOcVr)
+Append: [创历史新高 塔里木油田年发绿电突破 20 亿度](https://readhub.cn/topic/8pRjbuy1iQw)
+Append: [我国大部气温将冲高回落 今起至元旦假期两股冷空气接连来袭](https://readhub.cn/topic/8pR8XzgvvW8)
+Append: [波罗的海三国正式退出《渥太华禁雷公约》](https://readhub.cn/topic/8pRTxU7wcZm)
+Append: [报告称今年巴勒斯坦经济仍处于深度衰退](https://readhub.cn/topic/8pRcUr8SlMx)
+append_entries: 6
+Finish: 2025-12-28 01:06:35.840903
+Wrote digest feed: docs/readhub-digest.xml
