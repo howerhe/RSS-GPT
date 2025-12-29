@@ -7893,3 +7893,13 @@ Append: [[Targeted] Citi ThankYou (Formerly SYWR): Spending Offers For 2026](htt
 append_entries: 1
 Finish: 2025-12-29 16:15:44.214816
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 17:12:19.786413
+Existing_entries: 497
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 529
+Summarized using glm-4.5-air
+Append: [Bestbuy.com: Save 15% On Uber Giftcards, 15% Bonus On Marriott Giftcards](https://www.doctorofcredit.com/bestbuy-com-save-15-on-uber-giftcards-15-bonus-on-marriott-giftcards/)
+append_entries: 1
+Finish: 2025-12-29 17:12:23.426127
+Wrote digest feed: docs/doctorofcredit-digest.xml

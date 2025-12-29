@@ -6926,3 +6926,10 @@ Append: [Google AI Overview 错误指控一名音乐家是性犯罪者](https://
 append_entries: 8
 Finish: 2025-12-29 16:15:02.431648
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 17:11:43.211445
+Existing_entries: 418
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-29 17:11:44.815601
+Wrote digest feed: docs/solidot-digest.xml
