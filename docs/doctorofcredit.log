@@ -7870,3 +7870,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-29 13:32:13.752575
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 15:14:43.398441
+Existing_entries: 494
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3619
+Summarized using glm-4.5-air
+Append: [[Targeted?] USAA $200 Checking Bonus](https://www.doctorofcredit.com/usaa-100-checking-bonus-military-pay-required/)
+Token length: 554
+Summarized using glm-4.5-air
+Append: [Best Posts Last Week: Year End Credit Card Checklist, $400 Crypto Bonus & More](https://www.doctorofcredit.com/best-posts-last-week-year-end-credit-card-checklist-400-crypto-bonus-more/)
+append_entries: 2
+Finish: 2025-12-29 15:14:58.552158
+Wrote digest feed: docs/doctorofcredit-digest.xml
