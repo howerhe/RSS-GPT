@@ -7919,3 +7919,13 @@ Append: [(Ending Soon) Capital One Venture X Card 100,000 Points Signup Bonus](h
 append_entries: 3
 Finish: 2025-12-29 19:11:28.039670
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 20:15:05.340644
+Existing_entries: 501
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2165
+Summarized using glm-4.5-air
+Append: [Capital One $250 Checking Bonus, Direct Deposit Not Required](https://www.doctorofcredit.com/capital-one-250-checking-bonus-direct-deposit-not-required-2/)
+append_entries: 1
+Finish: 2025-12-29 20:15:12.200710
+Wrote digest feed: docs/doctorofcredit-digest.xml
