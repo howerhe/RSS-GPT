@@ -4,6 +4,42 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+<item>
+<title>逾四成 GNOME Core 应用用 C 语言开发</title>
+<link>https://www.solidot.org/story?sid=83164</link>
+<guid>https://www.solidot.org/story?sid=83164</guid>
+<content:encoded><![CDATA[
+
+GNOME 开发者分享了该项目的代码和语言统计数据：截至 2025 年底，总代码行数 6,692,516 行，其中应用 1,611,526 行。44.8% 的 GNOME Core 应用用 C 语言开发，之后是 20.7% 的 Vala，13.8% 的 JavaScript，Rust 语言开发的应用占 10.3%，Python 占 6.9%，C++ 占 3.45%。GNOME Circle Apps 中最流行的语言是 Rust，占比高达 41.7%，C 仅占 5.56%，Python 29.2%，Vala 12.5%，JavaScript 9.72%。C 语言在 GNOME 组件/库中占主导位置，占比 76%，其次是 Rust 的 10.3% 和 Vala 的 3.77%。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 28 Dec 2025 23:19:34 +0800</pubDate>
+<pubDate>Sun, 28 Dec 2025 23:19:34 +0800</pubDate>
+</item>
+<item>
+<title>YouTube 向新用户推荐的信息流逾五分之一含有 AI 垃圾</title>
+<link>https://www.solidot.org/story?sid=83163</link>
+<guid>https://www.solidot.org/story?sid=83163</guid>
+<content:encoded><![CDATA[
+
+一项研究发现，YouTube 向新用户推荐的视频信息流逾五分之一是 AI 垃圾。Kapwing 调查了全球 15000 个最受欢迎的 YouTube 频道——每个国家排名前 100 的频道——发现其中 278 个频道的内容全是 AI 垃圾——AI 生成的低质量视频。据估计，这些 AI 内容频道累计播放量逾 630 亿次，总订阅用户 2.21 亿，每年创造约 1.17 亿美元的收入。研究人员还创建了一个新 YouTube 账号，发现 YouTube 推荐算法推荐的前 500 个视频有 104 个 是 AI 垃圾。社交平台如 X 和 Meta 也都存在类似的情况。此前的一项分析发现，YouTube 增长最快的频道中近十分之一是 AI 垃圾。Kapwing 的研究还发现，西班牙人可能最热衷此类内容，该国人口中的半数约 2000 万人关注这些 AI 频道，埃及有 1800 万人关注，美国 1450 万，巴西 1350 万。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 28 Dec 2025 21:52:28 +0800</pubDate>
+<pubDate>Sun, 28 Dec 2025 21:52:28 +0800</pubDate>
+</item>
+<item>
+<title>多地提出公务员录用将网络言行纳入考察</title>
+<link>https://www.solidot.org/story?sid=83162</link>
+<guid>https://www.solidot.org/story?sid=83162</guid>
+<content:encoded><![CDATA[
+
+据报道，山东录用公务员要“深入挖掘考察对象报考动机”“立体掌握考察人选‘8小时内外’表现”“核查重点人员网络社交平台言论”等相关内容。检索发现，今年早些时候，新疆阿勒泰地区、湖北两地也曾明确“公务员录用增加网络行为审查”“延伸了解考生网络日常言行和表现”。中央党校（国家行政学院）教授竹立家表示，“对公务员的这种政治要求、价值观要求、道德要求，过去一直是我们公务员考试的重点内容，在政治理论考试等部分均有涉及。”考察考生“网上网下”的言行则比之前更细致了一些。
+<p></p>
+]]></content:encoded>
+<pubDate>Sun, 28 Dec 2025 20:13:19 +0800</pubDate>
+<pubDate>Sun, 28 Dec 2025 20:13:19 +0800</pubDate>
+</item>
 
 <item>
 <title>Calibre 引入 AI “讨论”功能</title>

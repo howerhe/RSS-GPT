@@ -6837,3 +6837,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-29 01:04:18.626400
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 03:41:35.603680
+Existing_entries: 406
+Fetching from https://www.solidot.org/index.rss
+Append: [逾四成 GNOME Core 应用用 C 语言开发](https://www.solidot.org/story?sid=83164)
+Append: [YouTube 向新用户推荐的信息流逾五分之一含有 AI 垃圾](https://www.solidot.org/story?sid=83163)
+Append: [多地提出公务员录用将网络言行纳入考察](https://www.solidot.org/story?sid=83162)
+append_entries: 3
+Finish: 2025-12-29 03:41:37.558395
+Wrote digest feed: docs/solidot-digest.xml

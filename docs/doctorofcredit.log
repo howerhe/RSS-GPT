@@ -7801,3 +7801,16 @@ Append: [[FL Only] USF Federal Credit Union $200 Checking Bonus](https://www.doc
 append_entries: 3
 Finish: 2025-12-29 01:05:12.200478
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 03:42:12.360751
+Existing_entries: 492
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 3044
+Summarized using glm-4.5-air
+Append: [[Select Counties, IN] First Farmers Bank & Trust $300 Checking Bonus, Direct Deposit Not Required](https://www.doctorofcredit.com/select-counties-in-first-farmers-bank-trust-300-checking-bonus-direct-deposit-not-required/)
+Token length: 1854
+Summarized using glm-4.5-air
+Append: [[PA, MD] F&M Trust $400 Personal Checking Bonus](https://www.doctorofcredit.com/pa-md-fm-trust-400-personal-checking-bonus/)
+append_entries: 2
+Finish: 2025-12-29 03:42:26.618402
+Wrote digest feed: docs/doctorofcredit-digest.xml
