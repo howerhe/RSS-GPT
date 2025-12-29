@@ -7903,3 +7903,19 @@ Append: [Bestbuy.com: Save 15% On Uber Giftcards, 15% Bonus On Marriott Giftcard
 append_entries: 1
 Finish: 2025-12-29 17:12:23.426127
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 19:10:59.672665
+Existing_entries: 498
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 281
+Summarized using glm-4.5-air
+Append: [[YMMV] Walmart+: $10 Walmart Cash On Orders $35+](https://www.doctorofcredit.com/ymmv-walmart-10-walmart-cash-on-orders-35/)
+Token length: 2278
+Summarized using glm-4.5-air
+Append: [Rumored Details About Upcoming Bilt Card Lineup](https://www.doctorofcredit.com/rumored-details-about-upcoming-bilt-card-lineup/)
+Token length: 3007
+Summarized using glm-4.5-air
+Append: [(Ending Soon) Capital One Venture X Card 100,000 Points Signup Bonus](https://www.doctorofcredit.com/capital-one-venture-x-card-100000-points-signup-bonus/)
+append_entries: 3
+Finish: 2025-12-29 19:11:28.039670
+Wrote digest feed: docs/doctorofcredit-digest.xml

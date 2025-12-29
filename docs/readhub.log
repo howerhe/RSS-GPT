@@ -14349,3 +14349,11 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-29 17:11:48.807233
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 19:10:27.268840
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [以色列通过法案进一步切断对近东救济工程处支持](https://readhub.cn/topic/8pUarnTzvj2)
+append_entries: 1
+Finish: 2025-12-29 19:10:28.775842
+Wrote digest feed: docs/readhub-digest.xml
