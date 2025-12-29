@@ -14332,3 +14332,13 @@ Append: [华为钱包「关机智闪」全新上线：秒刷交通卡、车钥�
 append_entries: 15
 Finish: 2025-12-29 15:14:13.261604
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 16:15:05.094927
+Existing_entries: 1015
+Fetching from https://readhub.cn/rss
+Append: [一人一籍、籍随人走，教育部为学前儿童建立学籍](https://readhub.cn/topic/8pTVfBElbwq)
+Append: [可控核聚变创新联合体 2025 年度工作会在沪召开](https://readhub.cn/topic/8pUQpgd3rUM)
+Append: [大商所、郑商所夜盘收盘，甲醇涨超 1%](https://readhub.cn/topic/8pUO1PoY1nS)
+append_entries: 3
+Finish: 2025-12-29 16:15:06.914581
+Wrote digest feed: docs/readhub-digest.xml
