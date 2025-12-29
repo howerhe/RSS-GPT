@@ -6847,3 +6847,10 @@ Append: [多地提出公务员录用将网络言行纳入考察](https://www.sol
 append_entries: 3
 Finish: 2025-12-29 03:41:37.558395
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 04:41:46.060278
+Existing_entries: 409
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-29 04:41:47.844366
+Wrote digest feed: docs/solidot-digest.xml
