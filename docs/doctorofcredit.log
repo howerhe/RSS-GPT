@@ -7929,3 +7929,10 @@ Append: [Capital One $250 Checking Bonus, Direct Deposit Not Required](https://w
 append_entries: 1
 Finish: 2025-12-29 20:15:12.200710
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 21:12:16.828614
+Existing_entries: 502
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-29 21:12:17.053246
+Wrote digest feed: docs/doctorofcredit-digest.xml
