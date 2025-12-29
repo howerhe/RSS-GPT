@@ -7785,3 +7785,19 @@ Append: [Delivery.com Moving Platforms, Redeem Loyalty Points Or Lose Them](http
 append_entries: 2
 Finish: 2025-12-28 23:12:53.401679
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 01:04:53.801523
+Existing_entries: 489
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 7871
+Summarized using glm-4.5-air
+Append: [[OH, MI, IN, PA, KY, WV, IL, CO, MN, SD, WI, NC, SC, TX, WI] Huntington Bank $200/$400/$1,000 Business Checking Bonuses [Available Online]](https://www.doctorofcredit.com/oh-mi-pa-ky-wv-il-wi-huntington-bank-500-750-business-checking-bonuses/)
+Token length: 2368
+Summarized using glm-4.5-air
+Append: [[AZ only] Credit Union West $150/$450 Checking Bonus](https://www.doctorofcredit.com/az-only-credit-union-west-150-checking-bonus/)
+Token length: 1628
+Summarized using glm-4.5-air
+Append: [[FL Only] USF Federal Credit Union $200 Checking Bonus](https://www.doctorofcredit.com/fl-only-usf-federal-credit-union-200-checking-bonus/)
+append_entries: 3
+Finish: 2025-12-29 01:05:12.200478
+Wrote digest feed: docs/doctorofcredit-digest.xml
