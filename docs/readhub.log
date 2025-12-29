@@ -14162,3 +14162,14 @@ Append: [午评：沪指半日涨 0.31% 机器人、商业航天概念全线走�
 append_entries: 14
 Finish: 2025-12-29 04:41:52.091539
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 05:21:49.859036
+Existing_entries: 1014
+Fetching from https://readhub.cn/rss
+Append: [香港恒生指数开盘涨 0.43%](https://readhub.cn/topic/8pTSpOqIpTP)
+Append: [蔚来全新 ES8 汽车第 40000 台交付今日达成，用时约百天](https://readhub.cn/topic/8pTexQ6uguf)
+Append: [2025 年长江干线港口货物吞吐量超 42 亿吨 再创新高](https://readhub.cn/topic/8pTh8I5FWF2)
+Append: [《仙剑奇侠传四》重制版正式预告：韩菱纱、柳梦璃亮相](https://readhub.cn/topic/8pTZZqVhCn1)
+append_entries: 4
+Finish: 2025-12-29 05:21:51.548338
+Wrote digest feed: docs/readhub-digest.xml

@@ -7821,3 +7821,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-29 04:42:22.970077
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 05:22:18.693362
+Existing_entries: 494
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-29 05:22:19.001956
+Wrote digest feed: docs/doctorofcredit-digest.xml
