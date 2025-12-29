@@ -7936,3 +7936,19 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-29 21:12:17.053246
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 23:12:54.924451
+Existing_entries: 502
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 751
+Summarized using glm-4.5-air
+Append: [[Monthly Grocery Benefit?] Bilt Partners With GoPuff For Home Delivery ‘Bilt Home Delivery’](https://www.doctorofcredit.com/bilt-partners-with-gopuff-for-home-delivery-bilt-home-delivery/)
+Token length: 430
+Summarized using glm-4.5-air
+Append: [Amazon Business: Get 50% Off First Order, Up To $50 Discount](https://www.doctorofcredit.com/amazon-business-get-50-off-first-order-up-to-50-discount/)
+Token length: 1452
+Summarized using glm-4.5-air
+Append: [Staples (In Store Only): 100% Back In Points On Storage Containers Up To $40](https://www.doctorofcredit.com/staples-in-store-only-100-back-in-points-on-storage-containers-up-to-40/)
+append_entries: 3
+Finish: 2025-12-29 23:13:05.829399
+Wrote digest feed: docs/doctorofcredit-digest.xml

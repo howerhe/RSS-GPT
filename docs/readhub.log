@@ -14376,3 +14376,18 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2025-12-29 21:11:46.159203
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-29 23:12:23.086944
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [离岸人民币兑美元升破 7，日内涨 0.06%](https://readhub.cn/topic/8pU3ximX2yH)
+Append: [连续 8 个月刷新纪录 公募基金总规模首破 37 万亿元](https://readhub.cn/topic/8pUwJKk0yqs)
+Append: [Meta 数十亿美元收购 Manus，肖弘将出任 Meta 副总裁](https://readhub.cn/topic/8pUuqNfhMiN)
+Append: [金正恩视察重要军工企业，了解武器生产情况](https://readhub.cn/topic/8pUuqMdpcRq)
+Append: [智谱：香港 IPO 拟发行逾 3700 万股 定价 116.2 港元](https://readhub.cn/topic/8pUtQ8IuR8U)
+Append: [天数智芯：香港 IPO 拟发行逾 2500 万股 定价 144.6 港元](https://readhub.cn/topic/8pUuqQE5XIO)
+Append: [美股收盘：三大股指齐跌 特斯拉跌超 3%](https://readhub.cn/topic/8pUp7wMmaBY)
+Append: [美债收益率普遍跌超 1 个基点](https://readhub.cn/topic/8pUO1RPKR3v)
+append_entries: 8
+Finish: 2025-12-29 23:12:24.389212
+Wrote digest feed: docs/readhub-digest.xml
