@@ -6968,3 +6968,11 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-30 00:59:42.947253
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 03:58:41.908273
+Existing_entries: 418
+Fetching from https://www.solidot.org/index.rss
+Append: [2026 年可能是 Qwen 之年](https://www.solidot.org/story?sid=83175)
+append_entries: 1
+Finish: 2025-12-30 03:58:43.440167
+Wrote digest feed: docs/solidot-digest.xml
