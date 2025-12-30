@@ -4,16 +4,15 @@
 <title>奇客Solidot–传递最新科技情报</title>
 <link>https://www.solidot.org</link>
 
+
 <item>
 <title>KDE Plasma 的 2025 年</title>
 <link>https://www.solidot.org/story?sid=83182</link>
 <guid>https://www.solidot.org/story?sid=83182</guid>
 <content:encoded><![CDATA[
-
 KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换到 Wayland 显示服务器的工作基本完成，2027 年初发布的 Plasma 将停止支持 X11 会话；Plasma 持续改进和成熟，成为众多面向游戏发行版的默认桌面环境，这些发行版包括了 Bazzite、CachyOS、Garuda、Nobara，以及 Valve 掌机/主机运行的 SteamOS。Fedora 发行版也将其 Plasma 桌面版本与 GNOME 桌面版本放在同等位置，唯一能在苹果新 Mac 设备上运行的发行版 Asahi Linux 使用的也是 KDE Plasma 桌面。Parrot Linux 最近也开始默认使用 Plasma。EndeavourOS、Manjaro、NixOS、OpenMandriva、Slackware 和 TuxedoOS 等老牌发行版的默认桌面环境都是 Plasma。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Dec 2025 22:08:25 +0800</pubDate>
 <pubDate>Tue, 30 Dec 2025 22:08:25 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +20,9 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <link>https://www.solidot.org/story?sid=83181</link>
 <guid>https://www.solidot.org/story?sid=83181</guid>
 <content:encoded><![CDATA[
-
 加拿大麦吉尔大学与美国德雷塞尔大学团队联合开发出一种颇具创意的高分辨率3D打印新技术。他们将雌性蚊子的口器（吸血管）转化成了高分辨率的3D打印喷嘴。这种技术不仅能打印出精度达 20 微米的极细线条，还为解决昂贵、高能耗的微纳制造难题提供了可持续的生物学方案。高分辨率 3D 打印对喷嘴精度要求极高。目前市售的超细喷嘴多由特种金属或玻璃制成，制造工艺复杂，成本高昂。研究团队指出，传统喷嘴在生产和使用过程中不仅产生大量环境废弃物，还可能因工艺局限带来健康风险。为了寻找替代方案，研究团队将目光投向自然界中高度进化的微结构——蚊子口器。经过数百万年进化，蚊子口器形成了一种直径仅为人类发丝直径一半左右的天然微针结构，兼具特殊几何形态和力学韧性。研究团队在显微镜下分离出蚊子吸血管，并利用特种树脂将其固定在标准塑料分配器尖端。结果发现，这种生物喷嘴能承受极大的压力，打印出的复杂结构精细程度大约是目前商业打印喷嘴的 2 倍。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Dec 2025 18:10:58 +0800</pubDate>
 <pubDate>Tue, 30 Dec 2025 18:10:58 +0800</pubDate>
 </item>
 <item>
@@ -33,7 +30,6 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <link>https://www.solidot.org/story?sid=83180</link>
 <guid>https://www.solidot.org/story?sid=83180</guid>
 <content:encoded><![CDATA[
-
 网信办发布了《人工智能拟人化互动服务管理暂行办法（征求意见稿）》，意见截止日期 1 月 25 日。该《暂行办法》包含了被认为全球最严厉的政策，要求服务商采取措施阻止 AI 帮助用户自杀或自残。《暂行办法》包括：
 <i>
 第八条 提供者应当落实拟人化互动服务安全主体责任，建立健全算法机制机理审核、科技伦理审查、信息发布审核、网络安全、数据安全、个人信息保护、反电信网络诈骗、重大风险预案、应急处置等管理制度，具有安全可控的技术保障措施，配备与产品规模、业务方向和用户群体相适应的内容管理技术和人员。
@@ -46,18 +42,15 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <p></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Dec 2025 18:06:28 +0800</pubDate>
-<pubDate>Tue, 30 Dec 2025 18:06:28 +0800</pubDate>
 </item>
 <item>
 <title>中国汽车销量超越日本</title>
 <link>https://www.solidot.org/story?sid=83179</link>
 <guid>https://www.solidot.org/story?sid=83179</guid>
 <content:encoded><![CDATA[
-
 中国车企的全球销量在 2025 年超过日本，首次跃居首位。根据2025 年 1～11 月各企业发布的资料和标普全球汽车（S&amp;P Global Mobility）的数据，中国汽车的全球销量预计同比增长 17%，增至约 2700 万辆。中国在 2023 年首次位居汽车出口首位。整体销量也将在 2025 年跃居首位。日本车企合计销量约为 2500 万辆，与上年持平。过去世界汽车销售由美国和日本展开竞争。在顶峰时期的 2018 年日本销量近 3000 万辆。另一方面，中国国内的供应过剩迹象增强，最大车企比亚迪开始降价，价格竞争日趋激烈。中国汽车制造商正在转向出口寻找出路。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Dec 2025 16:46:39 +0800</pubDate>
 <pubDate>Tue, 30 Dec 2025 16:46:39 +0800</pubDate>
 </item>
 <item>
@@ -65,11 +58,9 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <link>https://www.solidot.org/story?sid=83178</link>
 <guid>https://www.solidot.org/story?sid=83178</guid>
 <content:encoded><![CDATA[
-
 对尼尔森最新数据的分析显示，2025 年没有一部新的原创剧能进入十大最受欢迎的流媒体节目之列。这是尼尔森自 2020 年以来发布流媒体数据以来首次出现该情况。数据还显示，由广告支持的免费流媒体服务增长速度超过了付费流媒体服务。YouTube 是美国电视上观看量最高的流媒体服务，超过了 Netflix 和亚马逊总和。Netflix 在热门剧上仍然具有优势，在尼尔森每周十大热门原创节目榜单中占了约三分之二。但其主导地位正逐渐消失——该公司的流媒体观看份额占比降至 20% 以下。迪士尼流媒体服务份额三年以来停滞不前，而亚马逊则在迎头赶上。2025 年观看量最高的原创剧是《鱿鱼游戏》终季，之后是《星期三》第二季和《爱情岛》的最新季。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Dec 2025 16:00:44 +0800</pubDate>
 <pubDate>Tue, 30 Dec 2025 16:00:44 +0800</pubDate>
 </item>
 <item>
@@ -77,11 +68,9 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <link>https://www.solidot.org/story?sid=83177</link>
 <guid>https://www.solidot.org/story?sid=83177</guid>
 <content:encoded><![CDATA[
-
 大火吞噬着土地，不断向空气中排放气体和颗粒物，它们对空气污染的影响可能被低估了。一项研究报告称，在世界各地，野火和计划烧除排放的气体可能远超此前预估量。每年大片森林、草地和泥炭地都会在野火中焚烧，向空气中释放出水蒸气、灰烬和碳基化合物的复杂混合物。研究人员查阅了 1997 年至 2023 年全球森林、草地和泥炭地林野火灾所烧毁土地面积的数据库。他们还收集了有关每种植被类型燃烧时排放的有机化合物数据。研究人员估计，在研究期间，林野火灾每年平均向空气中排放约 1.43 亿吨有机化合物。该数值比之前的估算值高出 21%，这表明林野火灾排放物所造成的空气污染可能比先前认为的更加严重。
 <p></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Dec 2025 15:16:47 +0800</pubDate>
 <pubDate>Tue, 30 Dec 2025 15:16:47 +0800</pubDate>
 </item>
 <item>
@@ -89,14 +78,11 @@ KDE 开发者总结了桌面环境 Plasma 在 2025 年的重要进展：切换�
 <link>https://www.solidot.org/story?sid=83176</link>
 <guid>https://www.solidot.org/story?sid=83176</guid>
 <content:encoded><![CDATA[
-
 与 Marcin Iwiński 共同创办 CD Projekt 游戏工作室以及数字游戏发行平台 Good Old Games（GOG）的 Michal Kicinski 从 CD Projekt 收购了 GOG 全部股份，完全控制该数字平台。GOG 将继续独立运营，继续坚持对无 DRM 游戏的承诺—— GOG 发行的游戏没有 DRM。CD Projekt 将专注于游戏开发，而 GOG 已经签署了协议，未来推出的 CD Projekt Red 游戏将会继续在 GOG 上发行无 DRM 版本。
 <p></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Dec 2025 15:06:36 +0800</pubDate>
-<pubDate>Tue, 30 Dec 2025 15:06:36 +0800</pubDate>
 </item>
-
 <item>
 <title>2026 年可能是 Qwen 之年</title>
 <link>https://www.solidot.org/story?sid=83175</link>

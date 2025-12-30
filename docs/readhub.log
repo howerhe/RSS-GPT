@@ -14644,3 +14644,17 @@ Append: [*ST 云网：因主要银行账户被冻结 股票交易被叠加实施
 append_entries: 20
 Finish: 2025-12-30 15:14:00.009040
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 16:15:59.373826
+Existing_entries: 1020
+Fetching from https://readhub.cn/rss
+Append: [非侵入式脑机接口首次应用于国家级体育赛事](https://readhub.cn/topic/8pVnDM0aVnS)
+Append: [美股三大指数小幅低开，百度涨超 6%](https://readhub.cn/topic/8pVlq9ef1Fm)
+Append: [印度称其 GDP 已超日本 跃居世界第四](https://readhub.cn/topic/8pW4Nzzxpya)
+Append: [海南：抢抓商业航天发展战略机遇期，狠抓重大牵引性项目建设](https://readhub.cn/topic/8pW5jXIvunB)
+Append: [2025 年我国粮食收购量达 8300 亿斤](https://readhub.cn/topic/8pVecDc6fPc)
+Append: [长鑫科技 IPO 获受理 募资 295 亿](https://readhub.cn/topic/8pW4Ncjhy4F)
+Append: [2025 年全国微短剧月产量达 3000 部以上](https://readhub.cn/topic/8pW2vxtczKo)
+append_entries: 7
+Finish: 2025-12-30 16:16:00.958986
+Wrote digest feed: docs/readhub-digest.xml

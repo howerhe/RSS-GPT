@@ -7046,3 +7046,10 @@ Append: [GOG 和 CD Projekt 联合创始人完全控制 GOG](https://www.solidot
 append_entries: 7
 Finish: 2025-12-30 15:13:55.226115
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 16:15:54.785003
+Existing_entries: 426
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-30 16:15:56.715147
+Wrote digest feed: docs/solidot-digest.xml
