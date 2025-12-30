@@ -14677,3 +14677,12 @@ Append: [首次突破两个大关 港珠澳大桥客流车流均创历史新高]
 append_entries: 3
 Finish: 2025-12-30 19:11:36.358534
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 20:14:12.258961
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [阿里巴巴和阿布扎比投资局等将投资 MiniMax 的 6 亿美元 IPO](https://readhub.cn/topic/8pVq4bpJAdF)
+Append: [京东线上线下将全面承接国家补贴](https://readhub.cn/topic/8pVpLc5bcdP)
+append_entries: 2
+Finish: 2025-12-30 20:14:13.940427
+Wrote digest feed: docs/readhub-digest.xml
