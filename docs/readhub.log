@@ -14686,3 +14686,12 @@ Append: [京东线上线下将全面承接国家补贴](https://readhub.cn/topic
 append_entries: 2
 Finish: 2025-12-30 20:14:13.940427
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 21:12:37.004868
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [报道：马斯克旗下 xAI 将扩建「巨人」数据中心](https://readhub.cn/topic/8pWK3egLqhB)
+Append: [华纳兄弟料否决派拉蒙最新恶意收购要约](https://readhub.cn/topic/8pW5jYNvFUQ)
+append_entries: 2
+Finish: 2025-12-30 21:12:39.047927
+Wrote digest feed: docs/readhub-digest.xml
