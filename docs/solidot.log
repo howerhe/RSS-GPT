@@ -7025,3 +7025,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-30 12:25:13.904414
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 13:31:01.975718
+Existing_entries: 419
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-30 13:31:03.758446
+Wrote digest feed: docs/solidot-digest.xml
