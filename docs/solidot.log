@@ -7032,3 +7032,17 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-30 13:31:03.758446
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 15:13:53.508193
+Existing_entries: 419
+Fetching from https://www.solidot.org/index.rss
+Append: [KDE Plasma 的 2025 年](https://www.solidot.org/story?sid=83182)
+Append: [蚊子口器启发 3D 打印喷嘴设计](https://www.solidot.org/story?sid=83181)
+Append: [网信办起草暂行办法要求 AI 服务商采取措施阻止自杀自残](https://www.solidot.org/story?sid=83180)
+Append: [中国汽车销量超越日本](https://www.solidot.org/story?sid=83179)
+Append: [2025 年美国人观看了更少的新电视剧](https://www.solidot.org/story?sid=83178)
+Append: [火灾空气污染比预期的更严重](https://www.solidot.org/story?sid=83177)
+Append: [GOG 和 CD Projekt 联合创始人完全控制 GOG](https://www.solidot.org/story?sid=83176)
+append_entries: 7
+Finish: 2025-12-30 15:13:55.226115
+Wrote digest feed: docs/solidot-digest.xml
