@@ -8001,3 +8001,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-30 09:18:04.340729
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 11:13:13.871911
+Existing_entries: 505
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-30 11:13:14.292220
+Wrote digest feed: docs/doctorofcredit-digest.xml
