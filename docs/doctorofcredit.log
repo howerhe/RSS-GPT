@@ -8067,3 +8067,16 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-30 21:13:06.787884
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-30 23:12:27.166047
+Existing_entries: 506
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2927
+Summarized using glm-4.5-air
+Append: [[Military Only] Grow Financial Federal Credit Union $300 Checking Bonus](https://www.doctorofcredit.com/fl-sc-grow-financial-federal-credit-union-300-checking-bonus/)
+Token length: 863
+Summarized using glm-4.5-air
+Append: [Best Comments Of October/November/December 2025](https://www.doctorofcredit.com/best-comments-of-october-november-december-2025/)
+append_entries: 2
+Finish: 2025-12-30 23:12:37.337965
+Wrote digest feed: docs/doctorofcredit-digest.xml
