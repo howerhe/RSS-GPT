@@ -15006,3 +15006,11 @@ Append: [Uber 正就收购停车应用 Spothero 进行谈判](https://readhub.cn
 append_entries: 6
 Finish: 2025-12-31 20:13:39.478715
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 21:11:41.197926
+Existing_entries: 1006
+Fetching from https://readhub.cn/rss
+Append: [全球最大「华龙一号」核电基地 漳州核电一期工程全面建成投产](https://readhub.cn/topic/8pXrnjQ9Yn6)
+append_entries: 1
+Finish: 2025-12-31 21:11:43.309397
+Wrote digest feed: docs/readhub-digest.xml

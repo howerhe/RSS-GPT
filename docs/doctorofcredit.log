@@ -8188,3 +8188,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-31 20:14:10.527163
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 21:12:14.063393
+Existing_entries: 509
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 793
+Summarized using glm-4.5-air
+Append: [[Last Chance] Citi / AAdvantage Platinum Select World Elite MasterCard – 80,000 Miles With $1,000 Spend](https://www.doctorofcredit.com/citi-aadvantage-platinum-select-world-elite-mastercard-80000-miles/)
+append_entries: 1
+Finish: 2025-12-31 21:12:18.279276
+Wrote digest feed: docs/doctorofcredit-digest.xml
