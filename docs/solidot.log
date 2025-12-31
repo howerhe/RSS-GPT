@@ -7144,3 +7144,10 @@ Append: [F-Droid 升级了服务器](https://www.solidot.org/story?sid=83187)
 append_entries: 3
 Finish: 2025-12-31 09:17:08.338942
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 11:12:28.533671
+Existing_entries: 433
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-31 11:12:30.489547
+Wrote digest feed: docs/solidot-digest.xml
