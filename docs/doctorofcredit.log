@@ -8150,3 +8150,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-31 13:27:56.919871
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 15:13:48.797138
+Existing_entries: 508
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 947
+Summarized using glm-4.5-air
+Append: [Most Popular Posts From 2025](https://www.doctorofcredit.com/most-popular-posts-from-2025/)
+append_entries: 1
+Finish: 2025-12-31 15:13:56.707147
+Wrote digest feed: docs/doctorofcredit-digest.xml
