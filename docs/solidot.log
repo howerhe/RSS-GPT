@@ -7095,3 +7095,14 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-31 01:00:51.074515
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 03:20:07.344504
+Existing_entries: 426
+Fetching from https://www.solidot.org/index.rss
+Append: [俄罗斯入侵乌克兰改变了乌克兰人的成人内容消费习惯](https://www.solidot.org/story?sid=83186)
+Append: [黑客利用育碧 MongoDB 软件漏洞窃取源代码](https://www.solidot.org/story?sid=83185)
+Append: [Ocean Infinity 准备对失踪 12 年的 MH370 展开新一轮搜索](https://www.solidot.org/story?sid=83184)
+Append: [Meta 以约 20 亿美元收购中资背景的 AI 公司 Manus](https://www.solidot.org/story?sid=83183)
+append_entries: 4
+Finish: 2025-12-31 03:20:09.195012
+Wrote digest feed: docs/solidot-digest.xml
