@@ -7134,3 +7134,13 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-31 08:18:25.742719
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 09:17:06.680939
+Existing_entries: 430
+Fetching from https://www.solidot.org/index.rss
+Append: [冰岛经历了有记录以来最暖和的平安夜](https://www.solidot.org/story?sid=83189)
+Append: [中国癌症新药研发数量全球居首](https://www.solidot.org/story?sid=83188)
+Append: [F-Droid 升级了服务器](https://www.solidot.org/story?sid=83187)
+append_entries: 3
+Finish: 2025-12-31 09:17:08.338942
+Wrote digest feed: docs/solidot-digest.xml
