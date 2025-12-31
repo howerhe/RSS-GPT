@@ -8101,3 +8101,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2025-12-31 04:32:25.514058
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 05:24:09.199968
+Existing_entries: 508
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-31 05:24:09.414968
+Wrote digest feed: docs/doctorofcredit-digest.xml
