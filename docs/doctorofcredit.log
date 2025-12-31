@@ -8198,3 +8198,10 @@ Append: [[Last Chance] Citi / AAdvantage Platinum Select World Elite MasterCard 
 append_entries: 1
 Finish: 2025-12-31 21:12:18.279276
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 23:12:50.274787
+Existing_entries: 510
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-31 23:12:50.572613
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -15014,3 +15014,13 @@ Append: [全球最大「华龙一号」核电基地 漳州核电一期工程全�
 append_entries: 1
 Finish: 2025-12-31 21:11:43.309397
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 23:12:18.330479
+Existing_entries: 1001
+Fetching from https://readhub.cn/rss
+Append: [离岸人民币兑美元较周二纽约尾盘涨 165 点](https://readhub.cn/topic/8pY3II09MaU)
+Append: [沃伦・巴菲特正式退休 卸任伯克希尔・哈撒韦首席执行官](https://readhub.cn/topic/8pYBrAYurKF)
+Append: [特朗普施压下，委内瑞拉 Orinoco Belt 的石油产量两周骤降 25%](https://readhub.cn/topic/8pYAOZy26jY)
+append_entries: 3
+Finish: 2025-12-31 23:12:19.889971
+Wrote digest feed: docs/readhub-digest.xml
