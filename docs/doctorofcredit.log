@@ -8160,3 +8160,10 @@ Append: [Most Popular Posts From 2025](https://www.doctorofcredit.com/most-popul
 append_entries: 1
 Finish: 2025-12-31 15:13:56.707147
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 16:16:19.222194
+Existing_entries: 509
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2025-12-31 16:16:19.523621
+Wrote digest feed: docs/doctorofcredit-digest.xml
