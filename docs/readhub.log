@@ -14974,3 +14974,13 @@ Append: [美国至 12 月 26 日当周 EIA 原油库存减少 193.4 万桶](http
 append_entries: 3
 Finish: 2025-12-31 16:15:48.057489
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 17:11:18.606545
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [长鑫科技冲刺科创板：三年亏损超 300 亿元，预计最快明年盈利](https://readhub.cn/topic/8pWsQsctkAR)
+Append: [国常会：要完善药品研制和注册制度，加快突破性治疗药物审评审批](https://readhub.cn/topic/8pXTVPpzmkd)
+Append: [国常会：推动绿色贸易、跨境电商等新业态新模式发展](https://readhub.cn/topic/8pXTUHE8Ncv)
+append_entries: 3
+Finish: 2025-12-31 17:11:21.601765
+Wrote digest feed: docs/readhub-digest.xml
