@@ -7106,3 +7106,10 @@ Append: [Meta 以约 20 亿美元收购中资背景的 AI 公司 Manus](https://
 append_entries: 4
 Finish: 2025-12-31 03:20:09.195012
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 04:31:48.298163
+Existing_entries: 430
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-31 04:31:50.402530
+Wrote digest feed: docs/solidot-digest.xml
