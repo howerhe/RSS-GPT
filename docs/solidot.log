@@ -7196,3 +7196,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2025-12-31 19:10:15.981226
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 20:13:33.370069
+Existing_entries: 436
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2025-12-31 20:13:34.864024
+Wrote digest feed: docs/solidot-digest.xml

@@ -14993,3 +14993,16 @@ Append: [美司法部：爱泼斯坦案仍有约 520 万页文件待审](https:/
 append_entries: 2
 Finish: 2025-12-31 19:10:20.256328
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2025-12-31 20:13:37.536664
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+Append: [OpenAI 首款硬件或为智能笔，富士康代工](https://readhub.cn/topic/8pWrFoILOFe)
+Append: [美方延长塞尔维亚石油公司运营许可](https://readhub.cn/topic/8pY1nMz8Bqk)
+Append: [网传 Kimi 母公司拟赴港借壳上市，接近月之暗面人士：假消息](https://readhub.cn/topic/8pXROsktup0)
+Append: [成都国际航空枢纽年旅客吞吐量突破 9000 万人次](https://readhub.cn/topic/8pWWyGMPbD4)
+Append: [Citizens 上调谷歌母公司 Alphabet 目标价至 385 美元](https://readhub.cn/topic/8pXdXegXU17)
+Append: [Uber 正就收购停车应用 Spothero 进行谈判](https://readhub.cn/topic/8pXmABsaLTR)
+append_entries: 6
+Finish: 2025-12-31 20:13:39.478715
+Wrote digest feed: docs/readhub-digest.xml
