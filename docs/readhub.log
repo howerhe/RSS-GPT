@@ -15084,3 +15084,10 @@ Append: [首破 1400 万人次 广州地铁客流再创新高](https://readhub.c
 append_entries: 8
 Finish: 2026-01-01 04:40:55.502496
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 05:20:31.633167
+Existing_entries: 1008
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2026-01-01 05:20:33.267065
+Wrote digest feed: docs/readhub-digest.xml
