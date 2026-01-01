@@ -15151,3 +15151,14 @@ Append: [吉利汽车：2026 年的销量目标定为 345 万部 较 2025 年增
 append_entries: 4
 Finish: 2026-01-01 11:12:01.048835
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 12:25:03.701203
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [奇瑞 2025 全年累计销量超 263 万辆 同比增 8%](https://readhub.cn/topic/8pZ9rEotDuP)
+Append: [新年第一跑夺冠「最快女护士」马拉松再获 1.5 万元奖金](https://readhub.cn/topic/8pYVoRlpRUv)
+Append: [也门亚丁国际机场暂停所有商业航班运行](https://readhub.cn/topic/8pZ46Yq4bSh)
+Append: [比亚迪 2025 年 12 月新能源车销量 42 万辆，全年累计超 460 万辆](https://readhub.cn/topic/8pZ6aqIDkln)
+append_entries: 4
+Finish: 2026-01-01 12:25:05.157190
+Wrote digest feed: docs/readhub-digest.xml
