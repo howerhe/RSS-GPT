@@ -15162,3 +15162,13 @@ Append: [比亚迪 2025 年 12 月新能源车销量 42 万辆，全年累计超
 append_entries: 4
 Finish: 2026-01-01 12:25:05.157190
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 13:28:52.567669
+Existing_entries: 1004
+Fetching from https://readhub.cn/rss
+Append: [《哪吒之魔童闹海》成 2025 年度全球票房冠军](https://readhub.cn/topic/8pYXGZQC7mj)
+Append: [2025 年全国平均气温再创历史新高](https://readhub.cn/topic/8pZChx0iA3t)
+Append: [网传与追觅达成战略合作，奇瑞汽车否认](https://readhub.cn/topic/8pZ5bv6IfHq)
+append_entries: 3
+Finish: 2026-01-01 13:28:53.851345
+Wrote digest feed: docs/readhub-digest.xml

@@ -8268,3 +8268,10 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2026-01-01 12:25:36.461063
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 13:29:24.820765
+Existing_entries: 510
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2026-01-01 13:29:25.087717
+Wrote digest feed: docs/doctorofcredit-digest.xml
