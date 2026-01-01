@@ -15194,3 +15194,10 @@ Append: [新加坡中学今起将实施更严手机管理措施](https://readhub
 append_entries: 5
 Finish: 2026-01-01 16:15:45.310909
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 17:12:50.230972
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2026-01-01 17:12:51.705079
+Wrote digest feed: docs/readhub-digest.xml

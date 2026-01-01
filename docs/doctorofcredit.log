@@ -8298,3 +8298,13 @@ Append: [Chase Sapphire Reserve 1.25% Pay Yourself Back Categories: Gas, Gym, An
 append_entries: 2
 Finish: 2026-01-01 16:16:38.533164
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 17:13:19.462629
+Existing_entries: 513
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2352
+Summarized using glm-4.5-air
+Append: [Chase Sapphire Reserve Enhances $500 ‘The Edit’ Credit + Adds One-Time $250 Hotel Credit](https://www.doctorofcredit.com/chase-sapphire-reserve-enhances-500-the-edit-credit-adds-one-time-250-hotel-credit/)
+append_entries: 1
+Finish: 2026-01-01 17:13:23.124567
+Wrote digest feed: docs/doctorofcredit-digest.xml
