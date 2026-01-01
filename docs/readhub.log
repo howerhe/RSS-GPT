@@ -15172,3 +15172,13 @@ Append: [网传与追觅达成战略合作，奇瑞汽车否认](https://readhub
 append_entries: 3
 Finish: 2026-01-01 13:28:53.851345
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 15:13:22.375818
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [造车新势力仅 3 家完成年度目标](https://readhub.cn/topic/8pZMiEQuZcj)
+Append: [受 AI 热潮驱动 2025 年存储芯片企业闪迪股价飙涨 559%](https://readhub.cn/topic/8pZLGWPYNUl)
+Append: [法国邮政再遭网络攻击，部分线上服务无法访问](https://readhub.cn/topic/8pYvXArE3DU)
+append_entries: 3
+Finish: 2026-01-01 15:13:24.811565
+Wrote digest feed: docs/readhub-digest.xml
