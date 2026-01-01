@@ -15140,3 +15140,14 @@ Append: [小鹏汽车：12 月交付 37,508 辆，同比增 2%](https://readhub.
 append_entries: 7
 Finish: 2026-01-01 09:17:09.922076
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 11:11:59.841394
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [电影《寻秦记》票房破 7000 万](https://readhub.cn/topic/8pYUPOwRkdl)
+Append: [长城汽车：2025 年全年汽车销量为 132.4 万辆，同比增长 7.3%](https://readhub.cn/topic/8pZ2gCyUsJq)
+Append: [吉利汽车：2025 年全年汽车总销量为 302 万辆 较去年同期增长 39%](https://readhub.cn/topic/8pZ2g9ZJJXp)
+Append: [吉利汽车：2026 年的销量目标定为 345 万部 较 2025 年增长约 14%](https://readhub.cn/topic/8pZ2g6I4WPa)
+append_entries: 4
+Finish: 2026-01-01 11:12:01.048835
+Wrote digest feed: docs/readhub-digest.xml
