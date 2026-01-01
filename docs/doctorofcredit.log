@@ -8324,3 +8324,10 @@ Append: [Chase Sapphire Reserve: 100% Cashback On Calm Subscription (Sleep & Med
 append_entries: 3
 Finish: 2026-01-01 19:11:51.112546
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 20:14:59.239294
+Existing_entries: 517
+Fetching from https://www.doctorofcredit.com/feed/
+append_entries: 0
+Finish: 2026-01-01 20:14:59.505600
+Wrote digest feed: docs/doctorofcredit-digest.xml

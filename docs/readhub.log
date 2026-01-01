@@ -15210,3 +15210,10 @@ Append: [秘鲁一处矿井发现 13 名矿工遗体](https://readhub.cn/topic/8
 append_entries: 2
 Finish: 2026-01-01 19:11:05.557982
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 20:14:30.386065
+Existing_entries: 1002
+Fetching from https://readhub.cn/rss
+append_entries: 0
+Finish: 2026-01-01 20:14:31.819453
+Wrote digest feed: docs/readhub-digest.xml
