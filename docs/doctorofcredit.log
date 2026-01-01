@@ -8285,3 +8285,16 @@ Append: [Saks Preparing For Bankruptcy](https://www.doctorofcredit.com/saks-prep
 append_entries: 1
 Finish: 2026-01-01 15:14:00.823623
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 16:16:12.574922
+Existing_entries: 511
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 1571
+Summarized using glm-4.5-air
+Append: [List Of All Chase Cards Pay Yourself Back Categories (Aeroplan, Southwest, United, Marriott)](https://www.doctorofcredit.com/list-of-all-chase-cards-pay-yourself-back-categories-aeroplan-southwest-united-marriott/)
+Token length: 603
+Summarized using glm-4.5-air
+Append: [Chase Sapphire Reserve 1.25% Pay Yourself Back Categories: Gas, Gym, Annual Fee (Q1 2026)](https://www.doctorofcredit.com/chase-sapphire-reserve-1-25-pay-yourself-back-categories-gas-gym-annual-fee-q1-2026/)
+append_entries: 2
+Finish: 2026-01-01 16:16:38.533164
+Wrote digest feed: docs/doctorofcredit-digest.xml

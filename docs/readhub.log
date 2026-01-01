@@ -15182,3 +15182,15 @@ Append: [法国邮政再遭网络攻击，部分线上服务无法访问](https:
 append_entries: 3
 Finish: 2026-01-01 15:13:24.811565
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 16:15:43.591945
+Existing_entries: 1003
+Fetching from https://readhub.cn/rss
+Append: [神二十一乘组在中国空间站为全国人民送上新年祝福](https://readhub.cn/topic/8pXirXnESaH)
+Append: [《平价医疗法案》补贴到期 大量美国人医保费将上涨](https://readhub.cn/topic/8pZPXITh4xM)
+Append: [Stellantis 恢复生产 V8 动力 Ram TRX 皮卡](https://readhub.cn/topic/8pZO9DVyExO)
+Append: [OpenAI 加码音频人工智能研发，备战首款硬件设备](https://readhub.cn/topic/8pZO87joXMB)
+Append: [新加坡中学今起将实施更严手机管理措施](https://readhub.cn/topic/8pZBxVqEFUR)
+append_entries: 5
+Finish: 2026-01-01 16:15:45.310909
+Wrote digest feed: docs/readhub-digest.xml
