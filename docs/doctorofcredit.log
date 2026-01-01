@@ -8308,3 +8308,19 @@ Append: [Chase Sapphire Reserve Enhances $500 ‘The Edit’ Credit + Adds One-T
 append_entries: 1
 Finish: 2026-01-01 17:13:23.124567
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 19:11:36.456920
+Existing_entries: 514
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 2535
+Summarized using glm-4.5-air
+Append: [Five Chase Travel Benefits On Hotel Booking With Chase Sapphire Reserve ($250+$250+$300+$100+Boost)](https://www.doctorofcredit.com/five-chase-travel-benefits-on-hotel-booking-with-chase-sapphire-reserve-250250300100boost/)
+Token length: 1039
+Summarized using glm-4.5-air
+Append: [[Targeted] Chase Travel: Spend $600+ & Receive $100 Back (10/1-12/31; Stack With 9x)](https://www.doctorofcredit.com/targeted-chase-travel-spend-500-receive-100-back/)
+Token length: 1820
+Summarized using glm-4.5-air
+Append: [Chase Sapphire Reserve: 100% Cashback On Calm Subscription (Sleep & Meditation App)](https://www.doctorofcredit.com/chase-sapphire-reserve-100-cashback-on-calm-subscription-sleep-meditation-app/)
+append_entries: 3
+Finish: 2026-01-01 19:11:51.112546
+Wrote digest feed: docs/doctorofcredit-digest.xml

@@ -15201,3 +15201,12 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2026-01-01 17:12:51.705079
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 19:11:03.131473
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [美国对部分跨境汇款征收 1% 汇款税](https://readhub.cn/topic/8pZZb2REdfS)
+Append: [秘鲁一处矿井发现 13 名矿工遗体](https://readhub.cn/topic/8pZWh3Fwu7c)
+append_entries: 2
+Finish: 2026-01-01 19:11:05.557982
+Wrote digest feed: docs/readhub-digest.xml
