@@ -15126,3 +15126,17 @@ Append: [美国阿拉斯加州发生 5.7 级地震 震源深度 10 千米](https
 append_entries: 7
 Finish: 2026-01-01 08:18:23.339170
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 09:17:08.597955
+Existing_entries: 1007
+Fetching from https://readhub.cn/rss
+Append: [DeepSeek 元旦发布新论文 开启架构新篇章](https://readhub.cn/topic/8pYx0QQ1VRk)
+Append: [《疯狂动物城 2》票房突破 41 亿](https://readhub.cn/topic/8pYVo1rVQPi)
+Append: [商务部：2025 年以旧换新相关商品销售额超 2.6 万亿元，惠及超 3.6 亿人次](https://readhub.cn/topic/8pYvYuWsKHO)
+Append: [报道称苹果削减 Vision Pro 产量和营销投入 因销售疲软](https://readhub.cn/topic/8pYkBr04ksx)
+Append: [今天全社会跨区域人员流动量预计超 2.08 亿人次](https://readhub.cn/topic/8pYslNFHHAq)
+Append: [蔚来：12 月交付新车 48,135 台，创历史新高](https://readhub.cn/topic/8pYu7AYsbrR)
+Append: [小鹏汽车：12 月交付 37,508 辆，同比增 2%](https://readhub.cn/topic/8pYtkNG5yco)
+append_entries: 7
+Finish: 2026-01-01 09:17:09.922076
+Wrote digest feed: docs/readhub-digest.xml

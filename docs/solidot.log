@@ -7259,3 +7259,10 @@ Fetching from https://www.solidot.org/index.rss
 append_entries: 0
 Finish: 2026-01-01 08:18:19.140509
 Wrote digest feed: docs/solidot-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 09:17:01.010504
+Existing_entries: 436
+Fetching from https://www.solidot.org/index.rss
+append_entries: 0
+Finish: 2026-01-01 09:17:05.847516
+Wrote digest feed: docs/solidot-digest.xml
