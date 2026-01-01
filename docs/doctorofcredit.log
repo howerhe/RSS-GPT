@@ -8331,3 +8331,13 @@ Fetching from https://www.doctorofcredit.com/feed/
 append_entries: 0
 Finish: 2026-01-01 20:14:59.505600
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 21:12:41.210996
+Existing_entries: 517
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 313
+Summarized using glm-4.5-air
+Append: [H-E-B: Buy $150 In Select Giftcards & Get $25 H-E-B Giftcard (Southwest, Disney, Airbnb, Outdoorsy)](https://www.doctorofcredit.com/h-e-b-buy-150-in-select-giftcards-get-25-h-e-b-giftcard-southwest-disney-airbnb-outdoorsy/)
+append_entries: 1
+Finish: 2026-01-01 21:12:46.200412
+Wrote digest feed: docs/doctorofcredit-digest.xml

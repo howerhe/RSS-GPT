@@ -15217,3 +15217,15 @@ Fetching from https://readhub.cn/rss
 append_entries: 0
 Finish: 2026-01-01 20:14:31.819453
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 21:12:08.812209
+Existing_entries: 1000
+Fetching from https://readhub.cn/rss
+Append: [香港高才通 12 万人获批，期满者逾半数申请续签](https://readhub.cn/topic/8pYYfeGkuzf)
+Append: [燧原科技 IPO 辅导工作已完成](https://readhub.cn/topic/8pYbZmp5Xr0)
+Append: [ListenHub 完成 200 万美元融资，ARR 已突破 300 万美元](https://readhub.cn/topic/8pYbZop8FhD)
+Append: [跨年夜深圳地铁客运量创单日历史新高](https://readhub.cn/topic/8pYa7SSkOTS)
+Append: [首都机场集团 2025 年旅客吞吐量超 2.23 亿人次](https://readhub.cn/topic/8pYeR8o9ss8)
+append_entries: 5
+Finish: 2026-01-01 21:12:10.461091
+Wrote digest feed: docs/readhub-digest.xml
