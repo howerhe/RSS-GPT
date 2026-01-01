@@ -8341,3 +8341,16 @@ Append: [H-E-B: Buy $150 In Select Giftcards & Get $25 H-E-B Giftcard (Southwest
 append_entries: 1
 Finish: 2026-01-01 21:12:46.200412
 Wrote digest feed: docs/doctorofcredit-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 23:13:28.061905
+Existing_entries: 518
+Fetching from https://www.doctorofcredit.com/feed/
+Token length: 519
+Summarized using glm-4.5-air
+Append: [[Targeted] U.S. Bank Smartly Checking Deals: Get 15% Back On Grocery & Dining, 10% On Best Buy](https://www.doctorofcredit.com/targeted-u-s-bank-smartly-checking-deals-get-15-back-on-grocery-dining-10-on-best-buy/)
+Token length: 3162
+Summarized using glm-4.5-air
+Append: [WeBull 4% Brokerage Transfer Bonus (5 Year Hold)](https://www.doctorofcredit.com/webull-4-brokerage-transfer-bonus-5-year-hold/)
+append_entries: 2
+Finish: 2026-01-01 23:13:44.955296
+Wrote digest feed: docs/doctorofcredit-digest.xml

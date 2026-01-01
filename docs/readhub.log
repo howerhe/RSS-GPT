@@ -15229,3 +15229,12 @@ Append: [首都机场集团 2025 年旅客吞吐量超 2.23 亿人次](https://r
 append_entries: 5
 Finish: 2026-01-01 21:12:10.461091
 Wrote digest feed: docs/readhub-digest.xml
+------------------------------------------------------
+Started: 2026-01-01 23:12:55.009567
+Existing_entries: 1005
+Fetching from https://readhub.cn/rss
+Append: [我国海上最大气田「深海一号」完成第 100 船原油外输](https://readhub.cn/topic/8pZtYIa0gVb)
+Append: [星链计划于 2026 年降低卫星轨道高度 提升太空运行安全性](https://readhub.cn/topic/8pZs81sKsyo)
+append_entries: 2
+Finish: 2026-01-01 23:12:56.917313
+Wrote digest feed: docs/readhub-digest.xml
